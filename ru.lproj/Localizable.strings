@@ -1,7 +1,7 @@
 /* Localizable.strings */
 
 // Main Titles
-"BHTikTok, Hi" = "BHTikTok, Прив";
+"BHTikTok, Hi" = "BHTikTok, Привет";
 "BHTikTok++ settings" = "Настройки BHTikTok++";
 
 // Common Actions
@@ -10,14 +10,14 @@
 "ON" = "ВКЛ";
 "OFF" = "ВЫКЛ";
 "Downloading" = "Скачиваем";
-"Backgrounding ✌️" = "Сворачиваем ✌️";
+"Backgrounding ✌️" = "Ухожу в фон ✌️";
 "Are you sure?" = "Вы уверены?";
 
 // Download Options
 "Download Video" = "Скачать видео";
 "Download HD Video" = "Скачать видео (HD)";
 "Download Music" = "Скачать музыку";
-"Download Photo" = "Скачать картинку";
+"Download Photo" = "Скачать картинку №";
 "Download All Photos" = "Скачать все картинки";
 
 // Copy Options
@@ -27,8 +27,8 @@
 "Copy bio" = "Копировать био профиля";
 
 // Error Messages
-"Could Not Copy Music" = "Не удалось скопировать";
-"The video dosen't have music to download" = "В видео нет музыки, которую можно скачать";
+"Could Not Copy Music" = "Не удалось скопировать музыку";
+"The video dosen't have music to download" = "В данном видео нет музыки";
 
 // Menu Labels
 "Downloads Menu" = "Меню скачивания";
@@ -50,17 +50,18 @@
 "Download Button" = "Кнопка загрузки";
 "Share Sheet" = "Панель поделиться";
 "Remove Watermark" = "Удалить водяной знак";
-"Show/Hide UI Button" = "Показать/скрыть кнопку интерфейса";
+"Show/Hide UI Button" = "Кнопка показа/скрытия интерфейса";
 "Stop Playback" = "Повтор воспроизведения";
 "Auto Play Next Video" = "Автоматическая прокрутка";
-"Show Progress Bar" = "Длительность воспроизведения";
+"Show Progress Bar" = "Показывать длительность воспроизведения";
 "Transparent Comments" = "Прозрачные комментарии";
-"Show Usernames" = "Показать тег вместо ника";
-"Disable Sensitive Content" = "Разблокировать неприемлемый контент";
-"Disable Warnings" = "Удалить предупреждения";
-"Disable Live Streaming" = "Удалить прямые трансляции";
-"Skip Recommendations" = "Удалить рекомендации";
-"Upload Region" = "Показать регион выгрузки";
+"Show Usernames" = "Показывать тег вместо ника";
+"Disable Sensitive Content" = "Показывать неприемлемый контент";
+"Disable Warnings" = "Убрать предупреждения";
+"Disable Live Streaming" = "Убрать прямые трансляции";
+"Skip Recommendations" = "Пропускать рекомендации";
+// tbh idk how to translate this
+"Upload Region" = "Показывать регион видео";
 "Hide Top Feed items" = "Скрыть верхние элементы ленты";
 "Anonymous Seen" = "Включить нечиталку";
 
@@ -68,13 +69,13 @@
 "Profile Save" = "Сохранить профиль";
 "Profile Copy" = "Копировать профиля";
 "Video Like Count" = "Количество просмотров видео";
-"Video Upload Date" = "Дата выгрузки видео";
+"Video Upload Date" = "Дата загрузки видео";
 
 // Confirm Features
-"Like Confirmation" = "Подтверждение лайка видео";
-"Like Comment Confirmation" = "Подтверждение лайка комментария";
-"Dislike Comment Confirmation" = "Подтверждение дизлайка комментария";
-"Follow Confirmation" = "Подтверждение подписки";
+"Like Confirmation" = "Подтверждать лайк на видео";
+"Like Comment Confirmation" = "Подтверждать лайк на комментарий";
+"Dislike Comment Confirmation" = "Подтверждать дизлайк на комментарий";
+"Follow Confirmation" = "Подтверждать подписку";
 
 // Other Features
 "Auto Clear History" = "Автоматическая очистка истории поиска";
@@ -84,7 +85,7 @@
 "Fake Verified" = "Фейковая галочка";
 "Extended Bio" = "Расширить количество символов био";
 "Extended Comments" = "Расширить количество символов в комментариях";
-"Upload HD" = "Включить выгрузку в HD";
+"Upload HD" = "Включить загрузку видео в HD";
 "App Lock" = "Включить блокировку приложения";
 "Enable Flex" = "Включить Flex";
 "Enable Oled Keyboard" = "Включить OLED клавиатуру";
@@ -104,13 +105,13 @@
 "FEATURE_DISABLE_WARNINGS" = "Скрывает предупреждения от TikTok";
 "FEATURE_DISABLE_LIVE" = "Скрывает прямые трансляции в ленте";
 "FEATURE_SKIP_RECOMMENDED" = "Удаляет рекомендации от друзей и т.д";
-"FEATURE_UPLOAD_REGION" = "Показывает флаг региона выгрузки возле ника";
+"FEATURE_UPLOAD_REGION" = "Показывает флаг региона видео возле ника";
 "FEATURE_HIDE_TOP_ITEMS" = "Скрывает кнопку поиска, LIVE и другие (Рекомендации, Подписки, Магазин и т.д...)";
 "FEATURE_ANONYMOUS_SEEN" = "Включает нечиталку";
 "FEATURE_PROFILE_SAVE" = "Сохраняет сведения о профиле в буфер обмена";
 "FEATURE_PROFILE_COPY" = "Копирует информации о профиле";
 "FEATURE_LIKE_COUNT" = "Показывает количество лайков на сообщениях";
-"FEATURE_UPLOAD_DATE" = "Показывает дату выгрузки";
+"FEATURE_UPLOAD_DATE" = "Показывает дату загрузки";
 "FEATURE_CONFIRM_LIKE" = "Показывает подтверждение чтобы лайкнуть видео";
 "FEATURE_CONFIRM_COMMENT_LIKE" = "Показывает подтверждение чтобы поставить лайк комментарию";
 "FEATURE_CONFIRM_COMMENT_DISLIKE" = "Показывает подтверждение чтобы поставить дизлайк комментарию";
@@ -122,7 +123,7 @@
 "FEATURE_FAKE_VERIFIED" = "Показывает фейковую галочку";
 "FEATURE_EXTENDED_BIO" = "Расширяет количество символов в био профиля";
 "FEATURE_EXTENDED_COMMENTS" = "Расширяет количество символов в комментариях";
-"FEATURE_UPLOAD_HD" = "Включает HD выгрузку";
+"FEATURE_UPLOAD_HD" = "Включает HD загрузку видео";
 "FEATURE_APP_LOCK" = "Добавляет возможность блокировать доступ к TikTok паролем";
 "FEATURE_ENABLE_FLEX" = "Только для разработчиков, НЕ ТРОГАТЬ, если не знаете, для чего";
 "FEATURE_OLED_KEYBOARD" = "Работает только с темной темой";
@@ -132,45 +133,46 @@
 "DEVELOPER_SUPPORT" = "Поддержите BHTTPP и получите доступ к группе для бета-тестирования";
 
 // Comment Features  
-"Disable Comment Tooltip" = "Disable Comment Tooltip";  
-"Add Comment as Post" = "Add Comment as Post";  
-"Add Comment as Story" = "Add Comment as Story";   
-"Mass Unfold Comment Replies" = "Mass Unfold Comment Replies";  
-"Auto Unfold Comment Texts" = "Auto Unfold Comment Texts";  
-"Multi Emoji Comment Bar" = "Multi Emoji Comment Bar";  
-"Hide Emoji-Bar" = "Hide Emoji-Bar";  
-"Comment Cell Redesign" = "Comment Cell Redesign";  
+"Disable Comment Tooltip" = "Отключить подсказку о быстрых эмодзи";  
+"Add Comment as Post" = "Добавить комментарий как пост";  
+"Add Comment as Story" = "Добавит комментарий как историю";   
+"Mass Unfold Comment Replies" = "Раскрывать ответы на комментарии";  
+"Auto Unfold Comment Texts" = "Раскрывать длинные комментарии";  
+"Multi Emoji Comment Bar" = "Расширенный набор эмодзи";  
+"Hide Emoji-Bar" = "Скрыть панель эмодзи";  
+"Comment Cell Redesign" = "Стиль комментариев";  
   
 // Feature Descriptions  
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disable the Quick-Emoji Tool-Tip When Holding Comment Button";  
-"FEATURE_ADD_COMMENT_POST" = "Enable posting comments as regular posts";  
-"FEATURE_ADD_COMMENT_STORY" = "Enable posting comments as stories";  
-"FEATURE_MASS_UNFOLD" = "Unfold all comment replies at once";  
-"FEATURE_AUTO_UNFOLD" = "Automatically unfold text in long comments";  
-"FEATURE_MULTI_EMOJI" = "Enable extended emoji bar in comments";  
-"FEATURE_HIDE_EMOJI" = "Hide Initial Emoji-Bar in Comments";  
-"FEATURE_COMMENT_REDESIGN" = "Select comment cell design style";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Отключить подсказку о быстрых эмодзи при зажатие кнопки комментариев";  
+"FEATURE_ADD_COMMENT_POST" = "Позволяет загружать комментарии как обычные посты";  
+"FEATURE_ADD_COMMENT_STORY" = "Позволяет загружать комментарии как истории";  
+"FEATURE_MASS_UNFOLD" = "Развернуть все ответы на комментарии сразу";  
+"FEATURE_AUTO_UNFOLD" = "Автоматически разворачивает текст в длинных комментариях";  
+"FEATURE_MULTI_EMOJI" = "Включить расширенный выбор эмодзи в комментариях";  
+"FEATURE_HIDE_EMOJI" = "Скрыть панель эмодзи в комментариях";  
+"FEATURE_COMMENT_REDESIGN" = "Выбрать стиль комментариев";
 
 // Comment and Design Settings  
-"Comment Settings" = "Comment Settings";  
-"Design Options" = "Design Options";  
-"Comment Features" = "Comment Features";  
-"Comment Design" = "Comment Design";  
-"Select Design" = "Select Design";  
+"Comment Settings" = "Настройки комментариев";  
+"Design Options" = "Настройки дизайна";  
+"Comment Features" = "Функции комментариев";  
+"Comment Design" = "Дизайн комментариев";  
+"Select Design" = "Выбрать дизайн";  
   
 // Design Options  
-"Default" = "Default";  
-"Modern" = "Modern";  
-"Compact" = "Compact";  
+"Default" = "По умолчанию";  
+"Modern" = "Современный";  
+"Compact" = "Компактный";  
   
 // Action Options  
-"Cancel" = "Cancel";  
-"Regions" = "Regions";  
-"Live Button Actions" = "Live Button Actions";  
-"Actions" = "Actions";  
-"Live Actions" = "Live Actions";  
+"Cancel" = "Отмена";  
+"Regions" = "Регионы";  
+"Live Button Actions" = "Действия кнопки LIVE";  
+"Actions" = "Действия";  
+// idk how to translate it too
+"Live Actions" = "Действия кнопки LIVE";  
   
 // Playback Settings  
-"BHTikTok++ Settings" = "BHTikTok++ Settings";  
-"Playback Speed" = "Playback Speed";  
-"Select Speed" = "Select Speed";
+"BHTikTok++ Settings" = "Настройки BHTikTok++";  
+"Playback Speed" = "Скорость воспроизведения";  
+"Select Speed" = "Выбрать скорость";
