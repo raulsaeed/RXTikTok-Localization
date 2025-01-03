@@ -163,7 +163,7 @@
 "FEATURE_EXTENDED_BIO" = "Profil Biyografi Karakter Sayısını Arttır";
 "FEATURE_EXTENDED_COMMENTS" = "Yorum Karakter Sayısını Arttır";
 "FEATURE_UPLOAD_HD" = "Videoları Her Zaman HD Yükle";
-"FEATURE_APP_LOCK" = "Uygulamaya Face ID veya Şifre ile Giriş İçin Parola Belirle";
+"FEATURE_APP_LOCK" = "Uygulamayı Face ID veya Şifre ile Giriş İçin Kilitle";
 "FEATURE_ENABLE_FLEX" = "Sadece Geliştiriciler İçin, Ne Olduğunu Bilmiyorsanız LÜTFEN DOKUNMAYIN!";
 "FEATURE_OLED_KEYBOARD" = "Sadece Karanlık Modda Çalışır";
 "FEATURE_DISABLE_COMMENT_TOOLTIP" = "Yorum Butonuna Basılı Tutarken Çıkan Emojileri Devre Dışı Bırak";
