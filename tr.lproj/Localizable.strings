@@ -59,27 +59,27 @@
 "Disable Live Streaming" = "Canlı Yayınları Devre Dışı Bırak";  
 "Skip Recommendations" = "Arkadaş Önerilerini Atla";  
 "Upload Region" = "Yükleme Bölgesini Göster";  
-"Hide Top Feed items" = "En Üstteki Akış Öğelerini Gizle";  
-"Anonymous Seen" = "Okuduğumu Gizle";
+"Hide Top Feed items" = "Üstteki Akış Öğelerini Gizle";  
+"Anonymous Seen" = "Mesajları Okuduğumu Gizle";
 
 // Profile Features
 "Profile Save" = "Profili Kaydet";
 "Profile Copy" = "Profili Kopyala";
-"Video Like Count" = "Videolarının Beğenilme Sayısı";
-"Video Upload Date" = "Videonun Yüklenme Tarihi";
+"Video Like Count" = "Gönderilerin Beğenilme Sayısı";
+"Video Upload Date" = "Gönderilerin Yüklenme Tarihi";
 
 // Confirm Features
-"Like Confirmation" = "Beğenme Onaylama";
-"Like Comment Confirmation" = "Yorum Beğenme Onaylama";
-"Dislike Comment Confirmation" = "Yorum Beğenmeme Onaylama";
-"Follow Confirmation" = "Takip Onaylama";
+"Like Confirmation" = "Beğenmeyi Onayla";
+"Like Comment Confirmation" = "Yorumu Beğenirken Onayla";
+"Dislike Comment Confirmation" = "Yorumu Beğenmiyorken Onayla";
+"Follow Confirmation" = "Takibi Onayla";
 
 // Other Features
 "Auto Clear History" = "Otomatik Geçmiş Temizleme";
-"Enable Fake Changes" = "Sahte Değişiklikleri Aktif Et";
+"Enable Fake Changes" = "Fake Değişiklikleri Aktif Et";
 "Follower" = "Takipçi";
 "Following" = "Takip Edilen";
-"Fake Verified" = "Sahte Mavi Tik";
+"Fake Verified" = "Mavi Tik";
 "Extended Bio" = "Uzun Biyografi";
 "Extended Comments" = "Uzun Yorumlar";
 "Upload HD" = "HD Yükle";
@@ -128,14 +128,14 @@
 
 // Language Settings
 "Language 🌎" = "Dil 🌎";
-"Select App Language" = "Uygulama Dilini Seç";
+"Select App Language" = "BHTikTok++ Ayarlarının Dilini Seç";
 
 // Feature Descriptions
 "FEATURE_HIDE_ADS" = "Bütün Reklamları Devre Dışı Bırak";
 "FEATURE_DOWNLOAD_BUTTON" = "İndirme Butonunu Gönderiler ve Hikayeler İçin Aktif Et";
 "FEATURE_SHARE_SHEET" = "Videoyu İndirdikten Sonra Paylaşım Sayfasını Aç";
-"FEATURE_REMOVE_WATERMARK" = "TikTok Filigranını İndirilen Medyadan Kaldır";
-"FEATURE_UI_BUTTON" = "Boş Mod Butonunu Aktif Et";
+"FEATURE_REMOVE_WATERMARK" = "TikTok Filigranını İndirilen Gönderiden Kaldır";
+"FEATURE_UI_BUTTON" = "Boş Mod Butonunu Gönderiler İçin Aktif Et";
 "FEATURE_STOP_PLAYBACK" = "Oynatma Bitince Otomatik Kaydırmayı Devre Dışı Bırak";
 "FEATURE_AUTO_PLAY" = "Oynatma Bitince Sonraki Gönderiye Otomatik Kaydır";
 "FEATURE_PROGRESS_BAR" = "Her Zaman İlerleme Çubuğunu Göster";
@@ -145,18 +145,18 @@
 "FEATURE_DISABLE_WARNINGS" = "TikTok Uyarılarını Gizle";
 "FEATURE_DISABLE_LIVE" = "Canlı Yayınları Keşfetten Kaldır";
 "FEATURE_SKIP_RECOMMENDED" = "Önerilenleri Otomatik Atla";
-"FEATURE_UPLOAD_REGION" = "Kullanıcı Adının Yanında Videonun Nereden Yüklendiğini Göster";
+"FEATURE_UPLOAD_REGION" = "Kullanıcı Adının Yanında Videonun Hangi Ülkeden Yüklendiğini Göster";
 "FEATURE_HIDE_TOP_ITEMS" = "Üstteki Öğeleri Gizle (Keşfet, Takipte, Sizin İçin, Blabla...)";
-"FEATURE_ANONYMOUS_SEEN" = "Mesajları Okuduğunu Gizle (BETA!)";
+"FEATURE_ANONYMOUS_SEEN" = "Mesajları Okuduğunu Gizle (BETA)";
 "FEATURE_PROFILE_SAVE" = "Profil Bilgilerini Panoya Kaydet";
 "FEATURE_PROFILE_COPY" = "Profil Bilgilerini Kopyala";
-"FEATURE_LIKE_COUNT" = "Profile Bakarken Videoların Beğenilme Sayısını Görüntüle";
-"FEATURE_UPLOAD_DATE" = "Profile Bakarken Videoların Yüklenme Tarihini Görüntüle";
-"FEATURE_CONFIRM_LIKE" = "Videoları Beğenirken Onaylama";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "Yorumları Beğenirken Onaylama";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Yorum Beğenisini Geri Çekerken Onaylama";
+"FEATURE_LIKE_COUNT" = "Profile Bakarken Gönderilerin Beğenilme Sayısını Görüntüle";
+"FEATURE_UPLOAD_DATE" = "Profile Bakarken Gönderilerin Yüklenme Tarihini Görüntüle";
+"FEATURE_CONFIRM_LIKE" = "Gönderileri Beğenirken Onayla";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Yorumu Beğenirken Onayla";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Yorumu Beğenmiyorken (Dislike) Onayla";
 "FEATURE_CONFIRM_FOLLOW" = "Birini Takip Ederken Onaylama";
-"FEATURE_AUTO_CLEAR" = "Arama Geçmişini Her 1 Dakikada Otomatik Temizle";
+"FEATURE_AUTO_CLEAR" = "Arama Geçmişini Her 60 Saniyede Otomatik Temizle";
 "FEATURE_FAKE_CHANGES" = "Sahte Profili Aktif Et";
 "FEATURE_FOLLOWER_COUNT" = "Takipçi Sayısı";
 "FEATURE_FOLLOWING_COUNT" = "Takip Edilen Sayısı";
@@ -164,8 +164,8 @@
 "FEATURE_EXTENDED_BIO" = "Profil Biyografi Karakter Sayısını Arttır";
 "FEATURE_EXTENDED_COMMENTS" = "Yorum Karakter Sayısını Arttır";
 "FEATURE_UPLOAD_HD" = "Videoları Her Zaman HD Yükle";
-"FEATURE_APP_LOCK" = "Uygulamayı TikTok Üzerinden Kilitle";
-"FEATURE_ENABLE_FLEX" = "Sadece Geliştiriciler İçin, Ne Olduğunu Bilmiyorsanız Lütfen Dokunmayın";
+"FEATURE_APP_LOCK" = "Uygulamayı Face ID ile Kilitle";
+"FEATURE_ENABLE_FLEX" = "Sadece Geliştiriciler İçin, Ne Olduğunu Bilmiyorsanız LÜTFEN DOKUNMAYIN!";
 "FEATURE_OLED_KEYBOARD" = "Sadece Karanlık Modda Çalışır";
 "FEATURE_DISABLE_COMMENT_TOOLTIP" = "Yorum Butonuna Basılı Tutarken Çıkan Emojileri Devre Dışı Bırak";
 "FEATURE_ADD_COMMENT_POST" = "Yorumları Düzenli Gönderi Olarak Paylaşmayı Etkinleştir";
@@ -174,9 +174,9 @@
 "FEATURE_AUTO_UNFOLD" = "Uzun Yorumlardaki Metni Otomatik Olarak Aç";
 "FEATURE_MULTI_EMOJI" = "Yorumlarda Genişletilmiş Emoji Çubuğunu Etkinleştir";
 "FEATURE_HIDE_EMOJI" = "Yorumlardaki İlk Emoji Çubuğunu Gizle";
-"FEATURE_COMMENT_REDESIGN" = "Yorum Hücresi Tasarımını Seç";
+"FEATURE_COMMENT_REDESIGN" = "Yorumların Tasarımını Seç";
 
 // Developer Section
 "Developer" = "Geliştirici";
-"DEVELOPER_TELEGRAM" = "Son güncellemelerden haberdar olmak için lütfen Telegram kanalımıza katılın.";
+"DEVELOPER_TELEGRAM" = "Son güncellemelerden haberdar olmak için lütfen Telegram kanalımıza katılın. | 🇹🇷 Çeviri : @ekotin";
 "DEVELOPER_SUPPORT" = "BHTikTok++'ın güncel kalması için bağış yapın, öncelikli Beta Test grubumuza katılın.";
