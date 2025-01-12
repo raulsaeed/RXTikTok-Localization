@@ -2,8 +2,8 @@
 
 // Main Titles
 "BHTikTok++, Hi" = "嗨，BHTikTok++！";
-"BHTikTok++ Settings" = "BHTikTok++ 设置";
-@"Join Our Telegram." = @"Join Our Telegram.";
+"BHTikTok++ settings" = "BHTikTok++ 设置";
+"Join Our Telegram." = "加入我们的电报";
 
 // Common Actions
 "Yes" = "是";
@@ -14,6 +14,7 @@
 "Backgrounding ✌️" = "后台执行中 ✌️";
 "Are you sure?" = "你确定吗？";
 "Cancel" = "取消";
+"Regions" = "区域";  
 
 // Download Options
 "Download Video" = "下载视频";
@@ -121,10 +122,12 @@
 "Enable Region Changing Functionality" = "启用区域更改功能";
 
 // Playback Settings
+"BHTikTok++ Settings" = "BHTikTok++ 设置";
 "Playback Speed" = "播放速度";
 "Select Speed" = "播放速度";
 "Speeds" = "速度";
 "Enable Persistent Playback Speed" = "启用播放速度控制";
+"Enable Persistent Playback Speed." = "启用播放速度控制";  
 
 // Language Settings
 "Language 🌎" = "语言 🌎";

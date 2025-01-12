@@ -3,8 +3,9 @@
 // Main Titles  
 "BHTikTok++, Hi" = "BHTikTok++, Hi";  
 "BHTikTok++ settings" = "BHTikTok++ Settings";  
-@"Join Our Telegram." = @"Join Our Telegram.";
-  
+"Tap to Join the Telegram" = "Tap to Join the Telegram";
+"Welcome" = "Welcome";
+
 // Common Actions  
 "Yes" = "Yes";  
 "No" = "No";  
@@ -26,6 +27,9 @@
 "Copy Video link" = "Copy Video Link";  
 "Copy Decription" = "Copy Description";  
 "Copy bio" = "Copy Bio";  
+"Music Link Copied" = "Music Link Copied";
+"Video Link Copied" = "Video Link Copied";
+"Description Link Copied" = "Description Link Copied";
   
 // Error Messages  
 "Could Not Copy Music" = "Could Not Copy Music";  
@@ -89,6 +93,7 @@
 "App Lock" = "App Lock";  
 "Enable Flex" = "Enable Flex";  
 "Enable Oled Keyboard" = "Enable OLED Keyboard";  
+"Enable Native Download Progress";
   
 // Feature Descriptions  
 "FEATURE_HIDE_ADS" = "Hides ads from feed";  
@@ -127,6 +132,7 @@
 "FEATURE_APP_LOCK" = "Adds ability to lock TikTok with password";  
 "FEATURE_ENABLE_FLEX" = "For developers only, DO NOT TOUCH if you don't know what it does";  
 "FEATURE_OLED_KEYBOARD" = "Only works with dark theme";  
+"FEATURE_NATIVE_DOWNLOAD_PROGRESS" = "Show Native TUXToast (native tiktik pill) For Download Progress"
   
 // Developer Section  
 "DEVELOPER_TELEGRAM" = "Join Telegram channel for latest updates";  

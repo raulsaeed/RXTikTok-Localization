@@ -3,7 +3,11 @@
 // Main Titles
 "BHTikTok++, Hi" = "BHTikTok++, Merhaba";
 "BHTikTok++ Settings" = "BHTikTok++ Ayarları";
-@"Join Our Telegram." = @"Join Our Telegram.";
+<<<<<<< HEAD
+"Join Our Telegram." = "Join Our Telegram.";
+=======
+@"Join Our Telegram." = @"Telegram Kanalımıza Katıl.";
+>>>>>>> 78981cc02d2303c7f5ffe8a245566967a820e7ab
 
 // Common Actions
 "Yes" = "Evet";
@@ -17,7 +21,7 @@
 
 // Download Options
 "Download Video" = "Videoyu İndir";
-"Download HD Video" = "HD Videoyu İndir";
+"Download HD Video" = "Videoyu HD İndir";
 "Download Music" = "Müziği İndir";
 "Download Photo" = "Fotoğrafı İndir";
 "Download All Photos" = "Tüm Fotoğrafları İndir";
@@ -51,7 +55,7 @@
 "Show/Hide UI Button" = "Boş Mod Butonu";
 "Stop Playback" = "Oynatmayı Durdur";
 "Auto Play Next Video" = "Sonraki Videoyu Otomatik Oynat";
-"Show Progress Bar" = "Her Zaman İlerleme Çubuğu";
+"Show Progress Bar" = "İlerleme Çubuğu";
 "Transparent Comments" = "Şeffaf Yorumlar";
 "Show Usernames" = "Kullanıcı Adlarını Göster";
 "Disable Sensitive Content" = "Hassas İçeriği Devre Dışı Bırak";  
@@ -69,17 +73,17 @@
 "Video Upload Date" = "Videonun Yüklenme Tarihi";
 
 // Confirm Features
-"Like Confirmation" = "Beğenme Onaylama";
-"Like Comment Confirmation" = "Yorum Beğenme Onaylama";
-"Dislike Comment Confirmation" = "Yorum Beğenmeme Onaylama";
-"Follow Confirmation" = "Takip Onaylama";
+"Like Confirmation" = "Gönderiyi Beğenirken Onayla";
+"Like Comment Confirmation" = "Yorumu Beğenirken Onayla";
+"Dislike Comment Confirmation" = "Yoruma Dislike Atarken Onayla";
+"Follow Confirmation" = "Takibi Onayla";
 
 // Other Features
 "Auto Clear History" = "Otomatik Geçmiş Temizleme";
 "Enable Fake Changes" = "Sahte Değişiklikleri Aktif Et";
 "Follower" = "Takipçi";
 "Following" = "Takip Edilen";
-"Fake Verified" = "Sahte Mavi Tik";
+"Fake Verified" = "Mavi Tik";
 "Extended Bio" = "Uzun Biyografi";
 "Extended Comments" = "Uzun Yorumlar";
 "Upload HD" = "HD Yükle";
@@ -128,44 +132,44 @@
 
 // Language Settings
 "Language 🌎" = "Dil 🌎";
-"Select App Language" = "Uygulama Dilini Seç";
+"Select App Language" = "BHTikTok++ Ayarlarının Dilini Seç";
 
 // Feature Descriptions
 "FEATURE_HIDE_ADS" = "Bütün Reklamları Devre Dışı Bırak";
 "FEATURE_DOWNLOAD_BUTTON" = "İndirme Butonunu Gönderiler ve Hikayeler İçin Aktif Et";
-"FEATURE_SHARE_SHEET" = "Videoyu İndirdikten Sonra Paylaşım Sayfasını Aç";
-"FEATURE_REMOVE_WATERMARK" = "TikTok Filigranını İndirilen Medyadan Kaldır";
-"FEATURE_UI_BUTTON" = "Boş Mod Butonunu Aktif Et";
+"FEATURE_SHARE_SHEET" = "Gönderiyi İndirdikten Sonra Paylaşım Sayfasını Aç";
+"FEATURE_REMOVE_WATERMARK" = "TikTok Filigranını İndirilen Gönderiden Kaldır";
+"FEATURE_UI_BUTTON" = "Boş Mod Butonunu Gönderiler İçin Aktif Et";
 "FEATURE_STOP_PLAYBACK" = "Oynatma Bitince Otomatik Kaydırmayı Devre Dışı Bırak";
 "FEATURE_AUTO_PLAY" = "Oynatma Bitince Sonraki Gönderiye Otomatik Kaydır";
 "FEATURE_PROGRESS_BAR" = "Her Zaman İlerleme Çubuğunu Göster";
 "FEATURE_TRANSPARENT_COMMENTS" = "Yorum Bölümünü Şeffaf Yap";
-"FEATURE_SHOW_USERNAMES" = "Takma Adları Kullanıcı Adıyla Değiştir";
+"FEATURE_SHOW_USERNAMES" = "Takma Adları Eskisi Gibi Kullanıcı Adıyla Değiştir";
 "FEATURE_DISABLE_SENSITIVE" = "Hassas İçerik Uyarısını Gizle";
 "FEATURE_DISABLE_WARNINGS" = "TikTok Uyarılarını Gizle";
 "FEATURE_DISABLE_LIVE" = "Canlı Yayınları Keşfetten Kaldır";
-"FEATURE_SKIP_RECOMMENDED" = "Önerilenleri Otomatik Atla";
-"FEATURE_UPLOAD_REGION" = "Kullanıcı Adının Yanında Videonun Nereden Yüklendiğini Göster";
+"FEATURE_SKIP_RECOMMENDED" = "Kaydırırken Çıkan Arkadaş Önerilerini Otomatik Atla";
+"FEATURE_UPLOAD_REGION" = "Kullanıcı Adının Yanında Gönderinin Hangi Ülkeden Yüklendiğini Göster";
 "FEATURE_HIDE_TOP_ITEMS" = "Üstteki Öğeleri Gizle (Keşfet, Takipte, Sizin İçin, Blabla...)";
 "FEATURE_ANONYMOUS_SEEN" = "Mesajları Okuduğunu Gizle (BETA!)";
 "FEATURE_PROFILE_SAVE" = "Profil Bilgilerini Panoya Kaydet";
 "FEATURE_PROFILE_COPY" = "Profil Bilgilerini Kopyala";
 "FEATURE_LIKE_COUNT" = "Profile Bakarken Videoların Beğenilme Sayısını Görüntüle";
 "FEATURE_UPLOAD_DATE" = "Profile Bakarken Videoların Yüklenme Tarihini Görüntüle";
-"FEATURE_CONFIRM_LIKE" = "Videoları Beğenirken Onaylama";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "Yorumları Beğenirken Onaylama";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Yorum Beğenisini Geri Çekerken Onaylama";
-"FEATURE_CONFIRM_FOLLOW" = "Birini Takip Ederken Onaylama";
-"FEATURE_AUTO_CLEAR" = "Arama Geçmişini Her 1 Dakikada Otomatik Temizle";
+"FEATURE_CONFIRM_LIKE" = "Gönderileri Beğenirken Onayla";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Yorumları Beğenirken Onayla";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Yoruma Dislike Atarken Onayla";
+"FEATURE_CONFIRM_FOLLOW" = "Birini Takip Ederken Onayla";
+"FEATURE_AUTO_CLEAR" = "Arama Geçmişini Her 60 Saniyede Otomatik Temizle";
 "FEATURE_FAKE_CHANGES" = "Sahte Profili Aktif Et";
-"FEATURE_FOLLOWER_COUNT" = "Takipçi Sayısı";
-"FEATURE_FOLLOWING_COUNT" = "Takip Edilen Sayısı";
+"FEATURE_FOLLOWER_COUNT" = "takipçi";
+"FEATURE_FOLLOWING_COUNT" = "takip edilen";
 "FEATURE_FAKE_VERIFIED" = "Hesabınıza Sahte Mavi Tik Verir";
 "FEATURE_EXTENDED_BIO" = "Profil Biyografi Karakter Sayısını Arttır";
 "FEATURE_EXTENDED_COMMENTS" = "Yorum Karakter Sayısını Arttır";
 "FEATURE_UPLOAD_HD" = "Videoları Her Zaman HD Yükle";
-"FEATURE_APP_LOCK" = "Uygulamayı TikTok Üzerinden Kilitle";
-"FEATURE_ENABLE_FLEX" = "Sadece Geliştiriciler İçin, Ne Olduğunu Bilmiyorsanız Lütfen Dokunmayın";
+"FEATURE_APP_LOCK" = "Uygulamayı Face ID ile Kilitle";
+"FEATURE_ENABLE_FLEX" = "Sadece Geliştiriciler İçin, Ne Olduğunu Bilmiyorsanız LÜTFEN DOKUNMAYIN!";
 "FEATURE_OLED_KEYBOARD" = "Sadece Karanlık Modda Çalışır";
 "FEATURE_DISABLE_COMMENT_TOOLTIP" = "Yorum Butonuna Basılı Tutarken Çıkan Emojileri Devre Dışı Bırak";
 "FEATURE_ADD_COMMENT_POST" = "Yorumları Düzenli Gönderi Olarak Paylaşmayı Etkinleştir";
@@ -178,5 +182,5 @@
 
 // Developer Section
 "Developer" = "Geliştirici";
-"DEVELOPER_TELEGRAM" = "Son güncellemelerden haberdar olmak için lütfen Telegram kanalımıza katılın.";
+"DEVELOPER_TELEGRAM" = "Son güncellemelerden haberdar olmak için lütfen Telegram kanalımıza katılın. | 🇹🇷 Çeviri : @ekotin";
 "DEVELOPER_SUPPORT" = "BHTikTok++'ın güncel kalması için bağış yapın, öncelikli Beta Test grubumuza katılın.";
