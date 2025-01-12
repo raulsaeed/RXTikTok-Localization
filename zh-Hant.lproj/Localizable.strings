@@ -3,7 +3,8 @@
 // Main Titles
 "BHTikTok, Hi" = "BHTikTok，你好";
 "BHTikTok++ settings" = "BHTikTok++ 設定";
-"Join Our Telegram." = "加入我們的 Telegram";
+"Tap to Join the Telegram" = "點擊加入 Telegram";
+"Welcome" = "歡迎";
 
 // Common Actions
 "Yes" = "是";
@@ -26,6 +27,9 @@
 "Copy Video link" = "複製影片連結";
 "Copy Decription" = "複製描述";
 "Copy bio" = "複製個人簡介";
+"Music Link Copied" = "音樂連結複製成功";
+"Video Link Copied" = "影片連結複製成功";
+"Description Link Copied" = "描述連結複製成功";
 
 // Error Messages
 "Could Not Copy Music" = "無法複製音樂";
@@ -55,7 +59,7 @@
 "Stop Playback" = "停止播放";
 "Auto Play Next Video" = "自動播放下一部影片";
 "Show Progress Bar" = "顯示進度條";
-"Transparent Comments" = "透明留言";
+"Transparent Comments" = "透明評論";
 "Show Usernames" = "顯示使用者名稱";
 "Disable Sensitive Content" = "停用敏感內容";
 "Disable Warnings" = "停用警告";
@@ -73,22 +77,23 @@
 
 // Confirm Features
 "Like Confirmation" = "按讚確認";
-"Like Comment Confirmation" = "留言按讚確認";
-"Dislike Comment Confirmation" = "留言不喜歡確認";
-"Follow Confirmation" = "追蹤確認";
+"Like Comment Confirmation" = "評論按讚確認";
+"Dislike Comment Confirmation" = "評論不喜歡確認";
+"Follow Confirmation" = "關注確認";
 
 // Other Features
 "Auto Clear History" = "自動清除歷史記錄";
 "Enable Fake Changes" = "啟用偽裝變更";
 "Follower" = "粉絲";
-"Following" = "追蹤中";
+"Following" = "關注中";
 "Fake Verified" = "偽裝官方認證";
 "Extended Bio" = "延伸個人簡介";
-"Extended Comments" = "延伸留言";
+"Extended Comments" = "延伸評論";
 "Upload HD" = "上傳高畫質";
 "App Lock" = "應用程式鎖定";
 "Enable Flex" = "啟用 Flex";
 "Enable Oled Keyboard" = "啟用 OLED 鍵盤";
+"Enable Native Download Progress" = "啟用原生下載進度";
 
 // Feature Descriptions
 "FEATURE_HIDE_ADS" = "從動態中隱藏廣告";
@@ -99,64 +104,65 @@
 "FEATURE_STOP_PLAYBACK" = "影片結束時停止播放";
 "FEATURE_AUTO_PLAY" = "啟用自動影片捲動";
 "FEATURE_PROGRESS_BAR" = "影片下方顯示時間軸";
-"FEATURE_TRANSPARENT_COMMENTS" = "使留言區域透明";
+"FEATURE_TRANSPARENT_COMMENTS" = "使評論區域透明";
 "FEATURE_SHOW_USERNAMES" = "暱稱替換為使用者名稱";
 "FEATURE_DISABLE_SENSITIVE" = "隱藏不當內容警告";
 "FEATURE_DISABLE_WARNINGS" = "隱藏 TikTok 警告";
 "FEATURE_DISABLE_LIVE" = "在動態中隱藏直播";
 "FEATURE_SKIP_RECOMMENDED" = "移除朋友推薦等";
 "FEATURE_UPLOAD_REGION" = "在使用者名稱旁顯示上傳國家/地區旗幟";
-"FEATURE_HIDE_TOP_ITEMS" = "隱藏搜尋按鈕、直播和其他項目（為你推薦、追蹤中、商店等）";
+"FEATURE_HIDE_TOP_ITEMS" = "隱藏搜尋按鈕、直播和其他項目（為你推薦、關注中、商店等）";
 "FEATURE_ANONYMOUS_SEEN" = "啟用已讀回條封鎖";
 "FEATURE_PROFILE_SAVE" = "將個人資料資訊儲存到剪貼簿";
 "FEATURE_PROFILE_COPY" = "複製個人資料資訊";
 "FEATURE_LIKE_COUNT" = "顯示訊息按讚數";
 "FEATURE_UPLOAD_DATE" = "顯示上傳日期";
 "FEATURE_CONFIRM_LIKE" = "顯示按讚影片確認";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "顯示按讚留言確認";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "顯示不喜歡留言確認";
-"FEATURE_CONFIRM_FOLLOW" = "顯示追蹤用戶確認";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "顯示按讚評論確認";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "顯示不喜歡評論確認";
+"FEATURE_CONFIRM_FOLLOW" = "顯示關注用戶確認";
 "FEATURE_AUTO_CLEAR" = "每 60 秒自動清除搜尋記錄";
 "FEATURE_FAKE_CHANGES" = "啟用個人資料偽裝";
 "FEATURE_FOLLOWER_COUNT" = "輸入偽裝粉絲數";
-"FEATURE_FOLLOWING_COUNT" = "輸入偽裝追蹤數";
+"FEATURE_FOLLOWING_COUNT" = "輸入偽裝關注數";
 "FEATURE_FAKE_VERIFIED" = "顯示偽裝認證徽章";
 "FEATURE_EXTENDED_BIO" = "延伸個人簡介字數限制";
-"FEATURE_EXTENDED_COMMENTS" = "延伸留言字數限制";
+"FEATURE_EXTENDED_COMMENTS" = "延伸評論字數限制";
 "FEATURE_UPLOAD_HD" = "啟用高畫質上傳";
 "FEATURE_APP_LOCK" = "新增使用密碼鎖定 TikTok 的功能";
 "FEATURE_ENABLE_FLEX" = "僅供開發者使用，如果不知道用途請勿觸碰";
 "FEATURE_OLED_KEYBOARD" = "僅適用於深色主題";
+"FEATURE_NATIVE_DOWNLOAD_PROGRESS" = "顯示原生 TUXToast (進度條) 下載進度"
 
 // Developer Section
 "DEVELOPER_TELEGRAM" = "加入 Telegram 頻道獲取最新更新";
 "DEVELOPER_SUPPORT" = "支持 BHTTPP 並取得測試群組的使用權限";
 
 // Comment Features
-"Disable Comment Tooltip" = "停用留言工具提示";
-"Add Comment as Post" = "將留言新增為貼文";
-"Add Comment as Story" = "將留言新增為限時動態";
+"Disable Comment Tooltip" = "停用評論工具提示";
+"Add Comment as Post" = "將評論新增為貼文";
+"Add Comment as Story" = "將評論新增為限時動態";
 "Mass Unfold Comment Replies" = "批量展開回覆";
 "Auto Unfold Comment Texts" = "自動展開文字";
 "Multi Emoji Comment Bar" = "多重表情符號列";
 "Hide Emoji-Bar" = "隱藏表情符號列";
-"Comment Cell Redesign" = "留言區塊重新設計";
+"Comment Cell Redesign" = "評論區塊重新設計";
 
 // Comment Feature Descriptions
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "停用長按留言按鈕時的表情符號工具提示";
-"FEATURE_ADD_COMMENT_POST" = "啟用以貼文方式留言";
-"FEATURE_ADD_COMMENT_STORY" = "啟用以限時動態方式留言";
-"FEATURE_MASS_UNFOLD" = "一次展開所有留言回覆";
-"FEATURE_AUTO_UNFOLD" = "展開長留言中的文字";
-"FEATURE_MULTI_EMOJI" = "在留言中啟用延伸表情符號面板";
-"FEATURE_HIDE_EMOJI" = "在留言中隱藏表情符號面板";
-"FEATURE_COMMENT_REDESIGN" = "允許選擇留言區塊設計";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "停用長按評論按鈕時的表情符號工具提示";
+"FEATURE_ADD_COMMENT_POST" = "啟用以貼文方式評論";
+"FEATURE_ADD_COMMENT_STORY" = "啟用以限時動態方式評論";
+"FEATURE_MASS_UNFOLD" = "一次展開所有評論回覆";
+"FEATURE_AUTO_UNFOLD" = "展開長評論中的文字";
+"FEATURE_MULTI_EMOJI" = "在評論中啟用延伸表情符號面板";
+"FEATURE_HIDE_EMOJI" = "在評論中隱藏表情符號面板";
+"FEATURE_COMMENT_REDESIGN" = "允許選擇評論區塊設計";
 
 // Comment and Design Settings
-"Comment Settings" = "留言設定";
+"Comment Settings" = "評論設定";
 "Design Options" = "設計選項";
-"Comment Features" = "留言功能";
-"Comment Design" = "留言設計";
+"Comment Features" = "評論功能";
+"Comment Design" = "評論設計";
 "Select Design" = "選擇設計";
 
 // Design Options
@@ -186,7 +192,7 @@
 "Enable Persistent Playback Speed." = "啟用持續播放速度";
 
 // Comment Settings Section
-"Configure Advanced Comment Settings" = "設定進階留言選項";
+"Configure Advanced Comment Settings" = "設定進階評論選項";
 
 // Language Section
 "Select App Language" = "選擇應用程式語言";
