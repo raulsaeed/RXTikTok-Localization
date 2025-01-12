@@ -1,0 +1,198 @@
+/* Localizable.strings */
+
+// Main Titles
+"BHTikTok, Hi" = "BHTikTok，你好";
+"BHTikTok++ settings" = "BHTikTok++ 設定";
+"Join Our Telegram." = "加入我們的 Telegram.";
+
+// Common Actions
+"Yes" = "是";
+"No" = "否";
+"ON" = "開啟";
+"OFF" = "關閉";
+"Downloading" = "下載中";
+"Backgrounding ✌️" = "背景執行中 ✌️";
+"Are you sure?" = "確定嗎？";
+
+// Download Options
+"Download Video" = "下載影片";
+"Download HD Video" = "下載高畫質影片";
+"Download Music" = "下載音樂";
+"Download Photo" = "下載照片";
+"Download All Photos" = "下載所有照片";
+
+// Copy Options
+"Copy Music link" = "複製音樂連結";
+"Copy Video link" = "複製影片連結";
+"Copy Decription" = "複製描述";
+"Copy bio" = "複製個人簡介";
+
+// Error Messages
+"Could Not Copy Music" = "無法複製音樂";
+"The video dosen't have music to download" = "此影片沒有可下載的音樂";
+
+// Menu Labels
+"Downloads Menu" = "下載選單";
+"Copy Menu" = "複製選單";
+"Download Photos Menu" = "下載照片選單";
+
+// Section Headers
+"Feed" = "動態";
+"Profile" = "個人資料";
+"Confirm" = "確認";
+"Other" = "其他";
+"Region" = "國家/地區";
+"Live Button Function" = "直播按鈕功能";
+"Playback Speed" = "播放速度";
+"Developer" = "開發者";
+
+// Feed Features
+"Hide Ads" = "隱藏廣告";
+"Download Button" = "下載按鈕";
+"Share Sheet" = "分享表單";
+"Remove Watermark" = "移除浮水印";
+"Show/Hide UI Button" = "顯示/隱藏介面按鈕";
+"Stop Playback" = "停止播放";
+"Auto Play Next Video" = "自動播放下一部影片";
+"Show Progress Bar" = "顯示進度條";
+"Transparent Comments" = "透明留言";
+"Show Usernames" = "顯示使用者名稱";
+"Disable Sensitive Content" = "停用敏感內容";
+"Disable Warnings" = "停用警告";
+"Disable Live Streaming" = "停用直播";
+"Skip Recommendations" = "跳過推薦";
+"Upload Region" = "上傳國家/地區";
+"Hide Top Feed items" = "隱藏頂部動態項目";
+"Anonymous Seen" = "匿名觀看";
+
+// Profile Features
+"Profile Save" = "儲存個人資料";
+"Profile Copy" = "複製個人資料";
+"Video Like Count" = "影片按讚數";
+"Video Upload Date" = "影片上傳日期";
+
+// Confirm Features
+"Like Confirmation" = "按讚確認";
+"Like Comment Confirmation" = "留言按讚確認";
+"Dislike Comment Confirmation" = "留言不喜歡確認";
+"Follow Confirmation" = "追蹤確認";
+
+// Other Features
+"Auto Clear History" = "自動清除歷史記錄";
+"Enable Fake Changes" = "啟用偽裝變更";
+"Follower" = "粉絲";
+"Following" = "追蹤中";
+"Fake Verified" = "偽裝官方認證";
+"Extended Bio" = "延伸個人簡介";
+"Extended Comments" = "延伸留言";
+"Upload HD" = "上傳高畫質";
+"App Lock" = "應用程式鎖定";
+"Enable Flex" = "啟用 Flex";
+"Enable Oled Keyboard" = "啟用 OLED 鍵盤";
+
+// Feature Descriptions
+"FEATURE_HIDE_ADS" = "從動態中隱藏廣告";
+"FEATURE_DOWNLOAD_BUTTON" = "啟用貼文和限時動態的下載按鈕";
+"FEATURE_SHARE_SHEET" = "下載媒體後開啟分享表單";
+"FEATURE_REMOVE_WATERMARK" = "從下載的媒體中移除浮水印（動態 TikTok 標誌和使用者名稱）";
+"FEATURE_UI_BUTTON" = "顯示或隱藏介面按鈕";
+"FEATURE_STOP_PLAYBACK" = "影片結束時停止播放";
+"FEATURE_AUTO_PLAY" = "啟用自動影片捲動";
+"FEATURE_PROGRESS_BAR" = "影片下方顯示時間軸";
+"FEATURE_TRANSPARENT_COMMENTS" = "使留言區域透明";
+"FEATURE_SHOW_USERNAMES" = "暱稱替換為使用者名稱";
+"FEATURE_DISABLE_SENSITIVE" = "隱藏不當內容警告";
+"FEATURE_DISABLE_WARNINGS" = "隱藏 TikTok 警告";
+"FEATURE_DISABLE_LIVE" = "在動態中隱藏直播";
+"FEATURE_SKIP_RECOMMENDED" = "移除朋友推薦等";
+"FEATURE_UPLOAD_REGION" = "在使用者名稱旁顯示上傳國家/地區旗幟";
+"FEATURE_HIDE_TOP_ITEMS" = "隱藏搜尋按鈕、直播和其他項目（為你推薦、追蹤中、商店等）";
+"FEATURE_ANONYMOUS_SEEN" = "啟用已讀回條封鎖";
+"FEATURE_PROFILE_SAVE" = "將個人資料資訊儲存到剪貼簿";
+"FEATURE_PROFILE_COPY" = "複製個人資料資訊";
+"FEATURE_LIKE_COUNT" = "顯示訊息按讚數";
+"FEATURE_UPLOAD_DATE" = "顯示上傳日期";
+"FEATURE_CONFIRM_LIKE" = "顯示按讚影片確認";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "顯示按讚留言確認";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "顯示不喜歡留言確認";
+"FEATURE_CONFIRM_FOLLOW" = "顯示追蹤用戶確認";
+"FEATURE_AUTO_CLEAR" = "每 60 秒自動清除搜尋記錄";
+"FEATURE_FAKE_CHANGES" = "啟用個人資料偽裝";
+"FEATURE_FOLLOWER_COUNT" = "輸入偽裝粉絲數";
+"FEATURE_FOLLOWING_COUNT" = "輸入偽裝追蹤數";
+"FEATURE_FAKE_VERIFIED" = "顯示偽裝認證徽章";
+"FEATURE_EXTENDED_BIO" = "延伸個人簡介字數限制";
+"FEATURE_EXTENDED_COMMENTS" = "延伸留言字數限制";
+"FEATURE_UPLOAD_HD" = "啟用高畫質上傳";
+"FEATURE_APP_LOCK" = "新增使用密碼鎖定 TikTok 的功能";
+"FEATURE_ENABLE_FLEX" = "僅供開發者使用，如果不知道用途請勿觸碰";
+"FEATURE_OLED_KEYBOARD" = "僅適用於深色主題";
+
+// Developer Section
+"DEVELOPER_TELEGRAM" = "加入 Telegram 頻道獲取最新更新";
+"DEVELOPER_SUPPORT" = "支持 BHTTPP 並取得測試群組的使用權限";
+
+// Comment Features
+"Disable Comment Tooltip" = "停用留言工具提示";
+"Add Comment as Post" = "將留言新增為貼文";
+"Add Comment as Story" = "將留言新增為限時動態";
+"Mass Unfold Comment Replies" = "批量展開回覆";
+"Auto Unfold Comment Texts" = "自動展開文字";
+"Multi Emoji Comment Bar" = "多重表情符號列";
+"Hide Emoji-Bar" = "隱藏表情符號列";
+"Comment Cell Redesign" = "留言區塊重新設計";
+
+// Comment Feature Descriptions
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "停用長按留言按鈕時的表情符號工具提示";
+"FEATURE_ADD_COMMENT_POST" = "啟用以貼文方式留言";
+"FEATURE_ADD_COMMENT_STORY" = "啟用以限時動態方式留言";
+"FEATURE_MASS_UNFOLD" = "一次展開所有留言回覆";
+"FEATURE_AUTO_UNFOLD" = "展開長留言中的文字";
+"FEATURE_MULTI_EMOJI" = "在留言中啟用延伸表情符號面板";
+"FEATURE_HIDE_EMOJI" = "在留言中隱藏表情符號面板";
+"FEATURE_COMMENT_REDESIGN" = "允許選擇留言區塊設計";
+
+// Comment and Design Settings
+"Comment Settings" = "留言設定";
+"Design Options" = "設計選項";
+"Comment Features" = "留言功能";
+"Comment Design" = "留言設計";
+"Select Design" = "選擇設計";
+
+// Design Options
+"Default" = "預設";
+"Modern" = "現代";
+"Compact" = "緊湊";
+
+// Action Options
+"Cancel" = "取消";
+"Regions" = "國家/地區";
+"Live Button Actions" = "直播按鈕動作";
+"Actions" = "動作";
+"Live Actions" = "直播動作";
+
+// Playback Settings
+"BHTikTok++ Settings" = "BHTikTok++ 設定";
+"Playback Speed" = "播放速度";
+"Select Speed" = "選擇速度";
+
+// Region Section
+"Enable Region Changing Functionality" = "啟用國家/地區變更功能";
+
+// Live Button Function Section
+"Change Action of Live Button" = "變更直播按鈕動作";
+
+// Playback Speed Section
+"Enable Persistent Playback Speed." = "啟用持續播放速度";
+
+// Comment Settings Section
+"Configure Advanced Comment Settings" = "設定進階留言選項";
+
+// Language Section
+"Select App Language" = "選擇應用程式語言";
+
+"Enable Region Changing" = "啟用國家/地區變更";
+"Live Button Action" = "直播按鈕動作";
+
+"Language 🌎" = "語言 🌎";
+"Speeds" = "速度";
