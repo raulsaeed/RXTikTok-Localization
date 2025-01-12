@@ -132,7 +132,7 @@
 "FEATURE_APP_LOCK" = "新增使用密碼鎖定 TikTok 的功能";
 "FEATURE_ENABLE_FLEX" = "僅供開發者使用，如果不知道用途請勿觸碰";
 "FEATURE_OLED_KEYBOARD" = "僅適用於深色主題";
-"FEATURE_NATIVE_DOWNLOAD_PROGRESS" = "顯示原生 TUXToast (進度條) 下載進度"
+"FEATURE_NATIVE_DOWNLOAD_PROGRESS" = "顯示原生 (下載樣式) 進度條";
 
 // Developer Section
 "DEVELOPER_TELEGRAM" = "加入 Telegram 頻道獲取最新更新";
