@@ -1,50 +1,58 @@
 /* Localizable.strings */
 
-// Main Titles
+// MARK: - Core UI Elements
 "BHTikTok++, Hi" = "嗨，BHTikTok++！";
-"BHTikTok++ settings" = "BHTikTok++ 设置";
-"Join Our Telegram." = "加入我们的电报";
+"BHTikTok++ Settings" = "BHTikTok++ 设置";
+"Welcome" = "欢迎";
+"Tap to Join the Telegram" = "点击加入我们的电报";
 
-// Common Actions
+// MARK: - Common Actions
 "Yes" = "是";
 "No" = "不";
 "ON" = "开";
 "OFF" = "关";
+"Cancel" = "取消";
+"Confirm" = "确认";
 "Downloading" = "下载中";
 "Backgrounding ✌️" = "后台执行中 ✌️";
 "Are you sure?" = "你确定吗？";
-"Cancel" = "取消";
-"Regions" = "区域";  
 
-// Download Options
+// MARK: - Download Optionss
+"Downloads Menu" = "下载菜单";  
 "Download Video" = "下载视频";
 "Download HD Video" = "下载高清视频";
 "Download Music" = "下载音乐";
 "Download Photo" = "下载图片";
 "Download All Photos" = "下载所有图片";
-"Downloads Menu" = "下载菜单";
-"Download Photos Menu" = "图片下载菜单";
+"Download Photos Menu" = "图片下载菜单";  
 
-// Copy Options
+// MARK: - Copy Options
 "Copy Music link" = "复制音乐链接";
 "Copy Video link" = "复制视频链接";
 "Copy Description" = "复制描述文案";
 "Copy bio" = "复制资料";
-"Copy Menu" = "复制菜单";
 
-// Error Messages
+// MARK: - Copy Confirmations
+"Music Link Copied" = "音乐链接已复制";
+"Video Link Copied" = "视频链接已复制";
+"Description Link Copied" = "文案已复制";
+"Copy Menu" = "复制菜单";  
+
+// MARK: - Error Messages
 "Could Not Copy Music" = "无法复制音频";
 "The video doesn't have music to download" = "该视频没有可供下载的音频";
 
-// Section Headers
+// MARK: - Main Sections
 "Feed" = "常规";
 "Profile" = "个人";
 "Confirm" = "确认";
 "Other" = "其他";
 "Region" = "区域";
-"Actions" = "操作";
+"Developer" = "开发者";
+"Live Button Function" = "直播按钮功能";
+"Playback Speed" = "播放速度";
 
-// Feed Features
+// MARK: - Feed Features
 "Hide Ads" = "隐藏广告";
 "Download Button" = "下载按钮";
 "Share Sheet" = "共享面板";
@@ -63,21 +71,12 @@
 "Hide Top Feed items" = "顶部隐藏";
 "Anonymous Seen" = "匿名查看";
 
-// Profile Features
+// MARK: - Profile Features
 "Profile Save" = "保存个人头像";
 "Profile Copy" = "资料个人复制";
 "Video Like Count" = "视频点赞计数";
 "Video Upload Date" = "视频上传日期";
-
-// Confirm Features
-"Like Confirmation" = "点赞确认";
-"Like Comment Confirmation" = "好评确认";
-"Dislike Comment Confirmation" = "差评确认";
-"Follow Confirmation" = "关注确认";
-
-// Other Features
-"Auto Clear History" = "自动清除历史";
-"Enable Fake Changes" = "启用伪造";
+"User Post Count" = "用户视频数";
 "Follower" = "粉丝数";
 "Following" = "关注数";
 "Fake Verified" = "伪造认证";
@@ -87,8 +86,21 @@
 "App Lock" = "应用锁定";
 "Enable Flex" = "启用 Flex";
 "Enable Oled Keyboard" = "OLED 键盘";
+"Post Stats" = "视频统计";
 
-// Comment Features
+// MARK: - Confirmation Features
+"Like Confirmation" = "点赞确认";
+"Like Comment Confirmation" = "好评确认";
+"Dislike Comment Confirmation" = "差评确认";
+"Follow Confirmation" = "关注确认";
+
+// MARK: - Other Features
+"Auto Clear History" = "自动清除历史";
+"Enable Fake Changes" = "启用伪造";
+"Enable Embeded Links" = "启用内嵌链接";
+
+// MARK: - Comment Features
+"Comment Settings" = "评论设置";
 "Disable Comment Tooltip" = "禁用评论工具提示";
 "Add Comment as Post" = "将评论作为帖子";
 "Add Comment as Story" = "将评论作为动态";
@@ -97,43 +109,8 @@
 "Multi Emoji Comment Bar" = "多表情符号评论栏";
 "Hide Emoji-Bar" = "隐藏表情符号栏";
 "Comment Cell Redesign" = "评论单元格重新设计";
-"Comment Settings" = "评论设置";
-"Comment Features" = "评论功能";
-"Comment Design" = "评论风格";
-"Configure Advanced Comment Settings" = "配置高级评论设置";
 
-// Design Options
-"Design Options" = "风格选项";
-"Select Design" = "选择风格";
-"Default" = "默认";
-"Modern" = "现代";
-"Compact" = "简洁";
-
-// Live Button Settings
-"Live Button Function" = "直播按钮功能";
-"Live Button Actions" = "直播按钮动作";
-"Live Actions" = "按钮功能";
-"Change Action of Live Button" = "更改左上角直播按钮的默认功能操作";
-"Live Button Action" = "直播按钮功能";
-
-// Region Settings
-"Regions" = "Regions";
-"Enable Region Changing" = "启用区域更改";
-"Enable Region Changing Functionality" = "启用区域更改功能";
-
-// Playback Settings
-"BHTikTok++ Settings" = "BHTikTok++ 设置";
-"Playback Speed" = "播放速度";
-"Select Speed" = "播放速度";
-"Speeds" = "速度";
-"Enable Persistent Playback Speed" = "启用播放速度控制";
-"Enable Persistent Playback Speed." = "启用播放速度控制";  
-
-// Language Settings
-"Language 🌎" = "语言 🌎";
-"Select App Language" = "选择应用语言";
-
-// Feature Descriptions
+// MARK: - Feature Descriptions
 "FEATURE_HIDE_ADS" = "禁用 TikTok 内的所有广告";
 "FEATURE_DOWNLOAD_BUTTON" = "启用视频和图片的下载按钮";
 "FEATURE_SHARE_SHEET" = "下载完成后弹出共享面板";
@@ -152,7 +129,9 @@
 "FEATURE_HIDE_TOP_ITEMS" = "隐藏顶部的搜索和直播按钮以及关注、商店等...";
 "FEATURE_ANONYMOUS_SEEN" = "匿名查看消息（BETA 功能！）";
 "FEATURE_PROFILE_SAVE" = "长按将个人头像保存";
+"FEATURE_EMBED_LINKS" = "复制链接时启用内嵌链接功能";
 "FEATURE_PROFILE_COPY" = "长按复制个人资料信息";
+"FEATURE_USER_POST_COUNT" = "显示已上传视频的数量";
 "FEATURE_LIKE_COUNT" = "显示主页视频的点赞数";
 "FEATURE_UPLOAD_DATE" = "显示主页视频上传日期";
 "FEATURE_CONFIRM_LIKE" = "点赞视频需确认";
@@ -170,6 +149,9 @@
 "FEATURE_APP_LOCK" = "使用密码锁定 TikTok";
 "FEATURE_ENABLE_FLEX" = "仅限开发人员，如果不知道自己在做什么，请不要启用它。";
 "FEATURE_OLED_KEYBOARD" = "仅在深色模式下有效";
+"FEATURE_POST_STATS" = "在下载部分显示菜单按钮以查看视频统计信息";
+
+// MARK: - Comment Feature Descriptions
 "FEATURE_DISABLE_COMMENT_TOOLTIP" = "按住评论按钮时禁用快速表情符号工具提示";
 "FEATURE_ADD_COMMENT_POST" = "允许以常规帖子形式发布评论";
 "FEATURE_ADD_COMMENT_STORY" = "允许以动态形式发布评论";
@@ -179,7 +161,38 @@
 "FEATURE_HIDE_EMOJI" = "隐藏评论中的初始表情符号栏";
 "FEATURE_COMMENT_REDESIGN" = "选择评论单元格设计样式";
 
-// Developer Section
-"Developer" = "开发者";
+// MARK: - Developer Section
 "DEVELOPER_TELEGRAM" = "加入电报频道获取最新更新";
 "DEVELOPER_SUPPORT" = "您的支持可以让插件保持持续更新并获得加入Beta测试人员组的权限";
+
+// MARK: - Design Options
+"Design Options" = "风格选项";
+"Comment Design" = "评论风格";
+"Select Design" = "选择风格";
+"Default" = "默认";
+"Modern" = "现代";
+"Compact" = "简洁";
+
+// MARK: - Action Options
+"Regions" = "区域"; 
+"Live Button Actions" = "直播按钮动作";
+"Actions" = "操作";
+"Live Actions" = "按钮功能";
+
+// MARK: - Settings
+"Language 🌎" = "语言 🌎";
+"Speeds" = "速度";
+"Playback Speed" = "播放速度";
+"Select Speed" = "播放速度";
+"Enable Region Changing" = "启用区域更改";
+"Live Button Action" = "直播按钮功能";
+"Enable Region Changing Functionality" = "启用区域更改功能";
+"Change Action of Live Button" = "更改左上角直播按钮的默认功能操作";
+"Enable Persistent Playback Speed" = "启用播放速度控制";
+"Configure Advanced Comment Settings" = "配置高级评论设置";
+"Select App Language" = "选择应用语言";
+
+// Old Version Translation
+"Comment Features" = "评论功能";
+"Enable Native Download Progress" = "启用原生下载进度";
+"FEATURE_NATIVE_DOWNLOAD_PROGRESS" = "显示原生弹窗（原生药丸样式）下载进度";
