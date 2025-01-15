@@ -1,204 +1,190 @@
-/* Localizable.strings */  
-  
-// Main Titles  
-"BHTikTok++, Hi" = "BHTikTok++, Hi";  
-"BHTikTok++ settings" = "BHTikTok++ Settings";  
-"Tap to Join the Telegram" = "Tap to Join the Telegram";
-"Welcome" = "Welcome";
+/* Localizable.strings */
 
-// Common Actions  
-"Yes" = "Yes";  
-"No" = "No";  
-"ON" = "ON";  
-"OFF" = "OFF";  
-"Downloading" = "Downloading";  
-"Backgrounding ✌️" = "Backgrounding ✌️";  
-"Are you sure?" = "Are you sure?";  
-  
-// Download Options  
-"Download Video" = "Download Video";  
-"Download HD Video" = "Download HD Video";  
-"Download Music" = "Download Music";  
-"Download Photo" = "Download Photo";  
-"Download All Photos" = "Download All Photos";  
-  
-// Copy Options  
-"Copy Music link" = "Copy Music Link";  
-"Copy Video link" = "Copy Video Link";  
-"Copy Decription" = "Copy Description";  
-"Copy bio" = "Copy Bio";  
+// MARK: - Core UI Elements
+"BHTikTok++, Hi" = "BHTikTok++, Hi";
+"BHTikTok++ Settings" = "BHTikTok++ Settings";
+"Welcome" = "Welcome";
+"Tap to Join the Telegram" = "Tap to Join the Telegram";
+
+// MARK: - Common Actions
+"Yes" = "Yes";
+"No" = "No";
+"ON" = "ON";
+"OFF" = "OFF";
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+"Downloading" = "Downloading";
+"Backgrounding ✌️" = "Backgrounding ✌️";
+"Are you sure?" = "Are you sure?";
+
+// MARK: - Download Options
+"Downloads Menu" = "Downloads Menu";
+"Download Video" = "Download Video";
+"Download HD Video" = "Download HD Video";
+"Download Music" = "Download Music";
+"Download Photo" = "Download Photo";
+"Download All Photos" = "Download All Photos";
+"Download Photos Menu" = "Download Photos Menu";
+
+// MARK: - Copy Options
+"Copy Menu" = "Copy Menu";
+"Copy Music Link" = "Copy Music Link";
+"Copy Video link" = "Copy Video Link";
+"Copy Description" = "Copy Description";
+"Copy bio" = "Copy Bio";
+
+// MARK: - Copy Confirmations
 "Music Link Copied" = "Music Link Copied";
 "Video Link Copied" = "Video Link Copied";
 "Description Link Copied" = "Description Link Copied";
-  
-// Error Messages  
-"Could Not Copy Music" = "Could Not Copy Music";  
-"The video dosen't have music to download" = "This video has no music to download";  
-  
-// Menu Labels  
-"Downloads Menu" = "Downloads Menu";  
-"Copy Menu" = "Copy Menu";  
-"Download Photos Menu" = "Download Photos Menu";  
-  
-// Section Headers  
-"Feed" = "Feed";  
-"Profile" = "Profile";  
-"Confirm" = "Confirm";  
-"Other" = "Other";  
-"Region" = "Region";  
-"Live Button Function" = "Live Button Function";  
-"Playback Speed" = "Playback Speed";  
-"Developer" = "Developer";  
-  
-// Feed Features  
-"Hide Ads" = "Hide Ads";  
-"Download Button" = "Download Button";  
-"Share Sheet" = "Share Sheet";  
-"Remove Watermark" = "Remove Watermark";  
-"Show/Hide UI Button" = "Show/Hide UI Button";  
-"Stop Playback" = "Stop Playback";  
-"Auto Play Next Video" = "Auto Play Next Video";  
-"Show Progress Bar" = "Show Progress Bar";  
-"Transparent Comments" = "Transparent Comments";  
-"Show Usernames" = "Show Usernames";  
-"Disable Sensitive Content" = "Disable Sensitive Content";  
-"Disable Warnings" = "Disable Warnings";  
-"Disable Live Streaming" = "Disable Live Streaming";  
-"Skip Recommendations" = "Skip Recommendations";  
-"Upload Region" = "Upload Region";  
-"Hide Top Feed items" = "Hide Top Feed Items";  
-"Anonymous Seen" = "Anonymous Seen";  
-  
-// Profile Features  
-"Profile Save" = "Profile Save";  
-"Profile Copy" = "Profile Copy";  
-"Video Like Count" = "Video Like Count";  
-"Video Upload Date" = "Video Upload Date";  
-  
-// Confirm Features  
-"Like Confirmation" = "Like Confirmation";  
-"Like Comment Confirmation" = "Like Comment Confirmation";  
-"Dislike Comment Confirmation" = "Dislike Comment Confirmation";  
-"Follow Confirmation" = "Follow Confirmation";  
-  
-// Other Features  
-"Auto Clear History" = "Auto Clear History";  
-"Enable Fake Changes" = "Enable Fake Changes";  
-"Follower" = "Followers";  
-"Following" = "Following";  
-"Fake Verified" = "Fake Verified";  
-"Extended Bio" = "Extended Bio";  
-"Extended Comments" = "Extended Comments";  
-"Upload HD" = "Upload HD";  
-"App Lock" = "App Lock";  
-"Enable Flex" = "Enable Flex";  
-"Enable Oled Keyboard" = "Enable OLED Keyboard";  
-"Enable Native Download Progress";
-  
-// Feature Descriptions  
-"FEATURE_HIDE_ADS" = "Hides ads from feed";  
-"FEATURE_DOWNLOAD_BUTTON" = "Enables download button for posts and stories";  
-"FEATURE_SHARE_SHEET" = "Opens share sheet after downloading media";  
-"FEATURE_REMOVE_WATERMARK" = "Removes watermark (animated TikTok logo and username) from downloaded media";  
-"FEATURE_UI_BUTTON" = "Shows or hides UI button";  
-"FEATURE_STOP_PLAYBACK" = "Stops video playback when it ends";  
-"FEATURE_AUTO_PLAY" = "Enables automatic video scrolling";  
-"FEATURE_PROGRESS_BAR" = "Shows duration bar under each video";  
-"FEATURE_TRANSPARENT_COMMENTS" = "Makes comments section transparent";  
-"FEATURE_SHOW_USERNAMES" = "Replaces nicknames with tags";  
-"FEATURE_DISABLE_SENSITIVE" = "Hides inappropriate content warning";  
-"FEATURE_DISABLE_WARNINGS" = "Hides TikTok warnings";  
-"FEATURE_DISABLE_LIVE" = "Hides live streams in feed";  
-"FEATURE_SKIP_RECOMMENDED" = "Removes friend recommendations etc";  
-"FEATURE_UPLOAD_REGION" = "Shows upload region flag next to username";  
-"FEATURE_HIDE_TOP_ITEMS" = "Hides search button, LIVE and others (For You, Following, Shop etc...)";  
-"FEATURE_ANONYMOUS_SEEN" = "Enables read receipts blocking";  
-"FEATURE_PROFILE_SAVE" = "Saves profile info to clipboard";  
-"FEATURE_PROFILE_COPY" = "Copies profile information";  
-"FEATURE_LIKE_COUNT" = "Shows like count on messages";  
-"FEATURE_UPLOAD_DATE" = "Shows upload date";  
-"FEATURE_CONFIRM_LIKE" = "Shows confirmation to like video";  
-"FEATURE_CONFIRM_COMMENT_LIKE" = "Shows confirmation to like comment";  
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Shows confirmation to dislike comment";  
-"FEATURE_CONFIRM_FOLLOW" = "Shows confirmation to follow user";  
-"FEATURE_AUTO_CLEAR" = "Automatically clears search history every 60 seconds";  
-"FEATURE_FAKE_CHANGES" = "Enables profile data spoofing";  
-"FEATURE_FOLLOWER_COUNT" = "Enter fake follower count";  
-"FEATURE_FOLLOWING_COUNT" = "Enter fake following count";  
-"FEATURE_FAKE_VERIFIED" = "Shows fake verification badge";  
-"FEATURE_EXTENDED_BIO" = "Extends bio character limit";  
-"FEATURE_EXTENDED_COMMENTS" = "Extends comments character limit";  
-"FEATURE_UPLOAD_HD" = "Enables HD uploads";  
-"FEATURE_APP_LOCK" = "Adds ability to lock TikTok with password";  
-"FEATURE_ENABLE_FLEX" = "For developers only, DO NOT TOUCH if you don't know what it does";  
-"FEATURE_OLED_KEYBOARD" = "Only works with dark theme";  
-"FEATURE_NATIVE_DOWNLOAD_PROGRESS" = "Show Native TUXToast (native tiktik pill) For Download Progress"
-  
-// Developer Section  
-"DEVELOPER_TELEGRAM" = "Join Telegram channel for latest updates";  
-"DEVELOPER_SUPPORT" = "Support BHTTPP and get access to beta testing group";  
-  
-// Comment Features  
-"Disable Comment Tooltip" = "Disable Comment Tooltip";  
-"Add Comment as Post" = "Add Comment as Post";  
-"Add Comment as Story" = "Add Comment as Story";  
-"Mass Unfold Comment Replies" = "Mass Unfold Replies";  
-"Auto Unfold Comment Texts" = "Auto Unfold Texts";  
-"Multi Emoji Comment Bar" = "Multi Emoji Bar";  
-"Hide Emoji-Bar" = "Hide Emoji Bar";  
-"Comment Cell Redesign" = "Comment Cell Redesign";  
-  
-// Comment Feature Descriptions  
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disables emoji tooltip when holding comment button";  
-"FEATURE_ADD_COMMENT_POST" = "Enables commenting as post";  
-"FEATURE_ADD_COMMENT_STORY" = "Enables commenting as story";  
-"FEATURE_MASS_UNFOLD" = "Unfolds all comment replies at once";  
-"FEATURE_AUTO_UNFOLD" = "Unfolds text in long comments";  
-"FEATURE_MULTI_EMOJI" = "Enables extended emoji panel in comments";  
-"FEATURE_HIDE_EMOJI" = "Hides emoji panel in comments";  
-"FEATURE_COMMENT_REDESIGN" = "Allows selecting comment cell design";  
-  
-// Comment and Design Settings  
-"Comment Settings" = "Comment Settings";  
-"Design Options" = "Design Options";  
-"Comment Features" = "Comment Features";  
-"Comment Design" = "Comment Design";  
-"Select Design" = "Select Design";  
-  
-// Design Options  
-"Default" = "Default";  
-"Modern" = "Modern";  
-"Compact" = "Compact";  
-  
-// Action Options  
-"Cancel" = "Cancel";  
-"Regions" = "Regions";  
-"Live Button Actions" = "Live Button Actions";  
-"Actions" = "Actions";  
-"Live Actions" = "Live Actions";  
-  
-// Playback Settings  
-"BHTikTok++ Settings" = "BHTikTok++ Settings";  
-"Playback Speed" = "Playback Speed";  
-"Select Speed" = "Select Speed";  
-  
-// Region Section  
-"Enable Region Changing Functionality" = "Enable Region Changing";  
-  
-// Live Button Function Section  
-"Change Action of Live Button" = "Change Live Button Action";  
-  
-// Playback Speed Section  
-"Enable Persistent Playback Speed." = "Enable Persistent Playback Speed";  
-  
-// Comment Settings Section  
-"Configure Advanced Comment Settings" = "Configure Advanced Comment Settings";  
-  
-// Language Section  
-"Select App Language" = "Select Language";  
-  
-"Enable Region Changing" = "Enable Region Changing";  
-"Live Button Action" = "Live Button Action";  
-  
-"Language 🌎" = "Language 🌎";  
+
+// MARK: - Error Messages
+"Could Not Copy Music" = "Could Not Copy Music";
+"The video doesn't have music to download" = "This video has no music to download";
+
+// MARK: - Main Sections
+"Feed" = "Feed";
+"Profile" = "Profile";
+"Other" = "Other";
+"Region" = "Region";
+"Developer" = "Developer";
+"Live Button Function" = "Live Button Function";
+"Playback Speed" = "Playback Speed";
+
+// MARK: - Feed Features
+"Hide Ads" = "Hide Ads";
+"Download Button" = "Download Button";
+"Share Sheet" = "Share Sheet";
+"Remove Watermark" = "Remove Watermark";
+"Show/Hide UI Button" = "Show/Hide UI Button";
+"Stop Playback" = "Stop Playback";
+"Auto Play Next Video" = "Auto Play Next Video";
+"Show Progress Bar" = "Show Progress Bar";
+"Transparent Comments" = "Transparent Comments";
+"Show Usernames" = "Show Usernames";
+"Disable Sensitive Content" = "Disable Sensitive Content";
+"Disable Warnings" = "Disable Warnings";
+"Disable Live Streaming" = "Disable Live Streaming";
+"Skip Recommendations" = "Skip Recommendations";
+"Upload Region" = "Upload Region";
+"Hide Top Feed items" = "Hide Top Feed Items";
+"Anonymous Seen" = "Anonymous Seen";
+
+// MARK: - Profile Features
+"Profile Save" = "Profile Save";
+"Profile Copy" = "Profile Copy";
+"Video Like Count" = "Video Like Count";
+"Video Upload Date" = "Video Upload Date";
+"User Post Count" = "User Post Count";
+"Follower" = "Followers";
+"Following" = "Following";
+"Fake Verified" = "Fake Verified";
+"Extended Bio" = "Extended Bio";
+"Extended Comments" = "Extended Comments";
+"Upload HD" = "Upload HD";
+"App Lock" = "App Lock";
+"Enable Flex" = "Enable Flex";
+"Enable Oled Keyboard" = "Enable OLED Keyboard";
+"Post Stats" = "Post Stats";
+
+// MARK: - Confirmation Features
+"Like Confirmation" = "Like Confirmation";
+"Like Comment Confirmation" = "Like Comment Confirmation";
+"Dislike Comment Confirmation" = "Dislike Comment Confirmation";
+"Follow Confirmation" = "Follow Confirmation";
+
+// MARK: - Other Features
+"Auto Clear History" = "Auto Clear History";
+"Enable Fake Changes" = "Enable Fake Changes";
+
+// MARK: - Comment Features
+"Comment Settings" = "Comment Settings";
+"Disable Comment Tooltip" = "Disable Comment Tooltip";
+"Add Comment as Post" = "Add Comment as Post";
+"Add Comment as Story" = "Add Comment as Story";
+"Mass Unfold Comment Replies" = "Mass Unfold Replies";
+"Auto Unfold Comment Texts" = "Auto Unfold Texts";
+"Multi Emoji Comment Bar" = "Multi Emoji Bar";
+"Hide Emoji-Bar" = "Hide Emoji Bar";
+"Comment Cell Redesign" = "Comment Cell Redesign";
+
+// MARK: - Feature Descriptions
+"FEATURE_HIDE_ADS" = "Hides ads from feed";
+"FEATURE_DOWNLOAD_BUTTON" = "Enables download button for posts and stories";
+"FEATURE_SHARE_SHEET" = "Opens share sheet after downloading media";
+"FEATURE_REMOVE_WATERMARK" = "Removes watermark (animated TikTok logo and username) from downloaded media";
+"FEATURE_UI_BUTTON" = "Shows or hides UI button";
+"FEATURE_STOP_PLAYBACK" = "Stops video playback when it ends";
+"FEATURE_AUTO_PLAY" = "Enables automatic video scrolling";
+"FEATURE_PROGRESS_BAR" = "Shows duration bar under each video";
+"FEATURE_TRANSPARENT_COMMENTS" = "Makes comments section transparent";
+"FEATURE_SHOW_USERNAMES" = "Replaces nicknames with tags";
+"FEATURE_DISABLE_SENSITIVE" = "Hides inappropriate content warning";
+"FEATURE_DISABLE_WARNINGS" = "Hides TikTok warnings";
+"FEATURE_DISABLE_LIVE" = "Hides live streams in feed";
+"FEATURE_SKIP_RECOMMENDED" = "Removes friend recommendations etc";
+"FEATURE_UPLOAD_REGION" = "Shows upload region flag next to username";
+"FEATURE_HIDE_TOP_ITEMS" = "Hides search button, LIVE and others (For You, Following, Shop etc...)";
+"FEATURE_ANONYMOUS_SEEN" = "Enables read receipts blocking";
+"FEATURE_PROFILE_SAVE" = "Saves profile info to clipboard";
+"FEATURE_PROFILE_COPY" = "Copies profile information";
+"FEATURE_USER_POST_COUNT" = "Shows The Number Of Uploaded Videos";
+"FEATURE_LIKE_COUNT" = "Shows like count on messages";
+"FEATURE_UPLOAD_DATE" = "Shows upload date";
+"FEATURE_CONFIRM_LIKE" = "Shows confirmation to like video";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Shows confirmation to like comment";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Shows confirmation to dislike comment";
+"FEATURE_CONFIRM_FOLLOW" = "Shows confirmation to follow user";
+"FEATURE_AUTO_CLEAR" = "Automatically clears search history every 60 seconds";
+"FEATURE_FAKE_CHANGES" = "Enables profile data spoofing";
+"FEATURE_FOLLOWER_COUNT" = "Enter fake follower count";
+"FEATURE_FOLLOWING_COUNT" = "Enter fake following count";
+"FEATURE_FAKE_VERIFIED" = "Shows fake verification badge";
+"FEATURE_EXTENDED_BIO" = "Extends bio character limit";
+"FEATURE_EXTENDED_COMMENTS" = "Extends comments character limit";
+"FEATURE_UPLOAD_HD" = "Enables HD uploads";
+"FEATURE_APP_LOCK" = "Adds ability to lock TikTok with password";
+"FEATURE_ENABLE_FLEX" = "For developers only, DO NOT TOUCH if you don't know what it does";
+"FEATURE_OLED_KEYBOARD" = "Only works with dark theme";
+"FEATURE_POST_STATS" = "Show a Menu Button In Download Section For Post Stats";
+
+// MARK: - Comment Feature Descriptions
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disables emoji tooltip when holding comment button";
+"FEATURE_ADD_COMMENT_POST" = "Enables commenting as post";
+"FEATURE_ADD_COMMENT_STORY" = "Enables commenting as story";
+"FEATURE_MASS_UNFOLD" = "Unfolds all comment replies at once";
+"FEATURE_AUTO_UNFOLD" = "Unfolds text in long comments";
+"FEATURE_MULTI_EMOJI" = "Enables extended emoji panel in comments";
+"FEATURE_HIDE_EMOJI" = "Hides emoji panel in comments";
+"FEATURE_COMMENT_REDESIGN" = "Allows selecting comment cell design";
+
+// MARK: - Developer Section
+"DEVELOPER_TELEGRAM" = "Join Telegram channel for latest updates";
+"DEVELOPER_SUPPORT" = "Support BHTTPP and get access to beta testing group";
+
+// MARK: - Design Options
+"Design Options" = "Design Options";
+"Comment Design" = "Comment Design";
+"Select Design" = "Select Design";
+"Default" = "Default";
+"Modern" = "Modern";
+"Compact" = "Compact";
+
+// MARK: - Action Options
+"Regions" = "Regions";
+"Live Button Actions" = "Live Button Actions";
+"Actions" = "Actions";
+"Live Actions" = "Live Actions";
+
+// MARK: - Settings
+"Language 🌎" = "Language 🌎";
 "Speeds" = "Speeds";
+"Playback Speed" = "Playback Speed";
+"Select Speed" = "Select Speed";
+"Enable Region Changing" = "Enable Region Changing";
+"Live Button Action" = "Live Button Action";
+"Enable Region Changing Functionality" = "Enable Region Changing";
+"Change Action of Live Button" = "Change Live Button Action";
+"Enable Persistent Playback Speed" = "Enable Persistent Playback Speed";
+"Configure Advanced Comment Settings" = "Configure Advanced Comment Settings";
+"Select App Language" = "Select Language";
