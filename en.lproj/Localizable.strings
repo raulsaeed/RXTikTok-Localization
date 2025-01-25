@@ -96,6 +96,7 @@
 // MARK: - Other Features
 "Auto Clear History" = "Auto Clear History";
 "Enable Fake Changes" = "Enable Fake Changes";
+"Enable Embeded Links" = "Enable Embeded Links";
 
 // MARK: - Comment Features
 "Comment Settings" = "Comment Settings";
@@ -127,6 +128,7 @@
 "FEATURE_HIDE_TOP_ITEMS" = "Hides search button, LIVE and others (For You, Following, Shop etc...)";
 "FEATURE_ANONYMOUS_SEEN" = "Enables read receipts blocking";
 "FEATURE_PROFILE_SAVE" = "Saves profile info to clipboard";
+"FEATURE_EMBED_LINKS" = "Enable Embeded Links When Copying a Link";
 "FEATURE_PROFILE_COPY" = "Copies profile information";
 "FEATURE_USER_POST_COUNT" = "Shows The Number Of Uploaded Videos";
 "FEATURE_LIKE_COUNT" = "Shows like count on messages";
