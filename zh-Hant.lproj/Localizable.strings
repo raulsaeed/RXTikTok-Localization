@@ -96,6 +96,7 @@
 // MARK: - Other Features
 "Auto Clear History" = "自動清除歷史記錄";
 "Enable Fake Changes" = "啟用偽裝變更";
+"Enable Embeded Links" = "啟用內嵌連結";
 
 // MARK: - Comment Features
 "Comment Settings" = "評論設定";
@@ -127,6 +128,7 @@
 "FEATURE_HIDE_TOP_ITEMS" = "隱藏搜尋按鈕、直播和其他項目（為你推薦、關注中、商店等）";
 "FEATURE_ANONYMOUS_SEEN" = "啟用已讀回條封鎖";
 "FEATURE_PROFILE_SAVE" = "將個人資料資訊儲存到剪貼簿";
+"FEATURE_EMBED_LINKS" = "複製連結時啟用內嵌連結功能";
 "FEATURE_PROFILE_COPY" = "複製個人資料資訊";
 "FEATURE_USER_POST_COUNT" = "顯示已上傳影片數量";
 "FEATURE_LIKE_COUNT" = "顯示訊息按讚數";
