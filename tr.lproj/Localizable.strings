@@ -1,13 +1,9 @@
 /* Localizable.strings */
 
 // Main Titles
-" RXTikTok, Hi" = " RXTikTok, Merhaba";
-" RXTikTok Settings" = " RXTikTok Ayarları";
-<<<<<<< HEAD
-"Join Our Telegram." = "Join Our Telegram.";
-=======
-@"Join Our Telegram." = @"Telegram Kanalımıza Katıl.";
->>>>>>> 78981cc02d2303c7f5ffe8a245566967a820e7ab
+"RXTikTok, Hi" = "RXTikTok, Merhaba";
+"RXTikTok Settings" = "RXTikTok Ayarları";
+"Join Our Telegram." = "Telegram Kanalımıza Katıl";
 
 // Common Actions
 "Yes" = "Evet";

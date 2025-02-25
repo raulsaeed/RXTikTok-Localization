@@ -1,8 +1,8 @@
 /* Localizable.strings */
 
 // MARK: - Core UI Elements
-" RXTikTok, Hi" = " RXTikTok, Hi";
-" RXTikTok Settings" = " RXTikTok Settings";
+"RXTikTok, Hi" = "RXTikTok, Hi";
+"RXTikTok Settings" = "RXTikTok Settings";
 "Welcome" = "Welcome";
 "Tap to Join the Telegram" = "Tap to Join the Telegram";
 
@@ -162,7 +162,7 @@
 
 // MARK: - Developer Section
 "DEVELOPER_TELEGRAM" = "Join Telegram channel for latest updates";
-"DEVELOPER_SUPPORT" = "Support  RXTikTok and get access to beta testing group";
+"DEVELOPER_SUPPORT" = "Support RXTikTok and get access to beta testing group";
 
 // MARK: - Design Options
 "Design Options" = "Design Options";

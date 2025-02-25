@@ -1,8 +1,8 @@
 /* Localizable.strings */
 
 // Main Titles
-" RXTikTok, Hi" = " RXTikTok, Привіт";
-" RXTikTok settings" = "Налаштування  RXTikTok";
+"RXTikTok, Hi" = "RXTikTok, Привіт";
+"RXTikTok settings" = "Налаштування RXTikTok";
 "Join Our Telegram." = "Join Our Telegram.";
 
 // Common Actions
@@ -130,7 +130,7 @@
 
 // Developer Section
 "DEVELOPER_TELEGRAM" = "Приєднуйтесь до телеграм-каналу для отримання останніх оновлень";
-"DEVELOPER_SUPPORT" = "Підтримайте  RXTikTok та отримайте доступ до групи для бета-тестування";
+"DEVELOPER_SUPPORT" = "Підтримайте RXTikTok та отримайте доступ до групи для бета-тестування";
 
 // Comment Features  
 "Disable Comment Tooltip" = "Вимкнути підказку емодзі";  
@@ -201,7 +201,7 @@
 "Live Actions" = "Дії для кнопки LIVE";  
 
 // Playback Settings 
-" RXTikTok Settings" = "Налаштування  RXTikTok";  
+" RXTikTok Settings" = "Налаштування RXTikTok";  
 "Playback Speed" = "Швидкість відтворення";  
 "Select Speed" = "Обрати швидкість";
 

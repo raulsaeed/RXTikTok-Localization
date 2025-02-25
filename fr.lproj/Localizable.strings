@@ -1,8 +1,8 @@
 /* Localizable.strings */
   
 // Titres principaux
-" RXTikTok, Hi" = " RXTikTok, Salut";
-" RXTikTok settings" = "Paramètres de  RXTikTok";
+"RXTikTok, Hi" = "RXTikTok, Salut";
+"RXTikTok settings" = "Paramètres de RXTikTok";
 "Join Our Telegram." = "Join Our Telegram.";
   
 // Actions courantes
@@ -130,7 +130,7 @@
   
 // Section développeur
 "DEVELOPER_TELEGRAM" = "Rejoignez le canal Telegram pour les dernières mises à jour";
-"DEVELOPER_SUPPORT" = "Soutenez  RXTikTok et accédez au groupe de test bêta";
+"DEVELOPER_SUPPORT" = "Soutenez RXTikTok et accédez au groupe de test bêta";
   
 // Fonctionnalités des commentaires
 "Disable Comment Tooltip" = "Désactiver l'info-bulle des commentaires";
@@ -172,7 +172,7 @@
 "Live Actions" = "Actions en direct";
   
 // Paramètres de lecture
-" RXTikTok Settings" = "Paramètres de  RXTikTok";
+" RXTikTok Settings" = "Paramètres de RXTikTok";
 "Playback Speed" = "Vitesse de lecture";
 "Select Speed" = "Sélectionner la vitesse";
   
