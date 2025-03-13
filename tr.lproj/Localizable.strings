@@ -1,8 +1,8 @@
 /* Localizable.strings */
 
 // Main Titles
-"BHTikTok++, Hi" = "BHTikTok++, Merhaba";
-"BHTikTok++ Settings" = "BHTikTok++ Ayarları";
+" RXTikTok, Hi" = " RXTikTok, Merhaba";
+" RXTikTok Settings" = " RXTikTok Ayarları";
 <<<<<<< HEAD
 "Join Our Telegram." = "Join Our Telegram.";
 =======
@@ -132,7 +132,7 @@
 
 // Language Settings
 "Language 🌎" = "Dil 🌎";
-"Select App Language" = "BHTikTok++ Ayarlarının Dilini Seç";
+"Select App Language" = " RXTikTok Ayarlarının Dilini Seç";
 
 // Feature Descriptions
 "FEATURE_HIDE_ADS" = "Bütün Reklamları Devre Dışı Bırak";
@@ -183,4 +183,4 @@
 // Developer Section
 "Developer" = "Geliştirici";
 "DEVELOPER_TELEGRAM" = "Son güncellemelerden haberdar olmak için lütfen Telegram kanalımıza katılın. | 🇹🇷 Çeviri : @ekotin";
-"DEVELOPER_SUPPORT" = "BHTikTok++'ın güncel kalması için bağış yapın, öncelikli Beta Test grubumuza katılın.";
+"DEVELOPER_SUPPORT" = " RXTikTok'ın güncel kalması için bağış yapın, öncelikli Beta Test grubumuza katılın.";

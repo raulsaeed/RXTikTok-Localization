@@ -1,4 +1,4 @@
-# BHTikTok-Localization
+# RXTikTok-Localization
 
 Thanks To https://t.me/TikTokModCloud For Ru Localization
 Thanks! To @vagvalas For Vi Localization

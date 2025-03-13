@@ -1,8 +1,8 @@
 /* Localizable.strings */
 
 // Main Titles
-"BHTikTok++, Hi" = "BHTikTok++, مرحبًا";
-"BHTikTok++ settings" = "إعدادات BHTikTok++";
+"RXTikTok, Hi" = "RXTikTok, مرحبًا";
+"RXTikTok settings" = "إعدادات RXTikTok";
 "Join Our Telegram." = "Join Our Telegram.";
 
 // Common Actions
@@ -130,7 +130,7 @@
 
 // Developer Section
 "DEVELOPER_TELEGRAM" = "انضم إلى قناة Telegram للحصول على آخر التحديثات";
-"DEVELOPER_SUPPORT" = "ادعم BHTTPP واحصل على الوصول إلى مجموعة اختبار بيتا";
+"DEVELOPER_SUPPORT" = "ادعم  RXTikTokPP واحصل على الوصول إلى مجموعة اختبار بيتا";
 
 // Comment Features  
 "Disable Comment Tooltip" = "تعطيل تلميح الرموز التعبيرية";  
@@ -164,7 +164,7 @@
 "Live Button Actions" = "إجراءات زر البث المباشر";  
 "Actions" = "الإجراءات";  
 "Live Actions" = "إجراءات البث المباشر";  
-"BHTikTok++ Settings" = "إعدادات BHTikTok++";  
+"RXTikTok Settings" = "إعدادات RXTikTok";  
 "Playback Speed" = "سرعة التشغيل";  
 "Select Speed" = "اختر السرعة";
 

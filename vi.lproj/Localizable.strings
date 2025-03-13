@@ -1,8 +1,8 @@
 /* Localizable.strings */
 
 // Main Titles
-"BHTikTok++, Hi" = "BHTikTok++, Xin chào";
-"BHTikTok++ settings" = "Cấu hình BHTikTok++";
+" RXTikTok, Hi" = " RXTikTok, Xin chào";
+" RXTikTok settings" = "Cấu hình  RXTikTok";
 "Join Our Telegram." = "Tham gia Telegram của chúng tôi.";
 
 // Common Actions
@@ -130,7 +130,7 @@
 
 // Developer Section
 "DEVELOPER_TELEGRAM" = "Tham gia kênh Telegram để nhận các cập nhật mới nhất";
-"DEVELOPER_SUPPORT" = "Hỗ trợ để giữ BHTTPP được cập nhật và truy cập nhóm thử nghiệm beta";
+"DEVELOPER_SUPPORT" = "Hỗ trợ để giữ  RXTikTok được cập nhật và truy cập nhóm thử nghiệm beta";
 
 // Comment Features
 "Disable Comment Tooltip" = "Tắt Tooltip Bình Luận";
@@ -172,7 +172,7 @@
 "Live Actions" = "Hành Động Trực Tiếp";
 
 // Playback Settings
-"BHTikTok++ Settings" = "Cài Đặt BHTikTok++";
+" RXTikTok Settings" = "Cài Đặt  RXTikTok";
 "Playback Speed" = "Tốc Độ Phát";
 "Select Speed" = "Chọn Tốc Độ";
 

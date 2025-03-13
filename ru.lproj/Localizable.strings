@@ -1,8 +1,8 @@
 /* Localizable.strings */
 
 // Main Titles
-"BHTikTok++, Hi" = "BHTikTok++, Прив";
-"BHTikTok++ settings" = "Настройки BHTikTok++";
+" RXTikTok, Hi" = " RXTikTok, Прив";
+" RXTikTok settings" = "Настройки  RXTikTok";
 "Join Our Telegram." = "Join Our Telegram.";
 
 // Common Actions
@@ -130,7 +130,7 @@
 
 // Developer Section
 "DEVELOPER_TELEGRAM" = "Присоединяйтесь к телеграм-каналу для получения последних обновлений";
-"DEVELOPER_SUPPORT" = "Поддержите BHTTPP и получите доступ к группе для бета-тестирования";
+"DEVELOPER_SUPPORT" = "Поддержите  RXTikTok и получите доступ к группе для бета-тестирования";
 
 // Comment Features  
 "Disable Comment Tooltip" = "Отключить подсказку эмодзи";  
@@ -201,7 +201,7 @@
 "Live Actions" = "Действия для кнопки LIVE";  
   
 // Playback Settings  
-"BHTikTok++ Settings" = "Настройки BHTikTok++";  
+" RXTikTok Settings" = "Настройки  RXTikTok";  
 "Playback Speed" = "Скорость воспроизведения";  
 "Select Speed" = "Выберите скорость";
 
