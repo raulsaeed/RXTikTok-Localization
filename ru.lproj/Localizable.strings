@@ -1,9 +1,9 @@
 /* Localizable.strings */
 
 // Main Titles
-"RXTikTok, Hi" = " RXTikTok, Прив";
+"RXTikTok, Hi" = " RXTikTok, Привет";
 "RXTikTok Settings" = "Настройки  RXTikTok";
-"Join Our Telegram." = "Join Our Telegram.";
+"Join Our Telegram." = "Подпишитесь на наш Telegram.";
 
 // Common Actions
 "Yes" = "Да";
@@ -18,8 +18,8 @@
 "Download Video" = "Скачать видео";
 "Download HD Video" = "Скачать видео (HD)";
 "Download Music" = "Скачать музыку";
-"Download Photo" = "Скачать картинку";
-"Download All Photos" = "Скачать все картинки";
+"Download Photo" = "Скачать фото";
+"Download All Photos" = "Скачать все фото";
 
 // Copy Options
 "Copy Music Link" = "Копировать ссылку на музыку";
@@ -34,7 +34,7 @@
 // Menu Labels
 "Downloads Menu" = "Меню скачивания";
 "Copy Menu" = "Меню копирования";
-"Download Photos Menu" = "Меню скачивания картинок";
+"Download Photos Menu" = "Меню скачивания фото";
 
 // Section Headers
 "Feed" = "Лента";
@@ -47,17 +47,17 @@
 "Developer" = "Разработчик";
 
 // Feed Features
-"Hide Ads" = "Удалить рекламу из ленты";
+"Hide Ads" = "Убрать рекламу из ленты";
 "Download Button" = "Кнопка загрузки";
-"Share Sheet" = "Панель поделиться";
-"Remove Watermark" = "Удалить водяной знак";
+"Share Sheet" = "Панель "поделиться"";
+"Remove Watermark" = "Убрать водяной знак";
 "Show/Hide UI Button" = "Показать/скрыть кнопку интерфейса";
-"Stop Playback" = "Повтор воспроизведения";
+"Stop Playback" = "Остановка воспроизведения";
 "Auto Play Next Video" = "Автоматическая прокрутка";
 "Show Progress Bar" = "Длительность воспроизведения";
 "Transparent Comments" = "Прозрачные комментарии";
 "Show Usernames" = "Показать тег вместо ника";
-"Disable Sensitive Content" = "Разблокировать неприемлемый контент";
+"Disable Sensitive Content" = "Разблокировать деликатный контент";
 "Disable Warnings" = "Удалить предупреждения";
 "Disable Live Streaming" = "Удалить прямые трансляции";
 "Skip Recommendations" = "Удалить рекомендации";
@@ -72,7 +72,7 @@
 "Video Upload Date" = "Дата загрузки видео";
 
 // Confirm Features
-"Like Confirmation" = "Подтверждение лайка видео";
+"Like Confirmation" = "Подтверждение лайка поста";
 "Like Comment Confirmation" = "Подтверждение лайка комментария";
 "Dislike Comment Confirmation" = "Подтверждение дизлайка комментария";
 "Follow Confirmation" = "Подтверждение подписки";
@@ -201,7 +201,7 @@
 "Live Actions" = "Действия для кнопки LIVE";  
   
 // Playback Settings  
-"RXTikTok Settings" = "Настройки  RXTikTok";  
+"RXTikTok Settings" = "Настройки RXTikTok";  
 "Playback Speed" = "Скорость воспроизведения";  
 "Select Speed" = "Выберите скорость";
 
@@ -218,7 +218,7 @@
 "Configure Advanced Comment Settings" = "Настраивает раздел комментариев";  
   
 // Language Section  
-"Select App Language" = "Выберите язык";
+"Select App Language" = "Выберите язык приложения";
 
 "Enable Region Changing" = "Включить смену региона";  
 "Live Button Action" = "Функция кнопки LIVE";
