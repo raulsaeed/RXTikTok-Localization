@@ -1,8 +1,8 @@
 /* Localizable.strings */
   
 // Titres principaux
-" RXTikTok, Hi" = " RXTikTok, Salut";
-" RXTikTok settings" = "Paramètres de  RXTikTok";
+"RXTikTok, Hi" = " RXTikTok, Salut";
+"RXTikTok Settings" = "Paramètres de  RXTikTok";
 "Join Our Telegram." = "Join Our Telegram.";
   
 // Actions courantes
@@ -22,7 +22,7 @@
 "Download All Photos" = "Télécharger toutes les photos";
   
 // Options de copie
-"Copy Music link" = "Copier le lien de la musique";
+"Copy Music Link" = "Copier le lien de la musique";
 "Copy Video link" = "Copier le lien de la vidéo";
 "Copy Decription" = "Copier la description";
 "Copy bio" = "Copier la biographie";
@@ -172,7 +172,7 @@
 "Live Actions" = "Actions en direct";
   
 // Paramètres de lecture
-" RXTikTok Settings" = "Paramètres de  RXTikTok";
+"RXTikTok Settings" = "Paramètres de  RXTikTok";
 "Playback Speed" = "Vitesse de lecture";
 "Select Speed" = "Sélectionner la vitesse";
   

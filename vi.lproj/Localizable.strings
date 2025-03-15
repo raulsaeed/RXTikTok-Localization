@@ -1,8 +1,8 @@
 /* Localizable.strings */
 
 // Main Titles
-" RXTikTok, Hi" = " RXTikTok, Xin chào";
-" RXTikTok settings" = "Cấu hình  RXTikTok";
+"RXTikTok, Hi" = " RXTikTok, Xin chào";
+"RXTikTok Settings" = "Cấu hình  RXTikTok";
 "Join Our Telegram." = "Tham gia Telegram của chúng tôi.";
 
 // Common Actions
@@ -22,7 +22,7 @@
 "Download All Photos" = "Tải xuống tất cả ảnh";
 
 // Copy Options
-"Copy Music link" = "Sao chép liên kết nhạc";
+"Copy Music Link" = "Sao chép liên kết nhạc";
 "Copy Video link" = "Sao chép liên kết video";
 "Copy Decription" = "Sao chép mô tả";
 "Copy bio" = "Sao chép tiểu sử";
@@ -172,7 +172,7 @@
 "Live Actions" = "Hành Động Trực Tiếp";
 
 // Playback Settings
-" RXTikTok Settings" = "Cài Đặt  RXTikTok";
+"RXTikTok Settings" = "Cài Đặt  RXTikTok";
 "Playback Speed" = "Tốc Độ Phát";
 "Select Speed" = "Chọn Tốc Độ";
 

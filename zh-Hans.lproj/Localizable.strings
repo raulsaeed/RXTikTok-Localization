@@ -1,8 +1,8 @@
 /* Localizable.strings */
 
 // Main Titles
-" RXTikTok, Hi" = "嗨， RXTikTok！";
-" RXTikTok settings" = " RXTikTok 设置";
+"RXTikTok, Hi" = "嗨， RXTikTok！";
+"RXTikTok Settings" = " RXTikTok 设置";
 "Join Our Telegram." = "加入我们的电报";
 
 // Common Actions
@@ -26,7 +26,7 @@
 "Download Photos Menu" = "图片下载菜单";
 
 // Copy Options
-"Copy Music link" = "复制音乐链接";
+"Copy Music Link" = "复制音乐链接";
 "Copy Video link" = "复制视频链接";
 "Copy Description" = "复制描述文案";
 "Copy bio" = "复制资料";
@@ -122,11 +122,11 @@
 "Enable Region Changing Functionality" = "启用区域更改功能";
 
 // Playback Settings
-" RXTikTok Settings" = " RXTikTok 设置";
+"RXTikTok Settings" = " RXTikTok 设置";
 "Playback Speed" = "播放速度";
 "Select Speed" = "播放速度";
 "Speeds" = "速度";
-"Enable Persistent Playback Speed" = "启用播放速度控制";
+"Enable Persistent Playback Speed." = "启用播放速度控制";
 "Enable Persistent Playback Speed." = "启用播放速度控制";  
 
 // Language Settings

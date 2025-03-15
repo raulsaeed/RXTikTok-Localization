@@ -1,8 +1,8 @@
 /* Localizable.strings */
 
 // Main Titles
-" RXTikTok, Hi" = " RXTikTok, Привіт";
-" RXTikTok settings" = "Налаштування  RXTikTok";
+"RXTikTok, Hi" = " RXTikTok, Привіт";
+"RXTikTok Settings" = "Налаштування  RXTikTok";
 "Join Our Telegram." = "Join Our Telegram.";
 
 // Common Actions
@@ -22,7 +22,7 @@
 "Download All Photos" = "Завантажити всі фото";
 
 // Copy Options
-"Copy Music link" = "Скопіювати посилання на музику";
+"Copy Music Link" = "Скопіювати посилання на музику";
 "Copy Video link" = "Скопіювати посилання на відео";
 "Copy Decription" = "Скопіювати опис";
 "Copy bio" = "Скопіювати біо профілю";
@@ -201,7 +201,7 @@
 "Live Actions" = "Дії для кнопки LIVE";  
 
 // Playback Settings 
-" RXTikTok Settings" = "Налаштування  RXTikTok";  
+"RXTikTok Settings" = "Налаштування  RXTikTok";  
 "Playback Speed" = "Швидкість відтворення";  
 "Select Speed" = "Обрати швидкість";
 

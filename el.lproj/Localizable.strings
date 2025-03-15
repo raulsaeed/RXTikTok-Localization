@@ -25,7 +25,7 @@
 "Download Photos Menu" = "Μενού Λήψεων εικόνων";
 
 // Copy Options
-"Copy Music link" = "Αντιγραφή Συνδέσμου Μουσικής";
+"Copy Music Link" = "Αντιγραφή Συνδέσμου Μουσικής";
 "Copy Video link" = "Αντιγραφή Συνδέσμου Βίντεο";
 "Copy Description" = "Αντιγραφή Περιγραφής";
 "Copy bio" = "Αντιγραφή ΒΙΟ";
@@ -124,7 +124,7 @@
 "Playback Speed" = "Ταχύτητα αναπαραγωγής";
 "Select Speed" = "Επιλογή ταχύτητας";
 "Speeds" = "Ταχύτητες";
-"Enable Persistent Playback Speed" = "Ενεργοποίηση μόνιμης ταχύτητας αναπαραγωγής";
+"Enable Persistent Playback Speed." = "Ενεργοποίηση μόνιμης ταχύτητας αναπαραγωγής";
 
 // Language Settings
 "Language 🌎" = "Γλώσσα 🌎";

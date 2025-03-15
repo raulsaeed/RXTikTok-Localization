@@ -1,23 +1,43 @@
 /* Localizable.strings */
 
 // MARK: - Core UI Elements
-" RXTikTok, Hi" = " RXTikTok, Hi";
-" RXTikTok Settings" = " RXTikTok Settings";
+"RXTikTok, Hi" = "RXTikTok, Hi";
+"RXTikTok Settings" = "RXTikTok Settings";
 "Welcome" = "Welcome";
 "Tap to Join the Telegram" = "Tap to Join the Telegram";
 
-// MARK: - Common Actions
+// MARK: - Global Actions
 "Yes" = "Yes";
 "No" = "No";
 "ON" = "ON";
 "OFF" = "OFF";
 "Cancel" = "Cancel";
 "Confirm" = "Confirm";
-"Downloading" = "Downloading";
+"Actions" = "Actions";
+"Default" = "Default";
+"Modern" = "Modern";
+"Compact" = "Compact";
 "Backgrounding ✌️" = "Backgrounding ✌️";
 "Are you sure?" = "Are you sure?";
 
-// MARK: - Download Options
+// MARK: - Navigation
+"Feed" = "Feed";
+"Profile" = "Profile";
+"Other" = "Other";
+"Region" = "Region";
+"Developer" = "Developer";
+"Design Options" = "Design Options";
+"Other Settings" = "Other Settings";
+"Auto Clear History" = "Auto Clear History";
+"Enable Embeded Links" = "Enable Embeded Links";
+"Language 🌎" = "Language 🌎";
+"Show All Settings Tabs" = "Show All Settings Tabs";
+"Show Video Upload Timestamp" = "Show Video Upload Timestamp";
+"Remove Pendant View" = "Remove Pendant View";
+"Hide Commission Posts" = "Hide Commission Posts";
+"Hide dangerous-action Warning" = "Hide dangerous-action Warning";
+
+// MARK: - Download Features
 "Downloads Menu" = "Downloads Menu";
 "Download Video" = "Download Video";
 "Download HD Video" = "Download HD Video";
@@ -25,35 +45,33 @@
 "Download Photo" = "Download Photo";
 "Download All Photos" = "Download All Photos";
 "Download Photos Menu" = "Download Photos Menu";
+"Downloading" = "Downloading";
+"Download Button" = "Download Button";
 
-// MARK: - Copy Options
+// MARK: - Copy Features
 "Copy Menu" = "Copy Menu";
 "Copy Music Link" = "Copy Music Link";
-"Copy Video link" = "Copy Video Link";
 "Copy Description" = "Copy Description";
+"Post Info" = "Post Info";
+"Copy Video link" = "Copy Video Link";
 "Copy bio" = "Copy Bio";
-
-// MARK: - Copy Confirmations
 "Music Link Copied" = "Music Link Copied";
 "Video Link Copied" = "Video Link Copied";
 "Description Link Copied" = "Description Link Copied";
+"Stats Menu" = "Stats Menu";
+"Video Info" = "Video Info";
 
-// MARK: - Error Messages
-"Could Not Copy Music" = "Could Not Copy Music";
-"The video doesn't have music to download" = "This video has no music to download";
+// MARK: - Confirm Settings
+"Confirm Settings" = "Confirm Settings";
+"Confirmation Settings" = "Confirmation Settings";
+"Like Confirmation" = "Like Confirmation";
+"Like Comment Confirmation" = "Like Comment Confirmation";
+"Dislike Comment Confirmation" = "Dislike Comment Confirmation";
+"Follow Confirmation" = "Follow Confirmation";
 
-// MARK: - Main Sections
-"Feed" = "Feed";
-"Profile" = "Profile";
-"Other" = "Other";
-"Region" = "Region";
-"Developer" = "Developer";
-"Live Button Function" = "Live Button Function";
-"Playback Speed" = "Playback Speed";
-
-// MARK: - Feed Features
+// MARK: - Feed Settings
+"Feed Settings" = "Feed Settings";
 "Hide Ads" = "Hide Ads";
-"Download Button" = "Download Button";
 "Share Sheet" = "Share Sheet";
 "Remove Watermark" = "Remove Watermark";
 "Show/Hide UI Button" = "Show/Hide UI Button";
@@ -69,8 +87,10 @@
 "Upload Region" = "Upload Region";
 "Hide Top Feed items" = "Hide Top Feed Items";
 "Anonymous Seen" = "Anonymous Seen";
+"Hide Play/Pause Button" = "Hide Play/Pause Button";
 
-// MARK: - Profile Features
+// MARK: - Profile Settings
+"Profile Settings" = "Profile Settings";
 "Profile Save" = "Profile Save";
 "Profile Copy" = "Profile Copy";
 "Video Like Count" = "Video Like Count";
@@ -79,6 +99,7 @@
 "Follower" = "Followers";
 "Following" = "Following";
 "Fake Verified" = "Fake Verified";
+"Enable Fake Changes" = "Enable Fake Changes";
 "Extended Bio" = "Extended Bio";
 "Extended Comments" = "Extended Comments";
 "Upload HD" = "Upload HD";
@@ -86,20 +107,13 @@
 "Enable Flex" = "Enable Flex";
 "Enable Oled Keyboard" = "Enable OLED Keyboard";
 "Post Stats" = "Post Stats";
+"Enable Text To Reposts" = "Enable Text To Reposts";
+"Disable Survey Popups" = "Disable Survey Popups";
 
-// MARK: - Confirmation Features
-"Like Confirmation" = "Like Confirmation";
-"Like Comment Confirmation" = "Like Comment Confirmation";
-"Dislike Comment Confirmation" = "Dislike Comment Confirmation";
-"Follow Confirmation" = "Follow Confirmation";
-
-// MARK: - Other Features
-"Auto Clear History" = "Auto Clear History";
-"Enable Fake Changes" = "Enable Fake Changes";
-"Enable Embeded Links" = "Enable Embeded Links";
-
-// MARK: - Comment Features
+// MARK: - Comment Settings
 "Comment Settings" = "Comment Settings";
+"Comment Design" = "Comment Design";
+"Select Design" = "Select Design";
 "Disable Comment Tooltip" = "Disable Comment Tooltip";
 "Add Comment as Post" = "Add Comment as Post";
 "Add Comment as Story" = "Add Comment as Story";
@@ -107,9 +121,70 @@
 "Auto Unfold Comment Texts" = "Auto Unfold Texts";
 "Multi Emoji Comment Bar" = "Multi Emoji Bar";
 "Hide Emoji-Bar" = "Hide Emoji Bar";
+"Add Translation Button" = "Add Translation Button";
 "Comment Cell Redesign" = "Comment Cell Redesign";
+"Enable Comment Photos" = "Enable Comment Photos";
+"Enable Comment Stickers" = "Enable Comment Stickers";
+"Enable Comment Flags" = "Enable Comment Flags";
+"Enable Copy Without Username" = "Enable Copy Without Username";
+"Configure Advanced Comment Settings" = "Configure Advanced Comment Settings";
+
+// MARK: - Tab Bar Settings
+"Tab Bar Settings" = "Tab Bar Settings";
+"Tab Bar Configurations" = "Tab Bar Configurations";
+"Hide Plus Button" = "Hide Plus Button";
+"Hide Friends Badge" = "Hide Friends Badge";
+"Hide Inbox Badge" = "Hide Inbox Badge";
+"Changes will take effect after restarting the app" = "Changes will take effect after restarting the app";
+
+// MARK: - Live Button Settings
+"Live Button Settings" = "Live Button Settings";
+"Live Button Function" = "Live Button Function";
+"Live Button Actions" = "Live Button Actions";
+"Live Actions" = "Live Actions";
+"Playback Speed" = "Playback Speed";
+"Select Action" = "Select Action";
+"Change the behavior of the Live button" = "Change the behavior of the Live button";
+"Selected Action" = "Selected Action";
+"Live Button Function Disabled" = "Live Button Function Disabled";
+"Please enable Live Button Function first" = "Please enable Live Button Function first";
+"Change Action of Live Button" = "Change Action of Live Button";
+"Enable Live Button Function" = "Enable Live Button Function";
+
+// MARK: - Chat Settings
+"Chat Settings" = "Chat Settings";
+"Enable Voice Messages" = "Enable Voice Messages";
+"Enable Streaks" = "Enable Streaks";
+"Hide Streak Pet" = "Hide Streak Pet";
+"Disable Typing Indicator" = "Disable Typing Indicator";
+"Enable Pin Chat" = "Enable Pin Chat";
+"Bypass Media Limit" = "Bypass Media Limit";
+"Disable AI-Generated Replies" = "Disable AI-Generated Replies";
+"Enable Small Emoji" = "Enable Small Emoji";
+"Anonymous Seen" = "Anonymous Seen";
+
+// MARK: - Playback Speed
+"Enable Playback Speed" = "Enable Playback Speed";
+"Selected Speed" = "Selected Speed";
+"Playback Speed Settings" = "Playback Speed Settings";
+"Enable Persistent Playback Speed." = "Enable Persistent Playback Speed.";
+"Select Speed" = "Select Speed";
+"Control video playback speed" = "Control video playback speed";
+"Playback Speed Disabled" = "Playback Speed Disabled";
+"Please enable Playback Speed first" = "Please enable Playback Speed first";
+
+// MARK: - Region Settings
+"Region Settings" = "Region Settings";
+"Enable region changing to access content from different regions" = "Enable region changing to access content from different regions";
+"Enable Region Changing" = "Enable Region Changing";
+"Enable Region Changing Functionality" = "Enable Region Changing Functionality";
+"Selected Region" = "Selected Region";
+"Region Changing Disabled" = "Region Changing Disabled";
+"Please enable region changing first" = "Please enable region changing first";
 
 // MARK: - Feature Descriptions
+"FEATURE_ENABLE_COMMENT_FLAGS" = "FEATURE_ENABLE_COMMENT_FLAGS";
+"FEATURE_COPY_WITHOUT_USERNAME" = "FEATURE_COPY_WITHOUT_USERNAME";
 "FEATURE_HIDE_ADS" = "Hides ads from feed";
 "FEATURE_DOWNLOAD_BUTTON" = "Enables download button for posts and stories";
 "FEATURE_SHARE_SHEET" = "Opens share sheet after downloading media";
@@ -119,20 +194,27 @@
 "FEATURE_AUTO_PLAY" = "Enables automatic video scrolling";
 "FEATURE_PROGRESS_BAR" = "Shows duration bar under each video";
 "FEATURE_TRANSPARENT_COMMENTS" = "Makes comments section transparent";
+"FEATURE_DISABLE_SURVEY" = "Disable Annoying Survey Questions In Feed";
+"FEATURE_HIDE_PLAY_PAUSE" = "Hide The Play/Pause View In Feed";
 "FEATURE_SHOW_USERNAMES" = "Replaces nicknames with tags";
 "FEATURE_DISABLE_SENSITIVE" = "Hides inappropriate content warning";
+"FEATURE_ADD_TRANSLATION" = "Add a Translation Button in Each Comment";
 "FEATURE_DISABLE_WARNINGS" = "Hides TikTok warnings";
 "FEATURE_DISABLE_LIVE" = "Hides live streams in feed";
 "FEATURE_SKIP_RECOMMENDED" = "Removes friend recommendations etc";
 "FEATURE_UPLOAD_REGION" = "Shows upload region flag next to username";
 "FEATURE_HIDE_TOP_ITEMS" = "Hides search button, LIVE and others (For You, Following, Shop etc...)";
-"FEATURE_ANONYMOUS_SEEN" = "Enables read receipts blocking";
+"FEATURE_ANONYMOUS_SEEN" = "Look at Chats Without The Other Person Knowing";
+"FEATURE_SHOW_ALL_TABS" = "Show All The Hidden Settings Tabs [Beta!]";
 "FEATURE_PROFILE_SAVE" = "Saves profile info to clipboard";
-"FEATURE_EMBED_LINKS" = "Enable Embeded Links When Copying a Link";
+"FEATURE_EMBED_LINKS" = "Enable Embedded Links When Copying a Link";
 "FEATURE_PROFILE_COPY" = "Copies profile information";
 "FEATURE_USER_POST_COUNT" = "Shows The Number Of Uploaded Videos";
 "FEATURE_LIKE_COUNT" = "Shows like count on messages";
 "FEATURE_UPLOAD_DATE" = "Shows upload date";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Show Video Upload Time In FYP";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Hide Warnings Under Sport Video (UFC, Boxing, Etc...)";
+"FEATURE_REMOVE_PENDANT" = "Remove the Top-left Ad-View In fyp";
 "FEATURE_CONFIRM_LIKE" = "Shows confirmation to like video";
 "FEATURE_CONFIRM_COMMENT_LIKE" = "Shows confirmation to like comment";
 "FEATURE_CONFIRM_COMMENT_DISLIKE" = "Shows confirmation to dislike comment";
@@ -142,6 +224,9 @@
 "FEATURE_FOLLOWER_COUNT" = "Enter fake follower count";
 "FEATURE_FOLLOWING_COUNT" = "Enter fake following count";
 "FEATURE_FAKE_VERIFIED" = "Shows fake verification badge";
+"FEATURE_HIDE_PLUS_BTN" = "Hide The Camera Button";
+"FEATURE_HIDE_FRIENDS_BADGE" = "Hide Friend Notification Badge";
+"FEATURE_HIDE_INBOX_BADGE" = "Hide Inbox Notification Badge";
 "FEATURE_EXTENDED_BIO" = "Extends bio character limit";
 "FEATURE_EXTENDED_COMMENTS" = "Extends comments character limit";
 "FEATURE_UPLOAD_HD" = "Enables HD uploads";
@@ -149,44 +234,40 @@
 "FEATURE_ENABLE_FLEX" = "For developers only, DO NOT TOUCH if you don't know what it does";
 "FEATURE_OLED_KEYBOARD" = "Only works with dark theme";
 "FEATURE_POST_STATS" = "Show a Menu Button In Download Section For Post Stats";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Enable Adding Texts To Your Repost";
+"FEATURE_VOICE_MESSAGES" = "Enable Sending Voice Messages In Chat";
+"FEATURE_ENABLE_STREAKS" = "Enable Streaks With Friends";
+"FEATURE_HIDE_STREAK_PET" = "Hide Streak Pet";
+"FEATURE_DISABLE_TYPING" = "Don't Send Typing Indicator Will Chatting";
+"FEATURE_PIN_CHATS" = "Pin Favorite Chats To The Top";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "Bypass Media limits in Chat (Default: 9 Photos, 1 Min Video)";
+"FEATURE_DISABLE_AI_REPLIES" = "Disable AI-Generated Replies To sent Posts";
+"FEATURE_SMALL_EMOJI" = "Enable Sending Small Emojis";
+"FEATURE_REMOVE_PENDANT" = "Remove Annoying Ad-View in Top-left Corner Of The Screen (Only In Some Regions)";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Hide The Annying Warnings Under Sports Video";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Show Upload-Time Next To Username in Fyp";
+"FEATURE_HIDE_COMMISSION_POSTS" = "Remove Post That Say 'Creator Earns Commission'";
 
-// MARK: - Comment Feature Descriptions
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disables emoji tooltip when holding comment button";
-"FEATURE_ADD_COMMENT_POST" = "Enables commenting as post";
-"FEATURE_ADD_COMMENT_STORY" = "Enables commenting as story";
-"FEATURE_MASS_UNFOLD" = "Unfolds all comment replies at once";
-"FEATURE_AUTO_UNFOLD" = "Unfolds text in long comments";
-"FEATURE_MULTI_EMOJI" = "Enables extended emoji panel in comments";
-"FEATURE_HIDE_EMOJI" = "Hides emoji panel in comments";
-"FEATURE_COMMENT_REDESIGN" = "Allows selecting comment cell design";
 
-// MARK: - Developer Section
+// Comment Settings Descriptions
+"ENABLE_COMMENT_PHOTO" = "Allow adding photos to comments";
+"ENABLE_COMMENT_STICKERS" = "Allow adding stickers to comments";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disable tooltips in comments";
+"FEATURE_ADD_TRANSLATION" = "Add translation button to comments";
+"FEATURE_ADD_COMMENT_POST" = "Enable posting comments as posts";
+"FEATURE_ADD_COMMENT_STORY" = "Enable posting comments as stories";
+"FEATURE_MASS_UNFOLD" = "Mass unfold all comment replies";
+"FEATURE_AUTO_UNFOLD" = "Automatically unfold comment texts";
+"FEATURE_MULTI_EMOJI" = "Enable multi-emoji comment bar";
+"FEATURE_HIDE_EMOJI" = "Hide emoji bar in comments";
+"FEATURE_COMMENT_REDESIGN" = "Enable redesigned comment cells";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Copy Comments Without 'Username: '";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Show Commenter's Region Flag";
+
+// MARK: - Error Messages
+"Could Not Copy Music" = "Could Not Copy Music";
+"The video doesn't have music to download" = "This video has no music to download";
+
+// MARK: - Developer
 "DEVELOPER_TELEGRAM" = "Join Telegram channel for latest updates";
-"DEVELOPER_SUPPORT" = "Support  RXTikTok and get access to beta testing group";
-
-// MARK: - Design Options
-"Design Options" = "Design Options";
-"Comment Design" = "Comment Design";
-"Select Design" = "Select Design";
-"Default" = "Default";
-"Modern" = "Modern";
-"Compact" = "Compact";
-
-// MARK: - Action Options
-"Regions" = "Regions";
-"Live Button Actions" = "Live Button Actions";
-"Actions" = "Actions";
-"Live Actions" = "Live Actions";
-
-// MARK: - Settings
-"Language 🌎" = "Language 🌎";
-"Speeds" = "Speeds";
-"Playback Speed" = "Playback Speed";
-"Select Speed" = "Select Speed";
-"Enable Region Changing" = "Enable Region Changing";
-"Live Button Action" = "Live Button Action";
-"Enable Region Changing Functionality" = "Enable Region Changing";
-"Change Action of Live Button" = "Change Live Button Action";
-"Enable Persistent Playback Speed" = "Enable Persistent Playback Speed";
-"Configure Advanced Comment Settings" = "Configure Advanced Comment Settings";
-"Select App Language" = "Select Language";
+"DEVELOPER_SUPPORT" = "Support RXTikTok and get access to beta testing group";
