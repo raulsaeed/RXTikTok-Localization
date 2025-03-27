@@ -1,185 +1,270 @@
 /* Localizable.strings */
 
-// Main Titles
-"RXTikTok, Hi" = "嗨， RXTikTok！";
-"RXTikTok Settings" = " RXTikTok 设置";
-"Join Our Telegram." = "加入我们的电报";
+// MARK: - Core UI Elements
+"RXTikTok, Hi" = "RXTikTok，你好";
+"RXTikTok Settings" = "RXTikTok 设置";
+"Welcome" = "欢迎";
+"Tap to Join the Telegram" = "点击加入 Telegram";
 
-// Common Actions
+// MARK: - Global Actions
 "Yes" = "是";
-"No" = "不";
-"ON" = "开";
-"OFF" = "关";
-"Downloading" = "下载中";
-"Backgrounding ✌️" = "后台执行中 ✌️";
-"Are you sure?" = "你确定吗？";
+"No" = "否";
+"ON" = "开启";
+"OFF" = "关闭";
 "Cancel" = "取消";
-"Regions" = "区域";  
+"Confirm" = "确认";
+"Actions" = "操作";
+"Default" = "默认";
+"Modern" = "现代";
+"Compact" = "紧凑";
+"Backgrounding ✌️" = "后台运行 ✌️";
+"Are you sure?" = "确定吗？";
 
-// Download Options
+// MARK: - Navigation
+"Feed" = "首页";
+"Profile" = "我的主页";
+"Other" = "其他";
+"Region" = "地区";
+"Developer" = "开发者";
+"Design Options" = "界面设置";
+"Other Settings" = "其他设置";
+"Auto Clear History" = "自动清除历史记录";
+"Enable Embeded Links" = "允许链接可点击";
+"Language 🌎" = "语言 🌎";
+"Show All Settings Tabs" = "显示所有设置选项";
+"Show Video Upload Timestamp" = "显示视频上传时间";
+"Remove Pendant View" = "移除悬浮广告";
+"Hide Commission Posts" = "隐藏带货视频";
+"Hide dangerous-action Warning" = "关闭危险内容提示";
+
+// MARK: - Download Features
+"Downloads Menu" = "下载菜单";
 "Download Video" = "下载视频";
 "Download HD Video" = "下载高清视频";
 "Download Music" = "下载音乐";
 "Download Photo" = "下载图片";
 "Download All Photos" = "下载所有图片";
-"Downloads Menu" = "下载菜单";
-"Download Photos Menu" = "图片下载菜单";
-
-// Copy Options
-"Copy Music Link" = "复制音乐链接";
-"Copy Video link" = "复制视频链接";
-"Copy Description" = "复制描述文案";
-"Copy bio" = "复制资料";
-"Copy Menu" = "复制菜单";
-
-// Error Messages
-"Could Not Copy Music" = "无法复制音频";
-"The video doesn't have music to download" = "该视频没有可供下载的音频";
-
-// Section Headers
-"Feed" = "常规";
-"Profile" = "个人";
-"Confirm" = "确认";
-"Other" = "其他";
-"Region" = "区域";
-"Actions" = "操作";
-
-// Feed Features
-"Hide Ads" = "隐藏广告";
+"Download Photos Menu" = "下载图片菜单";
+"Downloading" = "正在下载";
 "Download Button" = "下载按钮";
-"Share Sheet" = "共享面板";
-"Remove Watermark" = "移除水印";
-"Show/Hide UI Button" = "清屏按钮";
-"Stop Playback" = "停止播放";
-"Auto Play Next Video" = "自动播放";
-"Show Progress Bar" = "显进度条";
-"Transparent Comments" = "评论透明";
-"Show Usernames" = "显用户名";
-"Disable Sensitive Content" = "禁用敏感";
-"Disable Warnings" = "禁止警告";
-"Disable Live Streaming" = "禁用直播";
-"Skip Recommendations" = "跳过推荐";
-"Upload Region" = "区域标志";
-"Hide Top Feed items" = "顶部隐藏";
-"Anonymous Seen" = "匿名查看";
 
-// Profile Features
-"Profile Save" = "保存个人头像";
-"Profile Copy" = "资料个人复制";
-"Video Like Count" = "视频点赞计数";
-"Video Upload Date" = "视频上传日期";
+// MARK: - Copy Features
+"Copy Menu" = "复制菜单";
+"Copy Music Link" = "复制音乐链接";
+"Copy Description" = "复制描述";
+"Post Info" = "视频信息";
+"Copy Video link" = "复制视频链接";
+"Copy bio" = "复制简介";
+"Music Link Copied" = "音乐链接已复制";
+"Video Link Copied" = "视频链接已复制";
+"Description Link Copied" = "描述链接已复制";
+"Stats Menu" = "数据菜单";
+"Video Info" = "视频信息";
 
-// Confirm Features
+// MARK: - Confirm Settings
+"Confirm Settings" = "确认设置";
+"Confirmation Settings" = "确认设置";
 "Like Confirmation" = "点赞确认";
-"Like Comment Confirmation" = "好评确认";
-"Dislike Comment Confirmation" = "差评确认";
+"Like Comment Confirmation" = "评论点赞确认";
+"Dislike Comment Confirmation" = "评论点踩确认";
 "Follow Confirmation" = "关注确认";
 
-// Other Features
-"Auto Clear History" = "自动清除历史";
-"Enable Fake Changes" = "启用伪造";
-"Follower" = "粉丝数";
-"Following" = "关注数";
-"Fake Verified" = "伪造认证";
-"Extended Bio" = "扩展简介";
-"Extended Comments" = "扩展评论";
-"Upload HD" = "高清上传";
-"App Lock" = "应用锁定";
-"Enable Flex" = "启用 Flex";
-"Enable Oled Keyboard" = "OLED 键盘";
+// MARK: - Feed Settings
+"Feed Settings" = "首页设置";
+"Hide Ads" = "隐藏广告";
+"Share Sheet" = "分享菜单";
+"Remove Watermark" = "去除视频水印";
+"Show/Hide UI Button" = "显示/隐藏界面按钮";
+"Stop Playback" = "停止播放";
+"Auto Play Next Video" = "自动播放下一个视频";
+"Show Progress Bar" = "显示视频进度条";
+"Transparent Comments" = "半透明评论区";
+"Show Usernames" = "显示用户名";
+"Disable Sensitive Content" = "关闭敏感内容";
+"Disable Warnings" = "关闭警告提示";
+"Disable Live Streaming" = "关闭直播";
+"Skip Recommendations" = "关闭相关推荐";
+"Upload Region" = "显示视频来源地";
+"Hide Top Feed items" = "隐藏顶部功能区";
+"Anonymous Seen" = "关闭已读提示";
+"Hide Play/Pause Button" = "隐藏播放/暂停按钮";
 
-// Comment Features
-"Disable Comment Tooltip" = "禁用评论工具提示";
-"Add Comment as Post" = "将评论作为帖子";
-"Add Comment as Story" = "将评论作为动态";
-"Mass Unfold Comment Replies" = "批量展开评论回复";
-"Auto Unfold Comment Texts" = "自动展开评论文本";
-"Multi Emoji Comment Bar" = "多表情符号评论栏";
-"Hide Emoji-Bar" = "隐藏表情符号栏";
-"Comment Cell Redesign" = "评论单元格重新设计";
+// MARK: - Profile Settings
+"Profile Settings" = "个人主页设置";
+"Profile Save" = "保存个人资料";
+"Profile Copy" = "复制个人资料";
+"Video Like Count" = "视频点赞数";
+"Video Upload Date" = "视频上传日期";
+"User Post Count" = "作品数量";
+"Follower" = "粉丝";
+"Following" = "关注";
+"Fake Verified" = "虚拟认证标识";
+"Enable Fake Changes" = "启用数据自定义";
+"Extended Bio" = "解除简介字数限制";
+"Extended Comments" = "解除评论字数限制";
+"Upload HD" = "上传高清视频";
+"App Lock" = "应用锁";
+"Enable Flex" = "启用开发者调试工具";
+"Enable Oled Keyboard" = "启用 OLED 键盘";
+"Post Stats" = "视频数据";
+"Enable Text To Reposts" = "转发时可添加评论";
+"Disable Survey Popups" = "关闭问卷弹窗";
+
+// MARK: - Comment Settings
 "Comment Settings" = "评论设置";
-"Comment Features" = "评论功能";
-"Comment Design" = "评论风格";
-"Configure Advanced Comment Settings" = "配置高级评论设置";
+"Comment Design" = "评论样式";
+"Select Design" = "选择样式";
+"Disable Comment Tooltip" = "关闭评论提示";
+"Add Comment as Post" = "将评论发布为视频";
+"Add Comment as Story" = "将评论发布为动态";
+"Mass Unfold Comment Replies" = "一键展开评论回复";
+"Auto Unfold Comment Texts" = "自动展开长评论";
+"Multi Emoji Comment Bar" = "多表情栏";
+"Hide Emoji-Bar" = "隐藏表情栏";
+"Add Translation Button" = "添加翻译按钮";
+"Comment Cell Redesign" = "自定义评论样式";
+"Enable Comment Photos" = "允许评论带图片";
+"Enable Comment Stickers" = "允许评论带贴纸";
+"Enable Comment Flags" = "显示评论者地区";
+"Enable Copy Without Username" = "复制时不带用户名";
+"Configure Advanced Comment Settings" = "更多评论设置";
 
-// Design Options
-"Design Options" = "风格选项";
-"Select Design" = "选择风格";
-"Default" = "默认";
-"Modern" = "现代";
-"Compact" = "简洁";
+// MARK: - Tab Bar Settings
+"Tab Bar Settings" = "底部导航栏设置";
+"Tab Bar Configurations" = "导航栏配置";
+"Hide Plus Button" = "隐藏发布按钮";
+"Hide Friends Badge" = "隐藏好友提醒";
+"Hide Inbox Badge" = "隐藏消息提醒";
+"Changes will take effect after restarting the app" = "重启应用后生效";
 
-// Live Button Settings
+// MARK: - Live Button Settings
+"Live Button Settings" = "直播按钮设置";
 "Live Button Function" = "直播按钮功能";
-"Live Button Actions" = "直播按钮动作";
-"Live Actions" = "按钮功能";
-"Change Action of Live Button" = "更改左上角直播按钮的默认功能操作";
-"Live Button Action" = "直播按钮功能";
-
-// Region Settings
-"Regions" = "Regions";
-"Enable Region Changing" = "启用区域更改";
-"Enable Region Changing Functionality" = "启用区域更改功能";
-
-// Playback Settings
-"RXTikTok Settings" = " RXTikTok 设置";
+"Live Button Actions" = "直播按钮操作";
+"Live Actions" = "直播操作";
 "Playback Speed" = "播放速度";
-"Select Speed" = "播放速度";
-"Speeds" = "速度";
-"Enable Persistent Playback Speed." = "启用播放速度控制";
-"Enable Persistent Playback Speed." = "启用播放速度控制";  
+"Select Action" = "选择操作";
+"Change the behavior of the Live button" = "更改直播按钮行为";
+"Selected Action" = "已选择的操作";
+"Live Button Function Disabled" = "直播按钮功能已关闭";
+"Please enable Live Button Function first" = "请先开启直播按钮功能";
+"Change Action of Live Button" = "更改直播按钮操作";
+"Enable Live Button Function" = "开启直播按钮功能";
 
-// Language Settings
-"Language 🌎" = "语言 🌎";
-"Select App Language" = "选择应用语言";
+// MARK: - Chat Settings
+"Chat Settings" = "私信设置";
+"Enable Voice Messages" = "开启语音消息";
+"Enable Streaks" = "开启连续签到";
+"Hide Streak Pet" = "隐藏签到宠物";
+"Disable Typing Indicator" = "关闭输入状态";
+"Enable Pin Chat" = "允许置顶私信";
+"Bypass Media Limit" = "解除私信文件限制";
+"Disable AI-Generated Replies" = "关闭AI智能回复";
+"Enable Small Emoji" = "使用迷你表情";
+"Anonymous Seen" = "关闭已读提示";
 
-// Feature Descriptions
-"FEATURE_HIDE_ADS" = "禁用 TikTok 内的所有广告";
-"FEATURE_DOWNLOAD_BUTTON" = "启用视频和图片的下载按钮";
-"FEATURE_SHARE_SHEET" = "下载完成后弹出共享面板";
-"FEATURE_REMOVE_WATERMARK" = "移除 TikTok 视频水印";
-"FEATURE_UI_BUTTON" = "显示或隐藏界面元素的按钮（一键清屏）";
-"FEATURE_STOP_PLAYBACK" = "自动停止视频播放";
-"FEATURE_AUTO_PLAY" = "视频播放完成后自动播放下个视频";
-"FEATURE_PROGRESS_BAR" = "视频下方显示播放进度条";
-"FEATURE_TRANSPARENT_COMMENTS" = "让评论区透明";
-"FEATURE_SHOW_USERNAMES" = "视频流中的昵称替换成用户名";
-"FEATURE_DISABLE_SENSITIVE" = "隐藏“敏感内容”警告";
-"FEATURE_DISABLE_WARNINGS" = "隐藏 TikTok 警告";
-"FEATURE_DISABLE_LIVE" = "禁止在视频流出现直播";
-"FEATURE_SKIP_RECOMMENDED" = "跳过推荐的视频";
-"FEATURE_UPLOAD_REGION" = "在用户名旁边显示视频上传区域标志";
-"FEATURE_HIDE_TOP_ITEMS" = "隐藏顶部的搜索和直播按钮以及关注、商店等...";
-"FEATURE_ANONYMOUS_SEEN" = "匿名查看消息（BETA 功能！）";
-"FEATURE_PROFILE_SAVE" = "长按将个人头像保存";
-"FEATURE_PROFILE_COPY" = "长按复制个人资料信息";
-"FEATURE_LIKE_COUNT" = "显示主页视频的点赞数";
-"FEATURE_UPLOAD_DATE" = "显示主页视频上传日期";
-"FEATURE_CONFIRM_LIKE" = "点赞视频需确认";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "点赞评论需确认";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "评论差评需确认";
-"FEATURE_CONFIRM_FOLLOW" = "关注用户需确认";
-"FEATURE_AUTO_CLEAR" = "每 60 秒自动清除搜索历史记录";
-"FEATURE_FAKE_CHANGES" = "启用伪造虚假个人资料";
-"FEATURE_FOLLOWER_COUNT" = "输入伪造的粉丝数";
-"FEATURE_FOLLOWING_COUNT" = "输入伪造的关注数";
-"FEATURE_FAKE_VERIFIED" = "帐户显示蓝V认证";
-"FEATURE_EXTENDED_BIO" = "扩展个人资料字符限制";
-"FEATURE_EXTENDED_COMMENTS" = "扩展评论字符限制";
-"FEATURE_UPLOAD_HD" = "视频始终以高清质量上传";
-"FEATURE_APP_LOCK" = "使用密码锁定 TikTok";
-"FEATURE_ENABLE_FLEX" = "仅限开发人员，如果不知道自己在做什么，请不要启用它。";
-"FEATURE_OLED_KEYBOARD" = "仅在深色模式下有效";
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "按住评论按钮时禁用快速表情符号工具提示";
-"FEATURE_ADD_COMMENT_POST" = "允许以常规帖子形式发布评论";
-"FEATURE_ADD_COMMENT_STORY" = "允许以动态形式发布评论";
-"FEATURE_MASS_UNFOLD" = "一次性展开所有评论回复";
-"FEATURE_AUTO_UNFOLD" = "自动展开长评论中的文字";
-"FEATURE_MULTI_EMOJI" = "在评论中启用扩展表情符号栏";
-"FEATURE_HIDE_EMOJI" = "隐藏评论中的初始表情符号栏";
-"FEATURE_COMMENT_REDESIGN" = "选择评论单元格设计样式";
+// MARK: - Playback Speed
+"Enable Playback Speed" = "开启倍速播放";
+"Selected Speed" = "当前速度";
+"Playback Speed Settings" = "倍速播放设置";
+"Enable Persistent Playback Speed." = "保持固定播放速度";
+"Select Speed" = "选择速度";
+"Control video playback speed" = "控制视频播放速度";
+"Playback Speed Disabled" = "倍速播放已关闭";
+"Please enable Playback Speed first" = "请先开启倍速播放";
 
-// Developer Section
-"Developer" = "开发者";
-"DEVELOPER_TELEGRAM" = "加入电报频道获取最新更新";
-"DEVELOPER_SUPPORT" = "您的支持可以让插件保持持续更新并获得加入Beta测试人员组的权限";
+// MARK: - Region Settings
+"Region Settings" = "地区设置";
+"Enable region changing to access content from different regions" = "开启地区切换以访问不同地区的内容";
+"Enable Region Changing" = "开启地区切换";
+"Enable Region Changing Functionality" = "开启地区切换功能";
+"Selected Region" = "当前地区";
+"Region Changing Disabled" = "地区切换已关闭";
+"Please enable region changing first" = "请先开启地区切换";
+
+// MARK: - Feature Descriptions
+"FEATURE_ENABLE_COMMENT_FLAGS" = "在评论中显示评论者的地区";
+"FEATURE_COPY_WITHOUT_USERNAME" = "复制评论时不包含用户名";
+"FEATURE_HIDE_ADS" = "隐藏信息流中的广告";
+"FEATURE_DOWNLOAD_BUTTON" = "为视频和动态添加下载按钮";
+"FEATURE_SHARE_SHEET" = "下载后自动打开分享菜单";
+"FEATURE_REMOVE_WATERMARK" = "去除下载视频的水印（抖音标识和用户名）";
+"FEATURE_UI_BUTTON" = "显示或隐藏界面按钮";
+"FEATURE_STOP_PLAYBACK" = "视频结束时停止播放";
+"FEATURE_AUTO_PLAY" = "开启自动播放";
+"FEATURE_PROGRESS_BAR" = "显示视频进度条";
+"FEATURE_TRANSPARENT_COMMENTS" = "半透明评论区";
+"FEATURE_DISABLE_SURVEY" = "关闭视频中的问卷调查";
+"FEATURE_HIDE_PLAY_PAUSE" = "隐藏播放/暂停按钮";
+"FEATURE_SHOW_USERNAMES" = "显示用户名而非昵称";
+"FEATURE_DISABLE_SENSITIVE" = "关闭敏感内容提示";
+"FEATURE_ADD_TRANSLATION" = "添加评论翻译按钮";
+"FEATURE_DISABLE_WARNINGS" = "关闭抖音警告提示";
+"FEATURE_DISABLE_LIVE" = "隐藏直播内容";
+"FEATURE_SKIP_RECOMMENDED" = "关闭推荐提示";
+"FEATURE_UPLOAD_REGION" = "显示视频来源地区";
+"FEATURE_HIDE_TOP_ITEMS" = "隐藏顶部功能区（搜索、直播等）";
+"FEATURE_ANONYMOUS_SEEN" = "关闭已读提示";
+"FEATURE_SHOW_ALL_TABS" = "显示所有隐藏的设置选项[测试版]";
+"FEATURE_PROFILE_SAVE" = "保存个人资料到剪贴板";
+"FEATURE_EMBED_LINKS" = "允许链接可点击";
+"FEATURE_PROFILE_COPY" = "复制个人资料信息";
+"FEATURE_USER_POST_COUNT" = "显示作品数量";
+"FEATURE_LIKE_COUNT" = "显示点赞数";
+"FEATURE_UPLOAD_DATE" = "显示上传日期";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "显示视频上传时间";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "关闭危险内容提示";
+"FEATURE_REMOVE_PENDANT" = "移除悬浮广告";
+"FEATURE_CONFIRM_LIKE" = "点赞时需要确认";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "评论点赞时需要确认";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "评论点踩时需要确认";
+"FEATURE_CONFIRM_FOLLOW" = "关注时需要确认";
+"FEATURE_AUTO_CLEAR" = "每60秒自动清除搜索记录";
+"FEATURE_FAKE_CHANGES" = "启用数据自定义";
+"FEATURE_FOLLOWER_COUNT" = "自定义粉丝数";
+"FEATURE_FOLLOWING_COUNT" = "自定义关注数";
+"FEATURE_FAKE_VERIFIED" = "显示认证标识";
+"FEATURE_HIDE_PLUS_BTN" = "隐藏发布按钮";
+"FEATURE_HIDE_FRIENDS_BADGE" = "隐藏好友提醒";
+"FEATURE_HIDE_INBOX_BADGE" = "隐藏消息提醒";
+"FEATURE_EXTENDED_BIO" = "解除简介字数限制";
+"FEATURE_EXTENDED_COMMENTS" = "解除评论字数限制";
+"FEATURE_UPLOAD_HD" = "上传高清视频";
+"FEATURE_APP_LOCK" = "应用锁定功能";
+"FEATURE_ENABLE_FLEX" = "开发者调试工具（请勿随意开启）";
+"FEATURE_OLED_KEYBOARD" = "深色主题键盘";
+"FEATURE_POST_STATS" = "显示视频数据按钮";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "转发时可添加评论";
+"FEATURE_VOICE_MESSAGES" = "开启语音消息";
+"FEATURE_ENABLE_STREAKS" = "开启连续签到功能";
+"FEATURE_HIDE_STREAK_PET" = "隐藏签到宠物";
+"FEATURE_DISABLE_TYPING" = "关闭输入状态显示";
+"FEATURE_PIN_CHATS" = "允许置顶私信";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "解除私信文件限制";
+"FEATURE_DISABLE_AI_REPLIES" = "关闭AI智能回复";
+"FEATURE_SMALL_EMOJI" = "使用迷你表情";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "显示视频上传时间";
+"FEATURE_HIDE_COMMISSION_POSTS" = "隐藏带货视频";
+
+// Comment Settings Descriptions
+"ENABLE_COMMENT_PHOTO" = "允许评论带图片";
+"ENABLE_COMMENT_STICKERS" = "允许评论带贴纸";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "关闭评论提示";
+"FEATURE_ADD_TRANSLATION" = "添加评论翻译按钮";
+"FEATURE_ADD_COMMENT_POST" = "允许将评论发布为视频";
+"FEATURE_ADD_COMMENT_STORY" = "允许将评论发布为动态";
+"FEATURE_MASS_UNFOLD" = "一键展开所有回复";
+"FEATURE_AUTO_UNFOLD" = "自动展开长评论";
+"FEATURE_MULTI_EMOJI" = "开启多表情栏";
+"FEATURE_HIDE_EMOJI" = "隐藏表情栏";
+"FEATURE_COMMENT_REDESIGN" = "自定义评论样式";
+"FEATURE_COPY_WITHOUT_USERNAME" = "复制时不带用户名";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "显示评论者地区";
+
+// MARK: - Error Messages
+"Could Not Copy Music" = "无法复制音乐";
+"The video doesn't have music to download" = "该视频没有可下载的音乐";
+
+// MARK: - Developer
+"DEVELOPER_TELEGRAM" = "加入 Telegram 频道获取最新更新";
+"DEVELOPER_SUPPORT" = "支持 RXTikTok 并获取测试组访问权限";
