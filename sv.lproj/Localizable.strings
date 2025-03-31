@@ -1,0 +1,350 @@
+/* Localizable.strings */
+
+// MARK: - Core UI Elements
+"RXTikTok, Hi" = "RXTikTok, Hej";
+"RXTikTok Settings" = "RXTikTok Inställningar";
+"Welcome" = "Velkomen";
+"Tap to Join the Telegram" = "Tryck för att gå med i telegrammet";
+
+// MARK: - Global Actions
+"Yes" = "Ja";
+"No" = "Nej";
+"ON" = "ON";
+"OFF" = "AC";
+"Cancel" = "Avbryt";
+"Confirm" = "Bekräfta";
+"Actions" = "Åtgärder";
+"Default" = "Standard";
+"Modern" = "Modern";
+"Compact" = "Kompakt";
+"Backgrounding ✌️" = "Bakgrund ✌️";
+"Are you sure?" = "Är du säker?";
+
+// MARK: - Navigation
+"Feed" = "Foder";
+"Profile" = "Profil";
+"Other" = "Andra";
+"Region" = "Region";
+"Developer" = "Utvecklare";
+"Design Options" = "Designalternativ";
+"Other Settings" = "Andra inställningar";
+"Auto Clear History" = "Auto rensa historik";
+"Enable Embeded Links" = "Aktivera inbäddade länkar";
+"Language 🌎" = "Språl 🌎";
+"Show All Settings Tabs" = "Visa alla inställningsflikar";
+"Show Video Upload Timestamp" = "Visa tidsstämpel för videouppladdning";
+"Remove Pendant View" = "Ta bort hänget Visa";
+"Hide Commission Posts" = "Dölj kommissionens inlägg";
+"Hide dangerous-action Warning" = "Dölj farlig handling Varning";
+
+// MARK: - Download Features
+"Downloads Menu" = "Nedladdningsmeny";
+"Download Video" = "Ladda ner video";
+"Download HD Video" = "Ladda ner HD-video";
+"Download Music" = "Ladda ner musik";
+"Download Photo" = "Ladda ner foto";
+"Download All Photos" = "Ladda ner alla foton";
+"Download Photos Menu" = "Ladda ner fotomeny";
+"Downloading" = "Laddar ner";
+"Download Button" = "Ladda ner-knapp";
+
+// MARK: - Copy Features
+"Copy Menu" = "Kopieringsmeny";
+"Copy Music Link" = "Kopiera musiklänk";
+"Copy Description" = "Kopiera beskrivning";
+"Post Info" = "Inläggsinformation";
+"Copy Video link" = "Kopiera videolänk";
+"Copy bio" = "Kopiera bio";
+"Music Link Copied" = "Musiklänk kopierad";
+"Video Link Copied" = "Videolänk kopierad";
+"Description Link Copied" = "Beskrivningslänk kopierad";
+"Stats Menu" = "Statistikmeny";
+"Video Info" = "Videoinformation";
+
+// MARK: - Confirm Settings
+"Confirm Settings" = "Bekräfta inställningar";
+"Confirmation Settings" = "Bekräftelseinställningar";
+"Like Confirmation" = "Gilla-bekräftelse";
+"Like Comment Confirmation" = "Gilla kommentar-bekräftelse";
+"Dislike Comment Confirmation" = "Ogilla kommentar-bekräftelse";
+"Follow Confirmation" = "Följ-bekräftelse";
+
+// MARK: - Feed Settings
+"Feed Settings" = "Flödesinställningar";
+"Hide Ads" = "Dölj annonser";
+"Share Sheet" = "Delningsark";
+"Remove Watermark" = "Ta bort vattenstämpel";
+"Show/Hide UI Button" = "Visa/dölj UI-knapp";
+"Stop Playback" = "Stoppa uppspelning";
+"Auto Play Next Video" = "Spela nästa video automatiskt";
+"Show Progress Bar" = "Visa framstegsfält";
+"Transparent Comments" = "Transparanta kommentarer";
+"Show Usernames" = "Visa användarnamn";
+"Disable Sensitive Content" = "Inaktivera känsligt innehåll";
+"Disable Warnings" = "Inaktivera varningar";
+"Disable Live Streaming" = "Inaktivera livesändning";
+"Skip Recommendations" = "Hoppa över rekommendationer";
+"Upload Region" = "Uppladdningsregion";
+"Hide Top Feed items" = "Dölj toppobjekt i flödet";
+"Anonymous Seen" = "Anonym visning";
+"Hide Play/Pause Button" = "Dölj spela/pausa-knapp";
+
+// MARK: - Profile Settings
+"Profile Settings" = "Profilinställningar";
+"Profile Save" = "Spara profil";
+"Profile Copy" = "Kopiera profil";
+"Video Like Count" = "Antal gilla-markeringar på video";
+"Video Upload Date" = "Uppladdningsdatum för video";
+"User Post Count" = "Antal inlägg av användare";
+"Follower" = "Följare";
+"Following" = "Följer";
+"Fake Verified" = "Fejkverifierad";
+"Enable Fake Changes" = "Aktivera fejkändringar";
+"Extended Bio" = "Utökad bio";
+"Extended Comments" = "Utökade kommentarer";
+"Upload HD" = "Ladda upp i HD";
+"App Lock" = "App-lås";
+"Enable Flex" = "Aktivera Flex";
+"Enable Oled Keyboard" = "Aktivera OLED-tangentbord";
+"Post Stats" = "Inläggsstatistik";
+"Enable Text To Reposts" = "Aktivera text till ompubliceringar";
+"Disable Survey Popups" = "Inaktivera undersökningspopups";
+
+// MARK: - Comment Settings
+"Comment Settings" = "Kommentarinställningar";
+"Comment Design" = "Kommentardesign";
+"Select Design" = "Välj design";
+"Disable Comment Tooltip" = "Inaktivera kommentarverktygstips";
+"Add Comment as Post" = "Lägg till kommentar som inlägg";
+"Add Comment as Story" = "Lägg till kommentar som story";
+"Mass Unfold Comment Replies" = "Massuppfällning av svar";
+"Auto Unfold Comment Texts" = "Automatisk uppfällning av texter";
+"Multi Emoji Comment Bar" = "Flera emoji-fält";
+"Hide Emoji-Bar" = "Dölj emoji-fält";
+"Add Translation Button" = "Lägg till översättningsknapp";
+"Comment Cell Redesign" = "Omdesign av kommentarsfält";
+"Enable Comment Photos" = "Aktivera kommentarsbilder";
+"Enable Comment Stickers" = "Aktivera kommentarstickers";
+"Enable Comment Flags" = "Aktivera kommentarsflaggor";
+"Enable Copy Without Username" = "Aktivera kopiering utan användarnamn";
+"Configure Advanced Comment Settings" = "Konfigurera avancerade kommentarinställningar";
+
+// MARK: - Tab Bar Settings
+"Tab Bar Settings" = "Tabellinställningar";
+"Tab Bar Configurations" = "Tabellkonfigurationer";
+"Hide Plus Button" = "Dölj plus-knapp";
+"Hide Friends Badge" = "Dölj vänner-märke";
+"Hide Inbox Badge" = "Dölj inkorg-märke";
+"Changes will take effect after restarting the app" = "Ändringar träder i kraft efter att appen har startats om";
+
+// MARK: - Live Button Settings
+"Live Button Settings" = "Live-knappens inställningar";
+"Live Button Function" = "Live-knappens funktion";
+"Live Button Actions" = "Live-knappens åtgärder";
+"Live Actions" = "Live-åtgärder";
+"Playback Speed" = "Uppspelningshastighet";
+"Select Action" = "Välj åtgärd";
+"Change the behavior of the Live button" = "Ändra beteendet för Live-knappen";
+"Selected Action" = "Vald åtgärd";
+"Live Button Function Disabled" = "Live-knappens funktion inaktiverad";
+"Please enable Live Button Function first" = "Aktivera Live-knappens funktion först";
+"Change Action of Live Button" = "Ändra åtgärd för Live-knappen";
+"Enable Live Button Function" = "Aktivera Live-knappens funktion";
+
+// MARK: - Chat Settings
+"Chat Settings" = "Chattinställningar";
+"Enable Voice Messages" = "Aktivera röstmeddelanden";
+"Enable Streaks" = "Aktivera streaks";
+"Hide Streak Pet" = "Dölj streak-djur";
+"Disable Typing Indicator" = "Inaktivera skrivindikator";
+"Enable Pin Chat" = "Aktivera fastnåla chatt";
+"Bypass Media Limit" = "Bortse från medielimiten";
+"Disable AI-Generated Replies" = "Inaktivera AI-genererade svar";
+"Enable Small Emoji" = "Aktivera små emoji";
+"Anonymous Seen" = "Anonym visad";
+
+// MARK: - Playback Speed
+"Enable Playback Speed" = "Aktivera uppspelningshastighet";
+"Selected Speed" = "Vald hastighet";
+"Playback Speed Settings" = "Inställningar för uppspelningshastighet";
+"Enable Persistent Playback Speed." = "Aktivera persistent uppspelningshastighet";
+"Select Speed" = "Välj hastighet";
+"Control video playback speed" = "Kontrollera videouppspelningshastigheten";
+"Playback Speed Disabled" = "Uppspelningshastighet inaktiverad";
+"Please enable Playback Speed first" = "Aktivera uppspelningshastighet först";
+
+// MARK: - Region Settings
+"Region Settings" = "Regioninställningar";
+"Enable region changing to access content from different regions" = "Aktivera regionbyte för att få åtkomst till innehåll från olika regioner";
+"Enable Region Changing" = "Aktivera regionbyte";
+"Enable Region Changing Functionality" = "Aktivera funktionalitet för regionbyte";
+"Selected Region" = "Vald region";
+"Region Changing Disabled" = "Regionbyte inaktiverat";
+"Please enable region changing first" = "Aktivera regionbyte först";
+
+// MARK: - Feature Descriptions
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Aktiverar kommentarflaggor";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Aktiverar kopiering utan användarnamn";
+"FEATURE_HIDE_ADS" = "Döljer annonser från flödet";
+"FEATURE_DOWNLOAD_BUTTON" = "Aktiverar nedladdningsknapp för inlägg och stories";
+"FEATURE_SHARE_SHEET" = "Öppnar delningsblad efter nedladdning av media";
+"FEATURE_REMOVE_WATERMARK" = "Tar bort vattenstämpel (animerad TikTok-logotyp och användarnamn) från nedladdad media";
+"FEATURE_UI_BUTTON" = "Visar eller döljer UI-knapp";
+"FEATURE_STOP_PLAYBACK" = "Stoppar videouppspelning när den är slut";
+"FEATURE_AUTO_PLAY" = "Aktiverar automatisk videoscrollning";
+"FEATURE_PROGRESS_BAR" = "Visar tidslinje under varje video";
+"FEATURE_TRANSPARENT_COMMENTS" = "Gör kommentarssektionen transparent";
+"FEATURE_DISABLE_SURVEY" = "Inaktiverar störande enkätfrågor i flödet";
+"FEATURE_HIDE_PLAY_PAUSE" = "Döljer play/pause-vyn i flödet";
+"FEATURE_SHOW_USERNAMES" = "Ersätter smeknamn med taggar";
+"FEATURE_DISABLE_SENSITIVE" = "Döljer varning för olämpligt innehåll";
+"FEATURE_ADD_TRANSLATION" = "Lägger till översättningsknapp i varje kommentar";
+"FEATURE_DISABLE_WARNINGS" = "Döljer TikTok-varningar";
+"FEATURE_DISABLE_LIVE" = "Döljer liveströmmar i flödet";
+"FEATURE_SKIP_RECOMMENDED" = "Tar bort vänförslag etc.";
+"FEATURE_UPLOAD_REGION" = "Visar uppladdningsregionens flagga bredvid användarnamn";
+"FEATURE_HIDE_TOP_ITEMS" = "Döljer sökknapp, LIVE och andra (För dig, Följ, Shop etc.)";
+"FEATURE_ANONYMOUS_SEEN" = "Titta på chattar utan att den andra personen vet";
+"FEATURE_SHOW_ALL_TABS" = "Visar alla dolda inställningstabs [Beta!]";
+"FEATURE_PROFILE_SAVE" = "Sparar profilinformation till urklipp";
+"FEATURE_EMBED_LINKS" = "Aktiverar inbäddade länkar vid kopiering av länk";
+"FEATURE_PROFILE_COPY" = "Kopierar profilinformation";
+"FEATURE_USER_POST_COUNT" = "Visar antalet uppladdade videor";
+"FEATURE_LIKE_COUNT" = "Visar gillningar på meddelanden";
+"FEATURE_UPLOAD_DATE" = "Visar uppladdningsdatum";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Visar videouppladdningstid i FYP";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Döljer varningar under sportvideor (UFC, Boxning etc.)";
+"FEATURE_REMOVE_PENDANT" = "Tar bort annonsvyn uppe till vänster i FYP";
+"FEATURE_CONFIRM_LIKE" = "Visar bekräftelse för att gilla video";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Visar bekräftelse för att gilla kommentar";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Visar bekräftelse för att ogilla kommentar";
+"FEATURE_CONFIRM_FOLLOW" = "Visar bekräftelse för att följa användare";
+"FEATURE_AUTO_CLEAR" = "Rensar automatiskt sökhistorik varje 60:e sekund";
+"FEATURE_FAKE_CHANGES" = "Aktiverar förfalskning av profildata";
+"FEATURE_FOLLOWER_COUNT" = "Ange falskt antal följare";
+"FEATURE_FOLLOWING_COUNT" = "Ange falskt antal följda";
+"FEATURE_FAKE_VERIFIED" = "Visar falsk verifieringsbadge";
+"FEATURE_HIDE_PLUS_BTN" = "Döljer kameraknappen";
+"FEATURE_HIDE_FRIENDS_BADGE" = "Döljer vännotificationbadge";
+"FEATURE_HIDE_INBOX_BADGE" = "Döljer inkorgsnotifikationbadge";
+"FEATURE_EXTENDED_BIO" = "Utökar teckenbegränsningen för bio";
+"FEATURE_EXTENDED_COMMENTS" = "Utökar teckenbegränsningen för kommentarer";
+"FEATURE_UPLOAD_HD" = "Aktiverar HD-uppladdningar";
+"FEATURE_APP_LOCK" = "Lägger till möjlighet att låsa TikTok med lösenord";
+"FEATURE_ENABLE_FLEX" = "Endast för utvecklare, RÖR INTE om du inte vet vad det gör";
+"FEATURE_OLED_KEYBOARD" = "Fungerar endast med mörkt tema";
+"FEATURE_POST_STATS" = "Visar en menyknapp i nedladdningssektionen för inläggsstatistik";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Aktiverar möjligheten att lägga till text i din repost";
+"FEATURE_VOICE_MESSAGES" = "Aktiverar skickande av röstmeddelanden i chatt";
+"FEATURE_ENABLE_STREAKS" = "Aktiverar streaks med vänner";
+"FEATURE_HIDE_STREAK_PET" = "Döljer streak-pet";
+"FEATURE_DISABLE_TYPING" = "Skickar inte typindikator vid chatt";
+"FEATURE_PIN_CHATS" = "Fäst favoritchattar högst upp";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "Bypassar medielimiter i chatt (Standard: 9 bilder, 1 min video)";
+"FEATURE_DISABLE_AI_REPLIES" = "Inaktiverar AI-genererade svar på skickade inlägg";
+"FEATURE_SMALL_EMOJI" = "Aktiverar skickande av små emojis";
+"FEATURE_REMOVE_PENDANT" = "Tar bort irriterande annonsvyn i övre vänstra hörnet (Endast i vissa regioner)";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Döljer irriterande varningar under sportvideor";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Visar uppladdningstid bredvid användarnamn i FYP";
+"FEATURE_HIDE_COMMISSION_POSTS" = "Tar bort inlägg som säger 'Skaparen tjänar provision'";
+
+"ENABLE_COMMENT_PHOTO" = "Tillåt att lägga till bilder i kommentarer";
+"ENABLE_COMMENT_STICKERS" = "Tillåt att lägga till klistermärken i kommentarer";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Inaktivera verktygstips i kommentarer";
+"FEATURE_ADD_TRANSLATION" = "Lägg till översättningsknapp i kommentarer";
+"FEATURE_ADD_COMMENT_POST" = "Aktivera att posta kommentarer som inlägg";
+"FEATURE_ADD_COMMENT_STORY" = "Aktivera att posta kommentarer som berättelser";
+"FEATURE_MASS_UNFOLD" = "Massupplåning av alla kommentarers svar";
+"FEATURE_AUTO_UNFOLD" = "Automatiskt upplåning av kommentarstexter";
+"FEATURE_MULTI_EMOJI" = "Aktivera fleremoji-kommentarsfält";
+"FEATURE_HIDE_EMOJI" = "Dölj emoji-fältet i kommentarer";
+"FEATURE_COMMENT_REDESIGN" = "Aktivera omdesignade kommentarceller";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Kopiera kommentarer utan 'Användarnamn: '";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Visa kommentatorns regionsflagga";
+
+// v1.1
+
+// MARK: - Error Messages
+"Could Not Copy Music" = "Kunde inte kopiera musik";
+"The video doesn't have music to download" = "Den här videon har ingen musik att ladda ner";
+
+// MARK: - Developer
+"DEVELOPER_TELEGRAM" = "Gå med i Telegram-kanalen för de senaste uppdateringarna";
+"DEVELOPER_SUPPORT" = "Stöd RXTikTok och få tillgång till betatestningsgruppen";
+
+// MARK: - Missing Strings
+"Features list" = "Funktionslista";
+"Not Selected" = "Inte vald";
+"Creator Profile Pull" = "Skapares profil hämtas";
+"OK" = "OK";
+"Disable Left & Right Swipe" = "Inaktivera svep åt vänster och höger";
+"Pull To Camera" = "Dra för att öppna kameran";
+"Regions" = "Regioner";
+"Full Region Mode" = "Fullständigt regionsläge";
+"Add Folders To Inbox" = "Lägg till mappar i inkorgen";
+
+// Additional missing strings
+"Settings" = "Inställningar";
+"Save" = "Spara";
+"Delete" = "Ta bort";
+"Edit" = "Redigera";
+"Close" = "Stäng";
+"Back" = "Tillbaka";
+"Next" = "Nästa";
+"Done" = "Klar";
+"Error" = "Fel";
+"Success" = "Framgång";
+"Warning" = "Varning";
+"Loading" = "Laddar";
+"Search" = "Sök";
+"Apply" = "Tillämpa";
+"Reset" = "Återställ";
+"Video saved successfully" = "Video sparades framgångsrikt";
+"Photo saved successfully" = "Foto sparades framgångsrikt";
+"Failed to save media" = "Misslyckades med att spara media";
+"No internet connection" = "Ingen internetanslutning";
+"Select All" = "Välj alla";
+"Deselect All" = "Avmarkera alla";
+"More Options" = "Fler alternativ";
+"Share" = "Dela";
+"Copy Link" = "Kopiera länk";
+"Report" = "Rapportera";
+"Block" = "Blockera";
+"Unfollow" = "Sluta följa";
+"Hide" = "Dölj";
+"Show" = "Visa";
+"Enable" = "Aktivera";
+"Disable" = "Inaktivera";
+
+// MARK: - Missing Feature Descriptions
+"FEATURE_CREATOR_PROFILE_PULL" = "Visa skapaprofil vid neddragning";
+"FEATURE_DISABLE_SWIPE" = "Inaktivera svepning åt vänster och höger i flödet";
+"FEATURE_PULL_TO_CAMERA" = "Aktivera drag-till-kamera funktion";
+"FEATURE_ADD_FOLDERS" = "Lägg till mapporganisation till inkorgsmeddelanden";
+"FEATURE_FULL_REGION_MODE" = "Aktivera endast om det första alternativet inte fungerar!!";
+
+// Additional feature descriptions
+"FEATURE_ANONYMOUS_SEEN_DESC" = "Visa chattar utan att skicka läskvitton till avsändaren";
+"FEATURE_SHOW_ALL_TABS_DESC" = "Visa alla dolda inställningsflikar, inklusive experimentella funktioner";
+"FEATURE_PROFILE_SAVE_DESC" = "Spara profilinformation till urklipp med ett tryck";
+"FEATURE_PROFILE_COPY_DESC" = "Kopiera profilinformation inklusive användarnamn, bio och annan offentlig information";
+"FEATURE_APP_LOCK_DESC" = "Säkra din TikTok-app med ett lösenord eller biometrisk autentisering";
+"FEATURE_REGIONS_DESC" = "Få tillgång till regionspecifikt innehåll genom att ändra din virtuella plats";
+"FEATURE_ADD_FOLDERS_DESC" = "Organisera dina inkorgsmeddelanden i anpassade mappar för bättre hantering";
+
+// MARK: - Credits View
+"Credits" = "Krediter";
+"Special Thanks to" = "Stort tack till";
+"Community" = "Gemenskap";
+"Main Developer, Owner" = "Huvudutvecklare, Ägare";
+"Co-Owner" = "Medägare";
+"DRM Developer" = "DRM Utvecklare";
+"Contributor" = "Bidragsgivare";
+"UI Designer" = "UI Designer";
+"Telegram Channel" = "Telegram Kanal";
+"Telegram Discussion Group" = "Telegram Diskussionsgrupp";
+"Get the latest updates and news" = "Få de senaste uppdateringarna och nyheterna";
+"Join the community discussion" = "Gå med i gemenskapsdiskussionen";
+"Buy Me a Coffee" = "Köp mig en kaffe";
+"Support the development" = "Stöd utvecklingen";
+"X" = "X";
