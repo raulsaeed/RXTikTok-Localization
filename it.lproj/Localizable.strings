@@ -1,10 +1,10 @@
 /* Localizable.strings */
 
 // MARK: - Core UI Elements
-"RXTikTok, Hi" = "RXTikTok, Ciao";
+"RXTikTok, Hi" = "RXTikTok, Ehilà";
 "RXTikTok Settings" = "Impostazioni RXTikTok";
 "Welcome" = "Benvenuto";
-"Tap to Join the Telegram" = "Fai Tap per unirti a Telegram";
+"Tap to Join the Telegram" = "Clicca qui per unirti al gruppo telegram";
 
 // MARK: - Global Actions
 "Yes" = "Sì";
@@ -17,7 +17,7 @@
 "Default" = "Default";
 "Modern" = "Moderno";
 "Compact" = "Compatto";
-"Backgrounding ✌️" = "In Background ✌️";
+"Backgrounding ✌️" = "Azione in background ✌️";
 "Are you sure?" = "Sei sicuro?";
 
 // MARK: - Navigation
@@ -26,145 +26,148 @@
 "Other" = "Altro";
 "Region" = "Regione";
 "Developer" = "Sviluppatore";
-"Design Options" = "Opzioni di Design";
+"Design Options" = "Opzioni per l'Aspetto";
 "Other Settings" = "Altre Impostazioni";
-"Auto Clear History" = "Cancella Automaticamente la Cronologia";
-"Enable Embeded Links" = "Abilita Link Incorporati";
+"Auto Clear History" = "Elimina la cronologia in automatico";
+"Enable Embeded Links" = "Attiva i link incoroporati";
 "Language 🌎" = "Lingua 🌎";
-"Show All Settings Tabs" = "Mostra Tutte le Impostazioni";
-"Show Video Upload Timestamp" = "Mostra la Data di Caricamento dei Video";
+"Show All Settings Tabs" = "Mostra tutte le finestre delle Impostazioni";
+"Show Video Upload Timestamp" = "Mostra data di Pubblicazione";
+"Remove Pendant View" = "Rimuovi la Vista Pendente";
+"Hide Commission Posts" = "Nascondi i Post Commissionati";
+"Hide dangerous-action Warning" = "Nascondi l'avviso di Potenziale Video Pericoloso";
 
 // MARK: - Download Features
-"Downloads Menu" = "Menu dei Download";
-"Download Video" = "Scarica Video";
-"Download HD Video" = "Scarica Video in HD";
-"Download Music" = "Scarica Musica";
-"Download Photo" = "Scarica Foto";
+"Downloads Menu" = "Menu Download";
+"Download Video" = "Scarica il Video";
+"Download HD Video" = "Scarica il Video in HD";
+"Download Music" = "Scarica il Brano";
+"Download Photo" = "Scarica la Foto";
 "Download All Photos" = "Scarica tutte le Foto";
-"Download Photos Menu" = "Menu di Download Foto";
-"Downloading" = "Scaricamento";
-"Download Button" = "Pulsante di Download";
+"Download Photos Menu" = "Menu per Scaricare le Foto";
+"Downloading" = "Sto Scaricando";
+"Download Button" = "Pulsante Download";
 
 // MARK: - Copy Features
-"Copy Menu" = "Menu di Copia";
-"Copy Music Link" = "Copia il Link Musica";
-"Copy Description" = "Copia la Descrizione";
-"Post Info" = "Info del Post";
-"Copy Video link" = "Copia il Link Video";
-"Copy bio" = "Copia Bio";
-"Music Link Copied" = "Link Musica Copiato";
-"Video Link Copied" = "Link Video Copiato";
-"Description Link Copied" = "Link Descrizione Copiato";
+"Copy Menu" = "Menu Copia";
+"Copy Music Link" = "Copia il link del Brano";
+"Copy Description" = "Copia la descrizione";
+"Post Info" = "Informazioni sul Post";
+"Copy Video link" = "Copia il link del Video";
+"Copy bio" = "Copia la Biografia";
+"Music Link Copied" = "Link del Brano Copiato";
+"Video Link Copied" = "Link del Video Copiato";
+"Description Link Copied" = "Link della descrizione Copiato";
 "Stats Menu" = "Menu Statistiche";
-"Video Info" = "Info Video";
+"Video Info" = "Informazioni sul Video";
 
 // MARK: - Confirm Settings
-"Confirm Settings" = "Conferma Impostazioni";
-"Confirmation Settings" = "Impostazioni di Conferma";
-"Like Confirmation" = "Conferma per i Like";
-"Like Comment Confirmation" = "Conferma per i Like ai Commenti";
-"Dislike Comment Confirmation" = "Conferma per i Dislike ai Commenti";
-"Follow Confirmation" = "Conferma per il follow";
+"Confirm Settings" = "Impostazioni di Conferma";
+"Confirmation Settings" = "Impostazioni Conferma";
+"Like Confirmation" = "Conferma il Like";
+"Like Comment Confirmation" = "Conferma il Like al commento";
+"Dislike Comment Confirmation" = "Conferma il Dislike al commento";
+"Follow Confirmation" = "Conferma il Follow";
 
 // MARK: - Feed Settings
 "Feed Settings" = "Impostazioni del Feed";
-"Hide Ads" = "Nascondi le pubblicità";
+"Hide Ads" = "Nascondi gli Annunci";
 "Share Sheet" = "Foglio Condivisione";
-"Remove Watermark" = "Rimuovi Watermark";
-"Show/Hide UI Button" = "Mostra/Nascondi Pulsante UI";
-"Stop Playback" = "Ferma la Riproduzione";
-"Auto Play Next Video" = "Avvio Automatico Prossimo Video";
-"Show Progress Bar" = "Mostra Barra Progresso";
-"Transparent Comments" = "Commenti Trasparenti";
-"Show Usernames" = "Mostra Nomi Utente";
-"Disable Sensitive Content" = "Disabilita Contenuti Sensibili";
-"Disable Warnings" = "Disabilita Avvisi";
-"Disable Live Streaming" = "Disabilita Dirette Streaming";
-"Skip Recommendations" = "Salta Suggeriti";
-"Upload Region" = "Regione di Caricamento";
-"Hide Top Feed items" = "Nascondi Elementi in Cima al Feed";
-"Anonymous Seen" = "Visualizzazione Anonima";
-"Hide Play/Pause Button" = "nascondi Bottone Play/Pausa";
+"Remove Watermark" = "Rimuovi la Filigrana";
+"Show/Hide UI Button" = "Mostra/Nascondi il Pulsante per l'IU";
+"Stop Playback" = "Interrompi la Riproduzione";
+"Auto Play Next Video" = "Scrolla in automatico al Video seguente";
+"Show Progress Bar" = "Mostra la barra Progressi";
+"Transparent Comments" = "Commenti trasparenti";
+"Show Usernames" = "Mostra i Nomi Utente";
+"Disable Sensitive Content" = "Disabilita i contenuti sensibili";
+"Disable Warnings" = "Disabilita gli avvertimenti";
+"Disable Live Streaming" = "Disabilita le Live";
+"Skip Recommendations" = "Salta le Raccomandazioni";
+"Upload Region" = "Regione di Upload";
+"Hide Top Feed items" = "Nascondi gli elemnti in cima al Feed";
+"Anonymous Seen" = "Visione Anonima";
+"Hide Play/Pause Button" = "Nascondi il pulsante Riprendi/Pausa";
 
 // MARK: - Profile Settings
-"Profile Settings" = "Impostazioni del Profilo";
+"Profile Settings" = "Impostazioni Profilo";
 "Profile Save" = "Salva Profilo";
 "Profile Copy" = "Copia Profilo";
-"Video Like Count" = "Conteggio Like Video";
-"Video Upload Date" = "Data Caricamento Video";
-"User Post Count" = "Conteggio Post Utente";
-"Follower" = "Seguito";
+"Video Like Count" = "Numero Like del Video";
+"Video Upload Date" = "Data di pubblicazione del Video";
+"User Post Count" = "Numero Post dell'Utente";
+"Follower" = "Follower";
 "Following" = "Stai Seguendo";
 "Fake Verified" = "Falso Verificato";
-"Enable Fake Changes" = "Abilita Modifiche False";
-"Extended Bio" = "Bio Estesa";
+"Enable Fake Changes" = "Abilita i Falsi Cambiamenti";
+"Extended Bio" = "Biografia Estesa";
 "Extended Comments" = "Commenti Estesi";
 "Upload HD" = "Carica in HD";
-"App Lock" = "Blocca l' App";
+"App Lock" = "Blocco App";
 "Enable Flex" = "Abilita Flex";
-"Enable Oled Keyboard" = "Abilita Tastiera OLED";
+"Enable Oled Keyboard" = "Abilita la Tastiera OLED";
 "Post Stats" = "Statistiche Post";
-"Enable Text To Reposts" = "Abilita Testo ai Repost";
-"Disable Survey Popups" = "Disabilita Popup Sondaggio";
+"Enable Text To Reposts" = "Abilita i Repost con testo";
+"Disable Survey Popups" = "Disabilita i Sondaggi";
 
 // MARK: - Comment Settings
-"Comment Settings" = "Impostazioni dei Commenti";
-"Comment Design" = "Design Commento";
-"Select Design" = "Design Seleziona";
-"Disable Comment Tooltip" = "Disabilita Suggerimento Commento";
-"Add Comment as Post" = "Aggiungi Commento come Post";
-"Add Comment as Story" = "Aggiungi Commento come Storia";
-"Mass Unfold Comment Replies" = "Espandi le Risposte";
-"Auto Unfold Comment Texts" = "Espansione Automatica Testi";
-"Multi Emoji Comment Bar" = "Barra Emoji Multiple";
-"Hide Emoji-Bar" = "Nascondi Barra Emoji";
-"Add Translation Button" = "Nascondi Barra Traduzione";
-"Comment Cell Redesign" = "Redesign Cella dei Commenti";
-"Enable Comment Photos" = "Abilita Foto nei Commenti";
-"Enable Comment Stickers" = "Enable Sticker nei Commenti";
-"Enable Comment Flags" = "Enable Bandiere nei Commenti";
-"Enable Copy Without Username" = "Abilita Copia Senza Nome Utente";
-"Configure Advanced Comment Settings" = "Configura Impostazioni dei Commenti Avanzate";
+"Comment Settings" = "Impostazioni Commenti";
+"Comment Design" = "Aspetto dei Commenti";
+"Select Design" = "Seleziona l'Aspetto";
+"Disable Comment Tooltip" = "Disabilita i Commenti Suggeriti";
+"Add Comment as Post" = "Aggiungi il commento come Post";
+"Add Comment as Story" = "Aggiungi il commento come Storia";
+"Mass Unfold Comment Replies" = "Visualizza tutte le Risposte";
+"Auto Unfold Comment Texts" = "Estendi il testo dei Commenti in Automatico";
+"Multi Emoji Comment Bar" = "Barra Multi Emoji";
+"Hide Emoji-Bar" = "Nascondi la Barra Emoji";
+"Add Translation Button" = "Aggiungi il Pulsante delle Traduzioni";
+"Comment Cell Redesign" = "Redesign del Commento";
+"Enable Comment Photos" = "Abilita le Foto nei Commenti";
+"Enable Comment Stickers" = "Abilita gli Sticker nei Commenti";
+"Enable Comment Flags" = "Abilita le Bandiere nei Commenti";
+"Enable Copy Without Username" = "Abilita la Copia del Commento senza il Nome Utente";
+"Configure Advanced Comment Settings" = "Configura le Impostazioni Avanzate dei Commenti";
 
 // MARK: - Tab Bar Settings
-"Tab Bar Settings" = "Impostazioni della Barra delle Tab";
-"Tab Bar Configurations" = "Configurazioni della Barra delle Tab";
-"Hide Plus Button" = "Nascondi Bottone Più";
-"Hide Friends Badge" = "Nascondi Etichetta Amici";
-"Hide Inbox Badge" = "Nascondi Etichetta Posta in Arrivo";
-"Changes will take effect after restarting the app" = "I cambiamenti avranno effetto dopo il riavvio dell'app";
+"Tab Bar Settings" = "Impostazioni Barra delle Tab";
+"Tab Bar Configurations" = "Configurazione Barra delle Tab";
+"Hide Plus Button" = "Nascondi il Pulsante Piu";
+"Hide Friends Badge" = "Nascondi il Badge degli Amici";
+"Hide Inbox Badge" = "Nascondi il Badge della Posta in Arrivo";
+"Changes will take effect after restarting the app" = "I cambiamenti avranno effetto solo a seguito del riavvio dell'app";
 
 // MARK: - Live Button Settings
-"Live Button Settings" = "Impostazioni";
-"Live Button Function" = "Funzione Bottone Live";
-"Live Button Actions" = "Azioni Bottone Live";
+"Live Button Settings" = "Impostazioni per il Pulsante Live";
+"Live Button Function" = "Funzione Pulsante Live";
+"Live Button Actions" = "Azioni del Pulsante Live";
 "Live Actions" = "Azioni Live";
 "Playback Speed" = "Velocità di Riproduzione";
 "Select Action" = "Seleziona Azione";
-"Change the behavior of the Live button" = "Cambia il comportamento del bottone Live";
+"Change the behavior of the Live button" = "Cambia la funzionalità del pulsante Live";
 "Selected Action" = "Azione Selezionata";
-"Live Button Function Disabled" = "Funzione Bottone Live Disabilitata";
-"Please enable Live Button Function first" = "Per favore, attiva prima la Funzione Bottone Live";
-"Change Action of Live Button" = "Cambia Azione del Bottone Live";
-"Enable Live Button Function" = "Abilita Funzione Bottone Live";
+"Live Button Function Disabled" = "Funzione Pulsante Live Disabilitata";
+"Please enable Live Button Function first" = "Per favore, attiva prima la Funzione Pulsante Live";
+"Change Action of Live Button" = "Cambia Azione del Pulsante Live";
+"Enable Live Button Function" = "Abilita Funzione Pulsante Live";
 
 // MARK: - Chat Settings
 "Chat Settings" = "Impostazioni Chat";
 "Enable Voice Messages" = "Abilita Messaggi Vocali";
 "Enable Streaks" = "Abilita Serie";
-"Hide Streak Pet" = "Nascondi Compagno Serie";
-"Disable Typing Indicator" = "Disabilita Indicatore Scrittura";
+"Hide Streak Pet" = "Nascondi Animaletto Serie";
+"Disable Typing Indicator" = "Disabilita l'indicatore di Scrittura in tempo reale";
 "Enable Pin Chat" = "Abilita Fissa Chat";
 "Bypass Media Limit" = "Ignora Limite Media";
-"Disable AI-Generated Replies" = "Disabilita Risposte Generate da IA";
+"Disable AI-Generated Replies" = "Disabilita Risposte Generate dall'IA";
 "Enable Small Emoji" = "Abilita Emoji Piccole";
 "Anonymous Seen" = "Visualizzazione Anonima";
 
 // MARK: - Playback Speed
 "Enable Playback Speed" = "Abilita Velocità Riproduzione";
 "Selected Speed" = "Velocità Selezionata";
-"Playback Speed Settings" = "Impostazione Velocità Riproduzione";
-"Enable Persistent Playback Speed." = "Abilita Velocità Riproduzione Persistente.";
+"Playback Speed Settings" = "Impostazione la Velocità Riproduzione";
+"Enable Persistent Playback Speed." = "Abilita la Velocità Riproduzione Persistente.";
 "Select Speed" = "Seleziona Velocità";
 "Control video playback speed" = "Controlla la velocità di Riproduzione";
 "Playback Speed Disabled" = "Velocità di Riproduzione Disabilitata";
@@ -172,9 +175,9 @@
 
 // MARK: - Region Settings
 "Region Settings" = "Impostazioni Regione";
-"Enable region changing to access content from different regions" = "Abilita il cambio di regione per accedere a contenuti di regioni differenti";
-"Enable Region Changing" = "Abilita Cambio Regione";
-"Enable Region Changing Functionality" = "Abilita Funzione Cambio Regione";
+"Enable region changing to access content from different regions" = "Abilita il cambio di regione per accedere a contenuti di altre regioni";
+"Enable Region Changing" = "Abilita il Cambio di Regione";
+"Enable Region Changing Functionality" = "Abilita la Funzione di Cambio Regione";
 "Selected Region" = "Regione Selezionata";
 "Region Changing Disabled" = "Cambio Regione Disabilitato";
 "Please enable region changing first" = "Per favore, attiva prima il Cambio di Regione";
@@ -185,22 +188,22 @@
 "FEATURE_HIDE_ADS" = "Nasconde le pubblicità dal Feed";
 "FEATURE_DOWNLOAD_BUTTON" = "Abilita il bottone di scaricamento per i post e le storie";
 "FEATURE_SHARE_SHEET" = "Apre la finestra di condivisione dopo aver scaricato il media";
-"FEATURE_REMOVE_WATERMARK" = "Rimuove il watermark (Logo di TikTok animato e il nome utente) dai media scaricati";
-"FEATURE_UI_BUTTON" = "Mostra o nasconde il bottone UI";
-"FEATURE_STOP_PLAYBACK" = "Ferma la riproduzione del video quando finisce";
+"FEATURE_REMOVE_WATERMARK" = "Rimuove la filigrana dai media scaricati";
+"FEATURE_UI_BUTTON" = "Mostra o nasconde il pulsante per l'IU";
+"FEATURE_STOP_PLAYBACK" = "Ferma la riproduzione del video quando termina";
 "FEATURE_AUTO_PLAY" = "Abilita scorrimento automatico dei video";
 "FEATURE_PROGRESS_BAR" = "Mostra barra di durata sotto ogni video";
 "FEATURE_TRANSPARENT_COMMENTS" = "Rende la sezione commenti trasparente";
 "FEATURE_DISABLE_SURVEY" = "Disabilita i sondaggi nel Feed";
-"FEATURE_HIDE_PLAY_PAUSE" = "Nasconde l'indicatore Play/Pausa nel Feed";
-"FEATURE_SHOW_USERNAMES" = "Sostituisce i nick con i tag degli utenti";
+"FEATURE_HIDE_PLAY_PAUSE" = "Nasconde l'indicatore Riproduzione/Pausa nel Feed";
+"FEATURE_SHOW_USERNAMES" = "Sostituisce i soprannomi con gli username degli utenti";
 "FEATURE_DISABLE_SENSITIVE" = "Nasconde l'avviso di contenuti inappropriati";
-"FEATURE_ADD_TRANSLATION" = "Aggiunge un bottone Traduzione in ogni commento";
+"FEATURE_ADD_TRANSLATION" = "Aggiunge un pulsante per la Traduzione in ogni commento";
 "FEATURE_DISABLE_WARNINGS" = "Nasconde avvisi di TikTok";
 "FEATURE_DISABLE_LIVE" = "Nasconde le live nel feed";
 "FEATURE_SKIP_RECOMMENDED" = "Rimuove gli amici suggeriti ecc";
 "FEATURE_UPLOAD_REGION" = "Mostra la bandiera della regione di caricamento accanto al nome utente";
-"FEATURE_HIDE_TOP_ITEMS" = "Nasconde il bottone di recerca, Live e altri (Per Te, Seguiti, Negozio ecc...)";
+"FEATURE_HIDE_TOP_ITEMS" = "Nasconde il pulsante di ricerca, Live e altri (Per Te, Seguiti, Negozio ecc...)";
 "FEATURE_ANONYMOUS_SEEN" = "Leggi le chat senza che l'altra persona lo sappia";
 "FEATURE_SHOW_ALL_TABS" = "Mostra la sezione con tutte le impostazioni nascoste [Beta!]";
 "FEATURE_PROFILE_SAVE" = "Salva le informazioni del profilo nella clipboard";
@@ -245,7 +248,6 @@
 "FEATURE_SHOW_VIDEO_TIMESTAMP" = "Mostra l'orario di caricamento a fianco del nome utente nei Per Te";
 "FEATURE_HIDE_COMMISSION_POSTS" = "Rimuovi i posti che indicano 'Il creatore guadagna una commissione'";
 
-
 // Comment Settings Descriptions
 "ENABLE_COMMENT_PHOTO" = "Permette di aggiungere foto ai commenti";
 "ENABLE_COMMENT_STICKERS" = "Permette di aggiungere sticker ai commenti";
@@ -262,9 +264,87 @@
 "FEATURE_ENABLE_COMMENT_FLAGS" = "Mostra la bandiera della regione di chi ha commentato";
 
 // MARK: - Error Messages
-"Could Not Copy Music" = "Non ho potuto copiare la Musica";
-"The video doesn't have music to download" = "Questo video non ha Musica da scaricare";
+"Could Not Copy Music" = "Non è stato possibile copiare il brano";
+"The video doesn't have music to download" = "Questo video non ha nessun brano da scaricare";
 
 // MARK: - Developer
-"DEVELOPER_TELEGRAM" = "Entra nel canale Telegram per gli ultimi aggiornamenti";
-"DEVELOPER_SUPPORT" = "Supporta RXTikTok e guadagna l'accesso al gruppo di beta test";
+"DEVELOPER_TELEGRAM" = "Unisciti al gruppo Telegram per gli ultimi aggiiornamenti";
+"DEVELOPER_SUPPORT" = "Supporta RXTikTok e ottieni accesso al gruppo Beta";
+
+// MARK: - Missing Strings
+"Features list" = "Lista Funzionalità";
+"Not Selected" = "Non Selezionato";
+"Creator Profile Pull" = "Scrolla per il Profilo del Creator";
+"OK" = "OK";
+"Disable Left & Right Swipe" = "Disabilita lo Swipe a Sinistra e a Destra";
+"Pull To Camera" = "Avvicina alla Camera";
+"Regions" = "Regioni";
+"Full Region Mode" = "Modalità Regione Totale";
+"Add Folders To Inbox" = "Aggiungi Cartelle alla Posta in Arrivo";
+
+// Additional missing strings
+"Settings" = "Impostazioni";
+"Save" = "Salva";
+"Delete" = "Elimina";
+"Edit" = "Modifica";
+"Close" = "Chiudi";
+"Back" = "Indietro";
+"Next" = "Successivo";
+"Done" = "Fatto";
+"Error" = "Errore";
+"Success" = "Successo";
+"Warning" = "Avviso";
+"Loading" = "Caricamento";
+"Search" = "Cerca";
+"Apply" = "Applica";
+"Reset" = "Resetta";
+"Video saved successfully" = "Video salvato con successo";
+"Photo saved successfully" = "Foto salvata con successo";
+"Failed to save media" = "Salvataggio non riuscito";
+"No internet connection" = "Nessuna connessione internet";
+"Select All" = "Seleziona tutto";
+"Deselect All" = "Rimuovi tutto";
+"More Options" = "Altre Impostazioni";
+"Share" = "Condividi";
+"Copy Link" = "Copia Link";
+"Report" = "Segnala";
+"Block" = "Blocca";
+"Unfollow" = "Smetti di Seguire";
+"Hide" = "Nascondi";
+"Show" = "Mostra";
+"Enable" = "Abilita";
+"Disable" = "Disabilita";
+
+// MARK: - Missing Feature Descriptions
+"FEATURE_CREATOR_PROFILE_PULL" = "Visuallizza il profilo del Creator swipando verso giu";
+"FEATURE_DISABLE_SWIPE" = "Disabilita lo swipe a destra o a sinistra nel feed";
+"FEATURE_PULL_TO_CAMERA" = "Abilita la funzione pull-to-camera";
+"FEATURE_ADD_FOLDERS" = "Organizza la posta in arrivo in cartelle";
+"FEATURE_FULL_REGION_MODE" = "Abilita Solo Se La Prima Opzione Non Funziona!!";
+
+// Additional feature descriptions
+"FEATURE_ANONYMOUS_SEEN_DESC" = "Guarda i messaggi nella chat senza lasciare il visualizzato";
+"FEATURE_SHOW_ALL_TABS_DESC" = "Mostra tutte le finestre nascoste, incluse le feature sperimentali";
+"FEATURE_PROFILE_SAVE_DESC" = "Salva le informazioni profilo negli appunti del tuo dispositivo con solo click";
+"FEATURE_PROFILE_COPY_DESC" = "Copia i dettagli di un Profilo inclusi nome utente,biografia, e altre informazioni pubbliche";
+"FEATURE_APP_LOCK_DESC" = "Blocca l'app di Tiktok con l'autenticazione biometrica o con una password";
+"FEATURE_REGIONS_DESC" = "Accedi ai contenuti di una specifica regione cambiando la tua posizione virtuale";
+"FEATURE_ADD_FOLDERS_DESC" = "Organizza la posta in arrivo in cartelle per una migliore organizzazione";
+
+// MARK: - Credits View
+"Credits" = "Crediti";
+"Special Thanks to" = "Un Ringraziamento Speciale a";
+"Community" = "Communita";
+"Main Developer, Owner" = "Main Developer, Owner";
+"Co-Owner" = "Co-Owner";
+"DRM Developer" = "Sviluppatore DRM";
+"Contributor" = "Contributori";
+"UI Designer" = "Designer IU";
+"Telegram Channel" = "Canale Telegram";
+"Telegram Discussion Group" = "Gruppo discussione Telegram";
+"Get the latest updates and news" = "Ottieni gli ultimi aggiornamenti e notizie";
+"Join the community discussion" = "Unisciti alla community di discussione";
+"Buy Me a Coffee" = "Offrimi un Caffe ";
+"Support the development" = "Supporta lo Sviluppo";
+"X" = "X";
+"Support" = "Supporta";
