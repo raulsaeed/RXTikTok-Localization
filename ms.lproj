@@ -1,0 +1,273 @@
+/* Localizable.strings */
+
+// MARK: - Core UI Elements
+"RXTikTok, Hi" = "RXTikTok, Hai";
+"RXTikTok Settings" = "RXTikTok Tetapan";
+"Welcome" = "Selamat Datang";
+"Tap to Join the Telegram" = "Tekan untuk ke Telegram Group";
+
+// MARK: - Global Actions
+"Yes" = "Ya";
+"No" = "Tidak";
+"ON" = "BUKA";
+"OFF" = "TUTUP";
+"Cancel" = "Batalkan";
+"Confirm" = "Mengesahkan";
+"Actions" = "Tindakan";
+"Default" = "Lalai";
+"Modern" = "Moden";
+"Compact" = "Padat";
+"Backgrounding ✌️" = "Latar Belakang ✌️";
+"Are you sure?" = "Adakah anda setuju?";
+
+// MARK: - Navigation
+"Feed" = "Suapan";
+"Profile" = "Profil";
+"Other" = "Lain - Lain";
+"Region" = "Wilayah";
+"Developer" = "Pembangun";
+"Design Options" = "Pilihan Reka Bentuk";
+"Other Settings" = "Lain Tetapan";
+"Auto Clear History" = "Auto Kosongkan Sejarah";
+"Enable Embeded Links" = "Dayakan Pautan Terbenam";
+"Language 🌎" = "Bahasa 🌎";
+"Show All Settings Tabs" = "Tunjukkan Semua Tab Tetapan";
+"Show Video Upload Timestamp" = "Tunjukkan Masa Muat Naik Video";
+"Remove Pendant View" = "Keluarkan Pandangan Loket";
+"Hide Commission Posts" = "Sembunyikan Siaran Komisen";
+"Hide dangerous-action Warning" = "Sembunyikan Amaran tindakan berbahaya";
+
+// MARK: - Download Features
+"Downloads"Downloads Menu" = "Menu Muat Turun";
+"Download Video" = "Muat Turun Video";
+"Download HD Video" = "Muat Turun Video HD";
+"Download Music" = "Muat Turun Muzik";
+"Download Photo" = "Muat Turun Gambar";
+"Download All Photos" = "Muat Turun Semua Gambar";
+"Download Photos Menu" = "Muat Turun Menu Gambar";
+"Downloading" = "Memuat turun";
+"Download Button" = "Butang Muat Turun";
+
+// MARK: - Copy Features
+"Copy Menu" = "Salin Menu";
+"Copy Music Link" = "Salin Pautan Muzik";
+"Copy Description" = "Salin Penerangan";
+"Post Info" = "Maklumat Pos";
+"Copy Video link" = "Salin Pautan Video";
+"Copy bio" = "Salin Bio";
+"Music Link Copied" = "Pautan Muzik Disalin";
+"Video Link Copied" = "Pautan Video Disalin";
+"Description Link Copied" = "Pautan Penerangan Disalin";
+"Stats Menu" = "Menu Statistik";
+"Video Info" = "Info Video";
+
+// MARK: - Confirm Settings
+"Confirm Settings" = "Sahkan Tetapan";
+"Confirmation Settings" = "Pengesahan Tetapan";
+"Like Confirmation" = "Pengesahan Suka";
+"Like Comment Confirmation" = "Pengesahan Komen Suka";
+"Dislike Comment Confirmation" = "Pengesahan Komen Tidak Suka";
+"Follow Confirmation" = "Pengesahan Pengikut";
+
+// MARK: - Feed Settings
+"Feed Settings" = "Suapan Tetapan";
+"Hide Ads" = "Sembunyikan Iklan";
+"Share Sheet" = "Helaian Kongsi ";
+"Remove Watermark" = "Hilangkan Tera Air/Watermark";
+"Show/Hide UI Button" = "Tunjukan/Sembunyikan Butang UI";
+"Stop Playback" = "Hentikan Main Semula";
+"Auto Play Next Video" = "Auto Main Video Seterusnya";
+"Show Progress Bar" = "Tunjukkan Bar Proses";
+"Transparent Comments" = "Teluskan Komen";
+"Show Usernames" = "Tunjukan Nama Pengguna";
+"Disable Sensitive Content" = "Lumpuhkan Kandungan Sensitif";
+"Disable Warnings" = "Lumpuhkan Amaran";
+"Disable Live Streaming" = "Lumpuhkan Penstriman Langsung";
+"Skip Recommendations" = "Langkau Pengesyoran";
+"Upload Region" = "Wilayah Muat naik";
+"Hide Top Feed items" = "Sembunyikan Item Suapan Teratas";
+"Anonymous Seen" = "Tanpa Nama Dilihat";
+"Hide Play/Pause Button" = "Sembunyikan Butang Main/Jeda";
+
+// MARK: - Profile Settings
+"Profile Settings" = "Tetapan Profil";
+"Profile Save" = "Simpan Profil";
+"Profile Copy" = "Salinan Profil";
+"Video Like Count" = "Kiraan Suka Video";
+"Video Upload Date" = "Tarikh Muat Naik Video";
+"User Post Count" = "Kiraan Catatan Pengguna";
+"Follower" = "Pengikut";
+"Following" = "Mengikuti";
+"Fake Verified" = "Palsukan Disahkan";
+"Enable Fake Changes" = "Dayakan Perubahan Palsu";
+"Extended Bio" = "Lanjutan Bio";
+"Extended Comments" = "Lanjutan Komen";
+"Upload HD" = "Muat Naik HD";
+"App Lock" = "Kunci App";
+"Enable Flex" = "Dayakan Flex";
+"Enable Oled Keyboard" = "Dayakan Papan Kekunci OLED";
+"Post Stats" = "Statistik Pos";
+"Enable Text To Reposts" = "Dayakan Teks Untuk Siar Semula";
+"Disable Survey Popups" = "Lumpuhkan Timbul Tinjauan";
+
+// MARK: - Comment Settings
+"Comment Settings" = "Tetapan Komen";
+"Comment Design" = "Reka Bentuk Komen";
+"Select Design" = "Pilih Reka Bentuk";
+"Disable Comment Tooltip" = "Lumpuhkan Petua Alat Komen";
+"Add Comment as Post" = "Tambah Komen sebagai Siaran";
+"Add Comment as Story" = "Tambah Komen sebagai Cerita";
+"Mass Unfold Comment Replies" = "Lancar Balasan Terbuka";
+"Auto Unfold Comment Texts" = "Teks Terbuka Auto";
+"Multi Emoji Comment Bar" = "Bar Berbilang Emoji";
+"Hide Emoji-Bar" = "Sembunyikan Bar Emoji";
+"Add Translation Button" = "Tambah Butang Terjemahan";
+"Comment Cell Redesign" = "Reka Bentuk Semula Sel Komen";
+"Enable Comment Photos" = "Dayakan Foto Dikomen";
+"Enable Comment Stickers" = "Dayakan Pelekat Dikomen";
+"Enable Comment Flags" = "Dayakan Bendera Dikomen";
+"Enable Copy Without Username" = "Dayakan Salin Tanpa Nama Pengguna";
+"Configure Advanced Comment Settings" = "Konfigurasikan Tetapan Komen Lanjutan";
+
+// MARK: - Tab Bar Settings
+"Tab"Tab Bar Settings" = "Tetapan Bar Tab";
+"Tab Bar Configurations" = "Konfigurasi Bar Tab";
+"Hide Plus Button" = "Sembunyikan Butang Tambah";
+"Hide Friends Badge" = "Sembunyikan Lencana Rakan";
+"Hide Inbox Badge" = "Sembunyikan Lencana Peti Masuk";
+"Changes will take effect after restarting the app" = "Perubahan akan berkuat kuasa selepas memulakan semula apl";
+
+// MARK: - Live Button Settings
+"Live Button Settings" = "Tetapan Butang Langsung";
+"Live Button Function" = "Fungsi Butang Langsung";
+"Live Button Actions" = "Tindakan Butang Langsung";
+"Live Actions" = "Tindakan Langsung";
+"Playback Speed" = "Kelajuan Main Semula";
+"Select Action" = "Pilih Tindakan";
+"Change the behavior of the Live button" = "Tukar kelakuan butang Langsung";
+"Selected Action" = "Selected Action";
+"Live Button Function Disabled" = "Fungsi Butang Langsung Dilumpuhkan";
+"Please enable Live Button Function first" = "Sila dayakan Fungsi Butang Langsung dahulu";
+"Change Action of Live Button" = "Tukar Tindakan Butang Langsung";
+"Enable Live Button Function" = "Dayakan Fungsi Butang Langsung";
+
+// MARK: - Chat Settings
+"Chat Settings" = "Tetapan Sembang";
+"Enable Voice Messages" = "Dayakan Mesej Suara";
+"Enable Streaks" = "Dayakan Streak";
+"Hide Streak Pet" = "Sembunyikan Streak Pet";
+"Disable Typing Indicator" = "Lumpuhkan Penunjuk Menaip";
+"Enable Pin Chat" = "Dayakan Sembang Pin";
+"Bypass Media Limit" = "Pintas Had Media";
+"Disable AI-Generated Replies" = "Lumpuhkan Balasan Dijana AI";
+"Enable Small Emoji" = "Dayakan Emoji Kecil";
+"Anonymous Seen" = "Tanpa Nama Dilihat";
+
+// MARK: - Playback Speed
+"Enable Playback Speed" = "Dayakan Kelajuan Main Semula";
+"Selected Speed" = "Kelajuan yang Dipilih";
+"Playback Speed Settings" = "Tetapan Kelajuan Main semula";
+"Enable Persistent Playback Speed." = "Dayakan Kelajuan Main Balik Berterusan.";
+"Select Speed" = "Pilih Kelajuan";
+"Control video playback speed" = "Kawal kelajuan main balik video";
+"Playback Speed Disabled" = "Kelajuan Main Semula Dilumpuhkan";
+"Please enable Playback Speed first" = "Sila dayakan Kelajuan Main Semula dahulu";
+
+// MARK: - Region Settings
+"Region Settings" = "Tetapan Wilayah";
+"Enable region changing to access content from different regions" = "Dayakan perubahan wilayah untuk mengakses kandungan dari wilayah yang berbeza";
+"Enable Region Changing" = "Dayakan Penukaran Wilayah";
+"Enable Region Changing Functionality" = "Dayakan Fungsi Menukar Wilayah";
+"Selected Region" = "Wilayah Terpilih";
+"Region Changing Disabled" = "Menukar Wilayah Dilumpuhkan";
+"Please enable region changing first" = "Sila dayakan perubahan wilayah dahulu";
+
+// MARK: - Feature Descriptions
+"FEATURE_ENABLE_COMMENT_FLAGS" = "FUNGSI_DAYAKAN_KOMEN_BENDERA";
+"FEATURE_COPY_WITHOUT_USERNAME" = "FUNGSI_SALIN_TANPA_USERNAME";
+"FEATURE_HIDE_ADS" = "Menyembunyikan iklan daripada suapan";
+"FEATURE_DOWNLOAD_BUTTON" = "Ebutang muat turun nables untuk siaran dan cerita";
+"FEATURE_SHARE_SHEET" = "Membuka helaian kongsi selepas memuat turun media";
+"FEATURE_REMOVE_WATERMARK" = "Mengalih keluar tera air (logo TikTok animasi dan nama pengguna) daripada media yang dimuat turun";
+"FEATURE_UI_BUTTON" = "Menunjukkan atau menyembunyikan butang UI";
+"FEATURE_STOP_PLAYBACK" = "Menghentikan main balik video apabila ia tamat";
+"FEATURE_AUTO_PLAY" = "Mendayakan tatal video automatik";
+"FEATURE_PROGRESS_BAR" = "Menunjukkan bar tempoh di bawah setiap video";
+"FEATURE_TRANSPARENT_COMMENTS" = "Menjadikan bahagian komen telus";
+"FEATURE_DISABLE_SURVEY" = "Lumpuhkan Soalan Tinjauan Menjengkelkan Dalam Suapan";
+"FEATURE_HIDE_PLAY_PAUSE" = "Sembunyikan Paparan Main/Jeda Dalam Suapan";
+"FEATURE_SHOW_USERNAMES" = "Menggantikan nama panggilan dengan tag";
+"FEATURE_DISABLE_SENSITIVE" = "Menyembunyikan amaran kandungan yang tidak sesuai";
+"FEATURE_ADD_TRANSLATION" = "Tambahkan Butang Terjemahan dalam Setiap Komen";
+"FEATURE_DISABLE_WARNINGS" = "Menyembunyikan amaran TikTok";
+"FEATURE_DISABLE_LIVE" = "Menyembunyikan strim langsung dalam suapan";
+"FEATURE_SKIP_RECOMMENDED" = "Mengalih keluar cadangan rakan dsb";
+"FEATURE_UPLOAD_REGION" = "Menunjukkan bendera wilayah muat naik di sebelah nama pengguna";
+"FEATURE_HIDE_TOP_ITEMS" = "Menyembunyikan butang carian, LIVE dan lain-lain (Untuk Anda, Mengikuti, Beli dan lain-lain...)";
+"FEATURE_ANONYMOUS_SEEN" = "Tengok Sembang Tanpa Orang Lain Tahu";
+"FEATURE_SHOW_ALL_TABS" = "Tunjukkan Semua Tab Tetapan Tersembunyi [Beta!]";
+"FEATURE_PROFILE_SAVE" = "Menyimpan maklumat profil ke papan keratan";
+"FEATURE_EMBED_LINKS" = "Dayakan Pautan Terbenam Semasa Menyalin Pautan";
+"FEATURE_PROFILE_COPY" = "Menyalin maklumat profil";
+"FEATURE_USER_POST_COUNT" = "Menunjukkan Bilangan Video Yang Dimuat Naik";
+"FEATURE_LIKE_COUNT" = "Menunjukkan seperti mengira pada mesej";
+"FEATURE_UPLOAD_DATE" = "Menunjukkan tarikh muat naik";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Tunjukkan Masa Muat Naik Video Dalam FYP";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Sembunyikan Amaran Di Bawah Video Sukan (UFC, Tinju, Dll...)";
+"FEATURE_REMOVE_PENDANT" = "Alih keluar Paparan Iklan Di sebelah kiri atas fyp";
+"FEATURE_CONFIRM_LIKE" = "Menunjukkan pengesahan untuk menyukai video";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Menunjukkan pengesahan untuk menyukai komen";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Menunjukkan pengesahan untuk tidak menyukai ulasan";
+"FEATURE_CONFIRM_FOLLOW" = "Menunjukkan pengesahan untuk mengikuti pengguna";
+"FEATURE_AUTO_CLEAR" = "Membersihkan sejarah carian secara automatik setiap 60 saat";
+"FEATURE_FAKE_CHANGES" = "Mendayakan penipuan data profil";
+"FEATURE_FOLLOWER_COUNT" = "Masukkan bilangan pengikut palsu";
+"FEATURE_FOLLOWING_COUNT" = "Masukkan kiraan berikut palsu";
+"FEATURE_FAKE_VERIFIED" = "Menunjukkan lencana pengesahan palsu";
+"FEATURE_HIDE_PLUS_BTN" = "Sembunyikan Butang Kamera";
+"FEATURE_HIDE_FRIENDS_BADGE" = "Sembunyikan Lencana Pemberitahuan Rakan";
+"FEATURE_HIDE_INBOX_BADGE" = "Sembunyikan Lencana Pemberitahuan Peti Masuk";
+"FEATURE_EXTENDED_BIO" = "Melanjutkan had aksara bio";
+"FEATURE_EXTENDED_COMMENTS" = "Melanjutkan had aksara ulasan";
+"FEATURE_UPLOAD_HD" = "Mendayakan muat naik HD";
+"FEATURE_APP_LOCK" = "Menambah keupayaan untuk mengunci TikTok dengan kata laluan";
+"FEATURE_ENABLE_FLEX" = "Untuk pembangun sahaja, JANGAN SENTUH jika anda tidak tahu apa yang dilakukannya";
+"FEATURE_OLED_KEYBOARD" = "Hanya berfungsi dengan tema gelap";
+"FEATURE_POST_STATS" = "Tunjukkan Butang Menu Dalam Bahagian Muat Turun Untuk Statistik Catatan";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Dayakan Menambah Teks Pada Siaran Semula Anda";
+"FEATURE_VOICE_MESSAGES" = "Dayakan Menghantar Mesej Suara Dalam Sembang";
+"FEATURE_ENABLE_STREAKS" = "Dayakan Coretan Dengan Rakan";
+"FEATURE_HIDE_STREAK_PET" = "Sembunyikan Streak Pet";
+"FEATURE_DISABLE_TYPING" = "Jangan Hantar Penunjuk Menaip Akan Berbual";
+"FEATURE_PIN_CHATS" = "Sematkan Sembang Kegemaran Ke Atas";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "Pintas had Media dalam Sembang (Lalai: 9 Foto, Video 1 Minit)";
+"FEATURE_DISABLE_AI_REPLIES" = "Lumpuhkan Balasan Dijana AI Kepada Siaran yang dihantar";
+"FEATURE_SMALL_EMOJI" = "Dayakan Menghantar Emoji Kecil";
+"FEATURE_REMOVE_PENDANT" = "Alih Keluar Paparan Iklan Menjengkelkan di Penjuru kiri atas Skrin (Hanya Di Beberapa Kawasan)";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Sembunyikan Amaran Menjengkelkan Di Bawah Video Sukan";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Tunjukkan Masa Muat Naik Sebelah Nama Pengguna dalam Fyp";
+"FEATURE_HIDE_COMMISSION_POSTS" = "Alih Keluar Siaran Yang Mengatakan 'Pencipta Mendapat Komisen'";
+
+
+// Comment Settings Descriptions
+"ENABLE_COMMENT_PHOTO" = "Benarkan menambah foto pada komen";
+"ENABLE_COMMENT_STICKERS" = "Benarkan menambahkan pelekat pada komen";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Lumpuhkan petua alat dalam komen";
+"FEATURE_ADD_TRANSLATION" = "Tambah butang terjemahan pada komen";
+"FEATURE_ADD_COMMENT_POST" = "Dayakan siaran komen sebagai siaran";
+"FEATURE_ADD_COMMENT_STORY" = "Dayakan menyiarkan komen sebagai cerita";
+"FEATURE_MASS_UNFOLD" = "Bentang beramai-ramai semua balasan komen";
+"FEATURE_AUTO_UNFOLD" = "Buka teks komen secara automatik";
+"FEATURE_MULTI_EMOJI" = "Dayakan bar komen berbilang emoji";
+"FEATURE_HIDE_EMOJI" = "Sembunyikan bar emoji dalam ulasan";
+"FEATURE_COMMENT_REDESIGN" = "Dayakan sel kome  yang direka bentuk semula";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Salin Komen Tanpa 'Nama Pengguna: '";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Tunjukkan Bendera Wilayah Pengulas";
+
+// MARK: - Error Messages
+"Could Not Copy Music" = "Tidak Dapat Menyalin Muzik";
+"The video doesn't have music to download" = "Video ini tidak mempunyai muzik untuk dimuat turun";
+
+// MARK: - Developer
+"DEVELOPER_TELEGRAM" = "Sertai saluran Telegram untuk kemas kini terkini";
+"DEVELOPER_SUPPORT" = "Sokong RXTikTok dan dapatkan akses kepada kumpulan ujian beta";
