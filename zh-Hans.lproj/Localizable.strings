@@ -17,7 +17,7 @@
 "Default" = "默认";
 "Modern" = "现代";
 "Compact" = "紧凑";
-"Backgrounding ✌️" = "后台运行 ✌️";
+"Backgrounding ✌️" = "后台运行中 ✌️";
 "Are you sure?" = "确定吗？";
 
 // MARK: - Navigation
@@ -268,3 +268,81 @@
 // MARK: - Developer
 "DEVELOPER_TELEGRAM" = "加入 Telegram 频道获取最新更新";
 "DEVELOPER_SUPPORT" = "支持 RXTikTok 并获取测试组访问权限";
+
+// MARK: - Missing Strings
+"Features list" = "功能列表";
+"Not Selected" = "未选择";
+"Creator Profile Pull" = "下拉查看创作者主页";
+"OK" = "确定";
+"Disable Left & Right Swipe" = "禁用左右滑动";
+"Pull To Camera" = "下拉打开相机";
+"Regions" = "地区列表";
+"Full Region Mode" = "完整地区模式";
+"Add Folders To Inbox" = "为收件箱添加文件夹";
+
+// Additional missing strings
+"Settings" = "设置";
+"Save" = "保存";
+"Delete" = "删除";
+"Edit" = "编辑";
+"Close" = "关闭";
+"Back" = "返回";
+"Next" = "下一步";
+"Done" = "完成";
+"Error" = "错误";
+"Success" = "成功";
+"Warning" = "警告";
+"Loading" = "加载中";
+"Search" = "搜索";
+"Apply" = "应用";
+"Reset" = "重置";
+"Video saved successfully" = "视频保存成功";
+"Photo saved successfully" = "图片保存成功";
+"Failed to save media" = "媒体保存失败";
+"No internet connection" = "无网络连接";
+"Select All" = "全选";
+"Deselect All" = "取消全选";
+"More Options" = "更多选项";
+"Share" = "分享";
+"Copy Link" = "复制链接";
+"Report" = "举报";
+"Block" = "拉黑";
+"Unfollow" = "取消关注";
+"Hide" = "隐藏";
+"Show" = "显示";
+"Enable" = "启用";
+"Disable" = "禁用";
+
+// MARK: - Missing Feature Descriptions
+"FEATURE_CREATOR_PROFILE_PULL" = "下拉时查看创作者主页";
+"FEATURE_DISABLE_SWIPE" = "禁用首页中的左右滑动";
+"FEATURE_PULL_TO_CAMERA" = "启用下拉打开相机功能";
+"FEATURE_ADD_FOLDERS" = "为收件箱消息添加文件夹分类";
+"FEATURE_FULL_REGION_MODE" = "仅当常规地区切换失效时启用！";
+
+// Additional feature descriptions
+"FEATURE_ANONYMOUS_SEEN_DESC" = "查看私信时不会发送已读回执给发送者";
+"FEATURE_SHOW_ALL_TABS_DESC" = "显示所有隐藏的设置选项，包括实验性功能";
+"FEATURE_PROFILE_SAVE_DESC" = "一键保存个人资料信息到剪贴板";
+"FEATURE_PROFILE_COPY_DESC" = "复制用户名、简介等个人资料信息";
+"FEATURE_APP_LOCK_DESC" = "使用密码或生物识别保护你的抖音应用";
+"FEATURE_REGIONS_DESC" = "通过更改虚拟位置访问特定地区的内容";
+"FEATURE_ADD_FOLDERS_DESC" = "将收件箱消息整理到自定义文件夹中，便于管理";
+
+// MARK: - Credits View
+"Credits" = "致谢";
+"Special Thanks to" = "特别感谢";
+"Community" = "社区";
+"Main Developer, Owner" = "主要开发者，所有者";
+"Co-Owner" = "联合所有者";
+"DRM Developer" = "DRM 开发者";
+"Contributor" = "贡献者";
+"UI Designer" = "UI 设计师";
+"Telegram Channel" = "Telegram 频道";
+"Telegram Discussion Group" = "Telegram 讨论组";
+"Get the latest updates and news" = "获取最新更新和新闻";
+"Join the community discussion" = "加入社区讨论";
+"Buy Me a Coffee" = "请我喝杯咖啡";
+"Support the development" = "支持开发";
+"X" = "X";
+"Support" = "支持";
