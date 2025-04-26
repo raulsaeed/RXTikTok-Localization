@@ -69,7 +69,6 @@
 "Dislike Comment Confirmation" = "Confirmação de Descurtida no Comentário";
 "Follow Confirmation" = "Confirmação de Seguir";
 
-
 // MARK: - Feed Settings
 "Feed Settings" = "Configurações do Feed";
 "Hide Ads" = "Ocultar Anúncios";
@@ -129,7 +128,6 @@
 "Enable Comment Flags" = "Habilitar Bandeiras nos Comentários";
 "Enable Copy Without Username" = "Habilitar Cópia sem Nome de Usuário";
 "Configure Advanced Comment Settings" = "Configurar Configurações Avançadas de Comentários";
-
 
 // MARK: - Tab Bar Settings
 "Tab Bar Settings" = "Configurações da Barra de Abas";
@@ -264,7 +262,6 @@
 "FEATURE_COMMENT_REDESIGN" = "Habilitar o redesign da interface de comentários";
 "FEATURE_COPY_WITHOUT_USERNAME" = "Copiar comentários sem 'Nome de usuário: '";
 "FEATURE_ENABLE_COMMENT_FLAGS" = "Mostrar bandeira da região do comentarista";
-
 
 // MARK: - Error Messages
 "Could Not Copy Music" = "Não foi possível copiar a música";
