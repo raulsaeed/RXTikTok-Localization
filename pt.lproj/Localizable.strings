@@ -116,7 +116,7 @@
 "Select Design" = "Selecionar design";
 "Disable Comment Tooltip" = "Desativar dica de comentário";
 "Add Comment as Post" = "Adicionar comentário como publicação";
-"Add Comment as Story" = "Adicionar comentário como história";
+"Add Comment as Story" = "Adicionar comentário como Story";
 "Mass Unfold Comment Replies" = "Expandir respostas em massa";
 "Auto Unfold Comment Texts" = "Expandir textos automaticamente";
 "Multi Emoji Comment Bar" = "Barra de múltiplos emojis";
@@ -254,7 +254,7 @@
 "FEATURE_DISABLE_COMMENT_TOOLTIP" = "Desativa tooltips nos comentários";
 "FEATURE_ADD_TRANSLATION" = "Adiciona botão de tradução nos comentários";
 "FEATURE_ADD_COMMENT_POST" = "Permite repostar comentários como publicação";
-"FEATURE_ADD_COMMENT_STORY" = "Permite repostar comentários como história";
+"FEATURE_ADD_COMMENT_STORY" = "Permite repostar comentários como Story";
 "FEATURE_MASS_UNFOLD" = "Expande todas as respostas de comentário";
 "FEATURE_AUTO_UNFOLD" = "Expande textos de comentário automaticamente";
 "FEATURE_MULTI_EMOJI" = "Ativa barra multi-emoji nos comentários";
