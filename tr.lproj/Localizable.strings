@@ -29,13 +29,13 @@
 "Design Options" = "Tasarım Seçenekleri";
 "Other Settings" = "Diğer Ayarlar";
 "Auto Clear History" = "Otomatik Geçmiş Temizleme";
-"Enable Embeded Links" = "Enable Embeded Links";
+"Enable Embeded Links" = "Gömülü Bağlantıları Etkinleştir";
 "Language 🌎" = "Dil 🌎";
-"Show All Settings Tabs" = "Show All Settings Tabs";
-"Show Video Upload Timestamp" = "Show Video Upload Timestamp";
-"Remove Pendant View" = "Remove Pendant View";
-"Hide Commission Posts" = "Hide Commission Posts";
-"Hide dangerous-action Warning" = "Hide dangerous-action Warning";
+"Show All Settings Tabs" = "Tüm Ayarlar Sekmelerini Göster";
+"Show Video Upload Timestamp" = "Video Yükleme Zaman Damgasını Göster";
+"Remove Pendant View" = "Sarkıt Görünümünü Kaldır";
+"Hide Commission Posts" = "Komisyon Görevlerini Gizle";
+"Hide dangerous-action Warning" = "Tehlikeli eylem Uyarısını gizle";
 
 // MARK: - Download Features
 "Downloads Menu" = "İndirme Menüsü";
