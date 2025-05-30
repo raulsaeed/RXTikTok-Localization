@@ -1,366 +1,366 @@
 /* Localizable.strings */
 
 // MARK: - Core UI Elements
-"RXTikTok, Hi" = "RXTikTok, Hi";
-"RXTikTok Settings" = "RXTikTok Settings";
-"Welcome" = "Welcome";
-"Tap to Join the Telegram" = "Tap to Join the Telegram";
+"RXTikTok, Hi" = "RXTikTok، مرحبًا";
+"RXTikTok Settings" = "إعدادات RXTikTok";
+"Welcome" = "مرحبًا";
+"Tap to Join the Telegram" = "اضغط للانضمام إلى تيليجرام";
 
 // MARK: - Global Actions
-"Yes" = "Yes";
-"No" = "No";
-"ON" = "ON";
-"OFF" = "OFF";
-"Cancel" = "Cancel";
-"Confirm" = "Confirm";
-"Actions" = "Actions";
-"Default" = "Default";
-"Modern" = "Modern";
-"Compact" = "Compact";
-"Backgrounding ✌️" = "Backgrounding ✌️";
-"Are you sure?" = "Are you sure?";
+"Yes" = "نعم";
+"No" = "كلا";
+"ON" = "تشغيل";
+"OFF" = "إيقاف";
+"Cancel" = "إلغاء";
+"Confirm" = "تأكيد";
+"Actions" = "إجراءات";
+"Default" = "افتراضي";
+"Modern" = "حديث";
+"Compact" = "مضغوط";
+"Backgrounding ✌️" = "التشغيل في الخلفية ✌️";
+"Are you sure?" = "هل تريد التأكيد؟";
 
 // MARK: - Navigation
-"Feed" = "Feed";
-"Profile" = "Profile";
-"Other" = "Other";
-"Region" = "Region";
-"Developer" = "Developer";
-"Design Options" = "Design Options";
-"Other Settings" = "Other Settings";
-"Auto Clear History" = "Auto Clear History";
-"Enable Embeded Links" = "Enable Embeded Links";
-"Language 🌎" = "Language 🌎";
-"Show All Settings Tabs" = "Show All Settings Tabs";
-"Show Video Upload Timestamp" = "Show Video Upload Timestamp";
-"Remove Pendant View" = "Remove Pendant View";
-"Hide Commission Posts" = "Hide Commission Posts";
-"Hide dangerous-action Warning" = "Hide dangerous-action Warning";
+"Feed" = "المستجدات";
+"Profile" = "الملف الشخصي";
+"Other" = "أخرى";
+"Region" = "المنطقة";
+"Developer" = "المطور";
+"Design Options" = "خيارات التصميم";
+"Other Settings" = "إعدادات أخرى";
+"Auto Clear History" = "مسح التاريخ تلقائيًا";
+"Enable Embeded Links" = "تمكين الروابط المضمنة";
+"Language 🌎" = "اللغة 🌎";
+"Show All Settings Tabs" = "إظهار كل تبويبات الإعدادات";
+"Show Video Upload Timestamp" = "عرض تاريخ ووقت رفع الفيديو";
+"Remove Pendant View" = "إزالة عرض المُلحق";
+"Hide Commission Posts" = "إخفاء منشورات العمولات";
+"Hide dangerous-action Warning" = "إخفاء تحذيرات الإجراءات الخطرة";
 
 // MARK: - Download Features
-"Downloads Menu" = "Downloads Menu";
-"Download Video" = "Download Video";
-"Download HD Video" = "Download HD Video";
-"Download Music" = "Download Music";
-"Download Photo" = "Download Photo";
-"Download All Photos" = "Download All Photos";
-"Download Photos Menu" = "Download Photos Menu";
-"Downloading" = "Downloading";
-"Download Button" = "Download Button";
+"Downloads Menu" = "قائمة التنزيلات";
+"Download Video" = "تحميل الفيديو";
+"Download HD Video" = "تحميل فيديو بدقة عالية";
+"Download Music" = "تحميل الموسيقى";
+"Download Photo" = "تحميل الصورة";
+"Download All Photos" = "تحميل جميع الصور";
+"Download Photos Menu" = "قائمة تحميل الصور";
+"Downloading" = "جارٍ التحميل";
+"Download Button" = "زر التحميل";
 
 // MARK: - Copy Features
-"Copy Menu" = "Copy Menu";
-"Copy Music Link" = "Copy Music Link";
-"Copy Description" = "Copy Description";
-"Post Info" = "Post Info";
-"Copy Video link" = "Copy Video Link";
-"Copy bio" = "Copy Bio";
-"Music Link Copied" = "Music Link Copied";
-"Video Link Copied" = "Video Link Copied";
-"Description Link Copied" = "Description Link Copied";
-"Stats Menu" = "Stats Menu";
-"Video Info" = "Video Info";
+"Copy Menu" = "قائمة النسخ";
+"Copy Music Link" = "نسخ رابط الموسيقى";
+"Copy Description" = "نسخ الوصف";
+"Post Info" = "معلومات المنشور";
+"Copy Video link" = "نسخ رابط الفيديو";
+"Copy bio" = "نسخ السيرة";
+"Music Link Copied" = "تم نسخ رابط الموسيقى";
+"Video Link Copied" = "تم نسخ رابط الفيديو";
+"Description Link Copied" = "تم نسخ رابط الوصف";
+"Stats Menu" = "قائمة الإحصائيات";
+"Video Info" = "معلومات الفيديو";
 
 // MARK: - Confirm Settings
-"Confirm Settings" = "Confirm Settings";
-"Confirmation Settings" = "Confirmation Settings";
-"Like Confirmation" = "Like Confirmation";
-"Like Comment Confirmation" = "Like Comment Confirmation";
-"Dislike Comment Confirmation" = "Dislike Comment Confirmation";
-"Follow Confirmation" = "Follow Confirmation";
+"Confirm Settings" = "تأكيد الإعدادات";
+"Confirmation Settings" = "إعدادات التأكيد";
+"Like Confirmation" = "تأكيد الإعجاب";
+"Like Comment Confirmation" = "تأكيد إعجاب التعليق";
+"Dislike Comment Confirmation" = "تأكيد عدم الإعجاب بالتعليق";
+"Follow Confirmation" = "تأكيد المتابعة";
 
 // MARK: - Feed Settings
-"Feed Settings" = "Feed Settings";
-"Hide Ads" = "Hide Ads";
-"Share Sheet" = "Share Sheet";
-"Remove Watermark" = "Remove Watermark";
-"Show/Hide UI Button" = "Show/Hide UI Button";
-"Stop Playback" = "Stop Playback";
-"Auto Play Next Video" = "Auto Play Next Video";
-"Show Progress Bar" = "Show Progress Bar";
-"Transparent Comments" = "Transparent Comments";
-"Show Usernames" = "Show Usernames";
-"Disable Sensitive Content" = "Disable Sensitive Content";
-"Disable Warnings" = "Disable Warnings";
-"Disable Live Streaming" = "Disable Live Streaming";
-"Skip Recommendations" = "Skip Recommendations";
-"Upload Region" = "Upload Region";
-"Hide Top Feed items" = "Hide Top Feed Items";
-"Anonymous Seen" = "Anonymous Seen";
-"Hide Play/Pause Button" = "Hide Play/Pause Button";
+"Feed Settings" = "إعدادات الخلاصة";
+"Hide Ads" = "إخفاء الإعلانات";
+"Share Sheet" = "ورقة المشاركة";
+"Remove Watermark" = "إزالة العلامة المائية";
+"Show/Hide UI Button" = "إظهار/إخفاء زر الواجهة";
+"Stop Playback" = "إيقاف التشغيل";
+"Auto Play Next Video" = "تشغيل الفيديو التالي تلقائيًا";
+"Show Progress Bar" = "عرض شريط التقدم";
+"Transparent Comments" = "تعليقات شفافة";
+"Show Usernames" = "عرض أسماء المستخدمين";
+"Disable Sensitive Content" = "تعطيل المحتوى الحساس";
+"Disable Warnings" = "تعطيل التحذيرات";
+"Disable Live Streaming" = "تعطيل البث المباشر";
+"Skip Recommendations" = "تجاوز التوصيات";
+"Upload Region" = "منطقة التحميل";
+"Hide Top Feed items" = "إخفاء العناصر الأعلى في الخلاصة";
+"Anonymous Seen" = "مشاهدة بشكل مجهول";
+"Hide Play/Pause Button" = "إخفاء زر التشغيل/الإيقاف";
 
 // MARK: - Profile Settings
-"Profile Settings" = "Profile Settings";
-"Profile Save" = "Profile Save";
-"Profile Copy" = "Profile Copy";
-"Video Like Count" = "Video Like Count";
-"Video Upload Date" = "Video Upload Date";
-"User Post Count" = "User Post Count";
-"Follower" = "Followers";
-"Following" = "Following";
-"Fake Verified" = "Fake Verified";
-"Enable Fake Changes" = "Enable Fake Changes";
-"Extended Bio" = "Extended Bio";
-"Extended Comments" = "Extended Comments";
-"Upload HD" = "Upload HD";
-"App Lock" = "App Lock";
-"Enable Flex" = "Enable Flex";
-"Enable Oled Keyboard" = "Enable OLED Keyboard";
-"Post Stats" = "Post Stats";
-"Enable Text To Reposts" = "Enable Text To Reposts";
-"Disable Survey Popups" = "Disable Survey Popups";
+"Profile Settings" = "إعدادات الملف الشخصي";
+"Profile Save" = "حفظ الملف الشخصي";
+"Profile Copy" = "نسخ الملف الشخصي";
+"Video Like Count" = "عدد إعجابات الفيديو";
+"Video Upload Date" = "تاريخ رفع الفيديو";
+"User Post Count" = "عدد منشورات المستخدم";
+"Follower" = "المتابعون";
+"Following" = "المتابَعون";
+"Fake Verified" = "موثّق مزيف";
+"Enable Fake Changes" = "تمكين التغييرات المزيفة";
+"Extended Bio" = "سيرة موسعة";
+"Extended Comments" = "تعليقات موسعة";
+"Upload HD" = "رفع بدقة عالية";
+"App Lock" = "قفل التطبيق";
+"Enable Flex" = "Flex تمكين";
+"Enable Oled Keyboard" = "تمكين لوحة مفاتيح OLED";
+"Post Stats" = "إحصائيات المنشور";
+"Enable Text To Reposts" = "تمكين إضافة نص إلى إعادة النشر";
+"Disable Survey Popups" = "تعطيل نوافذ استبيان";
 
 // MARK: - Comment Settings
-"Comment Settings" = "Comment Settings";
-"Comment Design" = "Comment Design";
-"Select Design" = "Select Design";
-"Disable Comment Tooltip" = "Disable Comment Tooltip";
-"Add Comment as Post" = "Add Comment as Post";
-"Add Comment as Story" = "Add Comment as Story";
-"Mass Unfold Comment Replies" = "Mass Unfold Replies";
-"Auto Unfold Comment Texts" = "Auto Unfold Texts";
-"Multi Emoji Comment Bar" = "Multi Emoji Bar";
-"Hide Emoji-Bar" = "Hide Emoji Bar";
-"Add Translation Button" = "Add Translation Button";
-"Comment Cell Redesign" = "Comment Cell Redesign";
-"Enable Comment Photos" = "Enable Comment Photos";
-"Enable Comment Stickers" = "Enable Comment Stickers";
-"Enable Comment Flags" = "Enable Comment Flags";
-"Enable Copy Without Username" = "Enable Copy Without Username";
-"Configure Advanced Comment Settings" = "Configure Advanced Comment Settings";
+"Comment Settings" = "إعدادات التعليقات";
+"Comment Design" = "تصميم التعليقات";
+"Select Design" = "اختر التصميم";
+"Disable Comment Tooltip" = "تعطيل تلميحات التعليقات";
+"Add Comment as Post" = "إضافة التعليق كمنشور";
+"Add Comment as Story" = "إضافة التعليق كقصة";
+"Mass Unfold Comment Replies" = "فتح جميع ردود التعليقات";
+"Auto Unfold Comment Texts" = "فتح نصوص التعليقات تلقائيًا";
+"Multi Emoji Comment Bar" = "شريط تعليقات متعدد الرموز التعبيرية";
+"Hide Emoji-Bar" = "إخفاء شريط الرموز التعبيرية";
+"Add Translation Button" = "إضافة زر الترجمة";
+"Comment Cell Redesign" = "إعادة تصميم خلية التعليق";
+"Enable Comment Photos" = "تمكين صور التعليقات";
+"Enable Comment Stickers" = "تمكين ملصقات التعليقات";
+"Enable Comment Flags" = "تمكين أعلام التعليقات";
+"Enable Copy Without Username" = "تمكين النسخ بدون اسم المستخدم";
+"Configure Advanced Comment Settings" = "تكوين إعدادات التعليقات المتقدمة";
 
 // MARK: - Tab Bar Settings
-"Tab Bar Settings" = "Tab Bar Settings";
-"Tab Bar Configurations" = "Tab Bar Configurations";
-"Hide Plus Button" = "Hide Plus Button";
-"Hide Friends Badge" = "Hide Friends Badge";
-"Hide Inbox Badge" = "Hide Inbox Badge";
-"Changes will take effect after restarting the app" = "Changes will take effect after restarting the app";
+"Tab Bar Settings" = "إعدادات شريط التبويبات";
+"Tab Bar Configurations" = "تكوينات شريط التبويبات";
+"Hide Plus Button" = "إخفاء زر الإضافة";
+"Hide Friends Badge" = "إخفاء شارة الأصدقاء";
+"Hide Inbox Badge" = "إخفاء شارة الوارد";
+"Changes will take effect after restarting the app" = "ستُطبق التغييرات بعد إعادة تشغيل التطبيق";
 
 // MARK: - Live Button Settings
-"Live Button Settings" = "Live Button Settings";
-"Live Button Function" = "Live Button Function";
-"Live Button Actions" = "Live Button Actions";
-"Live Actions" = "Live Actions";
-"Playback Speed" = "Playback Speed";
-"Select Action" = "Select Action";
-"Change the behavior of the Live button" = "Change the behavior of the Live button";
-"Selected Action" = "Selected Action";
-"Live Button Function Disabled" = "Live Button Function Disabled";
-"Please enable Live Button Function first" = "Please enable Live Button Function first";
-"Change Action of Live Button" = "Change Action of Live Button";
-"Enable Live Button Function" = "Enable Live Button Function";
+"Live Button Settings" = "إعدادات زر البث المباشر";
+"Live Button Function" = "وظيفة زر البث المباشر";
+"Live Button Actions" = "إجراءات زر البث المباشر";
+"Live Actions" = "إجراءات البث المباشر";
+"Playback Speed" = "سرعة التشغيل";
+"Select Action" = "اختر الإجراء";
+"Change the behavior of the Live button" = "تغيير سلوك زر البث المباشر";
+"Selected Action" = "الإجراء المختار";
+"Live Button Function Disabled" = "تم تعطيل وظيفة زر البث المباشر";
+"Please enable Live Button Function first" = "يرجى تمكين وظيفة زر البث المباشر أولًا";
+"Change Action of Live Button" = "تغيير إجراء زر البث المباشر";
+"Enable Live Button Function" = "تمكين وظيفة زر البث المباشر";
 
 // MARK: - Chat Settings
-"Chat Settings" = "Chat Settings";
-"Enable Voice Messages" = "Enable Voice Messages";
-"Enable Streaks" = "Enable Streaks";
-"Hide Streak Pet" = "Hide Streak Pet";
-"Disable Typing Indicator" = "Disable Typing Indicator";
-"Enable Pin Chat" = "Enable Pin Chat";
-"Bypass Media Limit" = "Bypass Media Limit";
-"Disable AI-Generated Replies" = "Disable AI-Generated Replies";
-"Enable Small Emoji" = "Enable Small Emoji";
-"Anonymous Seen" = "Anonymous Seen";
+"Chat Settings" = "إعدادات الدردشة";
+"Enable Voice Messages" = "تمكين الرسائل الصوتية";
+"Enable Streaks" = "تمكين السلاسل";
+"Hide Streak Pet" = "إخفاء حيوان السلسلة";
+"Disable Typing Indicator" = "تعطيل مؤشر الكتابة";
+"Enable Pin Chat" = "تمكين تثبيت الدردشة";
+"Bypass Media Limit" = "تجاوز حد الوسائط";
+"Disable AI-Generated Replies" = "تعطيل الردود المولدة بالذكاء الاصطناعي";
+"Enable Small Emoji" = "تمكين الرموز التعبيرية الصغيرة";
+"Anonymous Seen" = "تعطيل إرسال مؤشر القراءة";
 
 // MARK: - Playback Speed
-"Enable Playback Speed" = "Enable Playback Speed";
-"Selected Speed" = "Selected Speed";
-"Playback Speed Settings" = "Playback Speed Settings";
-"Enable Persistent Playback Speed." = "Enable Persistent Playback Speed.";
-"Select Speed" = "Select Speed";
-"Control video playback speed" = "Control video playback speed";
-"Playback Speed Disabled" = "Playback Speed Disabled";
-"Please enable Playback Speed first" = "Please enable Playback Speed first";
+"Enable Playback Speed" = "تمكين سرعة التشغيل";
+"Selected Speed" = "السرعة المختارة";
+"Playback Speed Settings" = "إعدادات سرعة التشغيل";
+"Enable Persistent Playback Speed." = "تمكين سرعة تشغيل ثابتة.";
+"Select Speed" = "اختر السرعة";
+"Control video playback speed" = "التحكم في سرعة تشغيل الفيديو";
+"Playback Speed Disabled" = "تعطيل سرعة التشغيل";
+"Please enable Playback Speed first" = "يرجى تمكين سرعة التشغيل أولًا";
 
 // MARK: - Region Settings
-"Region Settings" = "Region Settings";
-"Enable region changing to access content from different regions" = "Enable region changing to access content from different regions";
-"Enable Region Changing" = "Enable Region Changing";
-"Enable Region Changing Functionality" = "Enable Region Changing Functionality";
-"Selected Region" = "Selected Region";
-"Region Changing Disabled" = "Region Changing Disabled";
-"Please enable region changing first" = "Please enable region changing first";
+"Region Settings" = "إعدادات المنطقة";
+"Enable region changing to access content from different regions" = "تمكين تغيير المنطقة للوصول إلى محتوى من مناطق أخرى";
+"Enable Region Changing" = "تمكين تغيير المنطقة";
+"Enable Region Changing Functionality" = "تمكين وظيفة تغيير المنطقة";
+"Selected Region" = "المنطقة المختارة";
+"Region Changing Disabled" = "تم تعطيل تغيير المنطقة";
+"Please enable region changing first" = "يرجى تمكين تغيير المنطقة أولًا";
 
 // MARK: - Feature Descriptions
-"FEATURE_ENABLE_COMMENT_FLAGS" = "FEATURE_ENABLE_COMMENT_FLAGS";
-"FEATURE_COPY_WITHOUT_USERNAME" = "FEATURE_COPY_WITHOUT_USERNAME";
-"FEATURE_HIDE_ADS" = "Hides ads from feed";
-"FEATURE_DOWNLOAD_BUTTON" = "Enables download button for posts and stories";
-"FEATURE_SHARE_SHEET" = "Opens share sheet after downloading media";
-"FEATURE_REMOVE_WATERMARK" = "Removes watermark (animated TikTok logo and username) from downloaded media";
-"FEATURE_UI_BUTTON" = "Shows or hides UI button";
-"FEATURE_STOP_PLAYBACK" = "Stops video playback when it ends";
-"FEATURE_AUTO_PLAY" = "Enables automatic video scrolling";
-"FEATURE_PROGRESS_BAR" = "Shows duration bar under each video";
-"FEATURE_TRANSPARENT_COMMENTS" = "Makes comments section transparent";
-"FEATURE_DISABLE_SURVEY" = "Disable Annoying Survey Questions In Feed";
-"FEATURE_HIDE_PLAY_PAUSE" = "Hide The Play/Pause View In Feed";
-"FEATURE_SHOW_USERNAMES" = "Replaces nicknames with tags";
-"FEATURE_DISABLE_SENSITIVE" = "Hides inappropriate content warning";
-"FEATURE_ADD_TRANSLATION" = "Add a Translation Button in Each Comment";
-"FEATURE_DISABLE_WARNINGS" = "Hides TikTok warnings";
-"FEATURE_DISABLE_LIVE" = "Hides live streams in feed";
-"FEATURE_SKIP_RECOMMENDED" = "Removes friend recommendations etc";
-"FEATURE_UPLOAD_REGION" = "Shows upload region flag next to username";
-"FEATURE_HIDE_TOP_ITEMS" = "Hides search button, LIVE and others (For You, Following, Shop etc...)";
-"FEATURE_ANONYMOUS_SEEN" = "Look at Chats Without The Other Person Knowing";
-"FEATURE_SHOW_ALL_TABS" = "Show All The Hidden Settings Tabs [Beta!]";
-"FEATURE_PROFILE_SAVE" = "Saves profile info to clipboard";
-"FEATURE_EMBED_LINKS" = "Enable Embedded Links When Copying a Link";
-"FEATURE_PROFILE_COPY" = "Copies profile information";
-"FEATURE_USER_POST_COUNT" = "Shows The Number Of Uploaded Videos";
-"FEATURE_LIKE_COUNT" = "Shows like count on messages";
-"FEATURE_UPLOAD_DATE" = "Shows upload date";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Show Video Upload Time In FYP";
-"FEATURE_HIDE_DANGEROUS_ACTION" = "Hide Warnings Under Sport Video (UFC, Boxing, Etc...)";
-"FEATURE_REMOVE_PENDANT" = "Remove the Top-left Ad-View In fyp";
-"FEATURE_CONFIRM_LIKE" = "Shows confirmation to like video";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "Shows confirmation to like comment";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Shows confirmation to dislike comment";
-"FEATURE_CONFIRM_FOLLOW" = "Shows confirmation to follow user";
-"FEATURE_AUTO_CLEAR" = "Automatically clears search history every 60 seconds";
-"FEATURE_FAKE_CHANGES" = "Enables profile data spoofing";
-"FEATURE_FOLLOWER_COUNT" = "Enter fake follower count";
-"FEATURE_FOLLOWING_COUNT" = "Enter fake following count";
-"FEATURE_FAKE_VERIFIED" = "Shows fake verification badge";
-"FEATURE_HIDE_PLUS_BTN" = "Hide The Camera Button";
-"FEATURE_HIDE_FRIENDS_BADGE" = "Hide Friend Notification Badge";
-"FEATURE_HIDE_INBOX_BADGE" = "Hide Inbox Notification Badge";
-"FEATURE_EXTENDED_BIO" = "Extends bio character limit";
-"FEATURE_EXTENDED_COMMENTS" = "Extends comments character limit";
-"FEATURE_UPLOAD_HD" = "Enables HD uploads";
-"FEATURE_APP_LOCK" = "Adds ability to lock TikTok with password";
-"FEATURE_ENABLE_FLEX" = "For developers only, DO NOT TOUCH if you don't know what it does";
-"FEATURE_OLED_KEYBOARD" = "Only works with dark theme";
-"FEATURE_POST_STATS" = "Show a Menu Button In Download Section For Post Stats";
-"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Enable Adding Texts To Your Repost";
-"FEATURE_VOICE_MESSAGES" = "Enable Sending Voice Messages In Chat";
-"FEATURE_ENABLE_STREAKS" = "Enable Streaks With Friends";
-"FEATURE_HIDE_STREAK_PET" = "Hide Streak Pet";
-"FEATURE_DISABLE_TYPING" = "Don't Send Typing Indicator Will Chatting";
-"FEATURE_PIN_CHATS" = "Pin Favorite Chats To The Top";
-"FEATURE_BYPASS_MEDIA_LIMIT" = "Bypass Media limits in Chat (Default: 9 Photos, 1 Min Video)";
-"FEATURE_DISABLE_AI_REPLIES" = "Disable AI-Generated Replies To sent Posts";
-"FEATURE_SMALL_EMOJI" = "Enable Sending Small Emojis";
-"FEATURE_REMOVE_PENDANT" = "Remove Annoying Ad-View in Top-left Corner Of The Screen (Only In Some Regions)";
-"FEATURE_HIDE_DANGEROUS_ACTION" = "Hide The Annying Warnings Under Sports Video";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Show Upload-Time Next To Username in Fyp";
-"FEATURE_HIDE_COMMISSION_POSTS" = "Remove Post That Say 'Creator Earns Commission'";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "تمكين أعلام التعليقات";
+"FEATURE_COPY_WITHOUT_USERNAME" = "النسخ بدون اسم المستخدم";
+"FEATURE_HIDE_ADS" = "يخفي الإعلانات من الخلاصة";
+"FEATURE_DOWNLOAD_BUTTON" = "يمكن زر التنزيل للمنشورات والقصص";
+"FEATURE_SHARE_SHEET" = "يفتح ورقة المشاركة بعد التنزيل";
+"FEATURE_REMOVE_WATERMARK" = "يزيل العلامة المائية من الوسائط";
+"FEATURE_UI_BUTTON" = "يعرض أو يخفي زر الواجهة";
+"FEATURE_STOP_PLAYBACK" = "يوقف تشغيل الفيديو عند النهاية";
+"FEATURE_AUTO_PLAY" = "يمكن التمرير التلقائي للفيديو"; 
+"FEATURE_PROGRESS_BAR" = "يعرض شريط المدة تحت كل فيديو";
+"FEATURE_TRANSPARENT_COMMENTS" = "يجعل قسم التعليقات شفافًا";
+"FEATURE_DISABLE_SURVEY" = "تعطيل أسئلة الاستبيان المزعجة في الخلاصة";
+"FEATURE_HIDE_PLAY_PAUSE" = "إخفاء عرض التشغيل/الإيقاف في الخلاصة";
+"FEATURE_SHOW_USERNAMES" = "يستبدل الألقاب بالعلامات";
+"FEATURE_DISABLE_SENSITIVE" = "يخفي تحذير المحتوى غير المناسب";
+"FEATURE_ADD_TRANSLATION" = "إضافة زر ترجمة في كل تعليق";
+"FEATURE_DISABLE_WARNINGS" = "يخفي تحذيرات تيك توك";
+"FEATURE_DISABLE_LIVE" = "يخفي البث المباشر في الخلاصة";
+"FEATURE_SKIP_RECOMMENDED" = "يزيل توصيات الأصدقاء وما إلى ذلك";
+"FEATURE_UPLOAD_REGION" = "يعرض علم منطقة التحميل بجانب اسم المستخدم";
+"FEATURE_HIDE_TOP_ITEMS" = "يخفي زر البحث والبث المباشر وأخرى";
+"FEATURE_ANONYMOUS_SEEN" = "مشاهدة الدردشات دون علم الآخر";
+"FEATURE_SHOW_ALL_TABS" = "عرض جميع علامات الإعدادات المخفية [تجريبي!]";
+"FEATURE_PROFILE_SAVE" = "يحفظ معلومات الملف الشخصي للحافظة";
+"FEATURE_EMBED_LINKS" = "تمكين الروابط المضمنة عند النسخ";
+"FEATURE_PROFILE_COPY" = "ينسخ معلومات الملف الشخصي";
+"FEATURE_USER_POST_COUNT" = "يعرض عدد الفيديوهات المرفوعة";
+"FEATURE_LIKE_COUNT" = "يعرض عدد الإعجابات على الرسائل";
+"FEATURE_UPLOAD_DATE" = "يعرض تاريخ الرفع";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "عرض وقت رفع الفيديو في الخلاصة";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "إخفاء تحذيرات الفيديو الرياضي";
+"FEATURE_REMOVE_PENDANT" = "إزالة عرض الإعلانات في أعلى اليسار";
+"FEATURE_CONFIRM_LIKE" = "يعرض تأكيدًا للإعجاب بالفيديو";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "يعرض تأكيدًا للإعجاب بالتعليق";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "تأكيد على عدم الإعجاب بالتعليق";
+"FEATURE_CONFIRM_FOLLOW" = "يعرض تأكيدًا للمتابعة";
+"FEATURE_AUTO_CLEAR" = "يمسح سجل البحث تلقائيًا كل 60 ثانية";
+"FEATURE_FAKE_CHANGES" = "يمكن تزوير بيانات الملف الشخصي";
+"FEATURE_FOLLOWER_COUNT" = "إدخال عدد المتابعين المزيف";
+"FEATURE_FOLLOWING_COUNT" = "إدخال عدد المتابَعين المزيف";
+"FEATURE_FAKE_VERIFIED" = "يعرض شارة موثق مزيف";
+"FEATURE_HIDE_PLUS_BTN" = "إخفاء زر الكاميرا";
+"FEATURE_HIDE_FRIENDS_BADGE" = "إخفاء شارة إشعارات الأصدقاء";
+"FEATURE_HIDE_INBOX_BADGE" = "إخفاء شارة إشعارات الوارد";
+"FEATURE_EXTENDED_BIO" = "تمديد حد أحرف السيرة";
+"FEATURE_EXTENDED_COMMENTS" = "زياده حد أحرف التعليقات";
+"FEATURE_UPLOAD_HD" = "تمكين رفع بدقة عالية";
+"FEATURE_APP_LOCK" = "إضافة قفل للتطبيق بكلمة مرور";
+"FEATURE_ENABLE_FLEX" = "للمطورين فقط، لا تلمسها إن لم تكن تعرف";
+"FEATURE_OLED_KEYBOARD" = "يعمل فقط مع الوضع الداكن";
+"FEATURE_POST_STATS" = "عرض زر إحصائيات المنشور في التنزيل";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "تمكين إضافة نص لإعادة النشر";
+"FEATURE_VOICE_MESSAGES" = "تمكين الرسائل الصوتية في الدردشة";
+"FEATURE_ENABLE_STREAKS" = "تمكين السلاسل مع الأصدقاء";
+"FEATURE_HIDE_STREAK_PET" = "إخفاء حيوان السلسلة";
+"FEATURE_DISABLE_TYPING" = "عدم إرسال مؤشر كتابة أثناء الدردشة";
+"FEATURE_PIN_CHATS" = "تثبيت الدردشات المفضلة في الأعلى";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "تجاوز حدود الوسائط في الدردشة";
+"FEATURE_DISABLE_AI_REPLIES" = "تعطيل الردود المُنشأة بالذكاء الاصطناعي";
+"FEATURE_SMALL_EMOJI" = "تمكين الرموز التعبيرية الصغيرة";
+"FEATURE_REMOVE_PENDANT" = "إزالة عرض الإعلانات المزعجة أعلى اليسار";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "إخفاء التحذيرات المزعجة تحت فيديوهات الرياضة";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "عرض وقت الرفع بجانب اسم المستخدم في الخلاصة";
+"FEATURE_HIDE_COMMISSION_POSTS" = "إزالة المنشورات التي تقول 'المُنشىء يحصل على عمولة'";
 
 // Comment Settings Descriptions
-"ENABLE_COMMENT_PHOTO" = "Allow adding photos to comments";
-"ENABLE_COMMENT_STICKERS" = "Allow adding stickers to comments";
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Disable tooltips in comments";
-"FEATURE_ADD_TRANSLATION" = "Add translation button to comments";
-"FEATURE_ADD_COMMENT_POST" = "Enable posting comments as posts";
-"FEATURE_ADD_COMMENT_STORY" = "Enable posting comments as stories";
-"FEATURE_MASS_UNFOLD" = "Mass unfold all comment replies";
-"FEATURE_AUTO_UNFOLD" = "Automatically unfold comment texts";
-"FEATURE_MULTI_EMOJI" = "Enable multi-emoji comment bar";
-"FEATURE_HIDE_EMOJI" = "Hide emoji bar in comments";
-"FEATURE_COMMENT_REDESIGN" = "Enable redesigned comment cells";
-"FEATURE_COPY_WITHOUT_USERNAME" = "Copy Comments Without 'Username: '";
-"FEATURE_ENABLE_COMMENT_FLAGS" = "Show Commenter's Region Flag";
-
+"ENABLE_COMMENT_PHOTO" = "السماح بإضافة صور للتعليقات";
+"ENABLE_COMMENT_STICKERS" = "السماح بإضافة ملصقات للتعليقات";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "تعطيل التلميحات في التعليقات";
+"FEATURE_ADD_TRANSLATION" = "إضافة زر ترجمة للتعليقات";
+"FEATURE_ADD_COMMENT_POST" = "تمكين نشر التعليقات كمنشورات";
+"FEATURE_ADD_COMMENT_STORY" = "تمكين نشر التعليقات كقصص";
+"FEATURE_MASS_UNFOLD" = "فتح جميع ردود التعليقات دفعة واحدة";
+"FEATURE_AUTO_UNFOLD" = "فتح نصوص التعليقات تلقائيًا";
+"FEATURE_MULTI_EMOJI" = "تمكين شريط تعليقات متعدد الرموز التعبيرية";
+"FEATURE_HIDE_EMOJI" = "إخفاء شريط الرموز التعبيرية في التعليقات";
+"FEATURE_COMMENT_REDESIGN" = "تمكين تصميم مُجدد للتعليقات";
+"FEATURE_COPY_WITHOUT_USERNAME" = "نسخ التعليقات بدون 'اسم المستخدم:'";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "عرض علم المستخدم في التعليقات";
 // MARK: - Error Messages
-"Could Not Copy Music" = "Could Not Copy Music";
-"The video doesn't have music to download" = "This video has no music to download";
+"Could Not Copy Music" = "تعذّر نسخ الموسيقى";
+"The video doesn't have music to download" = "هذا الفيديو لا يحتوي على موسيقى للتحميل";
 
 // MARK: - Developer
-"DEVELOPER_TELEGRAM" = "Join Telegram channel for latest updates";
-"DEVELOPER_SUPPORT" = "Support RXTikTok and get access to beta testing group";
+"DEVELOPER_TELEGRAM" = "انضم إلى قناة تيليجرام لأحدث التحديثات";
+"DEVELOPER_SUPPORT" = "ادعم RXTikTok واحصل على الوصول لمجموعة الاختبار التجريبي";
 
 // MARK: - Missing Strings
-"Features list" = "Features list";
-"Not Selected" = "Not Selected";
-"Creator Profile Pull" = "Creator Profile Pull";
-"OK" = "OK";
-"Disable Left & Right Swipe" = "Disable Left & Right Swipe";
-"Pull To Camera" = "Pull To Camera";
-"Regions" = "Regions";
-"Full Region Mode" = "Full Region Mode";
-"Add Folders To Inbox" = "Add Folders To Inbox";
+"Features list" = "قائمة الميزات";
+"Not Selected" = "غير محدد";
+"Creator Profile Pull" = "جلب الملف الشخصي للمنشئ";
+"OK" = "موافق";
+"Disable Left & Right Swipe" = "تعطيل السحب يمينًا ويسارًا";
+"Pull To Camera" = "اسحب إلى الكاميرا";
+"Regions" = "المناطق";
+"Full Region Mode" = "وضع المنطقة الكاملة";
+"Add Folders To Inbox" = "إضافة مجلدات إلى الوارد";
 
 // Additional missing strings
-"Settings" = "Settings";
-"Save" = "Save";
-"Delete" = "Delete";
-"Edit" = "Edit";
-"Close" = "Close";
-"Back" = "Back";
-"Next" = "Next";
-"Done" = "Done";
-"Error" = "Error";
-"Success" = "Success";
-"Warning" = "Warning";
-"Loading" = "Loading";
-"Search" = "Search";
-"Apply" = "Apply";
-"Reset" = "Reset";
-"Saved!" = "Saved!";
-"Video saved successfully" = "Video saved successfully";
-"Photo saved successfully" = "Photo saved successfully";
-"Failed to save media" = "Failed to save media";
-"No internet connection" = "No internet connection";
-"Select All" = "Select All";
-"Deselect All" = "Deselect All";
-"More Options" = "More Options";
-"Share" = "Share";
-"Copy Link" = "Copy Link";
-"Report" = "Report";
-"Block" = "Block";
-"Unfollow" = "Unfollow";
-"Hide" = "Hide";
-"Show" = "Show";
-"Enable" = "Enable";
-"Disable" = "Disable";
+"Settings" = "الإعدادات";
+"Save" = "حفظ";
+"Delete" = "حذف";
+"Edit" = "تعديل";
+"Close" = "إغلاق";
+"Back" = "رجوع";
+"Next" = "التالي";
+"Done" = "تم";
+"Error" = "خطأ";
+"Success" = "نجاح";
+"Warning" = "تحذير";
+"Loading" = "جارٍ التحميل";
+"Search" = "بحث";
+"Apply" = "تطبيق";
+"Reset" = "إعادة";
+"Saved!" = "تم الحفظ!";
+"Video saved successfully" = "تم حفظ الفيديو بنجاح";
+"Photo saved successfully" = "تم حفظ الصورة بنجاح";
+"Failed to save media" = "فشل في حفظ الوسائط";
+"No internet connection" = "لا يوجد اتصال بالإنترنت";
+"Select All" = "تحديد الكل";
+"Deselect All" = "إلغاء تحديد الكل";
+"More Options" = "المزيد من الخيارات";
+"Share" = "مشاركة";
+"Copy Link" = "نسخ الرابط";
+"Report" = "تقرير";
+"Block" = "حظر";
+"Unfollow" = "إلغاء المتابعة";
+"Hide" = "إخفاء";
+"Show" = "إظهار";
+"Enable" = "تمكين";
+"Disable" = "تعطيل";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_CREATOR_PROFILE_PULL" = "View creator profiles when pulling down";
-"FEATURE_DISABLE_SWIPE" = "Disable swiping left and right in feed";
-"FEATURE_PULL_TO_CAMERA" = "Enable pull-to-camera feature";
-"FEATURE_ADD_FOLDERS" = "Add folder organization to inbox messages";
-"FEATURE_FULL_REGION_MODE" = "Only Enable If The First Option Does Not Work!!";
+"FEATURE_CREATOR_PROFILE_PULL" = "عرض ملفات المنشئين عند السحب للأسفل";
+"FEATURE_DISABLE_SWIPE" = "تعطيل السحب يمينًا ويسارًا في الخلاصة";
+"FEATURE_PULL_TO_CAMERA" = "تمكين ميزة السحب إلى الكاميرا";
+"FEATURE_ADD_FOLDERS" = "إضافة تنظيم المجلدات لرسائل الوارد";
+"FEATURE_FULL_REGION_MODE" = "تمكين إذا لم تعمل الخيار الأول!!";
 
 // Additional feature descriptions
-"FEATURE_ANONYMOUS_SEEN_DESC" = "View chats without sending read receipts to the sender";
-"FEATURE_SHOW_ALL_TABS_DESC" = "Show all hidden settings tabs, including experimental features";
-"FEATURE_PROFILE_SAVE_DESC" = "Save profile information to your clipboard with one tap";
-"FEATURE_PROFILE_COPY_DESC" = "Copy profile details including username, bio, and other public information";
-"FEATURE_APP_LOCK_DESC" = "Secure your TikTok app with a password or biometric authentication";
-"FEATURE_REGIONS_DESC" = "Access region-specific content by changing your virtual location";
-"FEATURE_ADD_FOLDERS_DESC" = "Organize your inbox messages into custom folders for better management";
+"FEATURE_ANONYMOUS_SEEN_DESC" = "عرض الدردشات دون إرسال مؤشر القراءة";
+"FEATURE_SHOW_ALL_TABS_DESC" = "عرض جميع علامات الإعدادات المخفية، بما في ذلك الميزات التجريبية";
+"FEATURE_PROFILE_SAVE_DESC" = "حفظ معلومات الملف الشخصي في الحافظة بنقرة واحدة";
+"FEATURE_PROFILE_COPY_DESC" = "نسخ تفاصيل الملف الشخصي بما في ذلك الاسم والسيرة وغيرها";
+"FEATURE_APP_LOCK_DESC" = "تأمين تطبيق تيك توك برمز مرور أو بصمة الإصبع/الوجه";
+"FEATURE_REGIONS_DESC" = "الوصول إلى محتوى خاص بالمناطق عن طريق تغيير الموقع الافتراضي";
+"FEATURE_ADD_FOLDERS_DESC" = "تنظيم رسائل الوارد في مجلدات مخصصة لإدارة أفضل";
 
 // MARK: - Credits View
-"Credits" = "Credits";
-"Special Thanks to" = "Special Thanks to";
-"Community" = "Community";
-"Main Developer, Owner" = "Main Developer, Owner";
-"Co-Owner" = "Co-Owner";
-"DRM Developer" = "DRM Developer";
-"Contributor" = "Contributor";
-"UI Designer" = "UI Designer";
-"Telegram Channel" = "Telegram Channel";
-"Telegram Discussion Group" = "Telegram Discussion Group";
-"Get the latest updates and news" = "Get the latest updates and news";
-"Join the community discussion" = "Join the community discussion";
-"Buy Me a Coffee" = "Buy Me a Coffee";
-"Support the development" = "Support the development";
+"Credits" = "الشكر";
+"Special Thanks to" = "شكر خاص لـ";
+"Community" = "المجتمع";
+"Main Developer, Owner" = "المطور الرئيسي، المالك";
+"Co-Owner" = "شريك المالك";
+"DRM Developer" = "مطور إدارة الحقوق الرقمية";
+"Contributor" = "مساهم";
+"UI Designer" = "مصمم الواجهة";
+"Telegram Channel" = "قناة تيليجرام";
+"Telegram Discussion Group" = "مجموعة مناقشة تيليجرام";
+"Get the latest updates and news" = "احصل على أحدث التحديثات والأخبار";
+"Join the community discussion" = "انضم إلى نقاش المجتمع";
+"Buy Me a Coffee" = "اشترِ لي قهوة";
+"Support the development" = "ادعم التطوير";
 "X" = "X";
-"Support" = "Support";
-// MARK: - Configuration
-"About" = "About";
-"Configuration" = "Configuration";
-"Import Configuration" = "Import Configuration";
-"Export Configuration" = "Export Configuration";
-"Reset All Settings" = "Reset All Settings";
-"Import settings from a file" = "Import settings from a file";
-"Export settings to a file" = "Export settings to a file";
-"Reset all settings to default values" = "Reset all settings to default values";
-"All settings have been reset to default values." = "All settings have been reset to default values.";
-"Configuration imported successfully." = "Configuration imported successfully.";
-"File selection was cancelled." = "File selection was cancelled.";
-"Cancelled" = "Cancelled";
+"Support" = "الدعم";
 
-"Select App Language" = "Select App Language";
+// MARK: - Configuration
+"About" = "حول";
+"Configuration" = "الإعدادات";
+"Import Configuration" = "استيراد الإعدادات";
+"Export Configuration" = "تصدير التهيئة";
+"Reset All Settings" = "إعادة ضبط جميع الإعدادات";
+"Import settings from a file" = "استيراد الإعدادات من ملف";
+"Export settings to a file" = "تصدير الإعدادات إلى ملف";
+"Reset all settings to default values" = "إعادة ضبط جميع الإعدادات إلى القيم الافتراضية";
+"All settings have been reset to default values." = "تمت إعادة ضبط جميع الإعدادات إلى القيم الافتراضية.";
+"Configuration imported successfully." = "تم استيراد الإعدادات بنجاح.";
+"File selection was cancelled." = "تم إلغاء اختيار الملف.";
+"Cancelled" = "تم الإلغاء";
+
+"Select App Language" = "اختر لغة التطبيق";
