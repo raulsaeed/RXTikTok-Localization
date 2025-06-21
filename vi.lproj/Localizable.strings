@@ -1,58 +1,81 @@
 /* Localizable.strings */
 
-// Main Titles
-"RXTikTok, Hi" = " RXTikTok, Xin chào";
-"RXTikTok Settings" = "Cấu hình  RXTikTok";
-"Join Our Telegram." = "Tham gia Telegram của chúng tôi.";
+// MARK: - Core UI Elements
+"RXTikTok, Hi" = "RXTikTok, Xin chào";
+"RXTikTok Settings" = "Cài đặt RXTikTok";
+"Welcome" = "Chào mừng";
+"Tap to Join the Telegram" = "Nhấn để tham gia Telegram";
 
-// Common Actions
+// MARK: - Global Actions
 "Yes" = "Có";
 "No" = "Không";
 "ON" = "BẬT";
 "OFF" = "TẮT";
-"Downloading" = "Đang tải xuống";
+"Cancel" = "Hủy";
+"Confirm" = "Xác nhận";
+"Actions" = "Hành động";
+"Default" = "Mặc định";
+"Modern" = "Hiện đại";
+"Compact" = "Gọn nhẹ";
 "Backgrounding ✌️" = "Đang chạy nền ✌️";
 "Are you sure?" = "Bạn có chắc không?";
 
-// Download Options
+// MARK: - Navigation
+"Feed" = "Bảng tin";
+"Profile" = "Hồ sơ";
+"Other" = "Khác";
+"Region" = "Vùng";
+"Developer" = "Nhà phát triển";
+"Design Options" = "Tùy chọn thiết kế";
+"Other Settings" = "Cài đặt khác";
+"Auto Clear History" = "Tự động xóa lịch sử";
+"Enable Embeded Links" = "Bật liên kết nhúng";
+"Language 🌎" = "Ngôn ngữ 🌎";
+"Show All Settings Tabs" = "Hiển thị tất cả tab cài đặt";
+"Show Video Upload Timestamp" = "Hiển thị mốc thời gian tải lên video";
+"Remove Pendant View" = "Xóa biểu tượng treo";
+"Hide Commission Posts" = "Ẩn bài đăng hoa hồng";
+"Hide dangerous-action Warning" = "Ẩn cảnh báo hành động nguy hiểm";
+
+// MARK: - Download Features
+"Downloads Menu" = "Menu tải xuống";
 "Download Video" = "Tải xuống video";
 "Download HD Video" = "Tải xuống video HD";
 "Download Music" = "Tải xuống nhạc";
 "Download Photo" = "Tải xuống ảnh";
 "Download All Photos" = "Tải xuống tất cả ảnh";
-
-// Copy Options
-"Copy Music Link" = "Sao chép liên kết nhạc";
-"Copy Video link" = "Sao chép liên kết video";
-"Copy Description" = "Sao chép mô tả";
-"Copy bio" = "Sao chép tiểu sử";
-
-// Error Messages
-"Could Not Copy Music" = "Không thể sao chép nhạc";
-"The video dosen't have music to download" = "Video này không có nhạc để tải xuống";
-
-// Menu Labels
-"Downloads Menu" = "Menu tải xuống";
-"Copy Menu" = "Menu sao chép";
 "Download Photos Menu" = "Menu tải ảnh";
-
-// Section Headers
-"Feed" = "Bảng tin";
-"Profile" = "Hồ sơ";
-"Confirm" = "Xác nhận";
-"Other" = "Khác";
-"Region" = "Khu vực";
-"Live Button Function" = "Chức năng nút trực tiếp";
-"Playback Speed" = "Tốc độ phát lại";
-"Developer" = "Nhà phát triển";
-
-// Feed Features
-"Hide Ads" = "Ẩn quảng cáo";
+"Downloading" = "Đang tải xuống";
 "Download Button" = "Nút tải xuống";
+
+// MARK: - Copy Features
+"Copy Menu" = "Menu sao chép";
+"Copy Music Link" = "Sao chép liên kết nhạc";
+"Copy Description" = "Sao chép mô tả";
+"Post Info" = "Thông tin bài đăng";
+"Copy Video link" = "Sao chép liên kết video";
+"Copy bio" = "Sao chép tiểu sử";
+"Music Link Copied" = "Đã sao chép liên kết nhạc";
+"Video Link Copied" = "Đã sao chép liên kết video";
+"Description Link Copied" = "Đã sao chép liên kết mô tả";
+"Stats Menu" = "Menu thống kê";
+"Video Info" = "Thông tin video";
+
+// MARK: - Confirm Settings
+"Confirm Settings" = "Xác nhận cài đặt";
+"Confirmation Settings" = "Cài đặt xác nhận";
+"Like Confirmation" = "Xác nhận thích";
+"Like Comment Confirmation" = "Xác nhận thích bình luận";
+"Dislike Comment Confirmation" = "Xác nhận không thích bình luận";
+"Follow Confirmation" = "Xác nhận theo dõi";
+
+// MARK: - Feed Settings
+"Feed Settings" = "Cài đặt bảng tin";
+"Hide Ads" = "Ẩn quảng cáo";
 "Share Sheet" = "Bảng chia sẻ";
 "Remove Watermark" = "Xóa watermark";
-"Show/Hide UI Button" = "Hiển thị/Ẩn nút UI";
-"Stop Playback" = "Dừng phát lại";
+"Show/Hide UI Button" = "Hiện/Ẩn nút UI";
+"Stop Playback" = "Dừng phát";
 "Auto Play Next Video" = "Tự động phát video tiếp theo";
 "Show Progress Bar" = "Hiển thị thanh tiến trình";
 "Transparent Comments" = "Bình luận trong suốt";
@@ -60,139 +83,311 @@
 "Disable Sensitive Content" = "Tắt nội dung nhạy cảm";
 "Disable Warnings" = "Tắt cảnh báo";
 "Disable Live Streaming" = "Tắt phát trực tiếp";
-"Skip Recommendations" = "Bỏ qua gợi ý";
-"Upload Region" = "Khu vực tải lên";
+"Skip Recommendations" = "Bỏ qua đề xuất";
+"Upload Region" = "Vùng tải lên";
 "Hide Top Feed items" = "Ẩn mục trên cùng của bảng tin";
 "Anonymous Seen" = "Xem ẩn danh";
+"Hide Play/Pause Button" = "Ẩn nút Phát/Tạm dừng";
 
-// Profile Features
+// MARK: - Profile Settings
+"Profile Settings" = "Cài đặt hồ sơ";
 "Profile Save" = "Lưu hồ sơ";
 "Profile Copy" = "Sao chép hồ sơ";
 "Video Like Count" = "Số lượt thích video";
 "Video Upload Date" = "Ngày tải lên video";
-
-// Confirm Features
-"Like Confirmation" = "Xác nhận thích";
-"Like Comment Confirmation" = "Xác nhận thích bình luận";
-"Dislike Comment Confirmation" = "Xác nhận không thích bình luận";
-"Follow Confirmation" = "Xác nhận theo dõi";
-
-// Other Features
-"Auto Clear History" = "Tự động xóa lịch sử";
-"Enable Fake Changes" = "Bật thay đổi giả";
+"User Post Count" = "Số bài đăng của người dùng";
 "Follower" = "Người theo dõi";
 "Following" = "Đang theo dõi";
 "Fake Verified" = "Xác minh giả";
+"Enable Fake Changes" = "Bật thay đổi giả";
 "Extended Bio" = "Tiểu sử mở rộng";
 "Extended Comments" = "Bình luận mở rộng";
 "Upload HD" = "Tải lên HD";
 "App Lock" = "Khóa ứng dụng";
 "Enable Flex" = "Bật Flex";
 "Enable Oled Keyboard" = "Bật bàn phím OLED";
+"Post Stats" = "Thống kê bài đăng";
+"Enable Text To Reposts" = "Bật văn bản cho bài đăng lại";
+"Disable Survey Popups" = "Tắt popup khảo sát";
 
-// Feature Descriptions
-"FEATURE_HIDE_ADS" = "Tắt tất cả quảng cáo trên TikTok";
-"FEATURE_DOWNLOAD_BUTTON" = "Bật nút tải xuống cho bài viết và câu chuyện";
-"FEATURE_SHARE_SHEET" = "Mở bảng chia sẻ sau khi tải phương tiện";
-"FEATURE_REMOVE_WATERMARK" = "Xóa watermark khỏi phương tiện TikTok";
-"FEATURE_UI_BUTTON" = "Hiển thị hoặc ẩn nút UI";
-"FEATURE_STOP_PLAYBACK" = "Tắt tự động cuộn sau khi phát xong";
-"FEATURE_AUTO_PLAY" = "Tự động chuyển sang bài đăng tiếp theo sau khi phát xong";
-"FEATURE_PROGRESS_BAR" = "Hiển thị thanh tiến trình dưới video";
-"FEATURE_TRANSPARENT_COMMENTS" = "Làm trong suốt phần bình luận";
-"FEATURE_SHOW_USERNAMES" = "Thay thế biệt danh bằng tên người dùng trên bài đăng";
-"FEATURE_DISABLE_SENSITIVE" = "Ẩn cảnh báo 'Nội dung nhạy cảm'";
-"FEATURE_DISABLE_WARNINGS" = "Ẩn cảnh báo của TikTok";
-"FEATURE_DISABLE_LIVE" = "Tắt phát trực tiếp trên FYP";
-"FEATURE_SKIP_RECOMMENDED" = "Bỏ qua video được đề xuất";
-"FEATURE_UPLOAD_REGION" = "Hiển thị cờ khu vực tải lên bên cạnh tên người dùng";
-"FEATURE_HIDE_TOP_ITEMS" = "Ẩn các nút tìm kiếm, trực tiếp (FYP, Theo dõi, Cửa hàng, v.v...)";
-"FEATURE_ANONYMOUS_SEEN" = "Xem tin nhắn ẩn danh (BETA, Cẩn thận!)";
-"FEATURE_PROFILE_SAVE" = "Lưu chi tiết hồ sơ";
+// MARK: - Comment Settings
+"Comment Settings" = "Cài đặt bình luận";
+"Comment Design" = "Thiết kế bình luận";
+"Select Design" = "Chọn thiết kế";
+"Disable Comment Tooltip" = "Tắt chú giải công cụ bình luận";
+"Add Comment as Post" = "Thêm bình luận làm bài đăng";
+"Add Comment as Story" = "Thêm bình luận làm tin";
+"Mass Unfold Comment Replies" = "Mở hàng loạt trả lời bình luận";
+"Auto Unfold Comment Texts" = "Tự động mở văn bản bình luận";
+"Multi Emoji Comment Bar" = "Thanh bình luận nhiều biểu tượng cảm xúc";
+"Hide Emoji-Bar" = "Ẩn thanh biểu tượng cảm xúc";
+"Add Translation Button" = "Thêm nút dịch";
+"Comment Cell Redesign" = "Thiết kế lại ô bình luận";
+"Enable Comment Photos" = "Bật ảnh trong bình luận";
+"Enable Comment Stickers" = "Bật nhãn dán trong bình luận";
+"Enable Comment Flags" = "Bật cờ trong bình luận";
+"Enable Copy Without Username" = "Bật sao chép không có tên người dùng";
+"Configure Advanced Comment Settings" = "Cấu hình cài đặt bình luận nâng cao";
+
+// MARK: - Tab Bar Settings
+"Tab Bar Settings" = "Cài đặt thanh tab";
+"Tab Bar Configurations" = "Cấu hình thanh tab";
+"Hide Plus Button" = "Ẩn nút cộng";
+"Hide Friends Badge" = "Ẩn huy hiệu bạn bè";
+"Hide Inbox Badge" = "Ẩn huy hiệu hộp thư";
+"Changes will take effect after restarting the app" = "Các thay đổi sẽ có hiệu lực sau khi khởi động lại ứng dụng";
+
+// MARK: - Live Button Settings
+"Live Button Settings" = "Cài đặt nút Live";
+"Live Button Function" = "Chức năng nút Live";
+"Live Button Actions" = "Hành động của nút Live";
+"Live Actions" = "Hành động Live";
+"Playback Speed" = "Tốc độ phát";
+"Select Action" = "Chọn hành động";
+"Change the behavior of the Live button" = "Thay đổi hành vi của nút Live";
+"Selected Action" = "Hành động đã chọn";
+"Live Button Function Disabled" = "Chức năng nút Live đã bị tắt";
+"Please enable Live Button Function first" = "Vui lòng bật chức năng nút Live trước";
+"Change Action of Live Button" = "Thay đổi hành động của nút Live";
+"Enable Live Button Function" = "Bật chức năng nút Live";
+
+// MARK: - Chat Settings
+"Chat Settings" = "Cài đặt trò chuyện";
+"Enable Voice Messages" = "Bật tin nhắn thoại";
+"Enable Streaks" = "Bật chuỗi";
+"Hide Streak Pet" = "Ẩn thú cưng chuỗi";
+"Disable Typing Indicator" = "Tắt chỉ báo đang gõ";
+"Enable Pin Chat" = "Bật ghim trò chuyện";
+"Bypass Media Limit" = "Bỏ qua giới hạn phương tiện";
+"Disable AI-Generated Replies" = "Tắt trả lời do AI tạo";
+"Enable Small Emoji" = "Bật biểu tượng cảm xúc nhỏ";
+
+// MARK: - Playback Speed
+"Enable Playback Speed" = "Bật tốc độ phát";
+"Selected Speed" = "Tốc độ đã chọn";
+"Playback Speed Settings" = "Cài đặt tốc độ phát";
+"Enable Persistent Playback Speed." = "Bật tốc độ phát cố định.";
+"Select Speed" = "Chọn tốc độ";
+"Control video playback speed" = "Kiểm soát tốc độ phát video";
+"Playback Speed Disabled" = "Tốc độ phát đã bị tắt";
+"Please enable Playback Speed first" = "Vui lòng bật tốc độ phát trước";
+
+// MARK: - Region Settings
+"Region Settings" = "Cài đặt vùng";
+"Enable region changing to access content from different regions" = "Bật thay đổi vùng để truy cập nội dung từ các vùng khác nhau";
+"Enable Region Changing" = "Bật thay đổi vùng";
+"Enable Region Changing Functionality" = "Bật chức năng thay đổi vùng";
+"Selected Region" = "Vùng đã chọn";
+"Region Changing Disabled" = "Thay đổi vùng đã bị tắt";
+"Please enable region changing first" = "Vui lòng bật thay đổi vùng trước";
+
+// MARK: - Feature Descriptions
+"FEATURE_ENABLE_COMMENT_FLAGS" = "FEATURE_ENABLE_COMMENT_FLAGS";
+"FEATURE_COPY_WITHOUT_USERNAME" = "FEATURE_COPY_WITHOUT_USERNAME";
+"FEATURE_HIDE_ADS" = "Ẩn quảng cáo khỏi bảng tin";
+"FEATURE_DOWNLOAD_BUTTON" = "Bật nút tải xuống cho các bài đăng và tin";
+"FEATURE_SHARE_SHEET" = "Mở bảng chia sẻ sau khi tải xuống phương tiện";
+"FEATURE_REMOVE_WATERMARK" = "Xóa watermark (logo TikTok động và tên người dùng) khỏi phương tiện đã tải xuống";
+"FEATURE_UI_BUTTON" = "Hiển thị hoặc ẩn nút giao diện";
+"FEATURE_STOP_PLAYBACK" = "Dừng phát video khi kết thúc";
+"FEATURE_AUTO_PLAY" = "Bật tự động cuộn video";
+"FEATURE_PROGRESS_BAR" = "Hiển thị thanh thời lượng dưới mỗi video";
+"FEATURE_TRANSPARENT_COMMENTS" = "Làm cho phần bình luận trong suốt";
+"FEATURE_DISABLE_SURVEY" = "Tắt các câu hỏi khảo sát phiền phức trong bảng tin";
+"FEATURE_HIDE_PLAY_PAUSE" = "Ẩn chế độ xem Phát/Tạm dừng trong bảng tin";
+"FEATURE_SHOW_USERNAMES" = "Thay thế biệt danh bằng tên người dùng";
+"FEATURE_DISABLE_SENSITIVE" = "Ẩn cảnh báo nội dung không phù hợp";
+"FEATURE_ADD_TRANSLATION" = "Thêm nút dịch trong mỗi bình luận";
+"FEATURE_DISABLE_WARNINGS" = "Ẩn các cảnh báo của TikTok";
+"FEATURE_DISABLE_LIVE" = "Ẩn các luồng trực tiếp trong bảng tin";
+"FEATURE_SKIP_RECOMMENDED" = "Xóa đề xuất bạn bè, v.v.";
+"FEATURE_UPLOAD_REGION" = "Hiển thị cờ vùng tải lên bên cạnh tên người dùng";
+"FEATURE_HIDE_TOP_ITEMS" = "Ẩn nút tìm kiếm, LIVE và các mục khác (Dành cho bạn, Đang theo dõi, Cửa hàng, v.v.)";
+"FEATURE_ANONYMOUS_SEEN" = "Xem tin nhắn mà người khác không biết";
+"FEATURE_SHOW_ALL_TABS" = "Hiển thị tất cả các tab cài đặt ẩn [Beta!]";
+"FEATURE_PROFILE_SAVE" = "Lưu thông tin hồ sơ vào bộ nhớ tạm";
+"FEATURE_EMBED_LINKS" = "Bật liên kết nhúng khi sao chép liên kết";
 "FEATURE_PROFILE_COPY" = "Sao chép thông tin hồ sơ";
-"FEATURE_LIKE_COUNT" = "Hiển thị số lượt thích trên bài đăng";
-"FEATURE_UPLOAD_DATE" = "Hiển thị ngày tải lên bài đăng";
-"FEATURE_CONFIRM_LIKE" = "Xác nhận thích bài đăng";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "Xác nhận thích bình luận";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Xác nhận không thích bình luận";
-"FEATURE_CONFIRM_FOLLOW" = "Xác nhận theo dõi người dùng";
+"FEATURE_USER_POST_COUNT" = "Hiển thị số lượng video đã tải lên";
+"FEATURE_LIKE_COUNT" = "Hiển thị số lượt thích trên tin nhắn";
+"FEATURE_UPLOAD_DATE" = "Hiển thị ngày tải lên";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Hiển thị thời gian tải lên video trong trang Dành cho bạn";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Ẩn cảnh báo dưới các video thể thao (UFC, Quyền anh, v.v.)";
+"FEATURE_REMOVE_PENDANT" = "Xóa chế độ xem quảng cáo ở góc trên bên trái trong trang Dành cho bạn";
+"FEATURE_CONFIRM_LIKE" = "Hiển thị xác nhận để thích video";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Hiển thị xác nhận để thích bình luận";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Hiển thị xác nhận để không thích bình luận";
+"FEATURE_CONFIRM_FOLLOW" = "Hiển thị xác nhận để theo dõi người dùng";
 "FEATURE_AUTO_CLEAR" = "Tự động xóa lịch sử tìm kiếm sau mỗi 60 giây";
-"FEATURE_FAKE_CHANGES" = "Cho phép làm giả hồ sơ";
-"FEATURE_FOLLOWER_COUNT" = "Nhập số lượng người theo dõi giả";
-"FEATURE_FOLLOWING_COUNT" = "Nhập số lượng người theo dõi giả";
-"FEATURE_FAKE_VERIFIED" = "Biến tài khoản của bạn trông như đã xác minh";
-"FEATURE_EXTENDED_BIO" = "Mở rộng số ký tự trong tiểu sử";
-"FEATURE_EXTENDED_COMMENTS" = "Mở rộng số ký tự trong bình luận";
-"FEATURE_UPLOAD_HD" = "Luôn tải lên video ở chất lượng HD";
-"FEATURE_APP_LOCK" = "Bảo vệ TikTok bằng mật khẩu";
-"FEATURE_ENABLE_FLEX" = "Chỉ dành cho nhà phát triển, KHÔNG CHẠM nếu bạn không biết cách sử dụng";
-"FEATURE_OLED_KEYBOARD" = "Chỉ hoạt động ở chế độ tối";
+"FEATURE_FAKE_CHANGES" = "Bật giả mạo dữ liệu hồ sơ";
+"FEATURE_FOLLOWER_COUNT" = "Nhập số người theo dõi giả";
+"FEATURE_FOLLOWING_COUNT" = "Nhập số người đang theo dõi giả";
+"FEATURE_FAKE_VERIFIED" = "Hiển thị huy hiệu xác minh giả";
+"FEATURE_HIDE_PLUS_BTN" = "Ẩn nút máy ảnh";
+"FEATURE_HIDE_FRIENDS_BADGE" = "Ẩn huy hiệu thông báo bạn bè";
+"FEATURE_HIDE_INBOX_BADGE" = "Ẩn huy hiệu thông báo hộp thư";
+"FEATURE_EXTENDED_BIO" = "Mở rộng giới hạn ký tự tiểu sử";
+"FEATURE_EXTENDED_COMMENTS" = "Mở rộng giới hạn ký tự bình luận";
+"FEATURE_UPLOAD_HD" = "Bật tải lên HD";
+"FEATURE_APP_LOCK" = "Thêm khả năng khóa TikTok bằng mật khẩu";
+"FEATURE_ENABLE_FLEX" = "Chỉ dành cho nhà phát triển, KHÔNG CHẠM VÀO nếu bạn không biết nó làm gì";
+"FEATURE_OLED_KEYBOARD" = "Chỉ hoạt động với giao diện tối";
+"FEATURE_POST_STATS" = "Hiển thị nút Menu trong phần Tải xuống để xem thống kê bài đăng";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Bật thêm văn bản vào bài đăng lại của bạn";
+"FEATURE_VOICE_MESSAGES" = "Bật gửi tin nhắn thoại trong trò chuyện";
+"FEATURE_ENABLE_STREAKS" = "Bật chuỗi với bạn bè";
+"FEATURE_HIDE_STREAK_PET" = "Ẩn thú cưng chuỗi";
+"FEATURE_DISABLE_TYPING" = "Không gửi chỉ báo đang gõ khi trò chuyện";
+"FEATURE_PIN_CHATS" = "Ghim các cuộc trò chuyện yêu thích lên đầu";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "Bỏ qua giới hạn phương tiện trong trò chuyện (Mặc định: 9 ảnh, video 1 phút)";
+"FEATURE_DISABLE_AI_REPLIES" = "Tắt các câu trả lời do AI tạo cho các bài đăng đã gửi";
+"FEATURE_SMALL_EMOJI" = "Bật gửi biểu tượng cảm xúc nhỏ";
+"FEATURE_REMOVE_PENDANT" = "Xóa chế độ xem quảng cáo phiền phức ở góc trên bên trái màn hình (Chỉ ở một số vùng)";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Ẩn các cảnh báo phiền phức dưới video thể thao";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Hiển thị thời gian tải lên bên cạnh tên người dùng trong trang Dành cho bạn";
+"FEATURE_HIDE_COMMISSION_POSTS" = "Xóa bài đăng có ghi 'Người sáng tạo nhận được hoa hồng'";
 
-// Developer Section
-"DEVELOPER_TELEGRAM" = "Tham gia kênh Telegram để nhận các cập nhật mới nhất";
-"DEVELOPER_SUPPORT" = "Hỗ trợ để giữ  RXTikTok được cập nhật và truy cập nhóm thử nghiệm beta";
+// Comment Settings Descriptions
+"ENABLE_COMMENT_PHOTO" = "Cho phép thêm ảnh vào bình luận";
+"ENABLE_COMMENT_STICKERS" = "Cho phép thêm nhãn dán vào bình luận";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Tắt chú giải công cụ trong bình luận";
+"FEATURE_ADD_TRANSLATION" = "Thêm nút dịch vào bình luận";
+"FEATURE_ADD_COMMENT_POST" = "Bật đăng bình luận dưới dạng bài đăng";
+"FEATURE_ADD_COMMENT_STORY" = "Bật đăng bình luận dưới dạng tin";
+"FEATURE_MASS_UNFOLD" = "Mở hàng loạt tất cả các câu trả lời bình luận";
+"FEATURE_AUTO_UNFOLD" = "Tự động mở văn bản bình luận";
+"FEATURE_MULTI_EMOJI" = "Bật thanh bình luận nhiều biểu tượng cảm xúc";
+"FEATURE_HIDE_EMOJI" = "Ẩn thanh biểu tượng cảm xúc trong bình luận";
+"FEATURE_COMMENT_REDESIGN" = "Bật các ô bình luận được thiết kế lại";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Sao chép bình luận không có 'Tên người dùng: '";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Hiển thị cờ vùng của người bình luận";
 
-// Comment Features
-"Disable Comment Tooltip" = "Tắt Tooltip Bình Luận";
-"Add Comment as Post" = "Thêm Bình Luận Dưới Dạng Bài Đăng";
-"Add Comment as Story" = "Thêm Bình Luận Dưới Dạng Tin";
-"Mass Unfold Comment Replies" = "Mở Toàn Bộ Phản Hồi Bình Luận";
-"Auto Unfold Comment Texts" = "Tự Động Mở Nội Dung Bình Luận Dài";
-"Multi Emoji Comment Bar" = "Thanh Emoji Đa Dạng Trong Bình Luận";
-"Hide Emoji-Bar" = "Ẩn Thanh Emoji";
-"Comment Cell Redesign" = "Thiết Kế Lại Giao Diện Bình Luận";
+// MARK: - Error Messages
+"Could Not Copy Music" = "Không thể sao chép nhạc";
+"The video doesn't have music to download" = "Video này không có nhạc để tải xuống";
 
-// Feature Descriptions
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Tắt Tooltip Emoji Nhanh Khi Nhấn Giữ Nút Bình Luận";
-"FEATURE_ADD_COMMENT_POST" = "Cho phép đăng bình luận dưới dạng bài viết thông thường";
-"FEATURE_ADD_COMMENT_STORY" = "Cho phép đăng bình luận dưới dạng tin";
-"FEATURE_MASS_UNFOLD" = "Mở toàn bộ các phản hồi bình luận cùng lúc";
-"FEATURE_AUTO_UNFOLD" = "Tự động mở nội dung cho các bình luận dài";
-"FEATURE_MULTI_EMOJI" = "Kích hoạt thanh emoji mở rộng trong bình luận";
-"FEATURE_HIDE_EMOJI" = "Ẩn thanh emoji ban đầu trong bình luận";
-"FEATURE_COMMENT_REDESIGN" = "Chọn phong cách thiết kế giao diện bình luận";
+// MARK: - Developer
+"DEVELOPER_TELEGRAM" = "Tham gia kênh Telegram để nhận các bản cập nhật mới nhất";
+"DEVELOPER_SUPPORT" = "Hỗ trợ RXTikTok và nhận truy cập vào nhóm thử nghiệm beta";
 
-// Comment and Design Settings
-"Comment Settings" = "Cài Đặt Bình Luận";
-"Design Options" = "Tùy Chọn Giao Diện";
-"Comment Features" = "Tính Năng Bình Luận";
-"Comment Design" = "Giao Diện Bình Luận";
-"Select Design" = "Chọn Giao Diện";
+// MARK: - Missing Strings
+"Features list" = "Danh sách tính năng";
+"Not Selected" = "Chưa chọn";
+"Creator Profile Pull" = "Kéo để xem hồ sơ người sáng tạo";
+"OK" = "OK";
+"Disable Left & Right Swipe" = "Tắt vuốt trái & phải";
+"Pull To Camera" = "Kéo để mở máy ảnh";
+"Regions" = "Vùng";
+"Full Region Mode" = "Chế độ toàn vùng";
+"Add Folders To Inbox" = "Thêm thư mục vào hộp thư";
 
-// Design Options
-"Default" = "Mặc Định";
-"Modern" = "Hiện Đại";
-"Compact" = "Gọn Gàng";
+// Additional missing strings
+"Settings" = "Cài đặt";
+"Save" = "Lưu";
+"Delete" = "Xóa";
+"Edit" = "Chỉnh sửa";
+"Close" = "Đóng";
+"Back" = "Quay lại";
+"Next" = "Tiếp";
+"Done" = "Xong";
+"Error" = "Lỗi";
+"Success" = "Thành công";
+"Warning" = "Cảnh báo";
+"Loading" = "Đang tải";
+"Search" = "Tìm kiếm";
+"Apply" = "Áp dụng";
+"Reset" = "Đặt lại";
+"Saved!" = "Đã lưu!";
+"Video saved successfully" = "Đã lưu video thành công";
+"Photo saved successfully" = "Đã lưu ảnh thành công";
+"Failed to save media" = "Lưu phương tiện thất bại";
+"No internet connection" = "Không có kết nối internet";
+"Select All" = "Chọn tất cả";
+"Deselect All" = "Bỏ chọn tất cả";
+"More Options" = "Tùy chọn khác";
+"Share" = "Chia sẻ";
+"Copy Link" = "Sao chép liên kết";
+"Report" = "Báo cáo";
+"Block" = "Chặn";
+"Unfollow" = "Bỏ theo dõi";
+"Hide" = "Ẩn";
+"Show" = "Hiển thị";
+"Enable" = "Bật";
+"Disable" = "Tắt";
 
-// Action Options
-"Cancel" = "Hủy";
-"Regions" = "Khu Vực";
-"Live Button Actions" = "Hành Động Nút Live";
-"Actions" = "Hành Động";
-"Live Actions" = "Hành Động Trực Tiếp";
+// MARK: - Missing Feature Descriptions
+"FEATURE_CREATOR_PROFILE_PULL" = "Xem hồ sơ của người sáng tạo khi kéo xuống";
+"FEATURE_DISABLE_SWIPE" = "Tắt vuốt sang trái và phải trong bảng tin";
+"FEATURE_PULL_TO_CAMERA" = "Bật tính năng kéo để mở máy ảnh";
+"FEATURE_ADD_FOLDERS" = "Thêm sắp xếp thư mục vào tin nhắn trong hộp thư";
+"FEATURE_FULL_REGION_MODE" = "Chỉ bật nếu tùy chọn đầu tiên không hoạt động!!";
 
-// Playback Settings
-"RXTikTok Settings" = "Cài Đặt  RXTikTok";
-"Playback Speed" = "Tốc Độ Phát";
-"Select Speed" = "Chọn Tốc Độ";
+// Additional feature descriptions
+"FEATURE_ANONYMOUS_SEEN_DESC" = "Xem các cuộc trò chuyện mà không gửi thông báo đã xem cho người gửi";
+"FEATURE_SHOW_ALL_TABS_DESC" = "Hiển thị tất cả các tab cài đặt ẩn, bao gồm cả các tính năng thử nghiệm";
+"FEATURE_PROFILE_SAVE_DESC" = "Lưu thông tin hồ sơ vào bộ nhớ tạm của bạn bằng một lần nhấn";
+"FEATURE_PROFILE_COPY_DESC" = "Sao chép chi tiết hồ sơ bao gồm tên người dùng, tiểu sử và các thông tin công khai khác";
+"FEATURE_APP_LOCK_DESC" = "Bảo mật ứng dụng TikTok của bạn bằng mật khẩu hoặc xác thực sinh trắc học";
+"FEATURE_REGIONS_DESC" = "Truy cập nội dung theo vùng cụ thể bằng cách thay đổi vị trí ảo của bạn";
+"FEATURE_ADD_FOLDERS_DESC" = "Sắp xếp tin nhắn trong hộp thư của bạn vào các thư mục tùy chỉnh để quản lý tốt hơn";
 
-// Region Section  
-"Enable Region Changing Functionality" = "Kích Hoạt Tính Năng Thay Đổi Khu Vực";
+// MARK: - Credits View
+"Credits" = "Credits";
+"Special Thanks to" = "Lời cảm ơn đặc biệt đến";
+"Community" = "Cộng đồng";
+"Main Developer, Owner" = "Nhà phát triển chính, Chủ sở hữu";
+"Co-Owner" = "Đồng sở hữu";
+"DRM Developer" = "Nhà phát triển DRM";
+"Contributor" = "Người đóng góp";
+"UI Designer" = "Nhà thiết kế giao diện";
+"Telegram Channel" = "Kênh Telegram";
+"Telegram Discussion Group" = "Nhóm thảo luận Telegram";
+"Get the latest updates and news" = "Nhận các bản cập nhật và tin tức mới nhất";
+"Join the community discussion" = "Tham gia thảo luận cộng đồng";
+"Buy Me a Coffee" = "Mua cho tôi một ly cà phê";
+"Support the development" = "Hỗ trợ phát triển";
+"X" = "X";
+"Support" = "Hỗ trợ";
 
-// Live Button Function Section
-"Change Action of Live Button" = "Thay Đổi Hành Động Của Nút Live";
+// MARK: - Configuration
+"About" = "Giới thiệu";
+"Configuration" = "Cấu hình";
+"Import Configuration" = "Nhập cấu hình";
+"Export Configuration" = "Xuất cấu hình";
+"Reset All Settings" = "Đặt lại tất cả cài đặt";
+"Import settings from a file" = "Nhập cài đặt từ một tệp";
+"Export settings to a file" = "Xuất cài đặt ra một tệp";
+"Reset all settings to default values" = "Đặt lại tất cả cài đặt về giá trị mặc định";
+"All settings have been reset to default values." = "Tất cả cài đặt đã được đặt lại về giá trị mặc định.";
+"Configuration imported successfully." = "Đã nhập cấu hình thành công.";
+"File selection was cancelled." = "Việc chọn tệp đã bị hủy.";
+"Cancelled" = "Đã hủy";
+"Select App Language" = "Chọn ngôn ngữ ứng dụng";
 
-// Playback Speed Section
-"Enable Persistent Playback Speed." = "Bật Tốc Độ Phát Cố Định";
+// 1.3
+"Erase All TikTok Data" = "Xóa tất cả dữ liệu TikTok";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Xóa tất cả dữ liệu TikTok khỏi ứng dụng [Hãy cẩn thận!!!]";
+"Clear Keychain" = "Xóa keychain";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Bạn có chắc chắn muốn xóa tất cả dữ liệu không? Thao tác này sẽ xóa:\n1- Thư mục dữ liệu của TikTok\n2- Tất cả keychain\n3- Xóa tất cả NSUserDefaults\n\nLƯU Ý!\nBẠN SẼ MẤT CÁC BẢN NHÁP VÀ BẤT CỨ THỨ GÌ ĐÃ LƯU CỤC BỘ.";
+"Clear" = "Xóa";
+"Really Clear All Data?" = "Thực sự xóa tất cả dữ liệu?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Đây là cảnh báo cuối cùng của bạn. Hành động này không thể hoàn tác và sẽ xóa tất cả dữ liệu TikTok cục bộ, bao gồm cả bản nháp và cài đặt. Bạn có hoàn toàn chắc chắn không?";
+"Confirm Clear" = "Xác nhận xóa";
+"Data Cleared" = "Đã xóa dữ liệu";
+"All TikTok data has been cleared." = "Tất cả dữ liệu TikTok đã được xóa.";
 
-// Comment Settings Section
-"Configure Advanced Comment Settings" = "Cấu Hình Cài Đặt Bình Luận Nâng Cao";
+"Streak Info" = "Thông tin chuỗi";
+"FEATURE_STREAK_INFO" = "Hiển thị thông tin chuỗi khi nhấn vào ngọn lửa chuỗi";
 
-// Language Section
-"Select App Language" = "Chọn Ngôn Ngữ Ứng Dụng";
+"Hide Tab Bar Labels" = "Ẩn nhãn thanh tab";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Ẩn nhãn trong thanh tab để có giao diện gọn gàng hơn";
+"Adjust offline download limit" = "Điều chỉnh giới hạn tải xuống ngoại tuyến";
+"Adjust value between 50 and 2000" = "Điều chỉnh giá trị trong khoảng từ 50 đến 2000";
+"Start TikTok in Following" = "Bắt đầu TikTok ở mục Đang theo dõi";
+"FEATURE_START_FYP_IN_FOLLOWING" = "Bắt đầu TikTok trong bảng tin Đang theo dõi thay vì bảng tin Dành cho bạn";
+"Waiting for TikTok…" = "Đang chờ TikTok…";
+"Extracting Media URL…" = "Đang trích xuất URL phương tiện…";
+"Invalid download URL received." = "Đã nhận được URL tải xuống không hợp lệ.";
+"Failed to fetch HD video URL. Please try again." = "Không thể lấy URL video HD. Vui lòng thử lại.";
 
-"Enable Region Changing" = "Kích Hoạt Thay Đổi Khu Vực";
-"Live Button Action" = "Hành Động Nút Live";
-
-"Language 🌎" = "Ngôn Ngữ 🌎";
-"Speeds" = "Tốc Độ";
+"Enable Egypt Stickers" = "Bật nhãn dán Ai Cập";
