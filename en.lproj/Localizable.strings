@@ -29,7 +29,7 @@
 "Design Options" = "Design Options";
 "Other Settings" = "Other Settings";
 "Auto Clear History" = "Auto Clear History";
-"Enable Embeded Links" = "Enable Embeded Links";
+"Enable Embeded Links" = "Enable Embedded Links";
 "Language 🌎" = "Language 🌎";
 "Show All Settings Tabs" = "Show All Settings Tabs";
 "Show Video Upload Timestamp" = "Show Video Upload Timestamp";
@@ -100,7 +100,6 @@
 "Following" = "Following";
 "Fake Verified" = "Fake Verified";
 "Enable Fake Changes" = "Enable Fake Changes";
-"Extended Bio" = "Extended Bio";
 "Extended Comments" = "Extended Comments";
 "Upload HD" = "Upload HD";
 "App Lock" = "App Lock";
@@ -227,7 +226,6 @@
 "FEATURE_HIDE_PLUS_BTN" = "Hide The Camera Button";
 "FEATURE_HIDE_FRIENDS_BADGE" = "Hide Friend Notification Badge";
 "FEATURE_HIDE_INBOX_BADGE" = "Hide Inbox Notification Badge";
-"FEATURE_EXTENDED_BIO" = "Extends bio character limit";
 "FEATURE_EXTENDED_COMMENTS" = "Extends comments character limit";
 "FEATURE_UPLOAD_HD" = "Enables HD uploads";
 "FEATURE_APP_LOCK" = "Adds ability to lock TikTok with password";
@@ -274,7 +272,6 @@
 // MARK: - Missing Strings
 "Features list" = "Features list";
 "Not Selected" = "Not Selected";
-"Creator Profile Pull" = "Creator Profile Pull";
 "OK" = "OK";
 "Disable Left & Right Swipe" = "Disable Left & Right Swipe";
 "Pull To Camera" = "Pull To Camera";
@@ -317,7 +314,6 @@
 "Disable" = "Disable";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_CREATOR_PROFILE_PULL" = "View creator profiles when pulling down";
 "FEATURE_DISABLE_SWIPE" = "Disable swiping left and right in feed";
 "FEATURE_PULL_TO_CAMERA" = "Enable pull-to-camera feature";
 "FEATURE_ADD_FOLDERS" = "Add folder organization to inbox messages";
@@ -396,3 +392,70 @@
 "Failed to fetch HD video URL. Please try again." = "Failed to fetch HD video URL. Please try again.";
 
 "Enable Egypt Stickers" = "Enable Egypt Stickers";
+
+
+// 1.4
+"LOOP_STORY_VIDEOS" = "Loop Story Videos";
+"STOP_STORY_PHOTO_ADVANCE" = "Story Photo Auto Advance";
+"FEATURE_LOOP_STORY_VIDEOS" = "Loop Videos in Stories When Enabled";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Stop Story Photo Auto Advance When Enabled";
+"BACKGROUND_PLAY" = "Enable Background Play";
+"FEATURE_BACKGROUND_PLAY" = "Enable Background Play";
+
+// MARK: - New Section Headers (Added from Settings reorganization)
+"Content & Display" = "Content & Display";
+"Playback Controls" = "Playback Controls";
+"Content Filtering" = "Content Filtering";
+"Navigation & Interaction" = "Navigation & Interaction";
+"Downloads & Sharing" = "Downloads & Sharing";
+"Profile Actions" = "Profile Actions";
+"Video Information" = "Video Information";
+"Profile Customization" = "Profile Customization";
+"Profile Enhancement" = "Profile Enhancement";
+"Enhanced Comments Features" = "Enhanced Comments Features";
+"Text & Display Options" = "Text & Display Options";
+"Emoji & Interface" = "Emoji & Interface";
+"Content Interactions" = "Content Interactions";
+"Social Actions" = "Social Actions";
+"Tab Bar Elements" = "Tab Bar Elements";
+"Notification Badges" = "Notification Badges";
+"App Configuration" = "App Configuration";
+"Content Enhancement" = "Content Enhancement";
+"System Features" = "System Features";
+"Configuration Management" = "Configuration Management";
+"Chat Features" = "Chat Features";
+"Organization & Management" = "Organization & Management";
+"Privacy & Security" = "Privacy & Security";
+
+// MARK: - Missing Chat Settings Strings
+"DISBALE_SCREENSHOT_DETECTION" = "Disable Screenshot Detection";
+"DISABLE_SCREENRECORDING_DETECTION" = "Disable Screen Recording Detection";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "Disable screenshot detection in chats";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "Disable screen recording detection in chats";
+
+// MARK: - Missing Alert and UI Strings
+"Reset Settings" = "Reset Settings";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Are you sure you want to reset all settings to default values? This action cannot be undone.";
+"Erase All Data" = "Erase All Data";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone.";
+"Erase" = "Erase";
+"All TikTok data has been erased." = "All TikTok data has been erased.";
+"Settings Reset" = "Settings Reset";
+"Language Changed" = "Language Changed";
+"Please restart the app to apply changes, May require two app restarts!" = "Please restart the app to apply changes, May require two app restarts!";
+
+// MARK: - Missing Navigation and Menu Strings
+"Speeds" = "Speeds";
+"Live Actions" = "Live Actions";
+"RXTikTok Settings" = "RXTikTok Settings";
+
+"BETA!" = "BETA!";
+
+// MARK: - Menu Manager Strings
+"Language" = "Language";
+
+"MARK_SEEN_ON_REPLY" = "Mark Seen on Reply";
+"FEATURE_MARK_SEEN_ON_REPLY" = "Mark messages as seen when replying";
+
+"VIEW_PROFILES_ANONYMOUS" = "View Profiles Anonymously";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "Disable Profile View Tracking When Enabled";
