@@ -100,7 +100,6 @@
 "Following" = "Követettek";
 "Fake Verified" = "Hamis hitelesítés";
 "Enable Fake Changes" = "Hamis változtatások engedélyezése";
-"Extended Bio" = "Kiterjesztett bemutatkozás";
 "Extended Comments" = "Kiterjesztett hozzászólások";
 "Upload HD" = "HD feltöltés";
 "App Lock" = "Alkalmazás zár";
@@ -227,7 +226,6 @@
 "FEATURE_HIDE_PLUS_BTN" = "Kamera gomb elrejtése";
 "FEATURE_HIDE_FRIENDS_BADGE" = "Barát értesítési jelvény elrejtése";
 "FEATURE_HIDE_INBOX_BADGE" = "Bejövő üzenetek értesítési jelvény elrejtése";
-"FEATURE_EXTENDED_BIO" = "Bio karakter korlát kiterjesztése";
 "FEATURE_EXTENDED_COMMENTS" = "Hozzászólások karakter korlát kiterjesztése";
 "FEATURE_UPLOAD_HD" = "HD feltöltések engedélyezése";
 "FEATURE_APP_LOCK" = "TikTok zárolásának lehetősége jelszóval";
@@ -274,7 +272,6 @@
 // MARK: - Missing Strings
 "Features list" = "Funkciók listája";
 "Not Selected" = "Nincs kiválasztva";
-"Creator Profile Pull" = "Alkotó profil húzás";
 "OK" = "OK";
 "Disable Left & Right Swipe" = "Bal és jobb húzás letiltása";
 "Pull To Camera" = "Húzás a kamerához";
@@ -317,7 +314,6 @@
 "Disable" = "Letiltás";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_CREATOR_PROFILE_PULL" = "Alkotó profilok megtekintése lehúzáskor";
 "FEATURE_DISABLE_SWIPE" = "Balra és jobbra húzás letiltása a hírfolyamban";
 "FEATURE_PULL_TO_CAMERA" = "Húzás a kamerához funkció engedélyezése";
 "FEATURE_ADD_FOLDERS" = "Mappa szervezés hozzáadása a bejövő üzenetekhez";
@@ -396,3 +392,83 @@
 "Failed to fetch HD video URL. Please try again." = "Nem sikerült lekérni a HD videó URL-t. Kérjük, próbálja újra.";
 
 "Enable Egypt Stickers" = "Egyiptomi matricák engedélyezése";
+
+
+// 1.4
+"LOOP_STORY_VIDEOS" = "Történet videók ismétlése";
+"STOP_STORY_PHOTO_ADVANCE" = "Történet fotók automatikus továbbléptetése";
+"FEATURE_LOOP_STORY_VIDEOS" = "A történetekben lévő videók ismétlése, ha engedélyezve van";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Történet fotók automatikus továbbléptetése leállítása, ha engedélyezve van";
+"BACKGROUND_PLAY" = "Háttérben lejátszás engedélyezése";
+"FEATURE_BACKGROUND_PLAY" = "Háttérben lejátszás engedélyezése";
+
+// MARK: - New Section Headers (Added from Settings reorganization)
+"Content & Display" = "Tartalom és Megjelenítés";
+"Playback Controls" = "Lejátszás Vezérlők";
+"Content Filtering" = "Tartalom Szűrés";
+"Navigation & Interaction" = "Navigáció és Interakció";
+"Downloads & Sharing" = "Letöltések és Megosztás";
+"Profile Actions" = "Profil Műveletek";
+"Video Information" = "Videó Információ";
+"Profile Customization" = "Profil Testreszabás";
+"Profile Enhancement" = "Profil Javítások";
+"Enhanced Comments Features" = "Fejlett Hozzászólás Funkciók";
+"Text & Display Options" = "Szöveg és Megjelenítés Opciók";
+"Emoji & Interface" = "Emoji és Felület";
+"Content Interactions" = "Tartalom Interakciók";
+"Social Actions" = "Közösségi Műveletek";
+"Tab Bar Elements" = "Fül Sáv Elemek";
+"Notification Badges" = "Értesítési Jelvények";
+"App Configuration" = "Alkalmazás Konfiguráció";
+"Content Enhancement" = "Tartalom Javítások";
+"System Features" = "Rendszer Funkciók";
+"Configuration Management" = "Konfiguráció Kezelés";
+"Chat Features" = "Chat Funkciók";
+"Organization & Management" = "Szervezés és Kezelés";
+"Privacy & Security" = "Adatvédelem és Biztonság";
+
+// MARK: - Missing Chat Settings Strings
+"DISBALE_SCREENSHOT_DETECTION" = "Képernyőkép észlelés letiltása";
+"DISABLE_SCREENRECORDING_DETECTION" = "Képernyőfelvétel észlelés letiltása";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "Képernyőkép észlelés letiltása chatekben";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "Képernyőfelvétel észlelés letiltása chatekben";
+
+// MARK: - Missing Alert and UI Strings
+"Reset Settings" = "Beállítások visszaállítása";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Biztos, hogy vissza akarja állítani az összes beállítást az alapértelmezett értékekre? Ez a művelet nem vonható vissza.";
+"Erase All Data" = "Összes adat törlése";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Biztos, hogy törölni akarja az összes TikTok adatot? Ez törölni fogja az összes alkalmazás adatot és nem vonható vissza.";
+"Erase" = "Törlés";
+"All TikTok data has been erased." = "Az összes TikTok adat törölve lett.";
+"Settings Reset" = "Beállítások visszaállítva";
+"Language Changed" = "Nyelv megváltoztatva";
+"Please restart the app to apply changes, May require two app restarts!" = "Indítsa újra az alkalmazást a változások alkalmazásához, két újraindítás szükséges lehet!";
+
+// MARK: - Missing Navigation and Menu Strings
+"Speeds" = "Sebességek";
+"Live Actions" = "Élő műveletek";
+"RXTikTok Settings" = "RXTikTok beállítások";
+
+"BETA!" = "BÉTA!";
+
+// MARK: - Menu Manager Strings
+"Language" = "Nyelv";
+
+"MARK_SEEN_ON_REPLY" = "Olvasottak megjelölése válaszkor";
+"FEATURE_MARK_SEEN_ON_REPLY" = "Üzenetek megjelölése olvasottként válaszoláskor";
+
+"VIEW_PROFILES_ANONYMOUS" = "Profilok névtelen megtekintése";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "Profil megtekintés követésének letiltása, ha engedélyezve van";
+
+// MARK: - Import/Export Configuration Strings
+"Choose import source:" = "Válasszon importálási forrást:";
+"Import from Keychain" = "Importálás kulcstartóból";
+"Import from File" = "Importálás fájlból";
+"No backup found" = "Nem található biztonsági mentés";
+"No Backup" = "Nincs biztonsági mentés";
+"No settings backup found in keychain." = "Nem található beállítások biztonsági mentése a kulcstartóban.";
+"Choose export destination:" = "Válasszon exportálási célt:";
+"Save to Keychain" = "Mentés kulcstartóba";
+"Export to File" = "Exportálás fájlba";
+"Configuration imported from keychain successfully." = "Konfiguráció sikeresen importálva a kulcstartóból.";
+"Configuration saved to keychain successfully." = "Konfiguráció sikeresen mentve a kulcstartóba.";
