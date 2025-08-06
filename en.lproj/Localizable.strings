@@ -472,3 +472,7 @@
 "Export to File" = "Export to File";
 "Configuration imported from keychain successfully." = "Configuration imported from keychain successfully.";
 "Configuration saved to keychain successfully." = "Configuration saved to keychain successfully.";
+
+// MARK: - Rewards Ads Feature
+"Disable TikTok Rewards ADs" = "Disable TikTok Rewards ADs";
+"FEATURE_DISABLE_REWARDS_ADS" = "Hide TikTok Rewards advertisements from the feed";
