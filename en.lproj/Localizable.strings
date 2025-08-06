@@ -459,3 +459,16 @@
 
 "VIEW_PROFILES_ANONYMOUS" = "View Profiles Anonymously";
 "FEATURE_VIEW_PROFILES_ANONYMOUS" = "Disable Profile View Tracking When Enabled";
+
+// MARK: - Import/Export Configuration Strings
+"Choose import source:" = "Choose import source:";
+"Import from Keychain" = "Import from Keychain";
+"Import from File" = "Import from File";
+"No backup found" = "No backup found";
+"No Backup" = "No Backup";
+"No settings backup found in keychain." = "No settings backup found in keychain.";
+"Choose export destination:" = "Choose export destination:";
+"Save to Keychain" = "Save to Keychain";
+"Export to File" = "Export to File";
+"Configuration imported from keychain successfully." = "Configuration imported from keychain successfully.";
+"Configuration saved to keychain successfully." = "Configuration saved to keychain successfully.";
