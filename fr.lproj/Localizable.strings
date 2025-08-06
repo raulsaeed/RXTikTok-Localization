@@ -3,7 +3,7 @@
 // Titres principaux
 "RXTikTok, Hi" = " RXTikTok, Salut";
 "RXTikTok Settings" = "Paramètres de  RXTikTok";
-"Join Our Telegram." = "Join Our Telegram.";
+"Join Our Telegram." = "Rejoins notre Télégram";
   
 // Actions courantes
 "Yes" = "Oui";
@@ -16,7 +16,7 @@
   
 // Options de téléchargement
 "Download Video" = "Télécharger la vidéo";
-"Download HD Video" = "Télécharger la vidéo HD";
+"Download HD Video" = "Télécharger la vidéo en HD";
 "Download Music" = "Télécharger la musique";
 "Download Photo" = "Télécharger la photo";
 "Download All Photos" = "Télécharger toutes les photos";
@@ -32,9 +32,9 @@
 "The video dosen't have music to download" = "Cette vidéo n'a pas de musique à télécharger";
   
 // Étiquettes du menu
-"Downloads Menu" = "Menu des téléchargements";
-"Copy Menu" = "Menu de copie";
-"Download Photos Menu" = "Menu de téléchargement des photos";
+"Downloads Menu" = "Télécharger...";
+"Copy Menu" = "Copier...";
+"Download Photos Menu" = "Télécharger les photos";
   
 // En-têtes de section
 "Feed" = "Fil d'actualité";
@@ -42,90 +42,90 @@
 "Confirm" = "Confirmer";
 "Other" = "Autre";
 "Region" = "Région";
-"Live Button Function" = "Fonction du bouton Live";
+"Live Button Function" = "Fonctionnalité du bouton Live";
 "Playback Speed" = "Vitesse de lecture";
 "Developer" = "Développeur";
   
 // Fonctionnalités du flux
 "Hide Ads" = "Masquer les publicités";
 "Download Button" = "Bouton de téléchargement";
-"Share Sheet" = "Partager le media";
+"Share Sheet" = "Fiche de partage";
 "Remove Watermark" = "Supprimer le filigrane";
-"Show/Hide UI Button" = "Afficher/Masquer le bouton UI";
+"Show/Hide UI Button" = "Bouton Afficher/Masquer l'interface";
 "Stop Playback" = "Arrêter la lecture";
-"Auto Play Next Video" = "Lecture automatique de la vidéo suivante";
+"Auto Play Next Video" = "Lecture automatique des vidéos";
 "Show Progress Bar" = "Afficher la barre de progression";
 "Transparent Comments" = "Commentaires transparents";
 "Show Usernames" = "Afficher les noms d'utilisateur";
-"Disable Sensitive Content" = "Désactiver le contenu sensible";
+"Disable Sensitive Content" = "Désactiver l'avertissement contenus sensible";
 "Disable Warnings" = "Désactiver les avertissements";
-"Disable Live Streaming" = "Désactiver les diffusions en direct";
-"Skip Recommendations" = "Ignorer les recommandations";
-"Upload Region" = "Région de téléchargement";
-"Hide Top Feed items" = "Masquer les éléments en haut du flux";
+"Disable Live Streaming" = "Désactiver les Lives";
+"Skip Recommendations" = "Passer recommandations";
+"Upload Region" = "Région de publication";
+"Hide Top Feed items" = "Masquer les éléments en haut du feed";
 "Anonymous Seen" = "Vue anonyme";
   
 // Fonctionnalités du profil
 "Profile Save" = "Enregistrer le profil";
 "Profile Copy" = "Copier le profil";
-"Video Like Count" = "Nombre de mentions J'aime sur la vidéo";
-"Video Upload Date" = "Date de publication de la vidéo";
+"Video Like Count" = "Nombre de j'aime sur les vidéos";
+"Video Upload Date" = "Date de publication des vidéos";
   
 // Fonctionnalités de confirmation
-"Like Confirmation" = "Confirmation de mention J'aime";
-"Like Comment Confirmation" = "Confirmation de mention J'aime pour un commentaire";
-"Dislike Comment Confirmation" = "Confirmation de désapprobation d'un commentaire";
+"Like Confirmation" = "Confirmation du j'aime";
+"Like Comment Confirmation" = "Confirmation du j'aime pour un commentaire";
+"Dislike Comment Confirmation" = "Confirmation du dislike pour un commentaire";
 "Follow Confirmation" = "Confirmation de suivi";
   
 // Autres fonctionnalités
 "Auto Clear History" = "Effacement automatique de l'historique";
-"Enable Fake Changes" = "Activer les modifications factices";
+"Enable Fake Changes" = "Activer les fausses modifications";
 "Follower" = "Abonnés";
 "Following" = "Abonnements";
 "Fake Verified" = "Fausse vérification";
 "Extended Bio" = "Biographie étendue";
 "Extended Comments" = "Commentaires étendus";
-"Upload HD" = "Télécharger en HD";
+"Upload HD" = "Publier en HD";
 "App Lock" = "Verrouillage de l'application";
 "Enable Flex" = "Activer Flex";
 "Enable Oled Keyboard" = "Activer le clavier OLED";
   
 // Descriptions des fonctionnalités
-"FEATURE_HIDE_ADS" = "Masque les publicités du flux";
-"FEATURE_DOWNLOAD_BUTTON" = "Active le bouton de téléchargement pour les publications et stories";
-"FEATURE_SHARE_SHEET" = "Ouvre le menu de partage après le téléchargement des médias";
+"FEATURE_HIDE_ADS" = "Masque les publicités du feed";
+"FEATURE_DOWNLOAD_BUTTON" = "Active le bouton de téléchargement pour les posts et stories";
+"FEATURE_SHARE_SHEET" = "Ouvre la feuille de partage après le téléchargement des médias";
 "FEATURE_REMOVE_WATERMARK" = "Supprime le filigrane (logo TikTok animé et nom d'utilisateur) des médias téléchargés";
-"FEATURE_UI_BUTTON" = "Affiche ou masque le bouton UI";
-"FEATURE_STOP_PLAYBACK" = "Arrête la lecture de la vidéo à la fin";
-"FEATURE_AUTO_PLAY" = "Active le défilement automatique des vidéos";
-"FEATURE_PROGRESS_BAR" = "Affiche une barre de durée sous chaque vidéo";
+"FEATURE_UI_BUTTON" = "Active le bouton pour Afficher/Masquer l'interface";
+"FEATURE_STOP_PLAYBACK" = "Arrête la lecture à la fin des vidéos";
+"FEATURE_AUTO_PLAY" = "Active le swipe automatique des vidéos";
+"FEATURE_PROGRESS_BAR" = "Affiche la barre d'avancement sous chaque vidéo";
 "FEATURE_TRANSPARENT_COMMENTS" = "Rend la section des commentaires transparente";
-"FEATURE_SHOW_USERNAMES" = "Remplace les pseudonymes par les tags";
-"FEATURE_DISABLE_SENSITIVE" = "Masque les avertissements de contenu inapproprié";
+"FEATURE_SHOW_USERNAMES" = "Remplace les pseudos par les @tags";
+"FEATURE_DISABLE_SENSITIVE" = "Masque les avertissements contenu inapproprié";
 "FEATURE_DISABLE_WARNINGS" = "Masque les avertissements de TikTok";
-"FEATURE_DISABLE_LIVE" = "Masque les diffusions en direct dans le flux";
+"FEATURE_DISABLE_LIVE" = "Masque les Lives dans le flux";
 "FEATURE_SKIP_RECOMMENDED" = "Supprime les recommandations d'amis, etc.";
-"FEATURE_UPLOAD_REGION" = "Affiche le drapeau de la région de téléchargement à côté du nom d'utilisateur";
-"FEATURE_HIDE_TOP_ITEMS" = "Masque le bouton de recherche, LIVE et autres (Pour Vous, Abonnements, Boutique, etc...)";
-"FEATURE_ANONYMOUS_SEEN" = "Active le blocage des accusés de réception de lecture";
+"FEATURE_UPLOAD_REGION" = "Affiche le drapeau de la région de publication à côté du nom d'utilisateur";
+"FEATURE_HIDE_TOP_ITEMS" = "Masque le bouton de recherche, LIVE et autres (Pour Toi, Abonnements, Boutique, etc...)";
+"FEATURE_ANONYMOUS_SEEN" = "Désactive les confirmations de lecture";
 "FEATURE_PROFILE_SAVE" = "Enregistre les informations de profil dans le presse-papiers";
 "FEATURE_PROFILE_COPY" = "Copie les informations du profil";
 "FEATURE_LIKE_COUNT" = "Affiche le nombre de mentions J'aime sur les messages";
 "FEATURE_UPLOAD_DATE" = "Affiche la date de publication";
-"FEATURE_CONFIRM_LIKE" = "Affiche une confirmation pour aimer une vidéo";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "Affiche une confirmation pour aimer un commentaire";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Affiche une confirmation pour désapprouver un commentaire";
-"FEATURE_CONFIRM_FOLLOW" = "Affiche une confirmation pour suivre un utilisateur";
+"FEATURE_CONFIRM_LIKE" = "Demande confirmation pour d'aimer une vidéo";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Demande confirmation pour d'aimer un commentaire";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Demande confirmation pour dislike un commentaire";
+"FEATURE_CONFIRM_FOLLOW" = "Demande confirmation pour suivre un compte";
 "FEATURE_AUTO_CLEAR" = "Efface automatiquement l'historique de recherche toutes les 60 secondes";
-"FEATURE_FAKE_CHANGES" = "Active le spoofing des données du profil";
-"FEATURE_FOLLOWER_COUNT" = "Entrez un nombre factice d'abonnés";
-"FEATURE_FOLLOWING_COUNT" = "Entrez un nombre factice d'abonnements";
-"FEATURE_FAKE_VERIFIED" = "Affiche un badge de vérification factice";
-"FEATURE_EXTENDED_BIO" = "Étend la limite de caractères de la biographie";
+"FEATURE_FAKE_CHANGES" = "Active les fausses des données du profil";
+"FEATURE_FOLLOWER_COUNT" = "Entrez un faux nombre d'abonnés";
+"FEATURE_FOLLOWING_COUNT" = "Entrez un faux nombre d'abonnements";
+"FEATURE_FAKE_VERIFIED" = "Affiche un faux badge de vérification";
+"FEATURE_EXTENDED_BIO" = "Étend la limite de caractères de la bio";
 "FEATURE_EXTENDED_COMMENTS" = "Étend la limite de caractères des commentaires";
 "FEATURE_UPLOAD_HD" = "Active les téléchargements HD";
 "FEATURE_APP_LOCK" = "Ajoute la possibilité de verrouiller TikTok avec un mot de passe";
-"FEATURE_ENABLE_FLEX" = "Réservé aux développeurs, NE PAS TOUCHER si vous ne savez pas ce que cela fait";
+"FEATURE_ENABLE_FLEX" = "Réservé aux développeurs, NE PAS TOUCHER si vous ne savez pas ce que vous faites";
 "FEATURE_OLED_KEYBOARD" = "Fonctionne uniquement avec le thème sombre";
   
 // Section développeur
@@ -143,13 +143,13 @@
 "Comment Cell Redesign" = "Refonte de la cellule de commentaire";
   
 // Descriptions des fonctionnalités des commentaires
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Désactive l'info-bulle emoji lors du maintien du bouton de commentaire";
-"FEATURE_ADD_COMMENT_POST" = "Active la possibilité de commenter comme publication";
-"FEATURE_ADD_COMMENT_STORY" = "Active la possibilité de commenter comme story";
-"FEATURE_MASS_UNFOLD" = "Déplie toutes les réponses aux commentaires en une seule fois";
-"FEATURE_AUTO_UNFOLD" = "Déplie les textes dans les longs commentaires";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Désactive la bulle d'emoji lors du maintien du bouton commentaire";
+"FEATURE_ADD_COMMENT_POST" = "Active la possibilité de commenter avec une publication";
+"FEATURE_ADD_COMMENT_STORY" = "Active la possibilité de commenter avec une story";
+"FEATURE_MASS_UNFOLD" = "Affiche toutes les réponses des commentaires en une seule fois";
+"FEATURE_AUTO_UNFOLD" = "Affiche le texte des longs commentaires";
 "FEATURE_MULTI_EMOJI" = "Active un panneau d'emoji étendu dans les commentaires";
-"FEATURE_HIDE_EMOJI" = "Masque le panneau d'emoji dans les commentaires";
+"FEATURE_HIDE_EMOJI" = "Supprime la barre d'emoji dans les commentaires";
 "FEATURE_COMMENT_REDESIGN" = "Permet de sélectionner un design pour la cellule de commentaire";
   
 // Paramètres des commentaires et du design
@@ -189,7 +189,7 @@
 "Configure Advanced Comment Settings" = "Configurer les paramètres avancés des commentaires";
   
 // Section Langue
-"Select App Language" = "Sélectionner la langue";
+"Select App Language" = "Sélectionner une langue";
   
 "Enable Region Changing" = "Activer le changement de région";
 "Live Button Action" = "Action du bouton Live";
