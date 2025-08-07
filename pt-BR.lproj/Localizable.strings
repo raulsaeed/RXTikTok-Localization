@@ -396,3 +396,78 @@
 "Failed to fetch HD video URL. Please try again." = "Falha ao obter a URL do vídeo em HD. Tente novamente.";
 
 "Enable Egypt Stickers" = "Ativar Figurinhas do Egito";
+
+
+// 1.4 
+"LOOP_STORY_VIDEOS" = "Repetir vídeos dos stories";
+"STOP_STORY_PHOTO_ADVANCE" = "Parar avanço automático de fotos nos stories";
+"FEATURE_LOOP_STORY_VIDEOS" = "Repetir vídeos nos stories quando ativado";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Parar avanço automático de fotos nos stories quando ativado";
+"BACKGROUND_PLAY" = "Ativar reprodução em segundo plano";
+"FEATURE_BACKGROUND_PLAY" = "Permitir reprodução em segundo plano";
+
+"Content & Display" = "Conteúdo e exibição";
+"Playback Controls" = "Controles de reprodução";
+"Content Filtering" = "Filtragem de conteúdo";
+"Navigation & Interaction" = "Navegação e interação";
+"Downloads & Sharing" = "Downloads e compartilhamento";
+"Profile Actions" = "Ações de perfil";
+"Video Information" = "Informações do vídeo";
+"Profile Customization" = "Personalização de perfil";
+"Profile Enhancement" = "Aprimoramento de perfil";
+"Enhanced Comments Features" = "Recursos avançados de comentários";
+"Text & Display Options" = "Opções de texto e exibição";
+"Emoji & Interface" = "Emoji e interface";
+"Content Interactions" = "Interações com conteúdo";
+"Social Actions" = "Ações sociais";
+"Tab Bar Elements" = "Elementos da barra de abas";
+"Notification Badges" = "Indicadores de notificação";
+"App Configuration" = "Configuração do aplicativo";
+"Content Enhancement" = "Aprimoramento de conteúdo";
+"System Features" = "Recursos do sistema";
+"Configuration Management" = "Gerenciamento de configuração";
+"Chat Features" = "Recursos de chat";
+"Organization & Management" = "Organização e gerenciamento";
+"Privacy & Security" = "Privacidade e segurança";
+
+"DISBALE_SCREENSHOT_DETECTION" = "Desativar detecção de captura de tela";
+"DISABLE_SCREENRECORDING_DETECTION" = "Desativar detecção de gravação de tela";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "Desativar detecção de captura de tela nos chats";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "Desativar detecção de gravação de tela nos chats";
+
+"Reset Settings" = "Redefinir configurações";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Tem certeza de que deseja redefinir todas as configurações para os valores padrão? Essa ação não pode ser desfeita.";
+"Erase All Data" = "Apagar todos os dados";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Tem certeza de que deseja apagar todos os dados do TikTok? Isso limpará todos os dados do app e não poderá ser desfeito.";
+"Erase" = "Apagar";
+"All TikTok data has been erased." = "Todos os dados do TikTok foram apagados.";
+"Settings Reset" = "Configurações redefinidas";
+"Language Changed" = "Idioma alterado";
+"Please restart the app to apply changes, May require two app restarts!" = "Reinicie o app para aplicar as alterações. Pode ser necessário reiniciar duas vezes!";
+
+"Speeds" = "Velocidades";
+"Live Actions" = "Ações ao vivo";
+"BETA!" = "BETA!";
+
+"Language" = "Idioma";
+
+"MARK_SEEN_ON_REPLY" = "Marcar como visto ao responder";
+"FEATURE_MARK_SEEN_ON_REPLY" = "Marcar mensagens como vistas ao responder";
+
+"VIEW_PROFILES_ANONYMOUS" = "Ver perfis anonimamente";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "Desativar rastreamento de visualização de perfil quando ativado";
+
+"Choose import source:" = "Escolha a fonte de importação:";
+"Import from Keychain" = "Importar do Keychain";
+"Import from File" = "Importar de arquivo";
+"No backup found" = "Nenhum backup encontrado";
+"No Backup" = "Sem backup";
+"No settings backup found in keychain." = "Nenhum backup de configurações encontrado no Keychain.";
+"Choose export destination:" = "Escolha o destino da exportação:";
+"Save to Keychain" = "Salvar no Keychain";
+"Export to File" = "Exportar para arquivo";
+"Configuration imported from keychain successfully." = "Configuração importada com sucesso do Keychain.";
+"Configuration saved to keychain successfully." = "Configuração salva com sucesso no Keychain.";
+
+"Disable TikTok Rewards ADs" = "Desativar anúncios de recompensas do TikTok";
+"FEATURE_DISABLE_REWARDS_ADS" = "Ocultar anúncios de recompensas do TikTok do feed";
