@@ -100,7 +100,6 @@
 "Following" = "关注";
 "Fake Verified" = "虚拟认证标识";
 "Enable Fake Changes" = "启用数据自定义";
-"Extended Bio" = "解除简介字数限制";
 "Extended Comments" = "解除评论字数限制";
 "Upload HD" = "上传高清视频";
 "App Lock" = "应用锁";
@@ -227,7 +226,6 @@
 "FEATURE_HIDE_PLUS_BTN" = "隐藏发布按钮";
 "FEATURE_HIDE_FRIENDS_BADGE" = "隐藏好友提醒";
 "FEATURE_HIDE_INBOX_BADGE" = "隐藏消息提醒";
-"FEATURE_EXTENDED_BIO" = "解除简介字数限制";
 "FEATURE_EXTENDED_COMMENTS" = "解除评论字数限制";
 "FEATURE_UPLOAD_HD" = "上传高清视频";
 "FEATURE_APP_LOCK" = "应用锁定功能";
@@ -396,3 +394,86 @@
 "Really Clear All Data?" = "确定要清除所有数据吗？";
 "Confirm Clear" = "确认清除";
 "Data Cleared" = "数据已清除";
+
+// 1.4 新增功能
+"LOOP_STORY_VIDEOS" = "循环播放动态视频";
+"STOP_STORY_PHOTO_ADVANCE" = "动态照片自动前进";
+"FEATURE_LOOP_STORY_VIDEOS" = "启用时循环播放动态中的视频";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "启用时停止动态照片自动前进";
+"BACKGROUND_PLAY" = "启用后台播放";
+"FEATURE_BACKGROUND_PLAY" = "启用后台播放";
+
+// MARK: - 新设置分组标题
+"Content & Display" = "内容与显示";
+"Playback Controls" = "播放控制";
+"Content Filtering" = "内容过滤";
+"Navigation & Interaction" = "导航与交互";
+"Downloads & Sharing" = "下载与分享";
+"Profile Actions" = "个人资料操作";
+"Video Information" = "视频信息";
+"Profile Customization" = "个人资料自定义";
+"Profile Enhancement" = "个人资料增强";
+"Enhanced Comments Features" = "增强评论功能";
+"Text & Display Options" = "文本与显示选项";
+"Emoji & Interface" = "表情与界面";
+"Content Interactions" = "内容交互";
+"Social Actions" = "社交操作";
+"Tab Bar Elements" = "底栏元素";
+"Notification Badges" = "通知徽章";
+"App Configuration" = "应用配置";
+"Content Enhancement" = "内容增强";
+"System Features" = "系统功能";
+"Configuration Management" = "配置管理";
+"Chat Features" = "聊天功能";
+"Organization & Management" = "组织与管理";
+"Privacy & Security" = "隐私与安全";
+
+// MARK: - 缺失的聊天设置字符串
+"DISBALE_SCREENSHOT_DETECTION" = "禁用截图检测";
+"DISABLE_SCREENRECORDING_DETECTION" = "禁用录屏检测";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "禁用聊天中的截图检测";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "禁用聊天中的录屏检测";
+
+// MARK: - 缺失的警告和UI字符串
+"Reset Settings" = "重置设置";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "确定要将所有设置重置为默认值吗？此操作无法撤销。";
+"Erase All Data" = "清除所有数据";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "确定要清除所有 TikTok 数据吗？这将清除所有应用数据且无法撤销。";
+"Erase" = "清除";
+"All TikTok data has been erased." = "所有 TikTok 数据已清除。";
+"Settings Reset" = "设置已重置";
+"Language Changed" = "语言已更改";
+"Please restart the app to apply changes, May require two app restarts!" = "请重启应用以应用更改，可能需要重启两次！";
+
+// MARK: - 缺失的导航和菜单字符串
+"Speeds" = "速度";
+"Live Actions" = "直播操作";
+"RXTikTok Settings" = "RXTikTok 设置";
+
+"BETA!" = "测试版！";
+
+// MARK: - 菜单管理器字符串
+"Language" = "语言";
+
+"MARK_SEEN_ON_REPLY" = "回复时标记已读";
+"FEATURE_MARK_SEEN_ON_REPLY" = "回复时自动标记消息为已读";
+
+"VIEW_PROFILES_ANONYMOUS" = "匿名查看个人资料";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "启用时禁用个人资料查看跟踪";
+
+// MARK: - 导入/导出配置字符串
+"Choose import source:" = "选择导入来源：";
+"Import from Keychain" = "从钥匙串导入";
+"Import from File" = "从文件导入";
+"No backup found" = "未找到备份";
+"No Backup" = "无备份";
+"No settings backup found in keychain." = "钥匙串中未找到设置备份。";
+"Choose export destination:" = "选择导出目标：";
+"Save to Keychain" = "保存到钥匙串";
+"Export to File" = "导出到文件";
+"Configuration imported from keychain successfully." = "从钥匙串导入配置成功。";
+"Configuration saved to keychain successfully." = "配置保存到钥匙串成功。";
+
+// MARK: - 奖励广告功能
+"Disable TikTok Rewards ADs" = "禁用 TikTok 奖励广告";
+"FEATURE_DISABLE_REWARDS_ADS" = "隐藏信息流中的 TikTok 奖励广告";
