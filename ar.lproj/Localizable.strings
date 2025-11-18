@@ -410,7 +410,7 @@
 // MARK: - New Section Headers (Added from Settings reorganization)
 "Content & Display" = "المحتوى والعرض";
 "Playback Controls" = "ضوابط التشغيل";
-"Content Filtering" = "ترشيح المحتوى";
+"Content Filtering" = "فلترة المحتوى";
 "Navigation & Interaction" = "التنقل والتفاعل";
 "Downloads & Sharing" = "التنزيلات والمشاركة";
 "Profile Actions" = "إجراءات الملف الشخصي";
@@ -424,7 +424,7 @@
 "Social Actions" = "الإجراءات الاجتماعية";
 "Tab Bar Elements" = "عناصر شريط التبويبات";
 "Notification Badges" = "شارات الإشعارات";
-"App Configuration" = "تكوين التطبيق";
+"App Configuration" = "إعدادات التطبيق";
 "Content Enhancement" = "تعزيز المحتوى";
 "System Features" = "الميزات النظامية";
 "Configuration Management" = "إدارة التكوينات";
@@ -461,8 +461,8 @@
 "MARK_SEEN_ON_REPLY" = "تحديد كمقروء عند الرد";
 "FEATURE_MARK_SEEN_ON_REPLY" = "تحديد الرسائل كمقروءة عند الرد";
 
-"VIEW_PROFILES_ANONYMOUS" = "عرض الملفات الشخصية بشكل مجهول";
-"FEATURE_VIEW_PROFILES_ANONYMOUS" = "تعطيل تتبع عرض الملفات الشخصية";
+"VIEW_PROFILES_ANONYMOUS" = "مشاهدة الملفات الشخصية بشكل خفي";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "منع الآخرين من معرفة أنك شاهدت ملفهم الشخصي";
 
 // MARK: - Import/Export Configuration Strings
 "Choose import source:" = "اختر مصدر الاستيراد:";
@@ -479,33 +479,33 @@
 
 // MARK: - Rewards Ads Feature
 "Disable TikTok Rewards ADs" = "تعطيل إعلانات مكافآت تيك توك";
-"FEATURE_DISABLE_REWARDS_ADS" = "إخفاء إعلانات المكافآت من تيك توك في التغذية";
+"FEATURE_DISABLE_REWARDS_ADS" = "إخفاء إعلانات المكافآت من تيك توك في لقائمة الرئيسية";
 
 // 1.5
 "OTHER_OPTIONS" = "خيارات أخرى";
 "Processing..." = "جاري المعالجة...";
 "FEATURE_HIDE_ACTIVITY_STATUS" = "إخفاء حالتك 'آخر ظهور' و'متصل' في الدردشات";
 "HIDE_ACTIVITY_STATUS" = "إخفاء حالة النشاط";
-"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "تعطيل زر 'البحث البصري' في التغذية عند إيقاف الفيديو";
-"DISABLE_VISUAL_SEARCH_TAG" = "تعطيل وسم البحث البصري";
+"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "تعطيل زر 'البحث المرئي' في القائمة الرئيسية عند إيقاف الفيديو";
+"DISABLE_VISUAL_SEARCH_TAG" = "تعطيل علامة البحث المرئي";
 "FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "تمكين البحث في قائمة المتابعين حتى لو كان لدى المستخدم أكثر من 5 آلاف متابع";
 "BYPASS_FOLLOW_LIST_SEARCH" = "تجاوز حد البحث في قائمة المتابعين";
 "FEATURE_STORY_LIKE_CONFIRMATION" = "طلب تأكيد قبل الإعجاب بالقصة";
 "STORY_LIKE_CONFIRMATION" = "تأكيد الإعجاب بالقصة";
 "FEATURE_ALWAYS_OPEN_SAFARI" = "فتح الروابط دائمًا في سفاري بدلاً من المتصفح داخل التطبيق";
 "ALWAYS_OPEN_SAFARI" = "فتح دائمًا في سفاري";
-"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "إزالة زر الذكاء الاصطناعي (تاكو) من صفحة FYP";
+"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "إزالة زر الذكاء الاصطناعي (tako) من صفحة لك";
 "REMOVE_TIKTOK_AI_BUTTON" = "إزالة زر تيك توك AI";
 "WARNING" = "تحذير";
 "DISABLE_ACTIVITY_STATUS_WARNING" = "تعطيل أو تمكين حالة النشاط المجهولة يستغرق بعض الوقت ليظهر على خوادم تيك توك. قد تظل تظهر كمتصل لبعض الوقت بعد تمكين هذه الميزة.";
 "BLOCK_SHOP_VIDOES" = "حظر فيديوهات المتجر";
-"BLOCK_SHOP_VIDOES_FEATURE" = "إزالة فيديوهات المتجر من التغذية.";
-"PAD_AUTO_SCROLL" = "التنزيل التلقائي الافتراضي";
+"BLOCK_SHOP_VIDOES_FEATURE" = "إزالة فيديوهات المتجر من لقائمة الرئيسية.";
+"PAD_AUTO_SCROLL" = "التمرير التلقائي الافتراضي";
 "FEATURE_PAD_AUTO_SCROLL" = "تمكين التمرير التلقائي للمنشورات في تيك توك للمناطق غير المدعومة";
-"SAVE_DM_MEDIA" = "حفظ الوسائط في الرسائل المباشرة";
-"FEATURE_SAVE_DM_MEDIA" = "إضافة زر تنزيل للوسائط المرسلة في الرسائل المباشرة";
-"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "تعطيل النقر المزدوج للإعجاب في التغذية";
-"DISABLE_FEED_DOUBLE_TAP" = "تعطيل النقر المزدوج للإعجاب في التغذية";
+"SAVE_DM_MEDIA" = "حفظ الوسائط في الرسائل الخاصة";
+"FEATURE_SAVE_DM_MEDIA" = "إضافة زر تنزيل للوسائط المرسلة في الرسائل الخاصة";
+"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "تعطيل النقر المزدوج للإعجاب في لقائمة الرئيسية";
+"DISABLE_FEED_DOUBLE_TAP" = "تعطيل النقر المزدوج في لقائمة الرئيسية";
 "FEATURE_DISABLE_STORY_DOUBLE_TAP" = "تعطيل النقر المزدوج للإعجاب في القصص";
-"DISABLE_STORY_DOUBLE_TAP" = "تعطيل النقر المزدوج للإعجاب في القصص";
+"DISABLE_STORY_DOUBLE_TAP" = "تعطيل النقر المزدوج في القصص";
 
