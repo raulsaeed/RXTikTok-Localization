@@ -494,7 +494,7 @@
 "STORY_LIKE_CONFIRMATION" = "تأكيد الإعجاب بالقصة";
 "FEATURE_ALWAYS_OPEN_SAFARI" = "فتح الروابط دائمًا في سفاري بدلاً من المتصفح داخل التطبيق";
 "ALWAYS_OPEN_SAFARI" = "فتح دائمًا في سفاري";
-"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "إزالة زر الذكاء الاصطناعي (tako) من صفحة لك";
+"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "إزالة زر الذكاء الاصطناعي (tako) "من صفحة "لك";
 "REMOVE_TIKTOK_AI_BUTTON" = "إزالة زر تيك توك AI";
 "WARNING" = "تحذير";
 "DISABLE_ACTIVITY_STATUS_WARNING" = "تعطيل أو تمكين حالة النشاط المجهولة يستغرق بعض الوقت ليظهر على خوادم تيك توك. قد تظل تظهر كمتصل لبعض الوقت بعد تمكين هذه الميزة.";
