@@ -466,13 +466,13 @@
 
 // MARK: - Import/Export Configuration Strings
 "Choose import source:" = "اختر مصدر الاستيراد:";
-"Import from Keychain" = "استيراد من مدير كلمات المرور";
+"Import from Keychain" = "استيراد من Keychain";
 "Import from File" = "استيراد من ملف";
 "No backup found" = "لم يتم العثور على نسخة احتياطية";
 "No Backup" = "لا توجد نسخة احتياطية";
-"No settings backup found in keychain." = "لم يتم العثور على نسخة احتياطية للإعدادات في مدير كلمات المرور.";
+"No settings backup found in keychain." = "لم يتم العثور على نسخة احتياطية للإعدادات في Keychain.";
 "Choose export destination:" = "اختر وجهة التصدير:";
-"Save to Keychain" = "الحفظ في مدير كلمات المرور";
+"Save to Keychain" = "الحفظ في Keychain";
 "Export to File" = "تصدير إلى ملف";
 "Configuration imported from keychain successfully." = "تم استيراد الإعدادات من مدير كلمات السر بنجاح.";
 "Configuration saved to keychain successfully." = "تم حفظ الإعدادات في مدير كلمات السر بنجاح.";
