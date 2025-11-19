@@ -471,3 +471,31 @@
 
 "Disable TikTok Rewards ADs" = "Desativar anúncios de recompensas do TikTok";
 "FEATURE_DISABLE_REWARDS_ADS" = "Ocultar anúncios de recompensas do TikTok do feed";
+
+// 1.5
+"OTHER_OPTIONS" = "Outras opções";
+"Processing..." = "Processando...";
+"FEATURE_HIDE_ACTIVITY_STATUS" = "Oculta seu status de 'Última vez ativo' e 'Online' nos chats";
+"HIDE_ACTIVITY_STATUS" = "Ocultar status de atividade";
+"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "Desativa o botão 'Busca visual' no feed ao pausar um vídeo";
+"DISABLE_VISUAL_SEARCH_TAG" = "Desativar Busca visual";
+"FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "Permite pesquisar na lista de seguidores mesmo quando o usuário tem mais de 5 mil seguidores";
+"BYPASS_FOLLOW_LIST_SEARCH" = "Ignorar limite de pesquisa da lista de seguidores";
+"FEATURE_STORY_LIKE_CONFIRMATION" = "Pede confirmação antes de curtir um story";
+"STORY_LIKE_CONFIRMATION" = "Confirmação de curtida em story";
+"FEATURE_ALWAYS_OPEN_SAFARI" = "Sempre abre links no Safari em vez do navegador interno";
+"ALWAYS_OPEN_SAFARI" = "Sempre abrir no Safari";
+"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "Remove o botão TikTok AI (tako) da For You";
+"REMOVE_TIKTOK_AI_BUTTON" = "Remover botão TikTok AI";
+"WARNING" = "AVISO";
+"DISABLE_ACTIVITY_STATUS_WARNING" = "Ativar ou desativar o status de atividade anônima pode levar um tempo para refletir nos servidores do TikTok. Você pode continuar aparecendo online por alguns minutos.";
+"BLOCK_SHOP_VIDOES" = "Bloquear vídeos da Loja";
+"BLOCK_SHOP_VIDOES_FEATURE" = "Remove vídeos da Loja do feed.";
+"PAD_AUTO_SCROLL" = "Rolagem automática padrão";
+"FEATURE_PAD_AUTO_SCROLL" = "Ativa a rolagem automática nativa do TikTok";
+"SAVE_DM_MEDIA" = "Salvar mídia do DM";
+"FEATURE_SAVE_DM_MEDIA" = "Adiciona um botão de download para mídias enviadas nas DMs";
+"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "Desativa o toque duplo para curtir no feed";
+"DISABLE_FEED_DOUBLE_TAP" = "Desativar toque duplo no feed";
+"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Desativa o toque duplo para curtir nos stories";
+"DISABLE_STORY_DOUBLE_TAP" = "Desativar toque duplo nos stories";
