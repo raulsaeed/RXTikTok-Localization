@@ -86,7 +86,6 @@
 "Skip Recommendations" = "关闭相关推荐";
 "Upload Region" = "显示视频来源地";
 "Hide Top Feed items" = "隐藏顶部功能区";
-"Anonymous Seen" = "关闭已读提示";
 "Hide Play/Pause Button" = "隐藏播放/暂停按钮";
 
 // MARK: - Profile Settings
@@ -182,8 +181,6 @@
 "Please enable region changing first" = "请先开启地区切换";
 
 // MARK: - Feature Descriptions
-"FEATURE_ENABLE_COMMENT_FLAGS" = "在评论中显示评论者的地区";
-"FEATURE_COPY_WITHOUT_USERNAME" = "复制评论时不包含用户名";
 "FEATURE_HIDE_ADS" = "隐藏信息流中的广告";
 "FEATURE_DOWNLOAD_BUTTON" = "为视频和动态添加下载按钮";
 "FEATURE_SHARE_SHEET" = "下载后自动打开分享菜单";
@@ -241,14 +238,12 @@
 "FEATURE_BYPASS_MEDIA_LIMIT" = "解除私信文件限制";
 "FEATURE_DISABLE_AI_REPLIES" = "关闭AI智能回复";
 "FEATURE_SMALL_EMOJI" = "使用迷你表情";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "显示视频上传时间";
 "FEATURE_HIDE_COMMISSION_POSTS" = "隐藏带货视频";
 
 // Comment Settings Descriptions
 "ENABLE_COMMENT_PHOTO" = "允许评论带图片";
 "ENABLE_COMMENT_STICKERS" = "允许评论带贴纸";
 "FEATURE_DISABLE_COMMENT_TOOLTIP" = "关闭评论提示";
-"FEATURE_ADD_TRANSLATION" = "添加评论翻译按钮";
 "FEATURE_ADD_COMMENT_POST" = "允许将评论发布为视频";
 "FEATURE_ADD_COMMENT_STORY" = "允许将评论发布为动态";
 "FEATURE_MASS_UNFOLD" = "一键展开所有回复";
@@ -261,7 +256,7 @@
 
 // MARK: - Error Messages
 "Could Not Copy Music" = "无法复制音乐";
-"The video doesn't have music to download" = "该视频没有可下载的音乐";
+"the video doesn't have music to download" = "该视频没有可下载的音乐";
 
 // MARK: - Developer
 "DEVELOPER_TELEGRAM" = "加入 Telegram 频道获取最新更新";
@@ -270,7 +265,6 @@
 // MARK: - Missing Strings
 "Features list" = "功能列表";
 "Not Selected" = "未选择";
-"Creator Profile Pull" = "下拉查看创作者主页";
 "OK" = "确定";
 "Disable Left & Right Swipe" = "禁用左右滑动";
 "Pull To Camera" = "下拉打开相机";
@@ -294,6 +288,7 @@
 "Search" = "搜索";
 "Apply" = "应用";
 "Reset" = "重置";
+"Saved!" = "已保存！";
 "Video saved successfully" = "视频保存成功";
 "Photo saved successfully" = "图片保存成功";
 "Failed to save media" = "媒体保存失败";
@@ -312,7 +307,6 @@
 "Disable" = "禁用";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_CREATOR_PROFILE_PULL" = "下拉查看创作者主页";
 "FEATURE_DISABLE_SWIPE" = "禁用首页中的左右滑动";
 "FEATURE_PULL_TO_CAMERA" = "启用下拉打开相机功能";
 "FEATURE_ADD_FOLDERS" = "为收件箱消息添加文件夹分类";
@@ -361,11 +355,17 @@
 
 "Select App Language" = "选择应用语言";
 
-// 1.3 修正
+
+// 1.3 
 "Erase All TikTok Data" = "清除所有 TikTok 数据";
 "Erase all TikTok data from the app  [Becareful!!!]" = "清除应用中的所有 TikTok 数据 [请谨慎操作!!!]";
+"Clear Keychain" = "清除钥匙串";
 "Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "确定要清除所有数据吗？这将删除：\n1- TikTok 的数据目录\n2- 所有钥匙串\n3- 清除所有 NSUserDefaults\n\n注意！\n您将失去所有草稿和本地保存的内容。";
+"Clear" = "清除";
+"Really Clear All Data?" = "确定要清除所有数据吗？";
 "This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "这是最后的警告。此操作不可逆，将删除所有本地 TikTok 数据，包括草稿和设置。您确定要继续吗？";
+"Confirm Clear" = "确认清除";
+"Data Cleared" = "数据已清除";
 "All TikTok data has been cleared." = "所有 TikTok 数据已清除。";
 
 "Streak Info" = "连续签到信息";
@@ -387,15 +387,8 @@
 
 "Enable Egypt Stickers" = "启用埃及贴纸";
 
-"Saved!" = "已保存！";
 
-"Clear Keychain" = "清除钥匙串";
-"Clear" = "清除";
-"Really Clear All Data?" = "确定要清除所有数据吗？";
-"Confirm Clear" = "确认清除";
-"Data Cleared" = "数据已清除";
-
-// 1.4 新增功能
+// 1.4
 "LOOP_STORY_VIDEOS" = "循环播放动态视频";
 "STOP_STORY_PHOTO_ADVANCE" = "动态照片自动前进";
 "FEATURE_LOOP_STORY_VIDEOS" = "启用时循环播放动态中的视频";
@@ -403,7 +396,7 @@
 "BACKGROUND_PLAY" = "启用后台播放";
 "FEATURE_BACKGROUND_PLAY" = "启用后台播放";
 
-// MARK: - 新设置分组标题
+// MARK: - New Section Headers (Added from Settings reorganization)
 "Content & Display" = "内容与显示";
 "Playback Controls" = "播放控制";
 "Content Filtering" = "内容过滤";
@@ -428,13 +421,13 @@
 "Organization & Management" = "组织与管理";
 "Privacy & Security" = "隐私与安全";
 
-// MARK: - 缺失的聊天设置字符串
-"DISBALE_SCREENSHOT_DETECTION" = "禁用截图检测";
+// MARK: - Missing Chat Settings Strings
+"DISABLE_SCREENSHOT_DETECTION" = "禁用截图检测";
 "DISABLE_SCREENRECORDING_DETECTION" = "禁用录屏检测";
 "FEATURE_DISABLE_SCREENSHOT_DETECTION" = "禁用聊天中的截图检测";
 "FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "禁用聊天中的录屏检测";
 
-// MARK: - 缺失的警告和UI字符串
+// MARK: - Missing Alert and UI Strings
 "Reset Settings" = "重置设置";
 "Are you sure you want to reset all settings to default values? This action cannot be undone." = "确定要将所有设置重置为默认值吗？此操作无法撤销。";
 "Erase All Data" = "清除所有数据";
@@ -445,14 +438,12 @@
 "Language Changed" = "语言已更改";
 "Please restart the app to apply changes, May require two app restarts!" = "请重启应用以应用更改，可能需要重启两次！";
 
-// MARK: - 缺失的导航和菜单字符串
+// MARK: - Missing Navigation and Menu Strings
 "Speeds" = "速度";
-"Live Actions" = "直播操作";
-"RXTikTok Settings" = "RXTikTok 设置";
 
 "BETA!" = "测试版！";
 
-// MARK: - 菜单管理器字符串
+// MARK: - Menu Manager Strings
 "Language" = "语言";
 
 "MARK_SEEN_ON_REPLY" = "回复时标记已读";
@@ -461,7 +452,7 @@
 "VIEW_PROFILES_ANONYMOUS" = "匿名查看个人资料";
 "FEATURE_VIEW_PROFILES_ANONYMOUS" = "启用时禁用个人资料查看跟踪";
 
-// MARK: - 导入/导出配置字符串
+// MARK: - Import/Export Configuration Strings
 "Choose import source:" = "选择导入来源：";
 "Import from Keychain" = "从钥匙串导入";
 "Import from File" = "从文件导入";
@@ -474,6 +465,34 @@
 "Configuration imported from keychain successfully." = "从钥匙串导入配置成功。";
 "Configuration saved to keychain successfully." = "配置保存到钥匙串成功。";
 
-// MARK: - 奖励广告功能
+// MARK: - Rewards Ads Feature
 "Disable TikTok Rewards ADs" = "禁用 TikTok 奖励广告";
 "FEATURE_DISABLE_REWARDS_ADS" = "隐藏信息流中的 TikTok 奖励广告";
+
+// 1.5
+"OTHER_OPTIONS" = "其他选项";
+"Processing..." = "处理中...";
+"FEATURE_HIDE_ACTIVITY_STATUS" = "隐藏你的“上次在线”和“在线”状态";
+"HIDE_ACTIVITY_STATUS" = "隐藏在线状态";
+"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "暂停视频时禁用“视觉搜索”按钮";
+"DISABLE_VISUAL_SEARCH_TAG" = "禁用视觉搜索标签";
+"FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "即使关注数超过 5000 也可搜索关注列表";
+"BYPASS_FOLLOW_LIST_SEARCH" = "解除关注列表搜索限制";
+"FEATURE_STORY_LIKE_CONFIRMATION" = "点赞动态前需要确认";
+"STORY_LIKE_CONFIRMATION" = "动态点赞确认";
+"FEATURE_ALWAYS_OPEN_SAFARI" = "始终使用 Safari 打开链接";
+"ALWAYS_OPEN_SAFARI" = "始终使用 Safari";
+"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "从首页移除 TikTok AI（Tako）按钮";
+"REMOVE_TIKTOK_AI_BUTTON" = "移除 TikTok AI 按钮";
+"WARNING" = "警告";
+"DISABLE_ACTIVITY_STATUS_WARNING" = "开启或关闭匿名在线状态需要时间同步到 TikTok 服务器，启用后仍可能短暂显示在线。";
+"BLOCK_SHOP_VIDOES" = "屏蔽商城视频";
+"BLOCK_SHOP_VIDOES_FEATURE" = "从首页移除商城视频";
+"PAD_AUTO_SCROLL" = "默认自动滚动";
+"FEATURE_PAD_AUTO_SCROLL" = "在不支持的地区启用 TikTok 原生自动滚动";
+"SAVE_DM_MEDIA" = "保存私信媒体";
+"FEATURE_SAVE_DM_MEDIA" = "为私信中的媒体添加下载按钮";
+"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "禁用首页双击点赞";
+"DISABLE_FEED_DOUBLE_TAP" = "禁用首页双击点赞";
+"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "禁用动态双击点赞";
+"DISABLE_STORY_DOUBLE_TAP" = "禁用动态双击点赞";
