@@ -1,0 +1,477 @@
+/* Localizable.strings */
+
+// MARK: - Core UI Elements
+"RXTikTok, Hi" = "RXTikTok, 안녕하세요";
+"RXTikTok Settings" = "RXTikTok 설정";
+"Welcome" = "환영합니다";
+"Tap to Join the Telegram" = "텔레그램 참여하기";
+
+// MARK: - Global Actions
+"Yes" = "예";
+"No" = "아니오";
+"ON" = "켜기";
+"OFF" = "끄기";
+"Cancel" = "취소";
+"Confirm" = "확인";
+"Actions" = "동작";
+"Default" = "기본값";
+"Modern" = "모던";
+"Compact" = "컴팩트";
+"Backgrounding ✌️" = "백그라운드 실행 ✌️";
+"Are you sure?" = "정말로 하시겠습니까?";
+
+// MARK: - Navigation
+"Feed" = "피드";
+"Profile" = "프로필";
+"Other" = "기타";
+"Region" = "지역";
+"Developer" = "개발자";
+"Design Options" = "디자인 옵션";
+"Other Settings" = "기타 설정";
+"Auto Clear History" = "자동 기록 삭제";
+"Enable Embeded Links" = "임베드 링크 활성화";
+"Language 🌎" = "언어 🌎";
+"Show All Settings Tabs" = "모든 설정 탭 표시";
+"Show Video Upload Timestamp" = "동영상 업로드 시간 표시";
+"Remove Pendant View" = "펜던트 뷰 제거";
+"Hide Commission Posts" = "수수료 게시물 숨기기";
+"Hide dangerous-action Warning" = "위험한 동작 경고 숨기기";
+
+// MARK: - Download Features
+"Downloads Menu" = "다운로드 메뉴";
+"Download Video" = "동영상 다운로드";
+"Download HD Video" = "HD 동영상 다운로드";
+"Download Music" = "음악 다운로드";
+"Download Photo" = "사진 다운로드";
+"Download All Photos" = "모든 사진 다운로드";
+"Download Photos Menu" = "사진 다운로드 메뉴";
+"Downloading" = "다운로드 중";
+"Download Button" = "다운로드 버튼";
+
+// MARK: - Copy Features
+"Copy Menu" = "복사 메뉴";
+"Copy Music Link" = "음악 링크 복사";
+"Copy Description" = "설명 복사";
+"Post Info" = "게시물 정보";
+"Copy Video link" = "동영상 링크 복사";
+"Copy bio" = "소개 복사";
+"Music Link Copied" = "음악 링크가 복사되었습니다";
+"Video Link Copied" = "동영상 링크가 복사되었습니다";
+"Description Link Copied" = "설명 링크가 복사되었습니다";
+"Stats Menu" = "통계 메뉴";
+"Video Info" = "동영상 정보";
+
+// MARK: - Confirm Settings
+"Confirm Settings" = "확인 설정";
+"Confirmation Settings" = "확인 설정";
+"Like Confirmation" = "좋아요 확인";
+"Like Comment Confirmation" = "댓글 좋아요 확인";
+"Dislike Comment Confirmation" = "댓글 싫어요 확인";
+"Follow Confirmation" = "팔로우 확인";
+
+// MARK: - Feed Settings
+"Feed Settings" = "피드 설정";
+"Hide Ads" = "광고 숨기기";
+"Share Sheet" = "공유 시트";
+"Remove Watermark" = "워터마크 제거";
+"Show/Hide UI Button" = "UI 버튼 표시/숨기기";
+"Stop Playback" = "재생 중지";
+"Auto Play Next Video" = "다음 동영상 자동 재생";
+"Show Progress Bar" = "진행 막대 표시";
+"Transparent Comments" = "투명 댓글";
+"Show Usernames" = "사용자명 표시";
+"Disable Sensitive Content" = "민감한 콘텐츠 비활성화";
+"Disable Warnings" = "경고 비활성화";
+"Disable Live Streaming" = "라이브 스트리밍 비활성화";
+"Skip Recommendations" = "추천 건너뛰기";
+"Upload Region" = "업로드 지역";
+"Hide Top Feed items" = "상단 피드 항목 숨기기";
+"Anonymous Seen" = "익명 보기";
+"Hide Play/Pause Button" = "재생/일시정지 버튼 숨기기";
+
+// MARK: - Profile Settings
+"Profile Settings" = "프로필 설정";
+"Profile Save" = "프로필 저장";
+"Profile Copy" = "프로필 복사";
+"Video Like Count" = "동영상 좋아요 수";
+"Video Upload Date" = "동영상 업로드 날짜";
+"User Post Count" = "사용자 게시물 수";
+"Follower" = "팔로워";
+"Following" = "팔로잉";
+"Fake Verified" = "가짜 인증";
+"Enable Fake Changes" = "가짜 변경 활성화";
+"Extended Comments" = "확장 댓글";
+"Upload HD" = "HD 업로드";
+"App Lock" = "앱 잠금";
+"Enable Flex" = "Flex 활성화";
+"Enable Oled Keyboard" = "OLED 키보드 활성화";
+"Post Stats" = "게시물 통계";
+"Enable Text To Reposts" = "리포스트에 텍스트 추가 활성화";
+"Disable Survey Popups" = "설문 팝업 비활성화";
+
+// MARK: - Comment Settings
+"Comment Settings" = "댓글 설정";
+"Comment Design" = "댓글 디자인";
+"Select Design" = "디자인 선택";
+"Disable Comment Tooltip" = "댓글 툴팁 비활성화";
+"Add Comment as Post" = "댓글을 게시물로 추가";
+"Add Comment as Story" = "댓글을 스토리로 추가";
+"Mass Unfold Comment Replies" = "댓글 답글 일괄 펼치기";
+"Auto Unfold Comment Texts" = "댓글 텍스트 자동 펼치기";
+"Multi Emoji Comment Bar" = "다중 이모지 댓글 바";
+"Hide Emoji-Bar" = "이모지 바 숨기기";
+"Add Translation Button" = "번역 버튼 추가";
+"Comment Cell Redesign" = "댓글 셀 재디자인";
+"Enable Comment Photos" = "댓글 사진 활성화";
+"Enable Comment Stickers" = "댓글 스티커 활성화";
+"Enable Comment Flags" = "댓글 플래그 활성화";
+"Enable Copy Without Username" = "사용자명 없이 복사 활성화";
+"Configure Advanced Comment Settings" = "고급 댓글 설정 구성";
+
+// MARK: - Tab Bar Settings
+"Tab Bar Settings" = "탭 바 설정";
+"Tab Bar Configurations" = "탭 바 구성";
+"Hide Plus Button" = "플러스 버튼 숨기기";
+"Hide Friends Badge" = "친구 배지 숨기기";
+"Hide Inbox Badge" = "받은 편지함 배지 숨기기";
+"Changes will take effect after restarting the app" = "변경사항은 앱을 재시작한 후 적용됩니다";
+
+// MARK: - Live Button Settings
+"Live Button Settings" = "라이브 버튼 설정";
+"Live Button Function" = "라이브 버튼 기능";
+"Live Button Actions" = "라이브 버튼 동작";
+"Live Actions" = "라이브 동작";
+"Playback Speed" = "재생 속도";
+"Select Action" = "동작 선택";
+"Change the behavior of the Live button" = "라이브 버튼의 동작 변경";
+"Selected Action" = "선택된 동작";
+"Live Button Function Disabled" = "라이브 버튼 기능 비활성화됨";
+"Please enable Live Button Function first" = "먼저 라이브 버튼 기능을 활성화해주세요";
+"Change Action of Live Button" = "라이브 버튼 동작 변경";
+"Enable Live Button Function" = "라이브 버튼 기능 활성화";
+
+// MARK: - Chat Settings
+"Chat Settings" = "채팅 설정";
+"Enable Voice Messages" = "음성 메시지 활성화";
+"Enable Streaks" = "연속 기록 활성화";
+"Hide Streak Pet" = "연속 기록 펫 숨기기";
+"Disable Typing Indicator" = "입력 표시기 비활성화";
+"Enable Pin Chat" = "채팅 고정 활성화";
+"Bypass Media Limit" = "미디어 제한 우회";
+"Disable AI-Generated Replies" = "AI 생성 답장 비활성화";
+"Enable Small Emoji" = "작은 이모지 활성화";
+"Anonymous Seen" = "익명 보기";
+
+// MARK: - Playback Speed
+"Enable Playback Speed" = "재생 속도 활성화";
+"Selected Speed" = "선택된 속도";
+"Playback Speed Settings" = "재생 속도 설정";
+"Enable Persistent Playback Speed." = "지속적인 재생 속도 활성화";
+"Select Speed" = "속도 선택";
+"Control video playback speed" = "동영상 재생 속도 제어";
+"Playback Speed Disabled" = "재생 속도 비활성화됨";
+"Please enable Playback Speed first" = "먼저 재생 속도를 활성화해주세요";
+
+// MARK: - Region Settings
+"Region Settings" = "지역 설정";
+"Enable region changing to access content from different regions" = "다른 지역의 콘텐츠에 접근하기 위해 지역 변경 활성화";
+"Enable Region Changing" = "지역 변경 활성화";
+"Enable Region Changing Functionality" = "지역 변경 기능 활성화";
+"Selected Region" = "선택된 지역";
+"Region Changing Disabled" = "지역 변경 비활성화됨";
+"Please enable region changing first" = "먼저 지역 변경을 활성화해주세요";
+
+// MARK: - Feature Descriptions
+"FEATURE_ENABLE_COMMENT_FLAGS" = "댓글 작성자의 지역 플래그 표시";
+"FEATURE_COPY_WITHOUT_USERNAME" = "사용자명 없이 댓글 복사";
+"FEATURE_HIDE_ADS" = "피드에서 광고 숨기기";
+"FEATURE_DOWNLOAD_BUTTON" = "게시물과 스토리에 다운로드 버튼 활성화";
+"FEATURE_SHARE_SHEET" = "미디어 다운로드 후 공유 시트 열기";
+"FEATURE_REMOVE_WATERMARK" = "다운로드된 미디어에서 워터마크 제거 (애니메이션 TikTok 로고 및 사용자명)";
+"FEATURE_UI_BUTTON" = "UI 버튼 표시 또는 숨기기";
+"FEATURE_STOP_PLAYBACK" = "동영상 재생이 끝나면 중지";
+"FEATURE_AUTO_PLAY" = "자동 동영상 스크롤 활성화";
+"FEATURE_PROGRESS_BAR" = "각 동영상 아래에 지속 시간 막대 표시";
+"FEATURE_TRANSPARENT_COMMENTS" = "댓글 섹션을 투명하게 만들기";
+"FEATURE_DISABLE_SURVEY" = "피드에서 성가신 설문 질문 비활성화";
+"FEATURE_HIDE_PLAY_PAUSE" = "피드에서 재생/일시정지 뷰 숨기기";
+"FEATURE_SHOW_USERNAMES" = "닉네임을 태그로 대체";
+"FEATURE_DISABLE_SENSITIVE" = "부적절한 콘텐츠 경고 숨기기";
+"FEATURE_ADD_TRANSLATION" = "각 댓글에 번역 버튼 추가";
+"FEATURE_DISABLE_WARNINGS" = "TikTok 경고 숨기기";
+"FEATURE_DISABLE_LIVE" = "피드에서 라이브 스트림 숨기기";
+"FEATURE_SKIP_RECOMMENDED" = "친구 추천 등 제거";
+"FEATURE_UPLOAD_REGION" = "사용자명 옆에 업로드 지역 플래그 표시";
+"FEATURE_HIDE_TOP_ITEMS" = "검색 버튼, LIVE 및 기타 숨기기 (For You, Following, Shop 등)";
+"FEATURE_ANONYMOUS_SEEN" = "상대방이 모르게 채팅 보기";
+"FEATURE_SHOW_ALL_TABS" = "모든 숨겨진 설정 탭 표시 [베타!]";
+"FEATURE_PROFILE_SAVE" = "프로필 정보를 클립보드에 저장";
+"FEATURE_EMBED_LINKS" = "링크 복사 시 임베드 링크 활성화";
+"FEATURE_PROFILE_COPY" = "프로필 정보 복사";
+"FEATURE_USER_POST_COUNT" = "업로드된 동영상 수 표시";
+"FEATURE_LIKE_COUNT" = "메시지에 좋아요 수 표시";
+"FEATURE_UPLOAD_DATE" = "업로드 날짜 표시";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "FYP에서 동영상 업로드 시간 표시";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "스포츠 동영상(UFC, 복싱 등) 아래 경고 숨기기";
+"FEATURE_REMOVE_PENDANT" = "FYP에서 상단 왼쪽 광고 뷰 제거";
+"FEATURE_CONFIRM_LIKE" = "동영상 좋아요 확인 표시";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "댓글 좋아요 확인 표시";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "댓글 싫어요 확인 표시";
+"FEATURE_CONFIRM_FOLLOW" = "사용자 팔로우 확인 표시";
+"FEATURE_AUTO_CLEAR" = "60초마다 검색 기록 자동 삭제";
+"FEATURE_FAKE_CHANGES" = "프로필 데이터 스푸핑 활성화";
+"FEATURE_FOLLOWER_COUNT" = "가짜 팔로워 수 입력";
+"FEATURE_FOLLOWING_COUNT" = "가짜 팔로잉 수 입력";
+"FEATURE_FAKE_VERIFIED" = "가짜 인증 배지 표시";
+"FEATURE_HIDE_PLUS_BTN" = "카메라 버튼 숨기기";
+"FEATURE_HIDE_FRIENDS_BADGE" = "친구 알림 배지 숨기기";
+"FEATURE_HIDE_INBOX_BADGE" = "받은 편지함 알림 배지 숨기기";
+"FEATURE_EXTENDED_COMMENTS" = "댓글 문자 제한 확장";
+"FEATURE_UPLOAD_HD" = "HD 업로드 활성화";
+"FEATURE_APP_LOCK" = "비밀번호로 TikTok 잠금 기능 추가";
+"FEATURE_ENABLE_FLEX" = "개발자 전용, 무엇을 하는지 모르면 건드리지 마세요";
+"FEATURE_OLED_KEYBOARD" = "다크 테마에서만 작동";
+"FEATURE_POST_STATS" = "다운로드 섹션에 게시물 통계 메뉴 버튼 표시";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "리포스트에 텍스트 추가 활성화";
+"FEATURE_VOICE_MESSAGES" = "채팅에서 음성 메시지 전송 활성화";
+"FEATURE_ENABLE_STREAKS" = "친구와 연속 기록 활성화";
+"FEATURE_HIDE_STREAK_PET" = "연속 기록 펫 숨기기";
+"FEATURE_DISABLE_TYPING" = "채팅 중 입력 표시기 전송하지 않기";
+"FEATURE_PIN_CHATS" = "즐겨찾기 채팅을 상단에 고정";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "채팅에서 미디어 제한 우회 (기본값: 9장 사진, 1분 동영상)";
+"FEATURE_DISABLE_AI_REPLIES" = "전송된 게시물에 대한 AI 생성 답장 비활성화";
+"FEATURE_SMALL_EMOJI" = "작은 이모지 전송 활성화";
+"FEATURE_REMOVE_PENDANT" = "화면 상단 왼쪽 모서리의 성가신 광고 뷰 제거 (일부 지역에서만)";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "스포츠 동영상 아래의 성가신 경고 숨기기";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "FYP에서 사용자명 옆에 업로드 시간 표시";
+"FEATURE_HIDE_COMMISSION_POSTS" = "'크리에이터가 수수료를 받습니다'라고 표시되는 게시물 제거";
+
+// Comment Settings Descriptions
+"ENABLE_COMMENT_PHOTO" = "댓글에 사진 추가 허용";
+"ENABLE_COMMENT_STICKERS" = "댓글에 스티커 추가 허용";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "댓글에서 툴팁 비활성화";
+"FEATURE_ADD_TRANSLATION" = "댓글에 번역 버튼 추가";
+"FEATURE_ADD_COMMENT_POST" = "댓글을 게시물로 게시 활성화";
+"FEATURE_ADD_COMMENT_STORY" = "댓글을 스토리로 게시 활성화";
+"FEATURE_MASS_UNFOLD" = "모든 댓글 답글 일괄 펼치기";
+"FEATURE_AUTO_UNFOLD" = "댓글 텍스트 자동 펼치기";
+"FEATURE_MULTI_EMOJI" = "다중 이모지 댓글 바 활성화";
+"FEATURE_HIDE_EMOJI" = "댓글에서 이모지 바 숨기기";
+"FEATURE_COMMENT_REDESIGN" = "재디자인된 댓글 셀 활성화";
+"FEATURE_COPY_WITHOUT_USERNAME" = "'사용자명: ' 없이 댓글 복사";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "댓글 작성자의 지역 플래그 표시";
+
+// MARK: - Error Messages
+"Could Not Copy Music" = "음악을 복사할 수 없습니다";
+"The video doesn't have music to download" = "이 동영상에는 다운로드할 음악이 없습니다";
+
+// MARK: - Developer
+"DEVELOPER_TELEGRAM" = "최신 업데이트를 위해 텔레그램 채널에 참여하세요";
+"DEVELOPER_SUPPORT" = "RXTikTok을 지원하고 베타 테스트 그룹에 접근하세요";
+
+// MARK: - Missing Strings
+"Features list" = "기능 목록";
+"Not Selected" = "선택되지 않음";
+"OK" = "확인";
+"Disable Left & Right Swipe" = "좌우 스와이프 비활성화";
+"Pull To Camera" = "카메라로 당기기";
+"Regions" = "지역";
+"Full Region Mode" = "전체 지역 모드";
+"Add Folders To Inbox" = "받은 편지함에 폴더 추가";
+
+// Additional missing strings
+"Settings" = "설정";
+"Save" = "저장";
+"Delete" = "삭제";
+"Edit" = "편집";
+"Close" = "닫기";
+"Back" = "뒤로";
+"Next" = "다음";
+"Done" = "완료";
+"Error" = "오류";
+"Success" = "성공";
+"Warning" = "경고";
+"Loading" = "로딩 중";
+"Search" = "검색";
+"Apply" = "적용";
+"Reset" = "재설정";
+"Saved!" = "저장됨!";
+"Video saved successfully" = "동영상이 성공적으로 저장되었습니다";
+"Photo saved successfully" = "사진이 성공적으로 저장되었습니다";
+"Failed to save media" = "미디어 저장에 실패했습니다";
+"No internet connection" = "인터넷 연결이 없습니다";
+"Select All" = "모두 선택";
+"Deselect All" = "모두 선택 해제";
+"More Options" = "더 많은 옵션";
+"Share" = "공유";
+"Copy Link" = "링크 복사";
+"Report" = "신고";
+"Block" = "차단";
+"Unfollow" = "언팔로우";
+"Hide" = "숨기기";
+"Show" = "표시";
+"Enable" = "활성화";
+"Disable" = "비활성화";
+
+// MARK: - Missing Feature Descriptions
+"FEATURE_DISABLE_SWIPE" = "피드에서 좌우 스와이프 비활성화";
+"FEATURE_PULL_TO_CAMERA" = "카메라로 당기기 기능 활성화";
+"FEATURE_ADD_FOLDERS" = "받은 편지함 메시지에 폴더 구성 추가";
+"FEATURE_FULL_REGION_MODE" = "첫 번째 옵션이 작동하지 않을 때만 활성화하세요!!";
+
+// Additional feature descriptions
+"FEATURE_ANONYMOUS_SEEN_DESC" = "발신자에게 읽음 표시를 보내지 않고 채팅 보기";
+"FEATURE_SHOW_ALL_TABS_DESC" = "실험적 기능을 포함한 모든 숨겨진 설정 탭 표시";
+"FEATURE_PROFILE_SAVE_DESC" = "한 번의 탭으로 프로필 정보를 클립보드에 저장";
+"FEATURE_PROFILE_COPY_DESC" = "사용자명, 소개 및 기타 공개 정보를 포함한 프로필 세부정보 복사";
+"FEATURE_APP_LOCK_DESC" = "비밀번호 또는 생체 인증으로 TikTok 앱 보안";
+"FEATURE_REGIONS_DESC" = "가상 위치를 변경하여 지역별 콘텐츠에 접근";
+"FEATURE_ADD_FOLDERS_DESC" = "더 나은 관리를 위해 받은 편지함 메시지를 사용자 정의 폴더로 구성";
+
+// MARK: - Credits View
+"Credits" = "크레딧";
+"Special Thanks to" = "특별한 감사를";
+"Community" = "커뮤니티";
+"Main Developer, Owner" = "메인 개발자, 소유자";
+"Co-Owner" = "공동 소유자";
+"DRM Developer" = "DRM 개발자";
+"Contributor" = "기여자";
+"UI Designer" = "UI 디자이너";
+"Telegram Channel" = "텔레그램 채널";
+"Telegram Discussion Group" = "텔레그램 토론 그룹";
+"Get the latest updates and news" = "최신 업데이트 및 뉴스 받기";
+"Join the community discussion" = "커뮤니티 토론에 참여하기";
+"Buy Me a Coffee" = "커피 한 잔 사주기";
+"Support the development" = "개발 지원하기";
+"X" = "X";
+"Support" = "지원";
+
+// MARK: - Configuration
+"About" = "정보";
+"Configuration" = "구성";
+"Import Configuration" = "구성 가져오기";
+"Export Configuration" = "구성 내보내기";
+"Reset All Settings" = "모든 설정 재설정";
+"Import settings from a file" = "파일에서 설정 가져오기";
+"Export settings to a file" = "파일로 설정 내보내기";
+"Reset all settings to default values" = "모든 설정을 기본값으로 재설정";
+"All settings have been reset to default values." = "모든 설정이 기본값으로 재설정되었습니다.";
+"Configuration imported successfully." = "구성이 성공적으로 가져와졌습니다.";
+"File selection was cancelled." = "파일 선택이 취소되었습니다.";
+"Cancelled" = "취소됨";
+
+"Select App Language" = "앱 언어 선택";
+
+// 1.3 
+"Erase All TikTok Data" = "모든 TikTok 데이터 삭제";
+"Erase all TikTok data from the app  [Becareful!!!]" = "앱에서 모든 TikTok 데이터 삭제 [주의!!!]";
+"Clear Keychain" = "키체인 지우기";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "모든 데이터를 지우시겠습니까? 이는 다음을 제거합니다:\n1- TikTok의 데이터 디렉토리\n2- 모든 키체인\n3- 모든 NSUserDefaults 지우기\n\n주의!\n초안과 로컬에 저장된 모든 것이 손실됩니다.";
+"Clear" = "지우기";
+"Really Clear All Data?" = "정말로 모든 데이터를 지우시겠습니까?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "이것은 마지막 경고입니다. 이 작업은 되돌릴 수 없으며 초안과 설정을 포함한 모든 로컬 TikTok 데이터를 삭제합니다. 정말로 확실하신가요?";
+"Confirm Clear" = "지우기 확인";
+"Data Cleared" = "데이터 지워짐";
+"All TikTok data has been cleared." = "모든 TikTok 데이터가 지워졌습니다.";
+
+"Streak Info" = "연속 기록 정보";
+"FEATURE_STREAK_INFO" = "연속 기록 불을 탭할 때 연속 기록 정보 표시";
+
+"Hide Tab Bar Labels" = "탭 바 라벨 숨기기";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "더 깔끔한 모습을 위해 탭 바의 라벨 숨기기";
+
+"Adjust offline download limit" = "오프라인 다운로드 제한 조정";
+"Adjust value between 50 and 2000" = "50과 2000 사이의 값으로 조정";
+
+"Start TikTok in Following" = "팔로잉에서 TikTok 시작";
+"FEATURE_START_FYP_IN_FOLLOWING" = "For You 피드 대신 팔로잉 피드에서 TikTok 시작";
+
+"Waiting for TikTok…" = "TikTok 대기 중…";
+"Extracting Media URL…" = "미디어 URL 추출 중…";
+"Invalid download URL received." = "잘못된 다운로드 URL을 받았습니다.";
+"Failed to fetch HD video URL. Please try again." = "HD 동영상 URL을 가져오는데 실패했습니다. 다시 시도해주세요.";
+
+"Enable Egypt Stickers" = "이집트 스티커 활성화";
+
+// 1.4
+"LOOP_STORY_VIDEOS" = "스토리 동영상 반복";
+"STOP_STORY_PHOTO_ADVANCE" = "스토리 사진 자동 진행";
+"FEATURE_LOOP_STORY_VIDEOS" = "활성화 시 스토리에서 동영상 반복";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "활성화 시 스토리 사진 자동 진행 중지";
+"BACKGROUND_PLAY" = "백그라운드 재생 활성화";
+"FEATURE_BACKGROUND_PLAY" = "백그라운드 재생 활성화";
+
+// MARK: - New Section Headers (Added from Settings reorganization)
+"Content & Display" = "콘텐츠 및 표시";
+"Playback Controls" = "재생 제어";
+"Content Filtering" = "콘텐츠 필터링";
+"Navigation & Interaction" = "탐색 및 상호작용";
+"Downloads & Sharing" = "다운로드 및 공유";
+"Profile Actions" = "프로필 동작";
+"Video Information" = "동영상 정보";
+"Profile Customization" = "프로필 사용자 정의";
+"Profile Enhancement" = "프로필 향상";
+"Enhanced Comments Features" = "향상된 댓글 기능";
+"Text & Display Options" = "텍스트 및 표시 옵션";
+"Emoji & Interface" = "이모지 및 인터페이스";
+"Content Interactions" = "콘텐츠 상호작용";
+"Social Actions" = "소셜 동작";
+"Tab Bar Elements" = "탭 바 요소";
+"Notification Badges" = "알림 배지";
+"App Configuration" = "앱 구성";
+"Content Enhancement" = "콘텐츠 향상";
+"System Features" = "시스템 기능";
+"Configuration Management" = "구성 관리";
+"Chat Features" = "채팅 기능";
+"Organization & Management" = "구성 및 관리";
+"Privacy & Security" = "개인정보 보호 및 보안";
+
+// MARK: - Missing Chat Settings Strings
+"DISBALE_SCREENSHOT_DETECTION" = "스크린샷 감지 비활성화";
+"DISABLE_SCREENRECORDING_DETECTION" = "화면 녹화 감지 비활성화";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "채팅에서 스크린샷 감지 비활성화";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "채팅에서 화면 녹화 감지 비활성화";
+
+// MARK: - Missing Alert and UI Strings
+"Reset Settings" = "설정 재설정";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "모든 설정을 기본값으로 재설정하시겠습니까? 이 작업은 되돌릴 수 없습니다.";
+"Erase All Data" = "모든 데이터 삭제";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "모든 TikTok 데이터를 삭제하시겠습니까? 이는 모든 앱 데이터를 지우며 되돌릴 수 없습니다.";
+"Erase" = "삭제";
+"All TikTok data has been erased." = "모든 TikTok 데이터가 삭제되었습니다.";
+"Settings Reset" = "설정 재설정";
+"Language Changed" = "언어 변경됨";
+"Please restart the app to apply changes, May require two app restarts!" = "변경사항을 적용하려면 앱을 재시작하세요. 두 번의 앱 재시작이 필요할 수 있습니다!";
+
+// MARK: - Missing Navigation and Menu Strings
+"Speeds" = "속도";
+"Live Actions" = "라이브 동작";
+"RXTikTok Settings" = "RXTikTok 설정";
+
+"BETA!" = "베타!";
+
+// MARK: - Menu Manager Strings
+"Language" = "언어";
+
+"MARK_SEEN_ON_REPLY" = "답장 시 읽음 표시";
+"FEATURE_MARK_SEEN_ON_REPLY" = "답장할 때 메시지를 읽음으로 표시";
+
+"VIEW_PROFILES_ANONYMOUS" = "익명으로 프로필 보기";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "활성화 시 프로필 보기 추적 비활성화";
+
+// MARK: - Import/Export Configuration Strings
+"Choose import source:" = "가져오기 소스 선택:";
+"Import from Keychain" = "키체인에서 가져오기";
+"Import from File" = "파일에서 가져오기";
+"No backup found" = "백업을 찾을 수 없습니다";
+"No Backup" = "백업 없음";
+"No settings backup found in keychain." = "키체인에서 설정 백업을 찾을 수 없습니다.";
+"Choose export destination:" = "내보내기 대상 선택:";
+"Save to Keychain" = "키체인에 저장";
+"Export to File" = "파일로 내보내기";
+"Configuration imported from keychain successfully." = "키체인에서 구성이 성공적으로 가져와졌습니다.";
+"Configuration saved to keychain successfully." = "구성이 키체인에 성공적으로 저장되었습니다.";
+
+// MARK: - Rewards Ads Feature
+"Disable TikTok Rewards ADs" = "TikTok 리워드 광고 비활성화";
+"FEATURE_DISABLE_REWARDS_ADS" = "피드에서 TikTok 리워드 광고 숨기기";
