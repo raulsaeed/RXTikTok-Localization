@@ -18,7 +18,7 @@
 "Modern" = "Modern";
 "Compact" = "Compact";
 "Backgrounding ✌️" = "In de achtergrond ✌️";
-"Are you sure?" = "Ben je zeker?";
+"Are you sure?" = "Weet je het zeker?";
 
 // MARK: - Navigation
 "Feed" = "Feed";
@@ -50,14 +50,14 @@
 
 // MARK: - Copy Features
 "Copy Menu" = "Kopieer menu";
-"Copy Music Link" = "Kopieer muziek link";
-"Copy Description" = "Kopieer descriptie";
+"Copy Music Link" = "Kopieer muzieklink";
+"Copy Description" = "Kopieer beschrijving";
 "Post Info" = "Post informatie";
-"Copy Video link" = "Kopieer video link";
+"Copy Video link" = "Kopieer videolink";
 "Copy bio" = "Kopieer bio";
-"Music Link Copied" = "Muziek link gekopieerd";
-"Video Link Copied" = "Video link gekopieerd";
-"Description Link Copied" = "Descriptie link gekopieerd";
+"Music Link Copied" = "Muzieklink gekopieerd";
+"Video Link Copied" = "Videolink gekopieerd";
+"Description Link Copied" = "Descriptielink gekopieerd";
 "Stats Menu" = "Stats menu";
 "Video Info" = "Video info";
 
@@ -271,3 +271,238 @@
 // MARK: - Developer
 "DEVELOPER_TELEGRAM" = "Join het Telegram kanaal voor de laatste updates";
 "DEVELOPER_SUPPORT" = "Support RXTikTok en krijg toegang tot de beta testing groep";
+
+// MARK: - Missing Strings
+"Features list" = "Functielijst";
+"Not Selected" = "Niet geselecteerd";
+"OK" = "OK";
+"Disable Left & Right Swipe" = "Veeg naar links & rechts uitschakelen";
+"Pull To Camera" = "Veeg naar camera";
+"Regions" = "Regio's";
+"Full Region Mode" = "Volledige regiomodus";
+"Add Folders To Inbox" = "Mappen toevoegen aan inbox";
+
+// Additional missing strings
+"Settings" = "Instellingen";
+"Save" = "Opslaan";
+"Delete" = "Verwijderen";
+"Edit" = "Bewerken";
+"Close" = "Sluit";
+"Back" = "Terug";
+"Next" = "Volgende";
+"Done" = "Klaar";
+"Error" = "Error";
+"Success" = "Gelukt";
+"Warning" = "Waarschuwing";
+"Loading" = "Laden";
+"Search" = "Zoeken";
+"Apply" = "Toepassen";
+"Reset" = "Terugzetten";
+"Saved!" = "Opgeslagen!";
+"Video saved successfully" = "Video succesvol opgeslagen";
+"Photo saved successfully" = "Foto succesvol opgeslagen";
+"Failed to save media" = "Kan media niet opslaan";
+"No internet connection" = "Geen internet";
+"Select All" = "Alles selecteren";
+"Deselect All" = "Alles deselecteren";
+"More Options" = "Meer opties";
+"Share" = "Delen";
+"Copy Link" = "Link kopiëren";
+"Report" = "Rapporteren";
+"Block" = "Blokkeren";
+"Unfollow" = "Ontvolgen";
+"Hide" = "Verberg";
+"Show" = "Tonen";
+"Enable" = "Inschakelen";
+"Disable" = "Uitschakelen";
+
+// MARK: - Missing Feature Descriptions
+"FEATURE_DISABLE_SWIPE" = "Schakelt 'Veeg naar links & rechts' in feed uit";
+"FEATURE_PULL_TO_CAMERA" = "Schakelt 'Veeg naar Camera' in";
+"FEATURE_ADD_FOLDERS" = "Voegt mappen toe aan je inbox";
+"FEATURE_FULL_REGION_MODE" = "Schakel ALLEEN in als eerste optie NIET werkt!";
+
+// Additional feature descriptions
+"FEATURE_ANONYMOUS_SEEN_DESC" = "Bekijk chats zonder dat de ander een leesbevestiging ontvangt";
+"FEATURE_SHOW_ALL_TABS_DESC" = "Toon alle verborgen instellingstabbladen, inclusief experimentele functies";
+"FEATURE_PROFILE_SAVE_DESC" = "Sla profielinformatie direct op in het klembord";
+"FEATURE_PROFILE_COPY_DESC" = "Kopieer profielgegevens, inclusief gebruikersnaam, bio en andere publieke info";
+"FEATURE_APP_LOCK_DESC" = "Beveilig de TikTok-app met een wachtwoord of biometrische verificatie";
+"FEATURE_REGIONS_DESC" = "Toegang tot regiogebonden inhoud door je virtuele locatie te wijzigen";
+"FEATURE_ADD_FOLDERS_DESC" = "Organiseer je inboxberichten in mappen voor beter overzicht";
+
+// MARK: - Credits View
+"Credits" = "Credits";
+"Special Thanks to" = "Speciale dank aan";
+"Community" = "Community";
+"Main Developer, Owner" = "Main Developer, Owner";
+"Co-Owner" = "Co-Owner";
+"DRM Developer" = "DRM developer";
+"Contributor" = "Contributor";
+"UI Designer" = "UI Designer";
+"Telegram Channel" = "Telegram kanaal";
+"Telegram Discussion Group" = "Telegram Discussie Group";
+"Get the latest updates and news" = "Krijg de laatste updates en nieuws";
+"Join the community discussion" = "Praat mee in de community";
+"Buy Me a Coffee" = "Buy Me a Coffee";
+"Support the development" = "Ondersteun de ontwikkeling";
+"X" = "X";
+"Support" = "Steun";
+
+// MARK: - Configuration
+"About" = "Over deze app";
+"Configuration" = "Configuratie";
+"Import Configuration" = "Configuratie importeren";
+"Export Configuration" = "Configuratie exporteren";
+"Reset All Settings" = "Alle instellingen terugzetten";
+"Import settings from a file" = "Instellingen importeren vanuit bestand";
+"Export settings to a file" = "Instellingen exporteren naar bestand";
+"Reset all settings to default values" = "Herstel alle instellingen naar standaardwaarden";
+"All settings have been reset to default values." = "Alle instellingen zijn teruggezet naar standaardwaarden.";
+"Configuration imported successfully." = "Configuratie succesvol geïmporteerd.";
+"File selection was cancelled." = "Bestandselectie geannuleerd.";
+"Cancelled" = "Geannuleerd";
+
+"Select App Language" = "Selecteer app taal";
+
+
+// 1.3 
+"Erase All TikTok Data" = "Alle TikTok gegevens wissen";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Verwijder alle TikTok gegevens van de app [Wees voorzichtig!!]";
+"Clear Keychain" = "Keychain leegmaken";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Weet je zeker dat je alle gegevens wilt verwijderen? Dit verwijdert\n1- Gegevensmap van TikTok\n2- volledige keychain\n3- Alle NSUserDefaults\n\nLET OP!\nJE VERLIEST JE CONCEPTEN EN ALLES WAT LOKAAL IS OPGESLAGEN.";
+"Clear" = "Wis";
+"Really Clear All Data?" = "Weet je zeker dat je alle gegevens wilt wissen?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Dit is je laatste waarschuwing. Deze actie is onomkeerbaar en verwijdert alle lokale TikTok-gegevens, inclusief concepten en instellingen. Weet je het zeker?";
+"Confirm Clear" = "Bevestig wissen";
+"Data Cleared" = "Gegevens gewist";
+"All TikTok data has been cleared." = "Alle TikTok gegevens zijn gewist.";
+
+"Streak Info" = "Streak informatie";
+"FEATURE_STREAK_INFO" = "Toont jouw huidige streak-informatie bij het klikken op het streak vuur";
+
+"Hide Tab Bar Labels" = "Verberg Tabbalk labels";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Verbergt labels in de tabbalk";
+
+"Adjust offline download limit" = "Offline downloadlimiet aanpassen";
+"Adjust value between 50 and 2000" = "Stel waarde in tussen 50 en 2000";
+
+"Start TikTok in Following" = "TikTok starten op Volgend";
+"FEATURE_START_FYP_IN_FOLLOWING" = "Start TikTok in de feed Volgend, in plaats van Voor jou";
+
+"Waiting for TikTok…" = "Wachten op TikTok…";
+"Extracting Media URL…" = "Media URL ophalen…";
+"Invalid download URL received." = "Ongeldige download URL ontvangen.";
+"Failed to fetch HD video URL. Please try again." = "HD Video URL ophalen mislukt. Probeer het opnieuw.";
+
+"Enable Egypt Stickers" = "Egypte stickers inschakelen";
+
+
+// 1.4
+"LOOP_STORY_VIDEOS" = "Videos in story herhalen";
+"STOP_STORY_PHOTO_ADVANCE" = "Foto's in story stoppen";
+"FEATURE_LOOP_STORY_VIDEOS" = "Zorgt dat videos in stories opnieuw worden afgespeeld";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Voorkomt dat foto's in stories automatisch doorgaat naar de volgende";
+"BACKGROUND_PLAY" = "Afspelen op achtergrond";
+"FEATURE_BACKGROUND_PLAY" = "Schakelt het afspelen van geluid op de achtergrond in";
+
+// MARK: - New Section Headers (Added from Settings reorganization)
+"Content & Display" = "Inhoud & Weergave";
+"Playback Controls" = "Afspeelbediening";
+"Content Filtering" = "Inhoudsfilter";
+"Navigation & Interaction" = "Navigatie & Interactie";
+"Downloads & Sharing" = "Downloads & Delen";
+"Profile Actions" = "Profielacties";
+"Video Information" = "Videoinformatie";
+"Profile Customization" = "Profiel aanpassen";
+"Profile Enhancement" = "Profiel verbeteren";
+"Enhanced Comments Features" = "Verbeterde reacties";
+"Text & Display Options" = "Tekst- & weergave-opties";
+"Emoji & Interface" = "Emoji & interface";
+"Content Interactions" = "Inhoudinteracties";
+"Social Actions" = "Sociale acties";
+"Tab Bar Elements" = "Tabbalk Elementen";
+"Notification Badges" = "Notificatie Badges";
+"App Configuration" = "App configuratie";
+"Content Enhancement" = "Inhoud verbeteren";
+"System Features" = "Systeemfuncties";
+"Configuration Management" = "Configuratiebeheer";
+"Chat Features" = "Chatfuncties";
+"Organization & Management" = "Organisatie & beheer";
+"Privacy & Security" = "Privacy & beveiliging";
+
+// MARK: - Missing Chat Settings Strings
+"DISABLE_SCREENSHOT_DETECTION" = "Zet screenshotdetectie uit";
+"DISABLE_SCREENRECORDING_DETECTION" = "Zet schermopnamedetectie uit";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "Schakelt screenshotdetectie in chats uit";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "Schakelt schermopnamedetectie in chats uit";
+
+// MARK: - Missing Alert and UI Strings
+"Reset Settings" = "Instellingen resetten";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Weet je zeker dat je alle instellingen naar standaardwaarden wilt terugzetten? Deze actie kan niet ongedaan worden gemaakt.";
+"Erase All Data" = "Alle gegevens wissen";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Weet je zeker dat je alle TikTok-gegevens wilt wissen? Dit verwijdert alle appgegevens en kan niet ongedaan worden gemaakt.";
+"Erase" = "Wis";
+"All TikTok data has been erased." = "Alle TikTok gegevens zijn gewist.";
+"Settings Reset" = "Instellingen teruggezet";
+"Language Changed" = "Taal gewijzigd";
+"Please restart the app to apply changes, May require two app restarts!" = "Start de app opnieuw om wijzigingen toe te passen. Soms twee keer nodig";
+
+// MARK: - Missing Navigation and Menu Strings
+"Speeds" = "Snelheden";
+
+"BETA!" = "BETA!";
+
+// MARK: - Menu Manager Strings
+"Language" = "Taal";
+
+"MARK_SEEN_ON_REPLY" = "Markeer als gelezen bij beantwoorden";
+"FEATURE_MARK_SEEN_ON_REPLY" = "Markeert berichten als gelezen bij versturen van bericht in chat";
+
+"VIEW_PROFILES_ANONYMOUS" = "Bekijk profielen anoniem";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "Schakelt 'Profielweergave' tracking uit";
+
+// MARK: - Import/Export Configuration Strings
+"Choose import source:" = "Kies importbron:";
+"Import from Keychain" = "Importeer vanaf keychain";
+"Import from File" = "Importeer vanaf bestand";
+"No backup found" = "Geen backup gevonden";
+"No Backup" = "Geen backup";
+"No settings backup found in keychain." = "Geen backup instellingen gevonden in keychain.";
+"Choose export destination:" = "Kies export locatie:";
+"Save to Keychain" = "Opslaan in keychain";
+"Export to File" = "Exporteer naar bestand";
+"Configuration imported from keychain successfully." = "Configuratie succesvol geïmporteerd vanuit keychain.";
+"Configuration saved to keychain successfully." = "Configuratie succesvol opgeslagen in keychain.";
+
+// MARK: - Rewards Ads Feature
+"Disable TikTok Rewards ADs" = "TikTok Beloningadvertenties uitschakelen";
+"FEATURE_DISABLE_REWARDS_ADS" = "Verberg TikTok beloningadvertenties in de feed";
+
+// 1.5
+"OTHER_OPTIONS" = "Andere opties";
+"Processing..." = "Verwerken...";
+"FEATURE_HIDE_ACTIVITY_STATUS" = "Verbergt jouw 'Laatst actief' en 'Online' status in chats";
+"HIDE_ACTIVITY_STATUS" = "Activiteitsstatus verbergen";
+"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "Schakelt de knop ‘Visueel zoeken’ uit in de feed bij het pauzeren van een video";
+"DISABLE_VISUAL_SEARCH_TAG" = "Visueel zoeken-tag uitschakelen";
+"FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "Stelt zoeken in de volgerslijst in, ook bij meer dan 5.000 volgers";
+"BYPASS_FOLLOW_LIST_SEARCH" = "Limiet voor zoeken in volgerslijst omzeilen";
+"FEATURE_STORY_LIKE_CONFIRMATION" = "Vraagt om bevestiging voordat een story wordt geliket";
+"STORY_LIKE_CONFIRMATION" = "Story like bevestigen";
+"FEATURE_ALWAYS_OPEN_SAFARI" = "Open links altijd in Safari in plaats van de ingebouwde browser";
+"ALWAYS_OPEN_SAFARI" = "Altijd openen in Safari";
+"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "Verwijderd de TikTok AI (tako) knop van FYP";
+"REMOVE_TIKTOK_AI_BUTTON" = "Verwijder TikTok AI knop";
+"WARNING" = "WAARSCHUWING";
+"DISABLE_ACTIVITY_STATUS_WARNING" = "Het uitschakelen of inschakelen van anonieme activiteitsstatus duurt even om door te voeren op de TikTok-servers. Je kunt nog even als online verschijnen nadat je deze functie hebt ingeschakeld";
+"BLOCK_SHOP_VIDOES" = "Blokkeer winkel videos";
+"BLOCK_SHOP_VIDOES_FEATURE" = "Verwijdert winkel videos van jouw feed.";
+"PAD_AUTO_SCROLL" = "Standaard automatisch scrollen";
+"FEATURE_PAD_AUTO_SCROLL" = "Schakelt TikTok’s native automatische scrollen in voor niet-ondersteunde regio’s";
+"SAVE_DM_MEDIA" = "DM Media opslaan";
+"FEATURE_SAVE_DM_MEDIA" = "Voegt een downloadknop toe aan media die in DM's is verstuurd";
+"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "Schakelt dubbel tikken om te liken in de feed uit";
+"DISABLE_FEED_DOUBLE_TAP" = "Dubbel tikken in feed uitschakelen";
+"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Schakelt dubbel tikken om te liken in stories uit";
+"DISABLE_STORY_DOUBLE_TAP" = "Dubbel tikken in stories uitschakelen";
