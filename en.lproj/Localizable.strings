@@ -486,8 +486,6 @@
 "REMOVE_TIKTOK_AI_BUTTON" = "Remove TikTok AI Button";
 "WARNING" = "WARNING";
 "DISABLE_ACTIVITY_STATUS_WARNING" = "Disabling or Enabling anonymous activity status takes time to reflect on TikTok servers. You might still appear online for a while after enabling this feature.";
-"BLOCK_SHOP_VIDOES" = "Block Shop Videos";
-"BLOCK_SHOP_VIDOES_FEATURE" = "Removes Shop Videos from Feed.";
 "PAD_AUTO_SCROLL" = "Default Auto Scroll";
 "FEATURE_PAD_AUTO_SCROLL" = "Enables TikTok's Native Post Auto-Scroll for Unsupported Regions";
 "SAVE_DM_MEDIA" = "Save DM Media";
@@ -496,3 +494,39 @@
 "DISABLE_FEED_DOUBLE_TAP" = "Disable Feed Double Tap";
 "FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Disables Double-Tap to Like in Stories";
 "DISABLE_STORY_DOUBLE_TAP" = "Disable Story Double-Tap";
+
+// 1.6
+
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Enables Downloading Stickers in Comments"; 
+"ENABLE_STICKER_DOWNLOAD" = "Double Tap to Download Sticker"; 
+"STICKER_SAVED" = "Sticker Saved to Gallery!"; 
+"STICKER_SAVE_FAILED" = "Failed to Save Sticker"; 
+"DOWNLOAD_FAILED" = "Download Failed"; 
+"DOWNLOADING_STICKER" = "Downloading Sticker..."; 
+ 
+"FILTERING_OPTIONS" = "Filtering Options"; 
+"BLOCK_MOVIE_TOK" = "Block Movie Ads"; 
+"FEATURE_BLOCK_MOVIE_TOK" = "Blocks Videos with Movie Ads"; 
+ 
+"BLOCK_AI_GENERATED" = "Block AI Generated Posts"; 
+"FEATURE_BLOCK_AI_GENERATED" = "Blocks Posts With 'Contains AI-generated media'";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Asks for Confirmation Before Using Quick Share"; 
+"FEATURE_CONFIRM_REPOST" = "Asks for Confirmation Before Reposting a Video";
+"CONFIRM_QUICK_SHARE" = "Quick Share Confirmation"; 
+"CONFIRM_REPOST" = "Quick Repost Confirmation";
+
+"BLOCK_SHOP_VIDEOS" = "Block Shop Posts";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "Removes Shop Posts from Feed.";
+"BLOCK_TCM" = "Block App Ads";
+"BLOCK_POI" = "Block Location Ads";
+"FEATURE_BLOCK_SHOP_ADS" = "Block Videos with Shop Ads";
+"FEATURE_BLOCK_TCM" = "Block Videos with App Ads";
+"FEATURE_BLOCK_POI" = "Block Videos with Location Ads";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "Removes Watermark When Saving Posts or Drafts";
+"REMOVE_DRAFT_WATERMARK" = "Remove Photo Watermark";
+"FEATURE_HIDE_REPORT_BUTTON" = "Hide flag button in direct messages navigation bar.";
+"HIDE_REPORT_BUTTON" = "Hide report button";
+"FEATURE_DISABLE_TYPING_STICKER" = "disable automatic gif recommendations while typing";
+"DISABLE_TYPING_STICKER" = "Disable Typing Sticker";
+"RUSSIAN_FIX" = "Bypass Russia Ban";
+"FEATURE_RUSSIAN_FIX" = "Enable this to get russian feed working again [NEW!]";
