@@ -514,3 +514,38 @@
 "FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Отключает двойное нажатие для лайка в историях";
 "DISABLE_STORY_DOUBLE_TAP" = "Отключить двойное нажатие в историях";
 
+// 1.6
+
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Включает скачивание стикеров в комментариях";
+"ENABLE_STICKER_DOWNLOAD" = "Двойное нажатие для скачивания стикера";
+"STICKER_SAVED" = "Стикер сохранен в Галерею!";
+"STICKER_SAVE_FAILED" = "Не удалось сохранить стикер";
+"DOWNLOAD_FAILED" = "Скачивание не удалось";
+"DOWNLOADING_STICKER" = "Скачивание стикера...";
+
+"FILTERING_OPTIONS" = "Настройки Фильтрации";
+"BLOCK_MOVIE_TOK" = "Блокировать рекламу фильмов";
+"FEATURE_BLOCK_MOVIE_TOK" = "Блокирует видео с рекламой фильмов";
+
+"BLOCK_AI_GENERATED" = "Блокировать посты с AI";
+"FEATURE_BLOCK_AI_GENERATED" = "Блокирует посты с пометкой 'Содержит сгенерированный AI контент'";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Запрашивает подтверждение перед быстрой отправкой";
+"FEATURE_CONFIRM_REPOST" = "Запрашивает подтверждение перед репостом видео";
+"CONFIRM_QUICK_SHARE" = "Подтверждение быстрой отправки";
+"CONFIRM_REPOST" = "Подтверждение быстрого репоста";
+
+"BLOCK_SHOP_VIDEOS" = "Блокировать магазинные видео";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "Удаляет магазинные видео из ленты.";
+"BLOCK_TCM" = "Блокировать рекламу приложений";
+"BLOCK_POI" = "Блокировать рекламу мест";
+"FEATURE_BLOCK_SHOP_ADS" = "Блокировать видео с рекламой магазинов";
+"FEATURE_BLOCK_TCM" = "Блокировать видео с рекламой приложений";
+"FEATURE_BLOCK_POI" = "Блокировать видео с рекламой мест";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "Удаляет водяной знак при сохранении постов или черновиков";
+"REMOVE_DRAFT_WATERMARK" = "Удалить водяной знак с фото";
+"FEATURE_HIDE_REPORT_BUTTON" = "Скрывает кнопку 'Пожаловаться' в навигационной панели ЛС.";
+"HIDE_REPORT_BUTTON" = "Скрыть кнопку пожаловаться";
+"FEATURE_DISABLE_TYPING_STICKER" = "Отключает автоматические рекомендации GIF в ЛС";
+"DISABLE_TYPING_STICKER" = "Отключить стикеры при наборе";
+"RUSSIAN_FIX" = "Обход блокировки в России";
+"FEATURE_RUSSIAN_FIX" = "Включите это, чтобы снова работала российская лента [НОВИНКА!]";
