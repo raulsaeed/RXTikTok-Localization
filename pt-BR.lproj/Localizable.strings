@@ -499,3 +499,40 @@
 "DISABLE_FEED_DOUBLE_TAP" = "Desativar toque duplo no feed";
 "FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Desativa o toque duplo para curtir nos stories";
 "DISABLE_STORY_DOUBLE_TAP" = "Desativar toque duplo nos stories";
+
+// 1.6
+
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Permite baixar figurinhas nos comentários";
+"ENABLE_STICKER_DOWNLOAD" = "Baixar figurinha";
+"STICKER_SAVED" = "Figurinha salva";
+"STICKER_SAVE_FAILED" = "Falha ao salvar figurinha";
+"DOWNLOAD_FAILED" = "Download falhou";
+"DOWNLOADING_STICKER" = "Baixando figurinha...";
+
+"FILTERING_OPTIONS" = "Opções de filtro";
+"BLOCK_MOVIE_TOK" = "Bloquear anúncios de filmes";
+"FEATURE_BLOCK_MOVIE_TOK" = "Bloqueia vídeos com anúncios de filmes";
+
+"BLOCK_AI_GENERATED" = "Bloquear posts gerados por IA";
+"FEATURE_BLOCK_AI_GENERATED" = "Bloqueia posts com 'Contém mídia gerada por IA'";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Pede confirmação antes de usar o Compartilhamento Rápido";
+"FEATURE_CONFIRM_REPOST" = "Pede confirmação antes de repostar um vídeo";
+"CONFIRM_QUICK_SHARE" = "Confirmação de Compartilhamento Rápido";
+"CONFIRM_REPOST" = "Confirmação de Repost Rápido";
+
+"BLOCK_SHOP_VIDEOS" = "Bloquear posts de loja";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "Remove posts de loja do feed.";
+"BLOCK_TCM" = "Bloquear anúncios de apps";
+"BLOCK_POI" = "Bloquear anúncios de localização";
+"FEATURE_BLOCK_SHOP_ADS" = "Bloqueia vídeos com anúncios de loja";
+"FEATURE_BLOCK_TCM" = "Bloqueia vídeos com anúncios de apps";
+"FEATURE_BLOCK_POI" = "Bloqueia vídeos com anúncios de localização";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "Remove marca d'água ao salvar rascunhos";
+"REMOVE_DRAFT_WATERMARK" = "Remover marca d'água da foto de rascunhos";
+"FEATURE_HIDE_REPORT_BUTTON" = "Oculta o botão de denúncia na barra de navegação das mensagens diretas.";
+"HIDE_REPORT_BUTTON" = "Ocultar botão de denúncia";
+"FEATURE_DISABLE_TYPING_STICKER" = "Desativa recomendações automáticas de GIF/Figurinhas ao digitar";
+"DISABLE_TYPING_STICKER" = "Desativar figurinha na parte superior do teclado após digitação";
+"RUSSIAN_FIX" = "Contornar bloqueio da Rússia";
+
+"FEATURE_RUSSIAN_FIX" = "Ative isso para fazer o feed russo funcionar novamente [NOVO!]";
