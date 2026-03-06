@@ -11,7 +11,7 @@
 "No" = "Нет";
 "ON" = "ВКЛ";
 "OFF" = "ВЫКЛ";
-"Cancel" = "Назад";
+"Cancel" = "Отмена";
 "Confirm" = "Подтвердить";
 "Actions" = "Действия";
 "Default" = "По умолчанию";
@@ -28,7 +28,7 @@
 "Developer" = "Обратная связь";
 "Design Options" = "Настройки дизайна";
 "Other Settings" = "Другие настройки";
-"Auto Clear History" = "Очищать историю поиска";
+"Auto Clear History" = "Автоочистка истории поиска";
 "Enable Embeded Links" = "Включить ссылки с видео";
 "Language 🌎" = "Язык 🌎";
 "Show All Settings Tabs" = "Показать все вкладки настроек";
@@ -38,20 +38,20 @@
 "Hide dangerous-action Warning" = "Скрыть предупреждения";
 
 // MARK: - Download Features
-"Downloads Menu" = "Хочу скачать";
+"Downloads Menu" = "Меню загрузки";
 "Download Video" = "Скачать видео";
-"Download HD Video" = "Скачать видео (HD)";
+"Download HD Video" = "Скачать видео в HD";
 "Download Music" = "Скачать музыку";
 "Download Photo" = "Скачать фото";
 "Download All Photos" = "Скачать все фото";
-"Download Photos Menu" = "Хочу скачать";
+"Download Photos Menu" = "Меню загрузки фото";
 "Downloading" = "Скачиваем";
 "Download Button" = "Показать кнопку загрузки";
 
 // MARK: - Copy Features
-"Copy Menu" = "Хочу скопировать";
-"Copy Music Link" = "Скопировать ссылку на музыку";
-"Copy Description" = "Скопировать описание поста";
+"Copy Menu" = "Меню копирования";
+"Copy Music Link" = "Копировать ссылку на музыку";
+"Copy Description" = "Копировать описание";
 "Post Info" = "Информация о публикации";
 "Copy Video link" = "Скопировать ссылку на пост";
 "Copy bio" = "Скопировать био";
@@ -514,3 +514,38 @@
 "FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Отключает двойное нажатие для лайка в историях";
 "DISABLE_STORY_DOUBLE_TAP" = "Отключить двойное нажатие в историях";
 
+// 1.6
+
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Включает скачивание стикеров в комментариях"; 
+"ENABLE_STICKER_DOWNLOAD" = "Двойное нажатие для скачивания стикера"; 
+"STICKER_SAVED" = "Стикер сохранён в галерею!"; 
+"STICKER_SAVE_FAILED" = "Не удалось сохранить стикер"; 
+"DOWNLOAD_FAILED" = "Ошибка загрузки"; 
+"DOWNLOADING_STICKER" = "Загрузка стикера..."; 
+ 
+"FILTERING_OPTIONS" = "Параметры фильтрации"; 
+"BLOCK_MOVIE_TOK" = "Блокировать рекламу фильмов"; 
+"FEATURE_BLOCK_MOVIE_TOK" = "Блокирует видео с рекламой фильмов"; 
+ 
+"BLOCK_AI_GENERATED" = "Блокировать публикации с ИИ"; 
+"FEATURE_BLOCK_AI_GENERATED" = "Блокирует публикации с пометкой «Содержит медиа, созданное ИИ»";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Запрашивать подтверждение перед быстрой публикацией"; 
+"FEATURE_CONFIRM_REPOST" = "Запрашивать подтверждение перед репостом видео";
+"CONFIRM_QUICK_SHARE" = "Подтверждение быстрой публикации"; 
+"CONFIRM_REPOST" = "Подтверждение быстрого репоста";
+
+"BLOCK_SHOP_VIDEOS" = "Блокировать публикации магазинов";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "Убирает публикации магазинов из ленты.";
+"BLOCK_TCM" = "Блокировать рекламу приложений";
+"BLOCK_POI" = "Блокировать георекламу";
+"FEATURE_BLOCK_SHOP_ADS" = "Блокировать видео с рекламой магазинов";
+"FEATURE_BLOCK_TCM" = "Блокировать видео с рекламой приложений";
+"FEATURE_BLOCK_POI" = "Блокировать видео с георекламой";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "Удаляет водяной знак при сохранении публикаций или черновиков";
+"REMOVE_DRAFT_WATERMARK" = "Удалить водяной знак с фото";
+"FEATURE_HIDE_REPORT_BUTTON" = "Скрывает кнопку жалобы на навигационной панели личных сообщений.";
+"HIDE_REPORT_BUTTON" = "Скрыть кнопку жалобы";
+"FEATURE_DISABLE_TYPING_STICKER" = "Отключает автоматические рекомендации GIF при наборе текста";
+"DISABLE_TYPING_STICKER" = "Отключить стикер набора";
+"RUSSIAN_FIX" = "Обойти блокировку в России";
+"FEATURE_RUSSIAN_FIX" = "Включите, чтобы снова получить доступ к российской ленте [НОВОЕ!]";
