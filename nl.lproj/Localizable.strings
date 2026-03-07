@@ -506,3 +506,39 @@
 "DISABLE_FEED_DOUBLE_TAP" = "Dubbel tikken in feed uitschakelen";
 "FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Schakelt dubbel tikken om te liken in stories uit";
 "DISABLE_STORY_DOUBLE_TAP" = "Dubbel tikken in stories uitschakelen";
+
+// 1.6
+
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Stickerdownloads in reacties inschakelen"; 
+"ENABLE_STICKER_DOWNLOAD" = "Dubbeltik om sticker te downloaden"; 
+"STICKER_SAVED" = "Sticker opgeslagen in gallerij!"; 
+"STICKER_SAVE_FAILED" = "Sticker opslaan mislukt"; 
+"DOWNLOAD_FAILED" = "Download mislukt"; 
+"DOWNLOADING_STICKER" = "Sticker downloaden..."; 
+ 
+"FILTERING_OPTIONS" = "Filters"; 
+"BLOCK_MOVIE_TOK" = "Blokkeer film advertenties"; 
+"FEATURE_BLOCK_MOVIE_TOK" = "Blokkeer video's met film advertenties"; 
+ 
+"BLOCK_AI_GENERATED" = "Blokkeer AI gegenereerde posts"; 
+"FEATURE_BLOCK_AI_GENERATED" = "Blokkeer posts met 'Bevat AI gegenereerde media'";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Vraag bevestiging voor gebruik van Quick Share"; 
+"FEATURE_CONFIRM_REPOST" = "Vraag bevestiging voor herplaatsen van video";
+"CONFIRM_QUICK_SHARE" = "Quick Share bevestiging"; 
+"CONFIRM_REPOST" = "Snel herplaatsen bevestiging";
+
+"BLOCK_SHOP_VIDEOS" = "Blokkeer winkel posts";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "Verwijder Winkel Content van je feed.";
+"BLOCK_TCM" = "Blokkeer App Advertenties";
+"BLOCK_POI" = "Blokkeer Locatie Advertenties";
+"FEATURE_BLOCK_SHOP_ADS" = "Blokkeer Video's met Winkel Advertenties";
+"FEATURE_BLOCK_TCM" = "Blokkeer Video's met App Advertenties";
+"FEATURE_BLOCK_POI" = "Blokkeer Video's met Locatie Adverenties";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "Watermerk verwijderen bij opslaan van posts of concepten";
+"REMOVE_DRAFT_WATERMARK" = "Fotowatermerk verwijderen";
+"FEATURE_HIDE_REPORT_BUTTON" = "Rapporteer vlag verbergen in DM navigatie balk.";
+"HIDE_REPORT_BUTTON" = "Verberg rapporteer knop";
+"FEATURE_DISABLE_TYPING_STICKER" = "Automatische GIF-suggesties uitschakelen tijdens typen";
+"DISABLE_TYPING_STICKER" = "Sticker bij typen uitschakelen";
+"RUSSIAN_FIX" = "Blokkade in Rusland omzeilen";
+"FEATURE_RUSSIAN_FIX" = "Schakel dit in om de Russische feed weer te laten werken [NIEUW!]";
