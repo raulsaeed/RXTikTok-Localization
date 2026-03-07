@@ -58,8 +58,8 @@
 "Music Link Copied" = "Ссылка на музыку скопирована";
 "Video Link Copied" = "Ссылка на видео скопирована";
 "Description Link Copied" = "Ссылка на описание скопирована";
-"Stats Menu" = "Метаданные";
-"Video Info" = "Посмотреть метаданные";
+"Stats Menu" = "Меню статистики";
+"Video Info" = "Информация о публикации";
 
 // MARK: - Confirm Settings
 "Confirm Settings" = "Настройки подтверждений";
@@ -76,7 +76,7 @@
 "Remove Watermark" = "Удалить водяной знак";
 "Show/Hide UI Button" = "Показать/Скрыть кнопку интерфейса";
 "Stop Playback" = "Остановить воспроизведение";
-"Auto Play Next Video" = "Автовоспроизведение следующего видео";
+"Auto Play Next Video" = "Автопрокрутка видео";
 "Show Progress Bar" = "Показать полосу перемотки";
 "Transparent Comments" = "Сделать комментарии прозрачными";
 "Show Usernames" = "Заменить имена пользователей";
@@ -91,8 +91,8 @@
 
 // MARK: - Profile Settings
 "Profile Settings" = "Настройки профиля";
-"Profile Save" = "Сохранить профиль";
-"Profile Copy" = "Копировать профиль";
+"Profile Save" = "Сохранить фото профиля";
+"Profile Copy" = "Копировать био профиля";
 "Video Like Count" = "Показать количество лайков";
 "Video Upload Date" = "Показать дату загрузки";
 "User Post Count" = "Показать количество постов";
@@ -126,15 +126,15 @@
 "Enable Comment Photos" = "Включить кнопку фото в комментариях";
 "Enable Comment Stickers" = "Включить кнопку стикеры в комментариях";
 "Enable Comment Flags" = "Включить флаг региона комментатора";
-"Enable Copy Without Username" = "Включить копирование без имени пользователя";
-"Configure Advanced Comment Settings" = "Настроить расширенные параметры комментариев";
+"Enable Copy Without Username" = "Включить копирование без имени";
+"Configure Advanced Comment Settings" = "Расширенные настройки комментариев";
 
 // MARK: - Tab Bar Settings
 "Tab Bar Settings" = "Настройки вкладок";
 "Tab Bar Configurations" = "Настройки вкладок";
 "Hide Plus Button" = "Скрыть кнопку «+»";
-"Hide Friends Badge" = "Скрыть счетчик (Друзья)";
-"Hide Inbox Badge" = "Скрыть счетчик (Входящие)";
+"Hide Friends Badge" = "Скрыть счетчик друзей";
+"Hide Inbox Badge" = "Скрыть счетчик входящих";
 "Changes will take effect after restarting the app" = "Изменения вступят в силу после перезапуска приложения";
 
 // MARK: - Live Button Settings
@@ -161,13 +161,13 @@
 "Bypass Media Limit" = "Обойти лимит медиа";
 "Disable AI-Generated Replies" = "Отключить ответы, сгенерированные ИИ";
 "Enable Small Emoji" = "Включить маленькие эмодзи";
-"Anonymous Seen" = "Включить нечиталку";
+"Anonymous Seen" = "Анонимное прочтение";
 
 // MARK: - Playback Speed
 "Enable Playback Speed" = "Изменить скорость видео";
 "Selected Speed" = "Выбрать скорость";
 "Playback Speed Settings" = "Настройки скорости";
-"Enable Persistent Playback Speed." = "Изменяет скорость видео";
+"Enable Persistent Playback Speed." = "Сохранить скорость видео";
 "Select Speed" = "Выберите скорость";
 "Control video playback speed" = "Выберите скорость по умолчанию";
 "Playback Speed Disabled" = "Изменение скорости отключено";
@@ -549,3 +549,4 @@
 "DISABLE_TYPING_STICKER" = "Отключить стикер набора";
 "RUSSIAN_FIX" = "Обойти блокировку в России";
 "FEATURE_RUSSIAN_FIX" = "Включите, чтобы снова получить доступ к российской ленте [НОВОЕ!]";
+
