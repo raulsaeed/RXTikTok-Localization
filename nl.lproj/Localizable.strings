@@ -4,7 +4,7 @@
 "RXTikTok, Hi" = "RXTikTok, Hoi";
 "RXTikTok Settings" = "RXTikTok Instellingen";
 "Welcome" = "Welkom";
-"Tap to Join the Telegram" = "Klik om de Telegram te joinen";
+"Tap to Join the Telegram" = "Tik om je bij de Telegram te voegen";
 
 // MARK: - Global Actions
 "Yes" = "Ja";
@@ -17,269 +17,259 @@
 "Default" = "Standaard";
 "Modern" = "Modern";
 "Compact" = "Compact";
-"Backgrounding ✌️" = "In de achtergrond ✌️";
+"Backgrounding ✌️" = "Achtergrond ✌️";
 "Are you sure?" = "Weet je het zeker?";
 
 // MARK: - Navigation
 "Feed" = "Feed";
 "Profile" = "Profiel";
-"Other" = "Andere";
+"Other" = "Anders";
 "Region" = "Regio";
-"Developer" = "Developer";
-"Design Options" = "Design opties";
+"Developer" = "Ontwikkelaar";
+"Design Options" = "Ontwerpopties";
 "Other Settings" = "Andere instellingen";
-"Auto Clear History" = "Auto geschiedenis wissen";
-"Enable Embeded Links" = "Zet ingebedde links aan";
+"Auto Clear History" = "Geschiedenis automatisch wissen";
+"Enable Embeded Links" = "Ingesloten links inschakelen";
 "Language 🌎" = "Taal 🌎";
-"Show All Settings Tabs" = "Laat alle instelling tabs zien";
-"Show Video Upload Timestamp" = "Laat video upload tijd zien";
-"Remove Pendant View" = "Verwijder hanger view";
-"Hide Commission Posts" = "Verberg commissie posts";
-"Hide dangerous-action Warning" = "Verberg gevaarlijke actie waarschuwing";
+"Show All Settings Tabs" = "Toon alle instellingentabbladen";
+"Show Video Upload Timestamp" = "Toon tijdstempel video-upload";
+"Remove Pendant View" = "Hangende weergave verwijderen";
+"Hide Commission Posts" = "Commissieposts verbergen";
+"Hide dangerous-action Warning" = "Waarschuwing voor gevaarlijke acties verbergen";
 
 // MARK: - Download Features
-"Downloads Menu" = "Download menu";
-"Download Video" = "Download video";
-"Download HD Video" = "Download HD video";
-"Download Music" = "Download muziek";
-"Download Photo" = "Download foto";
-"Download All Photos" = "Download alle fotos";
-"Download Photos Menu" = "Download fotos menu";
-"Downloading" = "Downloaden";
-"Download Button" = "Download knop";
+"Downloads Menu" = "Downloadmenu";
+"Download Video" = "Video downloaden";
+"Download HD Video" = "HD-video downloaden";
+"Download Music" = "Muziek downloaden";
+"Download Photo" = "Foto downloaden";
+"Download All Photos" = "Alle foto's downloaden";
+"Download Photos Menu" = "Fotodownloadmenu";
+"Downloading" = "Bezig met downloaden";
+"Download Button" = "Downloadknop";
 
 // MARK: - Copy Features
-"Copy Menu" = "Kopieer menu";
-"Copy Music Link" = "Kopieer muzieklink";
-"Copy Description" = "Kopieer beschrijving";
-"Post Info" = "Post informatie";
-"Copy Video link" = "Kopieer videolink";
-"Copy bio" = "Kopieer bio";
+"Copy Menu" = "Kopieermenu";
+"Copy Music Link" = "Muzieklink kopiëren";
+"Copy Description" = "Beschrijving kopiëren";
+"Post Info" = "Postinformatie";
+"Copy Video link" = "Videolink kopiëren";
+"Copy bio" = "Bio kopiëren";
 "Music Link Copied" = "Muzieklink gekopieerd";
 "Video Link Copied" = "Videolink gekopieerd";
-"Description Link Copied" = "Descriptielink gekopieerd";
-"Stats Menu" = "Stats menu";
-"Video Info" = "Video info";
+"Description Link Copied" = "Beschrijvingslink gekopieerd";
+"Stats Menu" = "Statistiekenmenu";
+"Video Info" = "Video-informatie";
 
 // MARK: - Confirm Settings
-"Confirm Settings" = "Confirmeer instellingen";
-"Confirmation Settings" = "Confirmatie instellingen";
-"Like Confirmation" = "Like confirmatie";
-"Like Comment Confirmation" = "Like comment confirmatie";
-"Dislike Comment Confirmation" = "Dislike comment confirmatie";
-"Follow Confirmation" = "Volg confirmatie";
+"Confirm Settings" = "Instellingen bevestigen";
+"Confirmation Settings" = "Bevestigingsinstellingen";
+"Like Confirmation" = "Bevestiging bij like";
+"Like Comment Confirmation" = "Bevestiging bij like op reactie";
+"Dislike Comment Confirmation" = "Bevestiging bij dislike op reactie";
+"Follow Confirmation" = "Bevestiging bij volgen";
 
 // MARK: - Feed Settings
-"Feed Settings" = "Feed instellingen";
-"Hide Ads" = "Verberg ads";
-"Share Sheet" = "Deel menu";
-"Remove Watermark" = "Verwijder watermark";
-"Show/Hide UI Button" = "Toon/verberg UI knop";
-"Stop Playback" = "Stop afspelen";
-"Auto Play Next Video" = "Speel automatisch volgende video";
-"Show Progress Bar" = "Toon progressie balk";
-"Transparent Comments" = "Transparente comments";
-"Show Usernames" = "Weergeef gebruikersnamen";
-"Disable Sensitive Content" = "Zet gevoelige content uit";
-"Disable Warnings" = "Zet waarschuwingen uit";
-"Disable Live Streaming" = "Zet live streaming uit";
-"Skip Recommendations" = "Skip recommendaties";
-"Upload Region" = "Upload regio";
-"Hide Top Feed items" = "Verberg top feed items";
-"Anonymous Seen" = "Anoniem bekijken";
-"Hide Play/Pause Button" = "Verberg play/pause knop";
+"Feed Settings" = "Feedinstellingen";
+"Hide Ads" = "Advertenties verbergen";
+"Share Sheet" = "Deelblad";
+"Remove Watermark" = "Watermerk verwijderen";
+"Show/Hide UI Button" = "UI-knop tonen/verbergen";
+"Stop Playback" = "Afspelen stoppen";
+"Auto Play Next Video" = "Volgende video automatisch afspelen";
+"Show Progress Bar" = "Voortgangsbalk tonen";
+"Transparent Comments" = "Transparante reacties";
+"Show Usernames" = "Gebruikersnamen tonen";
+"Disable Sensitive Content" = "Gevoelige inhoud uitschakelen";
+"Disable Warnings" = "Waarschuwingen uitschakelen";
+"Disable Live Streaming" = "Live streams uitschakelen";
+"Skip Recommendations" = "Aanbevelingen overslaan";
+"Upload Region" = "Uploadregio";
+"Hide Top Feed items" = "Bovenste feeditems verbergen";
+"Hide Play/Pause Button" = "Afspelen/pauzeren-knop verbergen";
 
 // MARK: - Profile Settings
-"Profile Settings" = "Profiel instellingen";
+"Profile Settings" = "Profielinstellingen";
 "Profile Save" = "Profiel opslaan";
-"Profile Copy" = "Kopieer profiel";
-"Video Like Count" = "Video like aantal";
-"Video Upload Date" = "Video upload datum";
-"User Post Count" = "Gebruiker post aantal";
+"Profile Copy" = "Profiel kopiëren";
+"Video Like Count" = "Aantal videolikes";
+"Video Upload Date" = "Videouploaddatum";
+"User Post Count" = "Aantal posts van gebruiker";
 "Follower" = "Volgers";
-"Following" = "Volgt";
-"Fake Verified" = "Neppe geverifieerd";
-"Enable Fake Changes" = "Zet fake wijzigingen aan";
-"Extended Bio" = "Verlengde bio";
-"Extended Comments" = "Verlengde comments";
-"Upload HD" = "Upload HD";
-"App Lock" = "App vergrendelen";
-"Enable Flex" = "Zet Flex aan";
-"Enable Oled Keyboard" = "Zet OLED toetsenbord aan";
-"Post Stats" = "Post statistieken";
-"Enable Text To Reposts" = "Zet text op reposts aan";
-"Disable Survey Popups" = "Zet survey popups uit";
+"Following" = "Volgend";
+"Fake Verified" = "Nep geverifieerd";
+"Enable Fake Changes" = "Nepwijzigingen inschakelen";
+"Extended Comments" = "Uitgebreide reacties";
+"Upload HD" = "Uploaden in HD";
+"App Lock" = "App-vergrendeling";
+"Enable Flex" = "Flex inschakelen";
+"Enable Oled Keyboard" = "OLED-toetsenbord inschakelen";
+"Post Stats" = "Poststatistieken";
+"Enable Text To Reposts" = "Tekst bij reposts inschakelen";
+"Disable Survey Popups" = "Enquête-pop-ups uitschakelen";
 
 // MARK: - Comment Settings
-"Comment Settings" = "Comment instellingen";
-"Comment Design" = "Comment design";
-"Select Design" = "Selecteer design";
-"Disable Comment Tooltip" = "Zet comment tooltip uit";
-"Add Comment as Post" = "Voeg comment toe als post";
-"Add Comment as Story" = "Voeg comment toe als story";
-"Mass Unfold Comment Replies" = "Ontvouw alle comments antwoorden";
-"Auto Unfold Comment Texts" = "Automatisch comment teksten ontvouwen";
-"Multi Emoji Comment Bar" = "Multi emoji balk";
-"Hide Emoji-Bar" = "Verberg emoji balk";
-"Add Translation Button" = "Voeg vertaal knop toe";
-"Comment Cell Redesign" = "Herontwerp comment cell";
-"Enable Comment Photos" = "Zet comment fotos aan";
-"Enable Comment Stickers" = "Zet comment stickers aan";
-"Enable Comment Flags" = "Zet comment vlaggen aan";
-"Enable Copy Without Username" = "Zet kopieren zonder gebruikersnaam aan";
-"Configure Advanced Comment Settings" = "Configureer geavanceerde comment instellingen";
+"Comment Settings" = "Reactie-instellingen";
+"Comment Design" = "Reactieontwerp";
+"Select Design" = "Selecteer ontwerp";
+"Disable Comment Tooltip" = "Reactietooltip uitschakelen";
+"Add Comment as Post" = "Reactie toevoegen als post";
+"Add Comment as Story" = "Reactie toevoegen als story";
+"Mass Unfold Comment Replies" = "Reacties massaal uitvouwen";
+"Auto Unfold Comment Texts" = "Reactieteksten automatisch uitvouwen";
+"Multi Emoji Comment Bar" = "Multi-emoji-reactiebalk";
+"Hide Emoji-Bar" = "Emoji-balk verbergen";
+"Add Translation Button" = "Vertaalknop toevoegen";
+"Comment Cell Redesign" = "Reactiecel herontwerpen";
+"Enable Comment Photos" = "Foto's in reacties inschakelen";
+"Enable Comment Stickers" = "Stickers in reacties inschakelen";
+"Enable Comment Flags" = "Vlaggen in reacties inschakelen";
+"Enable Copy Without Username" = "Kopiëren zonder gebruikersnaam inschakelen";
+"Configure Advanced Comment Settings" = "Geavanceerde reactie-instellingen configureren";
 
 // MARK: - Tab Bar Settings
-"Tab Bar Settings" = "Tabbalk instellingen";
-"Tab Bar Configurations" = "Tabbalk configuratie";
-"Hide Plus Button" = "Verberg plus knop";
-"Hide Friends Badge" = "Verberg vrienden badge";
-"Hide Inbox Badge" = "Verberg postvak badge";
-"Changes will take effect after restarting the app" = "Aanpassingen zullen worden toegepast na het herstarten van de app";
+"Tab Bar Settings" = "Tabbladbalk-instellingen";
+"Tab Bar Configurations" = "Tabbladbalkconfiguraties";
+"Hide Plus Button" = "Plus-knop verbergen";
+"Hide Friends Badge" = "Vriendenbadge verbergen";
+"Hide Inbox Badge" = "Postvak IN-badge verbergen";
+"Changes will take effect after restarting the app" = "Wijzigingen worden van kracht na het opnieuw starten van de app";
 
 // MARK: - Live Button Settings
-"Live Button Settings" = "Live knop instellingen";
-"Live Button Function" = "Live knop functie";
-"Live Button Actions" = "Live knop acties";
-"Live Actions" = "Live acties";
+"Live Button Settings" = "Live-knopinstellingen";
+"Live Button Function" = "Live-knopfunctie";
+"Live Button Actions" = "Live-knopacties";
+"Live Actions" = "Live-acties";
 "Playback Speed" = "Afspeelsnelheid";
 "Select Action" = "Selecteer actie";
-"Change the behavior of the Live button" = "Verander het gedrag van de live knop";
-"Selected Action" = "Geselecteerde actie"; 
-"Live Button Function Disabled" = "Live knop functie uitgeschakeld";
-"Please enable Live Button Function first" = "Zet live knop functie eerst aan alsjeblieft";
-"Change Action of Live Button" = "Verander actie van live knop";
-"Enable Live Button Function" = "Zet live knop functie aan";
+"Change the behavior of the Live button" = "Het gedrag van de Live-knop wijzigen";
+"Selected Action" = "Geselecteerde actie";
+"Live Button Function Disabled" = "Live-knopfunctie uitgeschakeld";
+"Please enable Live Button Function first" = "Schakel eerst de Live-knopfunctie in";
+"Change Action of Live Button" = "Actie van Live-knop wijzigen";
+"Enable Live Button Function" = "Live-knopfunctie inschakelen";
 
 // MARK: - Chat Settings
-"Chat Settings" = "Chat instellingen";
-"Enable Voice Messages" = "Zet spraakberichten aan";
-"Enable Streaks" = "Zet streaks aan";
-"Hide Streak Pet" = "Verberg streak diertje";
-"Disable Typing Indicator" = "Zet typing indicator uit";
-"Enable Pin Chat" = "Zet gepinde chats aan";
-"Bypass Media Limit" = "Bypass media limiet";
-"Disable AI-Generated Replies" = "Zet AI-gegenereerde antwoorden uit"; 
-"Enable Small Emoji" = "Zet kleine emojis aan";
-"Anonymous Seen" = "Anoniem bekijken";
+"Chat Settings" = "Chatinstellingen";
+"Enable Voice Messages" = "Spraakberichten inschakelen";
+"Enable Streaks" = "Streaks inschakelen";
+"Hide Streak Pet" = "Streak-huisdier verbergen";
+"Disable Typing Indicator" = "Type-indicator uitschakelen";
+"Enable Pin Chat" = "Chat vastpinnen inschakelen";
+"By pass Media Limit" = "Medialimiet omzeilen";
+"Disable AI-Generated Replies" = "Door AI gegenereerde antwoorden uitschakelen";
+"Enable Small Emoji" = "Kleine emoji's inschakelen";
+"Anonymous Seen" = "Anoniem bekeken";
 
 // MARK: - Playback Speed
-"Enable Playback Speed" = "Zet afspeelsnelheid aan";
+"Enable Playback Speed" = "Afspeelsnelheid inschakelen";
 "Selected Speed" = "Geselecteerde snelheid";
-"Playback Speed Settings" = "Afspeelsnelheid instellingen";
-"Enable Persistent Playback Speed." = "Zet persistente afspeelsnelheid aan.";
+"Playback Speed Settings" = "Instellingen voor afspeelsnelheid";
+"Enable Persistent Playback Speed." = "Blijvende afspeelsnelheid op posts inschakelen.";
 "Select Speed" = "Selecteer snelheid";
-"Control video playback speed" = "Controleer video afspeelsnelheid";
-"Playback Speed Disabled" = "Zet afspeelsnelheid uit";
-"Please enable Playback Speed first" = "Zet afspeelsnelheid eerst aan alsjeblieft";
+"Control video playback speed" = "Videofspeelsnelheid regelen";
+"Playback Speed Disabled" = "Afspeelsnelheid uitgeschakeld";
+"Please enable Playback Speed first" = "Schakel eerst de afspeelsnelheid in";
 
 // MARK: - Region Settings
-"Region Settings" = "Regio instellingen";
-"Enable region changing to access content from different regions" = "Zet regio wijzigingen aan om content van verschillende regios te zien";
-"Enable Region Changing" = "Zet regio aanpassingen aan";
-"Enable Region Changing Functionality" = "Zet regio aanpassingen functie aan";
+"Region Settings" = "Regio-instellingen";
+"Enable region changing to access content from different regions" = "Regiowijziging inschakelen om toegang te krijgen tot inhoud uit verschillende regio's";
+"Enable Region Changing" = "Regiowijziging inschakelen";
+"Enable Region Changing Functionality" = "Functionaliteit voor regiowijziging inschakelen";
 "Selected Region" = "Geselecteerde regio";
-"Region Changing Disabled" = "Zet regio aanpassingen uit";
-"Please enable region changing first" = "Zet regio aanpassingen eerst aan alsjeblieft";
+"Region Changing Disabled" = "Regiowijziging uitgeschakeld";
+"Please enable region changing first" = "Schakel eerst regiowijziging in";
 
 // MARK: - Feature Descriptions
-"FEATURE_ENABLE_COMMENT_FLAGS" = "FEATURE_ENABLE_COMMENT_FLAGS";
-"FEATURE_COPY_WITHOUT_USERNAME" = "FEATURE_COPY_WITHOUT_USERNAME";
-"FEATURE_HIDE_ADS" = "Verbergt ads van de feed";
-"FEATURE_DOWNLOAD_BUTTON" = "Download knop inschakelen voor posts en verhalen";
-"FEATURE_SHARE_SHEET" = "Open deel menu na het downloaden van media";
-"FEATURE_REMOVE_WATERMARK" = "Verwijdert watermark (geanimeerd TikTok logo en gebruikersnaam) van gedownload media";
-"FEATURE_UI_BUTTON" = "Toont of verbergt UI knop";
-"FEATURE_STOP_PLAYBACK" = "Stopt het afspelen van video wanneer deze is beeindigt";
-"FEATURE_AUTO_PLAY" = "Zet automatisch video scrollen aan";
-"FEATURE_PROGRESS_BAR" = "Toont de duratie balk onder elke video";
-"FEATURE_TRANSPARENT_COMMENTS" = "Maakt de comment sectie transparant";
-"FEATURE_DISABLE_SURVEY" = "Zet irritante survey vragen uit in feed";
-"FEATURE_HIDE_PLAY_PAUSE" = "Verberg de speel/pauzeer weergave in de feed";
-"FEATURE_SHOW_USERNAMES" = "Vervangt bijnamen met tags";
-"FEATURE_DISABLE_SENSITIVE" = "Verbergt waarschuwing voor ongepaste content";
-"FEATURE_ADD_TRANSLATION" = "Voegt een vertaal knop toe in elke comment";
-"FEATURE_DISABLE_WARNINGS" = "Verbergt TikTok waarschuwingen";
+"FEATURE_HIDE_ADS" = "Verbergt advertenties in je feed";
+"FEATURE_DOWNLOAD_BUTTON" = "Voegt een downloadknop toe aan posts en stories";
+"FEATURE_SHARE_SHEET" = "Opent het deelblad nadat media is gedownload";
+"FEATURE_REMOVE_WATERMARK" = "Verwijdert het watermerk van gedownloade media";
+"FEATURE_UI_BUTTON" = "Toont de knop 'Verberg UI'";
+"FEATURE_STOP_PLAYBACK" = "Stopt het afspelen van de post aan het einde";
+"FEATURE_AUTO_PLAY" = "Schakelt automatisch videoscrollen in";
+"FEATURE_PROGRESS_BAR" = "Toont de mediaduur onder elke post";
+"FEATURE_TRANSPARENT_COMMENTS" = "Maakt de achtergrond van het reactiegedeelte transparant";
+"FEATURE_DISABLE_SURVEY" = "Schakelt enquêtevragen in de feed uit";
+"FEATURE_HIDE_PLAY_PAUSE" = "Verbergt de afspelen/pauzeren-weergave in de feed";
+"FEATURE_SHOW_USERNAMES" = "Vervangt de bijnamen van gebruikers door hun gebruikersnamen in de feed";
+"FEATURE_DISABLE_SENSITIVE" = "Verbergt waarschuwingen voor 'Ongepaste inhoud'";
+"FEATURE_ADD_TRANSLATION" = "Voegt een vertaalknop toe aan elke reactie";
+"FEATURE_DISABLE_WARNINGS" = "Verbergt TikTok-waarschuwingen";
 "FEATURE_DISABLE_LIVE" = "Verbergt livestreams in de feed";
-"FEATURE_SKIP_RECOMMENDED" = "Verwijdert vriend recommendaties etc";
-"FEATURE_UPLOAD_REGION" = "Voeg de upload regio vlag toe naast de gebruikersnaam";
-"FEATURE_HIDE_TOP_ITEMS" = "Veberg zoeken knop, LIVE en anderen (Voor Jou, Volgend, Shop etc...)";
-"FEATURE_ANONYMOUS_SEEN" = "Kijk naar berichten zonder dat de andere persoon dat ziet";
-"FEATURE_SHOW_ALL_TABS" = "Laat alle verborgen instellingen zien [Beta!]";
-"FEATURE_PROFILE_SAVE" = "Bewaart profiel informatie naar het klipbord";
-"FEATURE_EMBED_LINKS" = "Zet ingebedde links aan wanneer je een link kopieert";
-"FEATURE_PROFILE_COPY" = "Kopieert profiel informatie";
-"FEATURE_USER_POST_COUNT" = "Laat aantal geuploade videos zien";
-"FEATURE_LIKE_COUNT" = "Laat aantal likes zien op berichten";
-"FEATURE_UPLOAD_DATE" = "Laat upload datum zien";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Laat upload tijd in FYP zien";
-"FEATURE_HIDE_DANGEROUS_ACTION" = "Verbergt waarschuwingen onder sport videos (UFC, Boxen, etc...)";
-"FEATURE_REMOVE_PENDANT" = "Verwijdert de ad-view in fyp";
-"FEATURE_CONFIRM_LIKE" = "Laat bevestiging zien om video te liken";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "Laat bevestiging zien om comment te liken";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Laat bevestiging zien om comment te disliken";
-"FEATURE_CONFIRM_FOLLOW" = "Laat bevestiging zien om gebruiker te volgen";
-"FEATURE_AUTO_CLEAR" = "Automatisch zoekgeschiedenis wissen elke 60 seconden";
-"FEATURE_FAKE_CHANGES" = "Zet profiel gegevens spoofing aan";
-"FEATURE_FOLLOWER_COUNT" = "Voer fake volgers aantal in";
-"FEATURE_FOLLOWING_COUNT" = "Voer fake volgende aantal in";
-"FEATURE_FAKE_VERIFIED" = "Laat fake verificatie badge zien";
-"FEATURE_HIDE_PLUS_BTN" = "Verbergt de camera knop";
-"FEATURE_HIDE_FRIENDS_BADGE" = "Verbergt vriend notificatie badge";
-"FEATURE_HIDE_INBOX_BADGE" = "Verbergt postvak notificatie badge";
-"FEATURE_EXTENDED_BIO" = "Verlengt bio character limiet";
-"FEATURE_EXTENDED_COMMENTS" = "Verlengt comment character limiet";
-"FEATURE_UPLOAD_HD" = "Zet HD uploads aan";
-"FEATURE_APP_LOCK" = "Voegt mogelijkheid om TikTok met wachtwoord te vergrendelen";
-"FEATURE_ENABLE_FLEX" = "Alleen voor ontwikkelaars, ZET NIET AAN als je niet weet wat het doet";
-"FEATURE_OLED_KEYBOARD" = "Werkt alleen met donkere thema";
-"FEATURE_POST_STATS" = "Laat een menu knop zien in download sectie voor post stats";
-"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Zet toevoegen van tekst aan je reposts aan";
-"FEATURE_VOICE_MESSAGES" = "Zet het versturen van spraakberichten aan in chat";
-"FEATURE_ENABLE_STREAKS" = "Zet streaks met vrienden aan";
-"FEATURE_HIDE_STREAK_PET" = "Verbergt streak diertje";
-"FEATURE_DISABLE_TYPING" = "Stuur geen type indicator door tijdens typen";
-"FEATURE_PIN_CHATS" = "Pin favoriete berichten naar de top";
-"FEATURE_BYPASS_MEDIA_LIMIT" = "Bypass media limiet in chat (Standaard: 9 Foto's, 1 Min Video)";
-"FEATURE_DISABLE_AI_REPLIES" = "Zet AI-gegenereerde antwoorden op verzonden berichten uit";
-"FEATURE_SMALL_EMOJI" = "Zet het versturen van kleine emojis aan";
-"FEATURE_REMOVE_PENDANT" = "Verwijdert de irritante Ad-view in de linker top van het scherm (Alleen in sommige regio's)"; 
-"FEATURE_HIDE_DANGEROUS_ACTION" = "Verberg de annyinge waarschuwingen onder sports video";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Laat upload-tijd zien naast gebruikersnaam in fyp";
-"FEATURE_HIDE_COMMISSION_POSTS" = "Verwijder posts die zeggen 'Maker verdient commissie'";
-
+"FEATURE_SKIP_RECOMMENDED" = "Verwijdert inhoudsaanbevelingen (vriendaanbevelingen, enz.)";
+"FEATURE_UPLOAD_REGION" = "Toont de vlag van de uploadregio naast de gebruikersnaam";
+"FEATURE_HIDE_TOP_ITEMS" = "Verbergt de bovenste balk (Voor jou, Volgend, Shop, enz.)";
+"FEATURE_ANONYMOUS_SEEN" = "Lees chats zonder de persoon op de hoogte te stellen";
+"FEATURE_SHOW_ALL_TABS" = "Toont alle verborgen instellingentabbladen [BÈTA]";
+"FEATURE_PROFILE_SAVE" = "Slaat de profielfoto van een gebruiker op via lang indrukken";
+"FEATURE_EMBED_LINKS" = "Gekopieerde links zullen media insluiten waar ze worden verzonden";
+"FEATURE_PROFILE_COPY" = "Kopieert de bio van een gebruiker via lang indrukken";
+"FEATURE_USER_POST_COUNT" = "Toont het totale aantal posts van een gebruiker";
+"FEATURE_LIKE_COUNT" = "Toont het aantal likes op posts";
+"FEATURE_UPLOAD_DATE" = "Toont de uploaddatum op posts";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Toont de uploadtijd van de post in FYP";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Verbergt waarschuwingen onder sportvideo's (UFC, Boksen, enz.)";
+"FEATURE_REMOVE_PENDANT" = "Verwijdert de advertentieweergave linksboven in de feed";
+"FEATURE_CONFIRM_LIKE" = "Vraagt om bevestiging voordat je een post liked";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Vraagt om bevestiging voordat je een reactie liked";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Vraagt om bevestiging voordat je een reactie disliked";
+"FEATURE_CONFIRM_FOLLOW" = "Vraagt om bevestiging voordat je een gebruiker volgt";
+"FEATURE_AUTO_CLEAR" = "Wist je zoekgeschiedenis elke 60 seconden";
+"FEATURE_FAKE_CHANGES" = "Schakelt nepwijzigingen van profielgegevens in";
+"FEATURE_FOLLOWER_COUNT" = "Voer nep aantal volgers in";
+"FEATURE_FOLLOWING_COUNT" = "Voer nep aantal volgende in";
+"FEATURE_FAKE_VERIFIED" = "Toont een nep verificatiebadge";
+"FEATURE_HIDE_PLUS_BTN" = "Verbergt de cameraknop";
+"FEATURE_HIDE_FRIENDS_BADGE" = "Verbergt de vriendennotificatiebadge";
+"FEATURE_HIDE_INBOX_BADGE" = "Verbergt de notificatiebadge van de inbox";
+"FEATURE_EXTENDED_COMMENTS" = "Verhoogt de tekenlimiet voor reacties";
+"FEATURE_UPLOAD_HD" = "Schakelt HD-uploads in";
+"FEATURE_APP_LOCK" = "Voegt een app-vergrendeling toe wanneer TikTok wordt gestart";
+"FEATURE_ENABLE_FLEX" = "ALLEEN VOOR ONTWIKKELAARS, NIET AANRAKEN ALS JE NIET WEET WAT FLEX IS!";
+"FEATURE_OLED_KEYBOARD" = "Werkt alleen met donker thema";
+"FEATURE_POST_STATS" = "Toont een submenu in het downloadgedeelte met postinformatie";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Schakelt het toevoegen van bijschriften aan reposts in voor niet-ondersteunde regio's";
+"FEATURE_VOICE_MESSAGES" = "Schakelt het verzenden van spraakberichten in chat in (alleen in sommige regio's)";
+"FEATURE_ENABLE_STREAKS" = "Schakelt streaks met vrienden in";
+"FEATURE_HIDE_STREAK_PET" = "Verbergt het streak-huisdier";
+"FEATURE_DISABLE_TYPING" = "Schakelt de type-indicator uit";
+"FEATURE_PIN_CHATS" = "Schakelt het vastpinnen van favoriete chats bovenaan in";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "Omzeilt de medialimiet bij verzenden in chat (standaard: 9 foto's, 1 min video)";
+"FEATURE_DISABLE_AI_REPLIES" = "Schakelt door AI gegenereerde antwoorden op posts uit";
+"FEATURE_SMALL_EMOJI" = "Schakelt het verzenden van kleine emoji's in";
+"FEATURE_HIDE_COMMISSION_POSTS" = "Verbergt posts met 'Maker verdient commissie'";
 
 // Comment Settings Descriptions
-"ENABLE_COMMENT_PHOTO" = "Sta toe om fotos toe te voegen in comments";
-"ENABLE_COMMENT_STICKERS" = "Sta toe om stickers toe te voegen in comments";
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Zet tooltips uit in comments";
-"FEATURE_ADD_TRANSLATION" = "Voeg een vertaal knop toe bij comments";
-"FEATURE_ADD_COMMENT_POST" = "Zet het plaatsen van comments als posts aan";
-"FEATURE_ADD_COMMENT_STORY" = "Zet het plaatsen van comments als verhaal aan";
-"FEATURE_MASS_UNFOLD" = "Ontvouw alle comments antwoorden";
-"FEATURE_AUTO_UNFOLD" = "Automatisch alle comments ontvouwen";
-"FEATURE_MULTI_EMOJI" = "Zet multi-emoji comment balk aan";
-"FEATURE_HIDE_EMOJI" = "Verberg emoji balk in comments";
-"FEATURE_COMMENT_REDESIGN" = "Zet hervormde comment cells aan";
-"FEATURE_COPY_WITHOUT_USERNAME" = "Kopieer comments zonder 'Gebruikersnaam: '";
-"FEATURE_ENABLE_COMMENT_FLAGS" = "Laat commenters regio vlag zien";
+"ENABLE_COMMENT_PHOTO" = "Schakelt fotoreacties in reacties in";
+"ENABLE_COMMENT_STICKERS" = "Schakelt stickerreacties in reacties in";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Schakelt tooltips in het reactiegedeelte uit";
+"FEATURE_ADD_COMMENT_POST" = "Schakelt het plaatsen van reacties op opmerkingen als een post in";
+"FEATURE_ADD_COMMENT_STORY" = "Schakelt het plaatsen van reacties op opmerkingen als een story in";
+"FEATURE_MASS_UNFOLD" = "Vouwt massaal alle antwoorden op reacties uit";
+"FEATURE_AUTO_UNFOLD" = "Vouwt automatisch alle lange reacties uit";
+"FEATURE_MULTI_EMOJI" = "Schakelt de multi-emoji-reactiebalk in";
+"FEATURE_HIDE_EMOJI" = "Verbergt de multi-emoji-reactiebalk";
+"FEATURE_COMMENT_REDESIGN" = "Schakelt opnieuw ontworpen reactiecellen in";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Kopieert reacties zonder de naam van de reageerder";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Toont regiovlaggen naast de naam van de reageerder";
 
 // MARK: - Error Messages
-"Could Not Copy Music" = "Kon muziek niet kopieren";
-"The video doesn't have music to download" = "Deze video heeft geen muziek om te downloaden";
+"Could Not Copy Music" = "Kan muziek niet kopiëren";
+"the video doesn't have music to download" = "Deze video heeft geen muziek om te downloaden";
 
 // MARK: - Developer
-"DEVELOPER_TELEGRAM" = "Join het Telegram kanaal voor de laatste updates";
-"DEVELOPER_SUPPORT" = "Support RXTikTok en krijg toegang tot de beta testing groep";
+"DEVELOPER_TELEGRAM" = "Word lid van ons Telegram-kanaal voor de laatste updates";
+"DEVELOPER_SUPPORT" = "Steun RXTikTok en krijg toegang tot onze bètatestgroep";
 
 // MARK: - Missing Strings
 "Features list" = "Functielijst";
 "Not Selected" = "Niet geselecteerd";
 "OK" = "OK";
-"Disable Left & Right Swipe" = "Veeg naar links & rechts uitschakelen";
-"Pull To Camera" = "Veeg naar camera";
+"Disable Left & Right Swipe" = "Links- en rechtsvegen uitschakelen";
+"Pull To Camera" = "Trek naar camera";
 "Regions" = "Regio's";
-"Full Region Mode" = "Volledige regiomodus";
+"Full Region Mode" = "Volledige regio-modus";
 "Add Folders To Inbox" = "Mappen toevoegen aan inbox";
 
 // Additional missing strings
@@ -287,22 +277,22 @@
 "Save" = "Opslaan";
 "Delete" = "Verwijderen";
 "Edit" = "Bewerken";
-"Close" = "Sluit";
+"Close" = "Sluiten";
 "Back" = "Terug";
 "Next" = "Volgende";
-"Done" = "Klaar";
-"Error" = "Error";
-"Success" = "Gelukt";
+"Done" = "Gereed";
+"Error" = "Fout";
+"Success" = "Succes";
 "Warning" = "Waarschuwing";
 "Loading" = "Laden";
 "Search" = "Zoeken";
 "Apply" = "Toepassen";
-"Reset" = "Terugzetten";
+"Reset" = "Resetten";
 "Saved!" = "Opgeslagen!";
 "Video saved successfully" = "Video succesvol opgeslagen";
 "Photo saved successfully" = "Foto succesvol opgeslagen";
-"Failed to save media" = "Kan media niet opslaan";
-"No internet connection" = "Geen internet";
+"Failed to save media" = "Media opslaan mislukt";
+"No internet connection" = "Geen internetverbinding";
 "Select All" = "Alles selecteren";
 "Deselect All" = "Alles deselecteren";
 "More Options" = "Meer opties";
@@ -311,198 +301,232 @@
 "Report" = "Rapporteren";
 "Block" = "Blokkeren";
 "Unfollow" = "Ontvolgen";
-"Hide" = "Verberg";
+"Hide" = "Verbergen";
 "Show" = "Tonen";
 "Enable" = "Inschakelen";
 "Disable" = "Uitschakelen";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_DISABLE_SWIPE" = "Schakelt 'Veeg naar links & rechts' in feed uit";
-"FEATURE_PULL_TO_CAMERA" = "Schakelt 'Veeg naar Camera' in";
-"FEATURE_ADD_FOLDERS" = "Voegt mappen toe aan je inbox";
-"FEATURE_FULL_REGION_MODE" = "Schakel ALLEEN in als eerste optie NIET werkt!";
+"FEATURE_DISABLE_SWIPE" = "Schakelt links- en rechtsvegen in de feed uit";
+"FEATURE_PULL_TO_CAMERA" = "Schakelt de functie 'Trek naar camera' in";
+"FEATURE_ADD_FOLDERS" = "Voegt maporganisatie toe aan inboxberichten";
+"FEATURE_FULL_REGION_MODE" = "ALLEEN INSCHAKELEN ALS DE EERSTE OPTIE NIET WERKT!";
 
 // Additional feature descriptions
-"FEATURE_ANONYMOUS_SEEN_DESC" = "Bekijk chats zonder dat de ander een leesbevestiging ontvangt";
-"FEATURE_SHOW_ALL_TABS_DESC" = "Toon alle verborgen instellingstabbladen, inclusief experimentele functies";
-"FEATURE_PROFILE_SAVE_DESC" = "Sla profielinformatie direct op in het klembord";
-"FEATURE_PROFILE_COPY_DESC" = "Kopieer profielgegevens, inclusief gebruikersnaam, bio en andere publieke info";
-"FEATURE_APP_LOCK_DESC" = "Beveilig de TikTok-app met een wachtwoord of biometrische verificatie";
-"FEATURE_REGIONS_DESC" = "Toegang tot regiogebonden inhoud door je virtuele locatie te wijzigen";
-"FEATURE_ADD_FOLDERS_DESC" = "Organiseer je inboxberichten in mappen voor beter overzicht";
+"FEATURE_ANONYMOUS_SEEN_DESC" = "Bekijk chats zonder leesbevestigingen naar de ontvanger te sturen";
+"FEATURE_SHOW_ALL_TABS_DESC" = "Toon alle verborgen instellingentabbladen, inclusief experimentele functies";
+"FEATURE_PROFILE_SAVE_DESC" = "Sla profielinformatie op in je klembord met één tik";
+"FEATURE_PROFILE_COPY_DESC" = "Kopieer profieldetails, inclusief gebruikersnaam, bio en andere openbare informatie";
+"FEATURE_APP_LOCK_DESC" = "Beveilig de TikTok-app met een wachtwoord of biometrische authenticatie";
+"FEATURE_REGIONS_DESC" = "Krijg toegang tot regiospecifieke inhoud door je virtuele locatie te vervalsen";
+"FEATURE_ADD_FOLDERS_DESC" = "Organiseer je inboxberichten in aangepaste mappen voor beter beheer";
 
 // MARK: - Credits View
 "Credits" = "Credits";
 "Special Thanks to" = "Speciale dank aan";
-"Community" = "Community";
-"Main Developer, Owner" = "Main Developer, Owner";
-"Co-Owner" = "Co-Owner";
-"DRM Developer" = "DRM developer";
-"Contributor" = "Contributor";
-"UI Designer" = "UI Designer";
-"Telegram Channel" = "Telegram kanaal";
-"Telegram Discussion Group" = "Telegram Discussie Group";
-"Get the latest updates and news" = "Krijg de laatste updates en nieuws";
-"Join the community discussion" = "Praat mee in de community";
-"Buy Me a Coffee" = "Buy Me a Coffee";
-"Support the development" = "Ondersteun de ontwikkeling";
+"Community" = "Gemeenschap";
+"Main Developer, Owner" = "Hoofdontwikkelaar, Eigenaar";
+"Co-Owner" = "Mede-eigenaar";
+"DRM Developer" = "DRM-ontwikkelaar";
+"Contributor" = "Bijdrager";
+"UI Designer" = "UI-ontwerper";
+"Telegram Channel" = "Telegramkanaal";
+"Telegram Discussion Group" = "Telegram-discussiegroep";
+"Get the latest updates and news" = "Ontvang de laatste updates en nieuws";
+"Join the community discussion" = "Neem deel aan de gemeenschapsdiscussie";
+"Buy Me a Coffee" = "Koop me een koffie";
+"Support the development" = "Steun de ontwikkeling";
 "X" = "X";
 "Support" = "Steun";
 
 // MARK: - Configuration
-"About" = "Over deze app";
+"About" = "Over";
 "Configuration" = "Configuratie";
 "Import Configuration" = "Configuratie importeren";
 "Export Configuration" = "Configuratie exporteren";
-"Reset All Settings" = "Alle instellingen terugzetten";
-"Import settings from a file" = "Instellingen importeren vanuit bestand";
-"Export settings to a file" = "Instellingen exporteren naar bestand";
-"Reset all settings to default values" = "Herstel alle instellingen naar standaardwaarden";
+"Reset All Settings" = "Alle instellingen resetten";
+"Import settings from a file" = "Instellingen importeren uit een bestand";
+"Export settings to a file" = "Instellingen exporteren naar een bestand";
+"Reset all settings to default values" = "Alle instellingen terugzetten naar standaardwaarden";
 "All settings have been reset to default values." = "Alle instellingen zijn teruggezet naar standaardwaarden.";
 "Configuration imported successfully." = "Configuratie succesvol geïmporteerd.";
-"File selection was cancelled." = "Bestandselectie geannuleerd.";
+"File selection was cancelled." = "Bestandsselectie is geannuleerd.";
 "Cancelled" = "Geannuleerd";
 
-"Select App Language" = "Selecteer app taal";
+"Select App Language" = "Selecteer app-taal";
 
 
-// 1.3 
-"Erase All TikTok Data" = "Alle TikTok gegevens wissen";
-"Erase all TikTok data from the app  [Becareful!!!]" = "Verwijder alle TikTok gegevens van de app [Wees voorzichtig!!]";
-"Clear Keychain" = "Keychain leegmaken";
-"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Weet je zeker dat je alle gegevens wilt verwijderen? Dit verwijdert\n1- Gegevensmap van TikTok\n2- volledige keychain\n3- Alle NSUserDefaults\n\nLET OP!\nJE VERLIEST JE CONCEPTEN EN ALLES WAT LOKAAL IS OPGESLAGEN.";
-"Clear" = "Wis";
-"Really Clear All Data?" = "Weet je zeker dat je alle gegevens wilt wissen?";
-"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Dit is je laatste waarschuwing. Deze actie is onomkeerbaar en verwijdert alle lokale TikTok-gegevens, inclusief concepten en instellingen. Weet je het zeker?";
+// 1.3
+"Erase All TikTok Data" = "Alle TikTok-gegevens wissen";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Wist alle TikTok-gegevens uit de app [WEES VOORZICHTIG!!!]";
+"Clear Keychain" = "Sleutelhanger wissen";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Weet je zeker dat je alle gegevens wilt wissen? Dit zal het volgende verwijderen:\n1- TikTok's gegevensdirectory\n2- alle sleutelhangers\n3- wist alle NSUserDefaults\n\nLET OP!\n JE VERLIEST JE CONCEPTEN EN ALLES WAT LOKAAL IS OPGESLAGEN.";
+"Clear" = "Wissen";
+"Really Clear All Data?" = "Echt alle gegevens wissen?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Dit is je laatste waarschuwing. Deze actie is onomkeerbaar en zal alle lokale TikTok-gegevens verwijderen, inclusief concepten en instellingen. Weet je het absoluut zeker?";
 "Confirm Clear" = "Bevestig wissen";
 "Data Cleared" = "Gegevens gewist";
-"All TikTok data has been cleared." = "Alle TikTok gegevens zijn gewist.";
+"All TikTok data has been cleared." = "Alle TikTok-gegevens zijn gewist.";
 
-"Streak Info" = "Streak informatie";
-"FEATURE_STREAK_INFO" = "Toont jouw huidige streak-informatie bij het klikken op het streak vuur";
+"Streak Info" = "Streak-informatie";
+"FEATURE_STREAK_INFO" = "Toont je huidige streak-informatie bij tikken op het streak-vuur";
 
-"Hide Tab Bar Labels" = "Verberg Tabbalk labels";
-"FEATURE_HIDE_TAB_BAR_LABELS" = "Verbergt labels in de tabbalk";
+"Hide Tab Bar Labels" = "Tabbladbalklabels verbergen";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Verbergt labels in de tabbladbalk";
 
 "Adjust offline download limit" = "Offline downloadlimiet aanpassen";
-"Adjust value between 50 and 2000" = "Stel waarde in tussen 50 en 2000";
+"Adjust value between 50 and 2000" = "Pas de waarde aan tussen 50 en 2000";
 
-"Start TikTok in Following" = "TikTok starten op Volgend";
-"FEATURE_START_FYP_IN_FOLLOWING" = "Start TikTok in de feed Volgend, in plaats van Voor jou";
+"Start TikTok in Following" = "Start TikTok in Volgend";
+"FEATURE_START_FYP_IN_FOLLOWING" = "Start TikTok in de feed 'Volgend', in plaats van de feed 'Voor jou'";
 
 "Waiting for TikTok…" = "Wachten op TikTok…";
-"Extracting Media URL…" = "Media URL ophalen…";
-"Invalid download URL received." = "Ongeldige download URL ontvangen.";
-"Failed to fetch HD video URL. Please try again." = "HD Video URL ophalen mislukt. Probeer het opnieuw.";
+"Extracting Media URL…" = "Media-URL extraheren…";
+"Invalid download URL received." = "Ongeldige download-URL ontvangen.";
+"Failed to fetch HD video URL. Please try again." = "Kan HD-video-URL niet ophalen. Probeer het opnieuw.";
 
-"Enable Egypt Stickers" = "Egypte stickers inschakelen";
+"Enable Egypt Stickers" = "Egypte-stickers inschakelen";
 
 
 // 1.4
-"LOOP_STORY_VIDEOS" = "Videos in story herhalen";
-"STOP_STORY_PHOTO_ADVANCE" = "Foto's in story stoppen";
-"FEATURE_LOOP_STORY_VIDEOS" = "Zorgt dat videos in stories opnieuw worden afgespeeld";
-"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Voorkomt dat foto's in stories automatisch doorgaat naar de volgende";
-"BACKGROUND_PLAY" = "Afspelen op achtergrond";
-"FEATURE_BACKGROUND_PLAY" = "Schakelt het afspelen van geluid op de achtergrond in";
+"LOOP_STORY_VIDEOS" = "Storyvideo's herhalen";
+"STOP_STORY_PHOTO_ADVANCE" = "Automatisch doorgaan van storyfoto's stoppen";
+"FEATURE_LOOP_STORY_VIDEOS" = "Herhaalt video's in stories";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Stopt storyfoto's met automatisch doorgaan";
+"BACKGROUND_PLAY" = "Achtergrondafspelen inschakelen";
+"FEATURE_BACKGROUND_PLAY" = "Schakelt het afspelen van audio op de achtergrond in";
 
-// MARK: - New Section Headers (Added from Settings reorganization)
-"Content & Display" = "Inhoud & Weergave";
+// MARK: - New Section Headers
+"Content & Display" = "Inhoud en weergave";
 "Playback Controls" = "Afspeelbediening";
-"Content Filtering" = "Inhoudsfilter";
-"Navigation & Interaction" = "Navigatie & Interactie";
-"Downloads & Sharing" = "Downloads & Delen";
+"Content Filtering" = "Inhoudsfiltering";
+"Navigation & Interaction" = "Navigatie en interactie";
+"Downloads & Sharing" = "Downloads en delen";
 "Profile Actions" = "Profielacties";
-"Video Information" = "Videoinformatie";
-"Profile Customization" = "Profiel aanpassen";
-"Profile Enhancement" = "Profiel verbeteren";
-"Enhanced Comments Features" = "Verbeterde reacties";
-"Text & Display Options" = "Tekst- & weergave-opties";
-"Emoji & Interface" = "Emoji & interface";
-"Content Interactions" = "Inhoudinteracties";
+"Video Information" = "Video-informatie";
+"Profile Customization" = "Profielaanpassing";
+"Profile Enhancement" = "Profielverbetering";
+"Enhanced Comments Features" = "Geavanceerde reactiefuncties";
+"Text & Display Options" = "Tekst- en weergaveopties";
+"Emoji & Interface" = "Emoji en interface";
+"Content Interactions" = "Inhoudsinteracties";
 "Social Actions" = "Sociale acties";
-"Tab Bar Elements" = "Tabbalk Elementen";
-"Notification Badges" = "Notificatie Badges";
-"App Configuration" = "App configuratie";
-"Content Enhancement" = "Inhoud verbeteren";
+"Tab Bar Elements" = "Tabbladbalkelementen";
+"Notification Badges" = "Notificatiebadges";
+"App Configuration" = "App-configuratie";
+"Content Enhancement" = "Inhoudsverbetering";
 "System Features" = "Systeemfuncties";
 "Configuration Management" = "Configuratiebeheer";
 "Chat Features" = "Chatfuncties";
-"Organization & Management" = "Organisatie & beheer";
-"Privacy & Security" = "Privacy & beveiliging";
+"Organization & Management" = "Organisatie en beheer";
+"Privacy & Security" = "Privacy en beveiliging";
 
 // MARK: - Missing Chat Settings Strings
-"DISABLE_SCREENSHOT_DETECTION" = "Zet screenshotdetectie uit";
-"DISABLE_SCREENRECORDING_DETECTION" = "Zet schermopnamedetectie uit";
-"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "Schakelt screenshotdetectie in chats uit";
+"DISABLE_SCREENSHOT_DETECTION" = "Schermafbeeldingsdetectie uitschakelen";
+"DISABLE_SCREENRECORDING_DETECTION" = "Schermopnamedetectie uitschakelen";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "Schakelt schermafbeeldingsdetectie in chats uit";
 "FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "Schakelt schermopnamedetectie in chats uit";
 
 // MARK: - Missing Alert and UI Strings
 "Reset Settings" = "Instellingen resetten";
-"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Weet je zeker dat je alle instellingen naar standaardwaarden wilt terugzetten? Deze actie kan niet ongedaan worden gemaakt.";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Weet je zeker dat je alle instellingen naar standaardwaarden wilt resetten? Deze actie kan niet ongedaan worden gemaakt.";
 "Erase All Data" = "Alle gegevens wissen";
-"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Weet je zeker dat je alle TikTok-gegevens wilt wissen? Dit verwijdert alle appgegevens en kan niet ongedaan worden gemaakt.";
-"Erase" = "Wis";
-"All TikTok data has been erased." = "Alle TikTok gegevens zijn gewist.";
-"Settings Reset" = "Instellingen teruggezet";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Weet je zeker dat je alle TikTok-gegevens wilt wissen? Dit wist alle app-gegevens en kan niet ongedaan worden gemaakt.";
+"Erase" = "Wissen";
+"All TikTok data has been erased." = "Alle TikTok-gegevens zijn gewist.";
+"Settings Reset" = "Instellingen gereset";
 "Language Changed" = "Taal gewijzigd";
-"Please restart the app to apply changes, May require two app restarts!" = "Start de app opnieuw om wijzigingen toe te passen. Soms twee keer nodig";
+"Please restart the app to apply changes, May require two app restarts!" = "Start de app opnieuw om wijzigingen toe te passen, mogelijk twee keer opnieuw starten vereist!";
 
 // MARK: - Missing Navigation and Menu Strings
 "Speeds" = "Snelheden";
 
-"BETA!" = "BETA!";
+"BETA!" = "BÈTA!";
 
 // MARK: - Menu Manager Strings
 "Language" = "Taal";
 
-"MARK_SEEN_ON_REPLY" = "Markeer als gelezen bij beantwoorden";
-"FEATURE_MARK_SEEN_ON_REPLY" = "Markeert berichten als gelezen bij versturen van bericht in chat";
+"MARK_SEEN_ON_REPLY" = "Markeer als gezien bij antwoord";
+"FEATURE_MARK_SEEN_ON_REPLY" = "Markeert berichten als gezien bij beantwoording";
 
-"VIEW_PROFILES_ANONYMOUS" = "Bekijk profielen anoniem";
-"FEATURE_VIEW_PROFILES_ANONYMOUS" = "Schakelt 'Profielweergave' tracking uit";
+"VIEW_PROFILES_ANONYMOUS" = "Profielen anoniem bekijken";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "Schakelt profielweergavetracking uit";
 
 // MARK: - Import/Export Configuration Strings
 "Choose import source:" = "Kies importbron:";
-"Import from Keychain" = "Importeer vanaf keychain";
-"Import from File" = "Importeer vanaf bestand";
-"No backup found" = "Geen backup gevonden";
-"No Backup" = "Geen backup";
-"No settings backup found in keychain." = "Geen backup instellingen gevonden in keychain.";
-"Choose export destination:" = "Kies export locatie:";
-"Save to Keychain" = "Opslaan in keychain";
-"Export to File" = "Exporteer naar bestand";
-"Configuration imported from keychain successfully." = "Configuratie succesvol geïmporteerd vanuit keychain.";
-"Configuration saved to keychain successfully." = "Configuratie succesvol opgeslagen in keychain.";
+"Import from Keychain" = "Importeren uit sleutelhanger";
+"Import from File" = "Importeren uit bestand";
+"No backup found" = "Geen back-up gevonden";
+"No Backup" = "Geen back-up";
+"No settings backup found in keychain." = "Geen back-up van instellingen gevonden in sleutelhanger.";
+"Choose export destination:" = "Kies exportbestemming:";
+"Save to Keychain" = "Opslaan in sleutelhanger";
+"Export to File" = "Exporteren naar bestand";
+"Configuration imported from keychain successfully." = "Configuratie succesvol geïmporteerd uit sleutelhanger.";
+"Configuration saved to keychain successfully." = "Configuratie succesvol opgeslagen in sleutelhanger.";
 
 // MARK: - Rewards Ads Feature
-"Disable TikTok Rewards ADs" = "TikTok Beloningadvertenties uitschakelen";
-"FEATURE_DISABLE_REWARDS_ADS" = "Verberg TikTok beloningadvertenties in de feed";
+"Disable TikTok Rewards ADs" = "TikTok-beloningsadvertenties uitschakelen";
+"FEATURE_DISABLE_REWARDS_ADS" = "Verbergt TikTok's beloningsadvertenties uit de feed";
 
 // 1.5
 "OTHER_OPTIONS" = "Andere opties";
 "Processing..." = "Verwerken...";
-"FEATURE_HIDE_ACTIVITY_STATUS" = "Verbergt jouw 'Laatst actief' en 'Online' status in chats";
+"FEATURE_HIDE_ACTIVITY_STATUS" = "Verbergt je 'Laatst actief' en 'Online' statussen in chats";
 "HIDE_ACTIVITY_STATUS" = "Activiteitsstatus verbergen";
-"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "Schakelt de knop ‘Visueel zoeken’ uit in de feed bij het pauzeren van een video";
-"DISABLE_VISUAL_SEARCH_TAG" = "Visueel zoeken-tag uitschakelen";
-"FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "Stelt zoeken in de volgerslijst in, ook bij meer dan 5.000 volgers";
+"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "Schakelt de knop 'Visueel zoeken' in de feed uit bij pauzeren van een video";
+"DISABLE_VISUAL_SEARCH_TAG" = "Visuele zoektag uitschakelen";
+"FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "Schakelt zoeken in volgerslijst in, zelfs als de gebruiker meer dan 5.000 volgers heeft";
 "BYPASS_FOLLOW_LIST_SEARCH" = "Limiet voor zoeken in volgerslijst omzeilen";
-"FEATURE_STORY_LIKE_CONFIRMATION" = "Vraagt om bevestiging voordat een story wordt geliket";
-"STORY_LIKE_CONFIRMATION" = "Story like bevestigen";
-"FEATURE_ALWAYS_OPEN_SAFARI" = "Open links altijd in Safari in plaats van de ingebouwde browser";
+"FEATURE_STORY_LIKE_CONFIRMATION" = "Vraagt om bevestiging voordat je een story liked";
+"STORY_LIKE_CONFIRMATION" = "Bevestiging bij story like";
+"FEATURE_ALWAYS_OPEN_SAFARI" = "Opent links altijd in Safari in plaats van de ingebouwde browser";
 "ALWAYS_OPEN_SAFARI" = "Altijd openen in Safari";
-"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "Verwijderd de TikTok AI (tako) knop van FYP";
-"REMOVE_TIKTOK_AI_BUTTON" = "Verwijder TikTok AI knop";
+"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "Verwijdert de TikTok AI (tako)-knop van de FYP";
+"REMOVE_TIKTOK_AI_BUTTON" = "Verwijder TikTok AI-knop";
 "WARNING" = "WAARSCHUWING";
-"DISABLE_ACTIVITY_STATUS_WARNING" = "Het uitschakelen of inschakelen van anonieme activiteitsstatus duurt even om door te voeren op de TikTok-servers. Je kunt nog even als online verschijnen nadat je deze functie hebt ingeschakeld";
-"BLOCK_SHOP_VIDOES" = "Blokkeer winkel videos";
-"BLOCK_SHOP_VIDOES_FEATURE" = "Verwijdert winkel videos van jouw feed.";
+"DISABLE_ACTIVITY_STATUS_WARNING" = "Het uitschakelen of inschakelen van anonieme activiteitsstatus duurt even voordat het zichtbaar is op TikTok-servers. Je kunt nog een tijdje online verschijnen na het inschakelen van deze functie.";
 "PAD_AUTO_SCROLL" = "Standaard automatisch scrollen";
-"FEATURE_PAD_AUTO_SCROLL" = "Schakelt TikTok’s native automatische scrollen in voor niet-ondersteunde regio’s";
-"SAVE_DM_MEDIA" = "DM Media opslaan";
-"FEATURE_SAVE_DM_MEDIA" = "Voegt een downloadknop toe aan media die in DM's is verstuurd";
-"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "Schakelt dubbel tikken om te liken in de feed uit";
-"DISABLE_FEED_DOUBLE_TAP" = "Dubbel tikken in feed uitschakelen";
-"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Schakelt dubbel tikken om te liken in stories uit";
-"DISABLE_STORY_DOUBLE_TAP" = "Dubbel tikken in stories uitschakelen";
+"FEATURE_PAD_AUTO_SCROLL" = "Schakelt TikTok's native automatisch scrollen van posts in voor niet-ondersteunde regio's";
+"SAVE_DM_MEDIA" = "DM-media opslaan";
+"FEATURE_SAVE_DM_MEDIA" = "Voegt een downloadknop toe aan media verzonden in DM's";
+"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "Schakelt dubbeltikken om te liken in de feed uit";
+"DISABLE_FEED_DOUBLE_TAP" = "Dubbeltikken in feed uitschakelen";
+"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Schakelt dubbeltikken om te liken in stories uit";
+"DISABLE_STORY_DOUBLE_TAP" = "Dubbeltikken in stories uitschakelen";
+
+// 1.6
+
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Schakelt het downloaden van stickers in reacties in";
+"ENABLE_STICKER_DOWNLOAD" = "Dubbeltik om sticker te downloaden";
+"STICKER_SAVED" = "Sticker opgeslagen in galerij!";
+"STICKER_SAVE_FAILED" = "Sticker opslaan mislukt";
+"DOWNLOAD_FAILED" = "Downloaden mislukt";
+"DOWNLOADING_STICKER" = "Sticker downloaden...";
+
+"FILTERING_OPTIONS" = "Filteropties";
+"BLOCK_MOVIE_TOK" = "Blokkeer filmadvertenties";
+"FEATURE_BLOCK_MOVIE_TOK" = "Blokkeert video's met filmadvertenties";
+
+"BLOCK_AI_GENERATED" = "Blokkeer door AI gegenereerde posts";
+"FEATURE_BLOCK_AI_GENERATED" = "Blokkeert posts met 'Bevat door AI gegenereerde media'";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Vraagt om bevestiging voor gebruik van snel delen";
+"FEATURE_CONFIRM_REPOST" = "Vraagt om bevestiging voor het reposten van een video";
+"CONFIRM_QUICK_SHARE" = "Bevestiging snel delen";
+"CONFIRM_REPOST" = "Bevestiging repost";
+
+"BLOCK_SHOP_VIDEOS" = "Blokkeer winkelaanbiedingen";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "Verwijdert winkelaanbiedingen uit de feed.";
+"BLOCK_TCM" = "Blokkeer app-advertenties";
+"BLOCK_POI" = "Blokkeer locatieadvertenties";
+"FEATURE_BLOCK_SHOP_ADS" = "Blokkeer video's met winkelaanbiedingen";
+"FEATURE_BLOCK_TCM" = "Blokkeer video's met app-advertenties";
+"FEATURE_BLOCK_POI" = "Blokkeer video's met locatieadvertenties";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "Verwijdert watermerk bij opslaan van posts of concepten";
+"REMOVE_DRAFT_WATERMARK" = "Verwijder fotowatermerk";
+"FEATURE_HIDE_REPORT_BUTTON" = "Verbergt de vlagknop in de navigatiebalk van directe berichten.";
+"HIDE_REPORT_BUTTON" = "Verberg rapportageknop";
+"FEATURE_DISABLE_TYPING_STICKER" = "Schakelt automatische GIF-aanbevelingen tijdens het typen uit";
+"DISABLE_TYPING_STICKER" = "Type-sticker uitschakelen";
+"RUSSIAN_FIX" = "Omzeil Rusland-verbod";
+"FEATURE_RUSSIAN_FIX" = "Schakel dit in om de Russische feed weer te laten werken [NIEUW!]";
