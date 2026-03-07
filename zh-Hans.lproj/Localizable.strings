@@ -18,24 +18,24 @@
 "Modern" = "现代";
 "Compact" = "紧凑";
 "Backgrounding ✌️" = "后台运行中 ✌️";
-"Are you sure?" = "确定吗？";
+"Are you sure?" = "你确定吗？";
 
 // MARK: - Navigation
 "Feed" = "首页";
-"Profile" = "我的主页";
+"Profile" = "个人主页";
 "Other" = "其他";
 "Region" = "地区";
 "Developer" = "开发者";
 "Design Options" = "界面设置";
 "Other Settings" = "其他设置";
 "Auto Clear History" = "自动清除历史记录";
-"Enable Embeded Links" = "允许链接可点击";
+"Enable Embeded Links" = "启用嵌入式链接";
 "Language 🌎" = "语言 🌎";
-"Show All Settings Tabs" = "显示所有设置选项";
-"Show Video Upload Timestamp" = "显示视频上传时间";
-"Remove Pendant View" = "移除悬浮广告";
-"Hide Commission Posts" = "隐藏带货视频";
-"Hide dangerous-action Warning" = "关闭危险内容提示";
+"Show All Settings Tabs" = "显示所有设置选项卡";
+"Show Video Upload Timestamp" = "显示视频上传时间戳";
+"Remove Pendant View" = "移除悬挂视图";
+"Hide Commission Posts" = "隐藏佣金帖子";
+"Hide dangerous-action Warning" = "隐藏危险操作警告";
 
 // MARK: - Download Features
 "Downloads Menu" = "下载菜单";
@@ -44,7 +44,7 @@
 "Download Music" = "下载音乐";
 "Download Photo" = "下载图片";
 "Download All Photos" = "下载所有图片";
-"Download Photos Menu" = "下载图片菜单";
+"Download Photos Menu" = "图片下载菜单";
 "Downloading" = "正在下载";
 "Download Button" = "下载按钮";
 
@@ -52,13 +52,13 @@
 "Copy Menu" = "复制菜单";
 "Copy Music Link" = "复制音乐链接";
 "Copy Description" = "复制描述";
-"Post Info" = "视频信息";
+"Post Info" = "帖子信息";
 "Copy Video link" = "复制视频链接";
 "Copy bio" = "复制简介";
 "Music Link Copied" = "音乐链接已复制";
 "Video Link Copied" = "视频链接已复制";
 "Description Link Copied" = "描述链接已复制";
-"Stats Menu" = "数据菜单";
+"Stats Menu" = "统计菜单";
 "Video Info" = "视频信息";
 
 // MARK: - Confirm Settings
@@ -73,19 +73,19 @@
 "Feed Settings" = "首页设置";
 "Hide Ads" = "隐藏广告";
 "Share Sheet" = "分享菜单";
-"Remove Watermark" = "去除视频水印";
+"Remove Watermark" = "去除水印";
 "Show/Hide UI Button" = "显示/隐藏界面按钮";
 "Stop Playback" = "停止播放";
 "Auto Play Next Video" = "自动播放下一个视频";
-"Show Progress Bar" = "显示视频进度条";
-"Transparent Comments" = "半透明评论区";
+"Show Progress Bar" = "显示进度条";
+"Transparent Comments" = "半透明评论";
 "Show Usernames" = "显示用户名";
-"Disable Sensitive Content" = "关闭敏感内容";
-"Disable Warnings" = "关闭警告提示";
-"Disable Live Streaming" = "关闭直播";
-"Skip Recommendations" = "关闭相关推荐";
-"Upload Region" = "显示视频来源地";
-"Hide Top Feed items" = "隐藏顶部功能区";
+"Disable Sensitive Content" = "禁用敏感内容";
+"Disable Warnings" = "禁用警告";
+"Disable Live Streaming" = "禁用直播";
+"Skip Recommendations" = "跳过推荐";
+"Upload Region" = "上传地区";
+"Hide Top Feed items" = "隐藏首页顶部项目";
 "Hide Play/Pause Button" = "隐藏播放/暂停按钮";
 
 // MARK: - Profile Settings
@@ -94,46 +94,46 @@
 "Profile Copy" = "复制个人资料";
 "Video Like Count" = "视频点赞数";
 "Video Upload Date" = "视频上传日期";
-"User Post Count" = "作品数量";
+"User Post Count" = "用户发帖数";
 "Follower" = "粉丝";
 "Following" = "关注";
-"Fake Verified" = "虚拟认证标识";
-"Enable Fake Changes" = "启用数据自定义";
-"Extended Comments" = "解除评论字数限制";
-"Upload HD" = "上传高清视频";
+"Fake Verified" = "虚假认证";
+"Enable Fake Changes" = "启用虚假更改";
+"Extended Comments" = "扩展评论";
+"Upload HD" = "上传高清";
 "App Lock" = "应用锁";
-"Enable Flex" = "启用开发者调试工具";
+"Enable Flex" = "启用 Flex";
 "Enable Oled Keyboard" = "启用 OLED 键盘";
-"Post Stats" = "视频数据";
-"Enable Text To Reposts" = "转发时可添加评论";
-"Disable Survey Popups" = "关闭问卷弹窗";
+"Post Stats" = "帖子统计";
+"Enable Text To Reposts" = "启用转发文本";
+"Disable Survey Popups" = "禁用调查弹窗";
 
 // MARK: - Comment Settings
 "Comment Settings" = "评论设置";
-"Comment Design" = "评论样式";
-"Select Design" = "选择样式";
-"Disable Comment Tooltip" = "关闭评论提示";
-"Add Comment as Post" = "将评论发布为视频";
-"Add Comment as Story" = "将评论发布为动态";
-"Mass Unfold Comment Replies" = "一键展开评论回复";
-"Auto Unfold Comment Texts" = "自动展开长评论";
-"Multi Emoji Comment Bar" = "多表情栏";
+"Comment Design" = "评论设计";
+"Select Design" = "选择设计";
+"Disable Comment Tooltip" = "禁用评论提示";
+"Add Comment as Post" = "将评论添加为帖子";
+"Add Comment as Story" = "将评论添加为快拍";
+"Mass Unfold Comment Replies" = "批量展开评论回复";
+"Auto Unfold Comment Texts" = "自动展开评论文本";
+"Multi Emoji Comment Bar" = "多表情评论栏";
 "Hide Emoji-Bar" = "隐藏表情栏";
 "Add Translation Button" = "添加翻译按钮";
-"Comment Cell Redesign" = "自定义评论样式";
-"Enable Comment Photos" = "允许评论带图片";
-"Enable Comment Stickers" = "允许评论带贴纸";
-"Enable Comment Flags" = "显示评论者地区";
-"Enable Copy Without Username" = "复制时不带用户名";
-"Configure Advanced Comment Settings" = "更多评论设置";
+"Comment Cell Redesign" = "评论单元格重新设计";
+"Enable Comment Photos" = "启用评论图片";
+"Enable Comment Stickers" = "启用评论贴纸";
+"Enable Comment Flags" = "启用评论旗帜";
+"Enable Copy Without Username" = "启用不带用户名的复制";
+"Configure Advanced Comment Settings" = "配置高级评论设置";
 
 // MARK: - Tab Bar Settings
-"Tab Bar Settings" = "底部导航栏设置";
-"Tab Bar Configurations" = "导航栏配置";
-"Hide Plus Button" = "隐藏发布按钮";
-"Hide Friends Badge" = "隐藏好友提醒";
-"Hide Inbox Badge" = "隐藏消息提醒";
-"Changes will take effect after restarting the app" = "重启应用后生效";
+"Tab Bar Settings" = "标签栏设置";
+"Tab Bar Configurations" = "标签栏配置";
+"Hide Plus Button" = "隐藏加号按钮";
+"Hide Friends Badge" = "隐藏好友徽章";
+"Hide Inbox Badge" = "隐藏收件箱徽章";
+"Changes will take effect after restarting the app" = "更改将在重启应用后生效";
 
 // MARK: - Live Button Settings
 "Live Button Settings" = "直播按钮设置";
@@ -142,125 +142,125 @@
 "Live Actions" = "直播操作";
 "Playback Speed" = "播放速度";
 "Select Action" = "选择操作";
-"Change the behavior of the Live button" = "更改直播按钮行为";
-"Selected Action" = "已选择的操作";
-"Live Button Function Disabled" = "直播按钮功能已关闭";
-"Please enable Live Button Function first" = "请先开启直播按钮功能";
-"Change Action of Live Button" = "更改直播按钮操作";
-"Enable Live Button Function" = "开启直播按钮功能";
+"Change the behavior of the Live button" = "更改直播按钮的行为";
+"Selected Action" = "已选择操作";
+"Live Button Function Disabled" = "直播按钮功能已禁用";
+"Please enable Live Button Function first" = "请先启用直播按钮功能";
+"Change Action of Live Button" = "更改直播按钮的操作";
+"Enable Live Button Function" = "启用直播按钮功能";
 
 // MARK: - Chat Settings
-"Chat Settings" = "私信设置";
-"Enable Voice Messages" = "开启语音消息";
-"Enable Streaks" = "开启连续签到";
-"Hide Streak Pet" = "隐藏签到宠物";
-"Disable Typing Indicator" = "关闭输入状态";
-"Enable Pin Chat" = "允许置顶私信";
-"Bypass Media Limit" = "解除私信文件限制";
-"Disable AI-Generated Replies" = "关闭AI智能回复";
-"Enable Small Emoji" = "使用迷你表情";
-"Anonymous Seen" = "关闭已读提示";
+"Chat Settings" = "聊天设置";
+"Enable Voice Messages" = "启用语音消息";
+"Enable Streaks" = "启用连续互动";
+"Hide Streak Pet" = "隐藏连续互动宠物";
+"Disable Typing Indicator" = "禁用输入指示器";
+"Enable Pin Chat" = "启用置顶聊天";
+"Bypass Media Limit" = "绕过媒体限制";
+"Disable AI-Generated Replies" = "禁用AI生成的回复";
+"Enable Small Emoji" = "启用小表情";
+"Anonymous Seen" = "匿名已读";
 
 // MARK: - Playback Speed
-"Enable Playback Speed" = "开启倍速播放";
-"Selected Speed" = "当前速度";
-"Playback Speed Settings" = "倍速播放设置";
-"Enable Persistent Playback Speed." = "保持固定播放速度";
+"Enable Playback Speed" = "启用播放速度";
+"Selected Speed" = "已选速度";
+"Playback Speed Settings" = "播放速度设置";
+"Enable Persistent Playback Speed." = "在帖子中启用持续播放速度。";
 "Select Speed" = "选择速度";
 "Control video playback speed" = "控制视频播放速度";
-"Playback Speed Disabled" = "倍速播放已关闭";
-"Please enable Playback Speed first" = "请先开启倍速播放";
+"Playback Speed Disabled" = "播放速度已禁用";
+"Please enable Playback Speed first" = "请先启用播放速度";
 
 // MARK: - Region Settings
 "Region Settings" = "地区设置";
-"Enable region changing to access content from different regions" = "开启地区切换以访问不同地区的内容";
-"Enable Region Changing" = "开启地区切换";
-"Enable Region Changing Functionality" = "开启地区切换功能";
-"Selected Region" = "当前地区";
-"Region Changing Disabled" = "地区切换已关闭";
-"Please enable region changing first" = "请先开启地区切换";
+"Enable region changing to access content from different regions" = "启用地区更改以访问不同地区的内容";
+"Enable Region Changing" = "启用地区更改";
+"Enable Region Changing Functionality" = "启用地区更改功能";
+"Selected Region" = "已选地区";
+"Region Changing Disabled" = "地区更改已禁用";
+"Please enable region changing first" = "请先启用地区更改";
 
 // MARK: - Feature Descriptions
 "FEATURE_HIDE_ADS" = "隐藏信息流中的广告";
-"FEATURE_DOWNLOAD_BUTTON" = "为视频和动态添加下载按钮";
-"FEATURE_SHARE_SHEET" = "下载后自动打开分享菜单";
-"FEATURE_REMOVE_WATERMARK" = "去除下载视频的水印（TikTok 标识和用户名）";
-"FEATURE_UI_BUTTON" = "显示或隐藏界面按钮";
-"FEATURE_STOP_PLAYBACK" = "视频结束时停止播放";
-"FEATURE_AUTO_PLAY" = "开启自动播放";
-"FEATURE_PROGRESS_BAR" = "显示视频进度条";
-"FEATURE_TRANSPARENT_COMMENTS" = "半透明评论区";
-"FEATURE_DISABLE_SURVEY" = "关闭视频中的问卷调查";
-"FEATURE_HIDE_PLAY_PAUSE" = "隐藏播放/暂停按钮";
-"FEATURE_SHOW_USERNAMES" = "显示用户名而非昵称";
-"FEATURE_DISABLE_SENSITIVE" = "关闭敏感内容提示";
-"FEATURE_ADD_TRANSLATION" = "添加评论翻译按钮";
-"FEATURE_DISABLE_WARNINGS" = "关闭 TikTok 警告提示";
-"FEATURE_DISABLE_LIVE" = "隐藏直播内容";
-"FEATURE_SKIP_RECOMMENDED" = "关闭推荐提示";
-"FEATURE_UPLOAD_REGION" = "显示视频来源地区";
-"FEATURE_HIDE_TOP_ITEMS" = "隐藏顶部功能区（搜索、直播等）";
-"FEATURE_ANONYMOUS_SEEN" = "关闭已读提示";
-"FEATURE_SHOW_ALL_TABS" = "显示所有隐藏的设置选项[测试版]";
-"FEATURE_PROFILE_SAVE" = "保存个人资料到剪贴板";
-"FEATURE_EMBED_LINKS" = "允许链接可点击";
-"FEATURE_PROFILE_COPY" = "复制个人资料信息";
-"FEATURE_USER_POST_COUNT" = "显示作品数量";
-"FEATURE_LIKE_COUNT" = "显示点赞数";
-"FEATURE_UPLOAD_DATE" = "显示上传日期";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "显示视频上传时间";
-"FEATURE_HIDE_DANGEROUS_ACTION" = "关闭危险内容提示";
-"FEATURE_REMOVE_PENDANT" = "移除悬浮广告";
-"FEATURE_CONFIRM_LIKE" = "点赞时需要确认";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "评论点赞时需要确认";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "评论点踩时需要确认";
-"FEATURE_CONFIRM_FOLLOW" = "关注时需要确认";
-"FEATURE_AUTO_CLEAR" = "每60秒自动清除搜索记录";
-"FEATURE_FAKE_CHANGES" = "启用数据自定义";
-"FEATURE_FOLLOWER_COUNT" = "自定义粉丝数";
-"FEATURE_FOLLOWING_COUNT" = "自定义关注数";
-"FEATURE_FAKE_VERIFIED" = "显示认证标识";
-"FEATURE_HIDE_PLUS_BTN" = "隐藏发布按钮";
-"FEATURE_HIDE_FRIENDS_BADGE" = "隐藏好友提醒";
-"FEATURE_HIDE_INBOX_BADGE" = "隐藏消息提醒";
-"FEATURE_EXTENDED_COMMENTS" = "解除评论字数限制";
-"FEATURE_UPLOAD_HD" = "上传高清视频";
-"FEATURE_APP_LOCK" = "应用锁定功能";
-"FEATURE_ENABLE_FLEX" = "开发者调试工具（请勿随意开启）";
-"FEATURE_OLED_KEYBOARD" = "深色主题键盘";
-"FEATURE_POST_STATS" = "显示视频数据按钮";
-"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "转发时可添加评论";
-"FEATURE_VOICE_MESSAGES" = "开启语音消息";
-"FEATURE_ENABLE_STREAKS" = "开启连续签到功能";
-"FEATURE_HIDE_STREAK_PET" = "隐藏签到宠物";
-"FEATURE_DISABLE_TYPING" = "关闭输入状态显示";
-"FEATURE_PIN_CHATS" = "允许置顶私信";
-"FEATURE_BYPASS_MEDIA_LIMIT" = "解除私信文件限制";
-"FEATURE_DISABLE_AI_REPLIES" = "关闭AI智能回复";
-"FEATURE_SMALL_EMOJI" = "使用迷你表情";
-"FEATURE_HIDE_COMMISSION_POSTS" = "隐藏带货视频";
+"FEATURE_DOWNLOAD_BUTTON" = "为帖子和快拍添加下载按钮";
+"FEATURE_SHARE_SHEET" = "媒体下载完成后打开分享菜单";
+"FEATURE_REMOVE_WATERMARK" = "从下载的媒体中移除水印（动画TikTok标志和用户名）";
+"FEATURE_UI_BUTTON" = "显示“隐藏界面”按钮";
+"FEATURE_STOP_PLAYBACK" = "在帖子结束时停止播放";
+"FEATURE_AUTO_PLAY" = "启用自动视频滚动";
+"FEATURE_PROGRESS_BAR" = "在每个帖子下方显示媒体时长";
+"FEATURE_TRANSPARENT_COMMENTS" = "使评论部分的背景透明";
+"FEATURE_DISABLE_SURVEY" = "禁用信息流中的调查问题";
+"FEATURE_HIDE_PLAY_PAUSE" = "隐藏信息流中的播放/暂停视图";
+"FEATURE_SHOW_USERNAMES" = "在信息流中用用户名替换用户的昵称";
+"FEATURE_DISABLE_SENSITIVE" = "隐藏“不适当内容”警告";
+"FEATURE_ADD_TRANSLATION" = "为每条评论添加翻译按钮";
+"FEATURE_DISABLE_WARNINGS" = "隐藏TikTok警告";
+"FEATURE_DISABLE_LIVE" = "从信息流中隐藏直播";
+"FEATURE_SKIP_RECOMMENDED" = "移除内容推荐（好友推荐等）";
+"FEATURE_UPLOAD_REGION" = "在用户名旁边显示上传地区旗帜";
+"FEATURE_HIDE_TOP_ITEMS" = "隐藏顶部栏（为你推荐、关注、商店等）";
+"FEATURE_ANONYMOUS_SEEN" = "阅读聊天而不通知对方";
+"FEATURE_SHOW_ALL_TABS" = "显示所有隐藏的设置选项卡[测试版]";
+"FEATURE_PROFILE_SAVE" = "通过长按保存用户的个人资料图片";
+"FEATURE_EMBED_LINKS" = "复制的链接将在发送位置嵌入媒体";
+"FEATURE_PROFILE_COPY" = "通过长按复制用户的简介";
+"FEATURE_USER_POST_COUNT" = "显示用户的总发帖数";
+"FEATURE_LIKE_COUNT" = "显示帖子上的点赞数";
+"FEATURE_UPLOAD_DATE" = "显示帖子的上传日期";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "在“为你推荐”中显示帖子的上传时间";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "隐藏体育视频下的警告（UFC、拳击等）";
+"FEATURE_REMOVE_PENDANT" = "移除信息流中左上角的广告视图";
+"FEATURE_CONFIRM_LIKE" = "在点赞帖子前请求确认";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "在点赞评论前请求确认";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "在点踩评论前请求确认";
+"FEATURE_CONFIRM_FOLLOW" = "在关注用户前请求确认";
+"FEATURE_AUTO_CLEAR" = "每60秒自动清除你的搜索历史";
+"FEATURE_FAKE_CHANGES" = "启用虚假个人资料数据更改";
+"FEATURE_FOLLOWER_COUNT" = "输入虚假粉丝数";
+"FEATURE_FOLLOWING_COUNT" = "输入虚假关注数";
+"FEATURE_FAKE_VERIFIED" = "显示虚假认证徽章";
+"FEATURE_HIDE_PLUS_BTN" = "隐藏相机按钮";
+"FEATURE_HIDE_FRIENDS_BADGE" = "隐藏好友通知徽章";
+"FEATURE_HIDE_INBOX_BADGE" = "隐藏收件箱通知徽章";
+"FEATURE_EXTENDED_COMMENTS" = "增加评论字符限制";
+"FEATURE_UPLOAD_HD" = "启用高清上传";
+"FEATURE_APP_LOCK" = "启动TikTok时添加应用锁";
+"FEATURE_ENABLE_FLEX" = "仅限开发者，如果你不知道FLEX是什么，请不要触碰！";
+"FEATURE_OLED_KEYBOARD" = "仅适用于深色主题";
+"FEATURE_POST_STATS" = "在下载部分显示带有帖子信息的子菜单";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "为不受支持的地区启用向转发添加说明文字";
+"FEATURE_VOICE_MESSAGES" = "在聊天中启用发送语音消息（仅限某些地区）";
+"FEATURE_ENABLE_STREAKS" = "启用与好友的连续互动";
+"FEATURE_HIDE_STREAK_PET" = "隐藏连续互动宠物";
+"FEATURE_DISABLE_TYPING" = "禁用输入指示器";
+"FEATURE_PIN_CHATS" = "启用将收藏聊天置顶";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "绕过聊天中的媒体发送限制（默认：9张照片，1分钟视频）";
+"FEATURE_DISABLE_AI_REPLIES" = "禁用帖子上的AI生成回复";
+"FEATURE_SMALL_EMOJI" = "启用发送小表情";
+"FEATURE_HIDE_COMMISSION_POSTS" = "隐藏“创作者赚取佣金”的帖子";
 
 // Comment Settings Descriptions
-"ENABLE_COMMENT_PHOTO" = "允许评论带图片";
-"ENABLE_COMMENT_STICKERS" = "允许评论带贴纸";
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "关闭评论提示";
-"FEATURE_ADD_COMMENT_POST" = "允许将评论发布为视频";
-"FEATURE_ADD_COMMENT_STORY" = "允许将评论发布为动态";
-"FEATURE_MASS_UNFOLD" = "一键展开所有回复";
-"FEATURE_AUTO_UNFOLD" = "自动展开长评论";
-"FEATURE_MULTI_EMOJI" = "开启多表情栏";
-"FEATURE_HIDE_EMOJI" = "隐藏表情栏";
-"FEATURE_COMMENT_REDESIGN" = "自定义评论样式";
-"FEATURE_COPY_WITHOUT_USERNAME" = "复制时不带用户名";
-"FEATURE_ENABLE_COMMENT_FLAGS" = "显示评论者地区";
+"ENABLE_COMMENT_PHOTO" = "在评论中启用照片回复";
+"ENABLE_COMMENT_STICKERS" = "在评论中启用贴纸回复";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "禁用评论部分的提示";
+"FEATURE_ADD_COMMENT_POST" = "启用将评论回复发布为帖子";
+"FEATURE_ADD_COMMENT_STORY" = "启用将评论回复发布为快拍";
+"FEATURE_MASS_UNFOLD" = "批量展开所有评论回复";
+"FEATURE_AUTO_UNFOLD" = "自动展开所有长评论";
+"FEATURE_MULTI_EMOJI" = "启用多表情评论栏";
+"FEATURE_HIDE_EMOJI" = "隐藏多表情评论栏";
+"FEATURE_COMMENT_REDESIGN" = "启用重新设计的评论单元格";
+"FEATURE_COPY_WITHOUT_USERNAME" = "复制评论而不带评论者姓名";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "在评论者姓名旁边显示地区旗帜";
 
 // MARK: - Error Messages
 "Could Not Copy Music" = "无法复制音乐";
-"the video doesn't have music to download" = "该视频没有可下载的音乐";
+"the video doesn't have music to download" = "此视频没有可下载的音乐";
 
 // MARK: - Developer
-"DEVELOPER_TELEGRAM" = "加入 Telegram 频道获取最新更新";
-"DEVELOPER_SUPPORT" = "支持 RXTikTok 并获取测试组访问权限";
+"DEVELOPER_TELEGRAM" = "加入我们的Telegram频道以获取最新更新";
+"DEVELOPER_SUPPORT" = "支持RXTikTok并获得我们Beta测试组的访问权限";
 
 // MARK: - Missing Strings
 "Features list" = "功能列表";
@@ -268,9 +268,9 @@
 "OK" = "确定";
 "Disable Left & Right Swipe" = "禁用左右滑动";
 "Pull To Camera" = "下拉打开相机";
-"Regions" = "地区列表";
+"Regions" = "地区";
 "Full Region Mode" = "完整地区模式";
-"Add Folders To Inbox" = "为收件箱添加文件夹";
+"Add Folders To Inbox" = "向收件箱添加文件夹";
 
 // Additional missing strings
 "Settings" = "设置";
@@ -299,7 +299,7 @@
 "Share" = "分享";
 "Copy Link" = "复制链接";
 "Report" = "举报";
-"Block" = "拉黑";
+"Block" = "屏蔽";
 "Unfollow" = "取消关注";
 "Hide" = "隐藏";
 "Show" = "显示";
@@ -307,31 +307,31 @@
 "Disable" = "禁用";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_DISABLE_SWIPE" = "禁用首页中的左右滑动";
+"FEATURE_DISABLE_SWIPE" = "禁用信息流中的左右滑动";
 "FEATURE_PULL_TO_CAMERA" = "启用下拉打开相机功能";
-"FEATURE_ADD_FOLDERS" = "为收件箱消息添加文件夹分类";
-"FEATURE_FULL_REGION_MODE" = "仅当常规地区切换失效时启用！";
+"FEATURE_ADD_FOLDERS" = "为收件箱消息添加文件夹组织";
+"FEATURE_FULL_REGION_MODE" = "仅当第一个选项不起作用时启用！";
 
 // Additional feature descriptions
-"FEATURE_ANONYMOUS_SEEN_DESC" = "查看私信时不会发送已读回执给发送者";
-"FEATURE_SHOW_ALL_TABS_DESC" = "显示所有隐藏的设置选项，包括实验性功能";
-"FEATURE_PROFILE_SAVE_DESC" = "一键保存个人资料信息到剪贴板";
-"FEATURE_PROFILE_COPY_DESC" = "复制用户名、简介等个人资料信息";
-"FEATURE_APP_LOCK_DESC" = "使用密码或生物识别保护你的 TikTok 应用";
-"FEATURE_REGIONS_DESC" = "通过更改虚拟位置访问特定地区的内容";
-"FEATURE_ADD_FOLDERS_DESC" = "将收件箱消息整理到自定义文件夹中，便于管理";
+"FEATURE_ANONYMOUS_SEEN_DESC" = "查看聊天而不向收件人发送已读回执";
+"FEATURE_SHOW_ALL_TABS_DESC" = "显示所有隐藏的设置选项卡，包括实验性功能";
+"FEATURE_PROFILE_SAVE_DESC" = "一键将个人资料信息保存到剪贴板";
+"FEATURE_PROFILE_COPY_DESC" = "复制个人资料详细信息，包括用户名、简介和其他公开信息";
+"FEATURE_APP_LOCK_DESC" = "使用密码或生物识别验证保护您的TikTok应用";
+"FEATURE_REGIONS_DESC" = "通过伪造您的虚拟位置访问特定地区的内容";
+"FEATURE_ADD_FOLDERS_DESC" = "将收件箱消息整理到自定义文件夹中以便更好地管理";
 
 // MARK: - Credits View
 "Credits" = "致谢";
 "Special Thanks to" = "特别感谢";
 "Community" = "社区";
 "Main Developer, Owner" = "主要开发者，所有者";
-"Co-Owner" = "联合所有者";
-"DRM Developer" = "DRM 开发者";
+"Co-Owner" = "共同所有者";
+"DRM Developer" = "DRM开发者";
 "Contributor" = "贡献者";
-"UI Designer" = "UI 设计师";
-"Telegram Channel" = "Telegram 频道";
-"Telegram Discussion Group" = "Telegram 讨论组";
+"UI Designer" = "UI设计师";
+"Telegram Channel" = "Telegram频道";
+"Telegram Discussion Group" = "Telegram讨论组";
 "Get the latest updates and news" = "获取最新更新和新闻";
 "Join the community discussion" = "加入社区讨论";
 "Buy Me a Coffee" = "请我喝杯咖啡";
@@ -346,7 +346,7 @@
 "Export Configuration" = "导出配置";
 "Reset All Settings" = "重置所有设置";
 "Import settings from a file" = "从文件导入设置";
-"Export settings to a file" = "导出设置到文件";
+"Export settings to a file" = "将设置导出到文件";
 "Reset all settings to default values" = "将所有设置重置为默认值";
 "All settings have been reset to default values." = "所有设置已重置为默认值。";
 "Configuration imported successfully." = "配置导入成功。";
@@ -356,47 +356,47 @@
 "Select App Language" = "选择应用语言";
 
 
-// 1.3 
-"Erase All TikTok Data" = "清除所有 TikTok 数据";
-"Erase all TikTok data from the app  [Becareful!!!]" = "清除应用中的所有 TikTok 数据 [请谨慎操作!!!]";
+// 1.3
+"Erase All TikTok Data" = "清除所有TikTok数据";
+"Erase all TikTok data from the app  [Becareful!!!]" = "从应用中清除所有TikTok数据[请小心！！！]";
 "Clear Keychain" = "清除钥匙串";
-"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "确定要清除所有数据吗？这将删除：\n1- TikTok 的数据目录\n2- 所有钥匙串\n3- 清除所有 NSUserDefaults\n\n注意！\n您将失去所有草稿和本地保存的内容。";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "你确定要清除所有数据吗？这将删除：\n1- TikTok的数据目录\n2- 所有钥匙串\n3- 清除所有NSUserDefaults\n\n注意！\n你将丢失草稿和所有本地保存的内容。";
 "Clear" = "清除";
-"Really Clear All Data?" = "确定要清除所有数据吗？";
-"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "这是最后的警告。此操作不可逆，将删除所有本地 TikTok 数据，包括草稿和设置。您确定要继续吗？";
+"Really Clear All Data?" = "真的清除所有数据吗？";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "这是你的最后警告。此操作不可逆，并将删除所有本地TikTok数据，包括草稿和设置。你绝对确定吗？";
 "Confirm Clear" = "确认清除";
 "Data Cleared" = "数据已清除";
-"All TikTok data has been cleared." = "所有 TikTok 数据已清除。";
+"All TikTok data has been cleared." = "所有TikTok数据已清除。";
 
-"Streak Info" = "连续签到信息";
-"FEATURE_STREAK_INFO" = "点击签到火焰图标显示签到信息";
+"Streak Info" = "连续互动信息";
+"FEATURE_STREAK_INFO" = "点击连续火焰时显示你当前的连续互动信息";
 
-"Hide Tab Bar Labels" = "隐藏底栏标签";
-"FEATURE_HIDE_TAB_BAR_LABELS" = "隐藏底部导航栏的标签文字，使界面更简洁";
+"Hide Tab Bar Labels" = "隐藏标签栏标签";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "隐藏标签栏中的标签";
 
 "Adjust offline download limit" = "调整离线下载限制";
-"Adjust value between 50 and 2000" = "调整数值范围在 50 到 2000 之间";
+"Adjust value between 50 and 2000" = "调整值在50到2000之间";
 
-"Start TikTok in Following" = "启动时进入关注页";
-"FEATURE_START_FYP_IN_FOLLOWING" = "启动 TikTok 时默认进入关注页面而不是推荐页";
+"Start TikTok in Following" = "在关注中启动TikTok";
+"FEATURE_START_FYP_IN_FOLLOWING" = "在“关注”信息流中启动TikTok，而不是“为你推荐”信息流";
 
-"Waiting for TikTok…" = "等待 TikTok…";
-"Extracting Media URL…" = "正在提取媒体链接…";
-"Invalid download URL received." = "收到无效的下载链接。";
-"Failed to fetch HD video URL. Please try again." = "获取高清视频链接失败。请重试。";
+"Waiting for TikTok…" = "正在等待TikTok…";
+"Extracting Media URL…" = "正在提取媒体URL…";
+"Invalid download URL received." = "收到无效的下载URL。";
+"Failed to fetch HD video URL. Please try again." = "获取高清视频URL失败。请重试。";
 
 "Enable Egypt Stickers" = "启用埃及贴纸";
 
 
 // 1.4
-"LOOP_STORY_VIDEOS" = "循环播放动态视频";
-"STOP_STORY_PHOTO_ADVANCE" = "动态照片自动前进";
-"FEATURE_LOOP_STORY_VIDEOS" = "启用时循环播放动态中的视频";
-"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "启用时停止动态照片自动前进";
+"LOOP_STORY_VIDEOS" = "循环播放快拍视频";
+"STOP_STORY_PHOTO_ADVANCE" = "停止快拍照片自动前进";
+"FEATURE_LOOP_STORY_VIDEOS" = "循环播放快拍中的视频";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "阻止快拍照片自动前进";
 "BACKGROUND_PLAY" = "启用后台播放";
-"FEATURE_BACKGROUND_PLAY" = "启用后台播放";
+"FEATURE_BACKGROUND_PLAY" = "启用音频后台播放";
 
-// MARK: - New Section Headers (Added from Settings reorganization)
+// MARK: - New Section Headers
 "Content & Display" = "内容与显示";
 "Playback Controls" = "播放控制";
 "Content Filtering" = "内容过滤";
@@ -411,7 +411,7 @@
 "Emoji & Interface" = "表情与界面";
 "Content Interactions" = "内容交互";
 "Social Actions" = "社交操作";
-"Tab Bar Elements" = "底栏元素";
+"Tab Bar Elements" = "标签栏元素";
 "Notification Badges" = "通知徽章";
 "App Configuration" = "应用配置";
 "Content Enhancement" = "内容增强";
@@ -423,17 +423,17 @@
 
 // MARK: - Missing Chat Settings Strings
 "DISABLE_SCREENSHOT_DETECTION" = "禁用截图检测";
-"DISABLE_SCREENRECORDING_DETECTION" = "禁用录屏检测";
+"DISABLE_SCREENRECORDING_DETECTION" = "禁用屏幕录制检测";
 "FEATURE_DISABLE_SCREENSHOT_DETECTION" = "禁用聊天中的截图检测";
-"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "禁用聊天中的录屏检测";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "禁用聊天中的屏幕录制检测";
 
 // MARK: - Missing Alert and UI Strings
 "Reset Settings" = "重置设置";
-"Are you sure you want to reset all settings to default values? This action cannot be undone." = "确定要将所有设置重置为默认值吗？此操作无法撤销。";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "你确定要将所有设置重置为默认值吗？此操作无法撤销。";
 "Erase All Data" = "清除所有数据";
-"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "确定要清除所有 TikTok 数据吗？这将清除所有应用数据且无法撤销。";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "你确定要清除所有TikTok数据吗？这将清除所有应用数据且无法撤销。";
 "Erase" = "清除";
-"All TikTok data has been erased." = "所有 TikTok 数据已清除。";
+"All TikTok data has been erased." = "所有TikTok数据已清除。";
 "Settings Reset" = "设置已重置";
 "Language Changed" = "语言已更改";
 "Please restart the app to apply changes, May require two app restarts!" = "请重启应用以应用更改，可能需要重启两次！";
@@ -446,14 +446,14 @@
 // MARK: - Menu Manager Strings
 "Language" = "语言";
 
-"MARK_SEEN_ON_REPLY" = "回复时标记已读";
-"FEATURE_MARK_SEEN_ON_REPLY" = "回复时自动标记消息为已读";
+"MARK_SEEN_ON_REPLY" = "回复时标记为已读";
+"FEATURE_MARK_SEEN_ON_REPLY" = "回复时将消息标记为已读";
 
 "VIEW_PROFILES_ANONYMOUS" = "匿名查看个人资料";
-"FEATURE_VIEW_PROFILES_ANONYMOUS" = "启用时禁用个人资料查看跟踪";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "禁用个人资料查看跟踪";
 
 // MARK: - Import/Export Configuration Strings
-"Choose import source:" = "选择导入来源：";
+"Choose import source:" = "选择导入源：";
 "Import from Keychain" = "从钥匙串导入";
 "Import from File" = "从文件导入";
 "No backup found" = "未找到备份";
@@ -466,33 +466,67 @@
 "Configuration saved to keychain successfully." = "配置保存到钥匙串成功。";
 
 // MARK: - Rewards Ads Feature
-"Disable TikTok Rewards ADs" = "禁用 TikTok 奖励广告";
-"FEATURE_DISABLE_REWARDS_ADS" = "隐藏信息流中的 TikTok 奖励广告";
+"Disable TikTok Rewards ADs" = "禁用TikTok奖励广告";
+"FEATURE_DISABLE_REWARDS_ADS" = "从信息流中隐藏TikTok的奖励广告";
 
 // 1.5
 "OTHER_OPTIONS" = "其他选项";
 "Processing..." = "处理中...";
-"FEATURE_HIDE_ACTIVITY_STATUS" = "隐藏你的“上次在线”和“在线”状态";
-"HIDE_ACTIVITY_STATUS" = "隐藏在线状态";
-"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "暂停视频时禁用“视觉搜索”按钮";
+"FEATURE_HIDE_ACTIVITY_STATUS" = "在聊天中隐藏你的“上次活跃”和“在线”状态";
+"HIDE_ACTIVITY_STATUS" = "隐藏活动状态";
+"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "暂停视频时禁用信息流中的“视觉搜索”按钮";
 "DISABLE_VISUAL_SEARCH_TAG" = "禁用视觉搜索标签";
-"FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "即使关注数超过 5000 也可搜索关注列表";
-"BYPASS_FOLLOW_LIST_SEARCH" = "解除关注列表搜索限制";
-"FEATURE_STORY_LIKE_CONFIRMATION" = "点赞动态前需要确认";
-"STORY_LIKE_CONFIRMATION" = "动态点赞确认";
-"FEATURE_ALWAYS_OPEN_SAFARI" = "始终使用 Safari 打开链接";
-"ALWAYS_OPEN_SAFARI" = "始终使用 Safari";
-"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "从首页移除 TikTok AI（Tako）按钮";
-"REMOVE_TIKTOK_AI_BUTTON" = "移除 TikTok AI 按钮";
+"FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "即使关注者超过5000，也启用关注者列表搜索";
+"BYPASS_FOLLOW_LIST_SEARCH" = "绕过关注者列表搜索限制";
+"FEATURE_STORY_LIKE_CONFIRMATION" = "在点赞快拍前请求确认";
+"STORY_LIKE_CONFIRMATION" = "快拍点赞确认";
+"FEATURE_ALWAYS_OPEN_SAFARI" = "始终在Safari中打开链接，而不是应用内浏览器";
+"ALWAYS_OPEN_SAFARI" = "始终在Safari中打开";
+"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "从“为你推荐”中移除TikTok AI（Tako）按钮";
+"REMOVE_TIKTOK_AI_BUTTON" = "移除TikTok AI按钮";
 "WARNING" = "警告";
-"DISABLE_ACTIVITY_STATUS_WARNING" = "开启或关闭匿名在线状态需要时间同步到 TikTok 服务器，启用后仍可能短暂显示在线。";
-"BLOCK_SHOP_VIDOES" = "屏蔽商城视频";
-"BLOCK_SHOP_VIDOES_FEATURE" = "从首页移除商城视频";
+"DISABLE_ACTIVITY_STATUS_WARNING" = "禁用或启用匿名活动状态需要时间才能在TikTok服务器上反映。启用此功能后，你可能仍会显示在线一段时间。";
 "PAD_AUTO_SCROLL" = "默认自动滚动";
-"FEATURE_PAD_AUTO_SCROLL" = "在不支持的地区启用 TikTok 原生自动滚动";
+"FEATURE_PAD_AUTO_SCROLL" = "为不受支持的地区启用TikTok原生帖子自动滚动";
 "SAVE_DM_MEDIA" = "保存私信媒体";
-"FEATURE_SAVE_DM_MEDIA" = "为私信中的媒体添加下载按钮";
-"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "禁用首页双击点赞";
-"DISABLE_FEED_DOUBLE_TAP" = "禁用首页双击点赞";
-"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "禁用动态双击点赞";
-"DISABLE_STORY_DOUBLE_TAP" = "禁用动态双击点赞";
+"FEATURE_SAVE_DM_MEDIA" = "为私信中发送的媒体添加下载按钮";
+"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "禁用信息流中的双击点赞";
+"DISABLE_FEED_DOUBLE_TAP" = "禁用信息流双击";
+"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "禁用快拍中的双击点赞";
+"DISABLE_STORY_DOUBLE_TAP" = "禁用快拍双击";
+
+// 1.6
+
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "启用评论中的贴纸下载";
+"ENABLE_STICKER_DOWNLOAD" = "双击下载贴纸";
+"STICKER_SAVED" = "贴纸已保存到图库！";
+"STICKER_SAVE_FAILED" = "贴纸保存失败";
+"DOWNLOAD_FAILED" = "下载失败";
+"DOWNLOADING_STICKER" = "正在下载贴纸...";
+
+"FILTERING_OPTIONS" = "过滤选项";
+"BLOCK_MOVIE_TOK" = "屏蔽电影广告";
+"FEATURE_BLOCK_MOVIE_TOK" = "屏蔽带有电影广告的视频";
+
+"BLOCK_AI_GENERATED" = "屏蔽AI生成的帖子";
+"FEATURE_BLOCK_AI_GENERATED" = "屏蔽带有“包含AI生成媒体”的帖子";
+"FEATURE_CONFIRM_QUICK_SHARE" = "在使用快速分享前请求确认";
+"FEATURE_CONFIRM_REPOST" = "在转发视频前请求确认";
+"CONFIRM_QUICK_SHARE" = "快速分享确认";
+"CONFIRM_REPOST" = "转发确认";
+
+"BLOCK_SHOP_VIDEOS" = "屏蔽商店帖子";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "从信息流中移除商店帖子。";
+"BLOCK_TCM" = "屏蔽应用广告";
+"BLOCK_POI" = "屏蔽位置广告";
+"FEATURE_BLOCK_SHOP_ADS" = "屏蔽带有商店广告的视频";
+"FEATURE_BLOCK_TCM" = "屏蔽带有应用广告的视频";
+"FEATURE_BLOCK_POI" = "屏蔽带有位置广告的视频";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "保存帖子或草稿时移除水印";
+"REMOVE_DRAFT_WATERMARK" = "移除照片水印";
+"FEATURE_HIDE_REPORT_BUTTON" = "在私信导航栏中隐藏举报按钮。";
+"HIDE_REPORT_BUTTON" = "隐藏举报按钮";
+"FEATURE_DISABLE_TYPING_STICKER" = "禁用打字时的自动GIF推荐";
+"DISABLE_TYPING_STICKER" = "禁用打字贴纸";
+"RUSSIAN_FIX" = "绕过俄罗斯禁令";
+"FEATURE_RUSSIAN_FIX" = "启用此选项以使俄罗斯信息流再次工作[新！]";

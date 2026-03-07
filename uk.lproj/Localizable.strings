@@ -1,227 +1,532 @@
-/* Localizable.strings */
+/* Localizable.strings (Ukrainian) */
 
-// Main Titles
-"RXTikTok, Hi" = " RXTikTok, Привіт";
-"RXTikTok Settings" = "Налаштування  RXTikTok";
-"Join Our Telegram." = "Join Our Telegram.";
+// MARK: - Core UI Elements
+"RXTikTok, Hi" = "RXTikTok, Привіт";
+"RXTikTok Settings" = "Налаштування RXTikTok";
+"Welcome" = "Ласкаво просимо";
+"Tap to Join the Telegram" = "Натисніть, щоб приєднатися до Telegram";
 
-// Common Actions
+// MARK: - Global Actions
 "Yes" = "Так";
 "No" = "Ні";
-"ON" = "УВІМК";
-"OFF" = "ВИМК";
-"Downloading" = "Завантаження";
-"Backgrounding ✌️" = "Згортаємо ✌️";
+"ON" = "УВІМК.";
+"OFF" = "ВИМК.";
+"Cancel" = "Скасувати";
+"Confirm" = "Підтвердити";
+"Actions" = "Дії";
+"Default" = "Звичайний";
+"Modern" = "Сучасний";
+"Compact" = "Компактний";
+"Backgrounding ✌️" = "Згортання ✌️";
 "Are you sure?" = "Ви впевнені?";
 
-// Download Options
+// MARK: - Navigation
+"Feed" = "Стрічка";
+"Profile" = "Профіль";
+"Other" = "Інше";
+"Region" = "Регіон";
+"Developer" = "Розробник";
+"Design Options" = "Параметри дизайну";
+"Other Settings" = "Інші налаштування";
+"Auto Clear History" = "Автоочищення історії";
+"Enable Embeded Links" = "Увімкнути вбудовані посилання";
+"Language 🌎" = "Мова 🌎";
+"Show All Settings Tabs" = "Показати всі вкладки налаштувань";
+"Show Video Upload Timestamp" = "Показувати час завантаження відео";
+"Remove Pendant View" = "Прибрати куточок з рекламою";
+"Hide Commission Posts" = "Приховати пости з комісійними";
+"Hide dangerous-action Warning" = "Приховати попередження про небезпечні дії";
+
+// MARK: - Download Features
+"Downloads Menu" = "Меню завантажень";
 "Download Video" = "Завантажити відео";
-"Download HD Video" = "Завантажити відео (HD)";
+"Download HD Video" = "Завантажити HD відео";
 "Download Music" = "Завантажити музику";
 "Download Photo" = "Завантажити фото";
 "Download All Photos" = "Завантажити всі фото";
-
-// Copy Options
-"Copy Music Link" = "Скопіювати посилання на музику";
-"Copy Video link" = "Скопіювати посилання на відео";
-"Copy Description" = "Скопіювати опис";
-"Copy bio" = "Скопіювати біо профілю";
-
-// Error Messages
-"Could Not Copy Music" = "Не вдалося скопіювати музику";
-"The video dosen't have music to download" = "У відео немає музики для завантаження";
-
-// Menu Labels
-"Downloads Menu" = "Меню завантажень";
-"Copy Menu" = "Меню копіювання";
 "Download Photos Menu" = "Меню завантаження фото";
-
-// Section Headers
-"Feed" = "Стрічка";
-"Profile" = "Профіль";
-"Confirm" = "Підтвердження";
-"Other" = "Інше";
-"Region" = "Регіон";
-"Live Button Function" = "Дія кнопки LIVE";
-"Playback Speed" = "Швидкість відтворення";
-"Developer" = "Розробник";
-
-// Feed Features
-"Hide Ads" = "Приховати рекламу зі стрічки";
+"Downloading" = "Завантаження";
 "Download Button" = "Кнопка завантаження";
-"Share Sheet" = "Панель поділитися";
-"Remove Watermark" = "Прибрати водяний знак";
-"Show/Hide UI Button" = "Показати/приховати кнопку інтерфейсу";
-"Stop Playback" = "Зупинити відтворення";
-"Auto Play Next Video" = "Автоматична прокрутка";
-"Show Progress Bar" = "Показати шкалу прогресу";
-"Transparent Comments" = "Прозорі коментарі";
-"Show Usernames" = "Показувати теги замість імен";
-"Disable Sensitive Content" = "Розблокувати неприпустимий контент";
-"Disable Warnings" = "Прибрати попередження";
-"Disable Live Streaming" = "Прибрати прямі трансляції";
-"Skip Recommendations" = "Прибрати рекомендації";
-"Upload Region" = "Показати регіон завантаження";
-"Hide Top Feed items" = "Приховати верхні елементи стрічки";
-"Anonymous Seen" = "Увімкнути анонімний перегляд";
 
-// Profile Features
-"Profile Save" = "Зберегти профіль";
-"Profile Copy" = "Скопіювати профіль";
-"Video Like Count" = "Кількість переглядів відео";
-"Video Upload Date" = "Дата завантаження відео";
+// MARK: - Copy Features
+"Copy Menu" = "Меню копіювання";
+"Copy Music Link" = "Скопіювати посилання на музику";
+"Copy Description" = "Скопіювати опис";
+"Post Info" = "Інформація про пост";
+"Copy Video link" = "Скопіювати посилання на відео";
+"Copy bio" = "Скопіювати біо";
+"Music Link Copied" = "Посилання на музику скопійовано";
+"Video Link Copied" = "Посилання на відео скопійовано";
+"Description Link Copied" = "Посилання на опис скопійовано";
+"Stats Menu" = "Меню статистики";
+"Video Info" = "Інформація про пост";
 
-// Confirm Features
-"Like Confirmation" = "Підтвердження вподобання відео";
+// MARK: - Confirm Settings
+"Confirm Settings" = "Налаштування підтверджень";
+"Confirmation Settings" = "Налаштування підтверджень";
+"Like Confirmation" = "Підтвердження вподобань";
 "Like Comment Confirmation" = "Підтвердження вподобання коментаря";
 "Dislike Comment Confirmation" = "Підтвердження дизлайка коментаря";
 "Follow Confirmation" = "Підтвердження підписки";
 
-// Other Features
-"Auto Clear History" = "Автоматичне очищення історії пошуку";
-"Enable Fake Changes" = "Увімкнути фейкові зміни";
+// MARK: - Feed Settings
+"Feed Settings" = "Налаштування стрічки";
+"Hide Ads" = "Приховати рекламу";
+"Share Sheet" = "Меню 'Поділитися'";
+"Remove Watermark" = "Прибрати водяний знак";
+"Show/Hide UI Button" = "Кнопка 'Приховати інтерфейс'";
+"Stop Playback" = "Зупиняти відтворення";
+"Auto Play Next Video" = "Автопрокрутка відео";
+"Show Progress Bar" = "Показувати смугу прогресу";
+"Transparent Comments" = "Прозорі коментарі";
+"Show Usernames" = "Показувати юзернейми";
+"Disable Sensitive Content" = "Вимкнути чутливий контент";
+"Disable Warnings" = "Вимкнути попередження";
+"Disable Live Streaming" = "Вимкнути прямі ефіри";
+"Skip Recommendations" = "Пропускати рекомендації";
+"Upload Region" = "Регіон завантаження";
+"Hide Top Feed items" = "Приховати верхні елементи стрічки";
+"Hide Play/Pause Button" = "Приховати кнопку відтворення/паузи";
+
+// MARK: - Profile Settings
+"Profile Settings" = "Налаштування профілю";
+"Profile Save" = "Зберегти фото профілю";
+"Profile Copy" = "Скопіювати біо";
+"Video Like Count" = "Кількість вподобань відео";
+"Video Upload Date" = "Дата завантаження відео";
+"User Post Count" = "Кількість постів користувача";
 "Follower" = "Підписники";
 "Following" = "Підписки";
-"Fake Verified" = "Фейкова галочка";
-"Extended Bio" = "Розширити кількість символів біо";
-"Extended Comments" = "Розширити кількість символів у коментарях";
-"Upload HD" = "Увімкнути завантаження в HD";
-"App Lock" = "Увімкнути блокування додатку";
-"Enable Flex" = "Увімкнути Flex";
-"Enable Oled Keyboard" = "Увімкнути OLED клавіатуру";
+"Fake Verified" = "Фейкова верифікація";
+"Enable Fake Changes" = "Увімкнути фейкові зміни";
+"Extended Comments" = "Розширені коментарі";
+"Upload HD" = "Завантажувати в HD";
+"App Lock" = "Блокування додатку";
+"Enable Flex" = "Увімкнути FLEX";
+"Enable Oled Keyboard" = "Увімкнути OLED-клавіатуру";
+"Post Stats" = "Статистика посту";
+"Enable Text To Reposts" = "Додавати текст до репостів";
+"Disable Survey Popups" = "Вимкнути спливаючі опитування";
 
-// Feature Descriptions
-"FEATURE_HIDE_ADS" = "Приховує рекламу зі стрічки";
-"FEATURE_DOWNLOAD_BUTTON" = "Додає кнопку завантаження для постів та історій";
-"FEATURE_SHARE_SHEET" = "Відкриває панель поділитися після завантаження медіа";
-"FEATURE_REMOVE_WATERMARK" = "Прибирає водяний знак із завантажених медіа";
-"FEATURE_UI_BUTTON" = "Показує або приховує кнопку інтерфейсу";
-"FEATURE_STOP_PLAYBACK" = "Зупиняє відео після завершення";
-"FEATURE_AUTO_PLAY" = "Увімкнути автоматичну прокрутку відео";
-"FEATURE_PROGRESS_BAR" = "Показує шкалу прогресу під відео";
-"FEATURE_TRANSPARENT_COMMENTS" = "Робить коментарі полу-прозорими";
-"FEATURE_SHOW_USERNAMES" = "Змінює імена на @теги";
-"FEATURE_DISABLE_SENSITIVE" = "Скасовує попередження про неприйнятний контент";
-"FEATURE_DISABLE_WARNINGS" = "Скасовує попередження від TikTok";
-"FEATURE_DISABLE_LIVE" = "Приховує прямі трансляції";
-"FEATURE_SKIP_RECOMMENDED" = "Видаляє рекомендації";
-"FEATURE_UPLOAD_REGION" = "Показує прапор регіону завантаження біля імені";
-"FEATURE_HIDE_TOP_ITEMS" = "Приховує кнопки пошуку, LIVE та інші";
-"FEATURE_ANONYMOUS_SEEN" = "Увімкнути анонімний перегляд повідомлень";
-"FEATURE_PROFILE_SAVE" = "Зберігає відомості про профіль у буфер обміну";
-"FEATURE_PROFILE_COPY" = "Копіює інформацію про профіль";
-"FEATURE_LIKE_COUNT" = "Показує кількість лайків на повідомленнях";
-"FEATURE_UPLOAD_DATE" = "Показує дату завантаження";
-"FEATURE_CONFIRM_LIKE" = "Показує підтвердження для вподобання відео";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "Показує підтвердження для вподобання коментаря";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Показує підтвердження для дизлайка коментаря";
-"FEATURE_CONFIRM_FOLLOW" = "Показує підтвердження для підписки на користувача";
-"FEATURE_AUTO_CLEAR" = "Автоматично очищує історію пошуку кожні 60 секунд";
-"FEATURE_FAKE_CHANGES" = "Увімкнення підміни даних профілю";
+// MARK: - Comment Settings
+"Comment Settings" = "Налаштування коментарів";
+"Comment Design" = "Дизайн коментарів";
+"Select Design" = "Вибрати дизайн";
+"Disable Comment Tooltip" = "Вимкнути підказки в коментарях";
+"Add Comment as Post" = "Додати коментар як пост";
+"Add Comment as Story" = "Додати коментар як історію";
+"Mass Unfold Comment Replies" = "Масово розгорнути відповіді";
+"Auto Unfold Comment Texts" = "Автоматично розгортати текст";
+"Multi Emoji Comment Bar" = "Розширена панель емодзі";
+"Hide Emoji-Bar" = "Приховати панель емодзі";
+"Add Translation Button" = "Додати кнопку перекладу";
+"Comment Cell Redesign" = "Редизайн коментарів";
+"Enable Comment Photos" = "Увімкнути фото в коментарях";
+"Enable Comment Stickers" = "Увімкнути стікери в коментарях";
+"Enable Comment Flags" = "Показувати прапорці біля коментарів";
+"Enable Copy Without Username" = "Копіювати без імені користувача";
+"Configure Advanced Comment Settings" = "Налаштувати розширені параметри коментарів";
+
+// MARK: - Tab Bar Settings
+"Tab Bar Settings" = "Налаштування панелі вкладок";
+"Tab Bar Configurations" = "Конфігурація панелі вкладок";
+"Hide Plus Button" = "Приховати кнопку '+'";
+"Hide Friends Badge" = "Приховати значок друзів";
+"Hide Inbox Badge" = "Приховати значок вхідних";
+"Changes will take effect after restarting the app" = "Зміни набудуть чинності після перезапуску додатку";
+
+// MARK: - Live Button Settings
+"Live Button Settings" = "Налаштування кнопки LIVE";
+"Live Button Function" = "Функція кнопки LIVE";
+"Live Button Actions" = "Дії кнопки LIVE";
+"Live Actions" = "Дії для LIVE";
+"Playback Speed" = "Швидкість відтворення";
+"Select Action" = "Вибрати дію";
+"Change the behavior of the Live button" = "Змінити поведінку кнопки LIVE";
+"Selected Action" = "Вибрана дія";
+"Live Button Function Disabled" = "Функцію кнопки LIVE вимкнено";
+"Please enable Live Button Function first" = "Спочатку увімкніть функцію кнопки LIVE";
+"Change Action of Live Button" = "Змінити дію кнопки LIVE";
+"Enable Live Button Function" = "Увімкнути функцію кнопки LIVE";
+
+// MARK: - Chat Settings
+"Chat Settings" = "Налаштування чату";
+"Enable Voice Messages" = "Увімкнути голосові повідомлення";
+"Enable Streaks" = "Увімкнути стріки";
+"Hide Streak Pet" = "Приховати улюбленця стріків";
+"Disable Typing Indicator" = "Вимкнути індикатор набору тексту";
+"Enable Pin Chat" = "Увімкнути закріплення чатів";
+"Bypass Media Limit" = "Обійти ліміт медіа";
+"Disable AI-Generated Replies" = "Вимкнути відповіді, згенеровані ШІ";
+"Enable Small Emoji" = "Увімкнути маленькі емодзі";
+"Anonymous Seen" = "Анонімний перегляд";
+
+// MARK: - Playback Speed
+"Enable Playback Speed" = "Увімкнути швидкість відтворення";
+"Selected Speed" = "Вибрана швидкість";
+"Playback Speed Settings" = "Налаштування швидкості відтворення";
+"Enable Persistent Playback Speed." = "Постійна швидкість відтворення для всіх постів";
+"Select Speed" = "Вибрати швидкість";
+"Control video playback speed" = "Керувати швидкістю відтворення відео";
+"Playback Speed Disabled" = "Швидкість відтворення вимкнена";
+"Please enable Playback Speed first" = "Спочатку увімкніть швидкість відтворення";
+
+// MARK: - Region Settings
+"Region Settings" = "Налаштування регіону";
+"Enable region changing to access content from different regions" = "Увімкнути зміну регіону для доступу до контенту з різних країн";
+"Enable Region Changing" = "Увімкнути зміну регіону";
+"Enable Region Changing Functionality" = "Увімкнути функцію зміни регіону";
+"Selected Region" = "Вибраний регіон";
+"Region Changing Disabled" = "Зміну регіону вимкнено";
+"Please enable region changing first" = "Спочатку увімкніть зміну регіону";
+
+// MARK: - Feature Descriptions
+"FEATURE_HIDE_ADS" = "Приховує рекламу у вашій стрічці";
+"FEATURE_DOWNLOAD_BUTTON" = "Додає кнопку завантаження до постів та історій";
+"FEATURE_SHARE_SHEET" = "Відкриває меню 'Поділитися' після завершення завантаження медіа";
+"FEATURE_REMOVE_WATERMARK" = "Видаляє водяний знак із завантаженого медіа";
+"FEATURE_UI_BUTTON" = "Показує кнопку 'Приховати інтерфейс'";
+"FEATURE_STOP_PLAYBACK" = "Зупиняє відтворення посту після завершення";
+"FEATURE_AUTO_PLAY" = "Увімкнути автоматичне прокручування відео";
+"FEATURE_PROGRESS_BAR" = "Показує тривалість медіа під кожним постом";
+"FEATURE_TRANSPARENT_COMMENTS" = "Робить фон секції коментарів прозорим";
+"FEATURE_DISABLE_SURVEY" = "Вимикає опитування в стрічці";
+"FEATURE_HIDE_PLAY_PAUSE" = "Приховує кнопки відтворення/паузи в стрічці";
+"FEATURE_SHOW_USERNAMES" = "Замінює імена користувачів на їхні юзернейми в стрічці";
+"FEATURE_DISABLE_SENSITIVE" = "Приховує попередження про 'Неприйнятний контент'";
+"FEATURE_ADD_TRANSLATION" = "Додає кнопку перекладу до кожного коментаря";
+"FEATURE_DISABLE_WARNINGS" = "Приховує попередження TikTok";
+"FEATURE_DISABLE_LIVE" = "Приховує прямі ефіри зі стрічки";
+"FEATURE_SKIP_RECOMMENDED" = "Видаляє рекомендації контенту (рекомендації друзів тощо)";
+"FEATURE_UPLOAD_REGION" = "Показує прапорець регіону завантаження біля імені користувача";
+"FEATURE_HIDE_TOP_ITEMS" = "Приховує верхню панель (Для вас, Підписки, Магазин тощо)";
+"FEATURE_ANONYMOUS_SEEN" = "Читайте чати, не повідомляючи співрозмовника";
+"FEATURE_SHOW_ALL_TABS" = "Показує всі приховані вкладки налаштувань [BETA]";
+"FEATURE_PROFILE_SAVE" = "Зберігає фото профілю користувача за довгим натисканням";
+"FEATURE_EMBED_LINKS" = "Скопійовані посилання будуть вбудовувати медіа туди, куди їх надіслали";
+"FEATURE_PROFILE_COPY" = "Копіює біо користувача за довгим натисканням";
+"FEATURE_USER_POST_COUNT" = "Показує загальну кількість постів користувача";
+"FEATURE_LIKE_COUNT" = "Показує кількість вподобань на постах";
+"FEATURE_UPLOAD_DATE" = "Показує дату завантаження постів";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Показує час завантаження посту в стрічці 'Для вас'";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Приховує попередження під спортивними відео (UFC, бокс тощо)";
+"FEATURE_REMOVE_PENDANT" = "Прибирає рекламний куточок у стрічці";
+"FEATURE_CONFIRM_LIKE" = "Запитує підтвердження перед вподобанням посту";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Запитує підтвердження перед вподобанням коментаря";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Запитує підтвердження перед дизлайком коментаря";
+"FEATURE_CONFIRM_FOLLOW" = "Запитує підтвердження перед підпискою на користувача";
+"FEATURE_AUTO_CLEAR" = "Очищає вашу історію пошуку кожні 60 секунд";
+"FEATURE_FAKE_CHANGES" = "Увімкнути фейкові зміни даних профілю";
 "FEATURE_FOLLOWER_COUNT" = "Введіть фейкову кількість підписників";
 "FEATURE_FOLLOWING_COUNT" = "Введіть фейкову кількість підписок";
-"FEATURE_FAKE_VERIFIED" = "Показує фейкову галочку";
-"FEATURE_EXTENDED_BIO" = "Розширює кількість символів у біо профілю";
-"FEATURE_EXTENDED_COMMENTS" = "Розширює кількість символів у коментарях";
-"FEATURE_UPLOAD_HD" = "Увімкнення завантаження у HD";
-"FEATURE_APP_LOCK" = "Додає можливість блокування доступу до TikTok паролем";
-"FEATURE_ENABLE_FLEX" = "Лише для розробників, НЕ ЧІПАЙТЕ, якщо не знаєте, для чого це";
-"FEATURE_OLED_KEYBOARD" = "Працює лише з темною темою";
+"FEATURE_FAKE_VERIFIED" = "Показує фейковий значок верифікації";
+"FEATURE_HIDE_PLUS_BTN" = "Приховує кнопку камери";
+"FEATURE_HIDE_FRIENDS_BADGE" = "Приховує значок сповіщень друзів";
+"FEATURE_HIDE_INBOX_BADGE" = "Приховує значок сповіщень вхідних";
+"FEATURE_EXTENDED_COMMENTS" = "Збільшує ліміт символів у коментарях";
+"FEATURE_UPLOAD_HD" = "Увімкнути завантаження в HD";
+"FEATURE_APP_LOCK" = "Додає блокування додатку при запуску TikTok";
+"FEATURE_ENABLE_FLEX" = "ТІЛЬКИ ДЛЯ РОЗРОБНИКІВ, НЕ ЧІПАЙТЕ, ЯКЩО НЕ ЗНАЄТЕ, ЩО ТАКЕ FLEX!";
+"FEATURE_OLED_KEYBOARD" = "Працює тільки з темною темою";
+"FEATURE_POST_STATS" = "Показує підменю в розділі завантажень з інформацією про пост";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Додає можливість додавати підписи до репостів для непідтримуваних регіонів";
+"FEATURE_VOICE_MESSAGES" = "Увімкнути надсилання голосових повідомлень у чаті (тільки в деяких регіонах)";
+"FEATURE_ENABLE_STREAKS" = "Увімкнути стріки з друзями";
+"FEATURE_HIDE_STREAK_PET" = "Приховати улюбленця стріків";
+"FEATURE_DISABLE_TYPING" = "Вимкнути індикатор набору тексту";
+"FEATURE_PIN_CHATS" = "Увімкнути закріплення улюблених чатів угорі";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "Обходить ліміти надсилання медіа в чаті (за замовчуванням: 9 фото, 1 хв відео)";
+"FEATURE_DISABLE_AI_REPLIES" = "Вимкнути відповіді, згенеровані ШІ, на постах";
+"FEATURE_SMALL_EMOJI" = "Увімкнути надсилання маленьких емодзі";
+"FEATURE_HIDE_COMMISSION_POSTS" = "Приховати пости 'Автор отримує комісію'";
 
-// Developer Section
-"DEVELOPER_TELEGRAM" = "Приєднуйтесь до телеграм-каналу для отримання останніх оновлень";
-"DEVELOPER_SUPPORT" = "Підтримайте  RXTikTok та отримайте доступ до групи для бета-тестування";
+// Comment Settings Descriptions
+"ENABLE_COMMENT_PHOTO" = "Увімкнути відповіді з фото в коментарях";
+"ENABLE_COMMENT_STICKERS" = "Увімкнути відповіді зі стікерами в коментарях";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Вимкнути підказки в розділі коментарів";
+"FEATURE_ADD_COMMENT_POST" = "Увімкнути публікацію відповідей на коментарі як окремий пост";
+"FEATURE_ADD_COMMENT_STORY" = "Увімкнути публікацію відповідей на коментарі як історію";
+"FEATURE_MASS_UNFOLD" = "Масово розгорнути всі відповіді на коментарі";
+"FEATURE_AUTO_UNFOLD" = "Автоматично розгортати всі довгі коментарі";
+"FEATURE_MULTI_EMOJI" = "Увімкнути розширену панель емодзі для коментарів";
+"FEATURE_HIDE_EMOJI" = "Приховати розширену панель емодзі для коментарів";
+"FEATURE_COMMENT_REDESIGN" = "Увімкнути оновлений дизайн коментарів";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Копіювати коментарі без імені автора";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Показувати прапорці регіонів біля імені автора коментаря";
 
-// Comment Features  
-"Disable Comment Tooltip" = "Вимкнути підказку емодзі";  
-"Add Comment as Post" = "Коментувати у вигляді посту";  
-"Add Comment as Story" = "Коментувати у вигляді історії";   
-"Mass Unfold Comment Replies" = "Розгорнути відповіді";  
-"Auto Unfold Comment Texts" = "Розгорнути текст";  
-"Multi Emoji Comment Bar" = "Розширити панель з емодзі";  
-"Hide Emoji-Bar" = "Сховати панель з емодзі";  
-"Comment Cell Redesign" = "Редизайн осередків для коментарів";  
-"Disable Comment Tooltip" = "Вимкнути підказку емодзі";  
-"Add Comment as Post" = "Коментувати у вигляді посту";  
-"Add Comment as Story" = "Коментувати у вигляді історії";   
-"Mass Unfold Comment Replies" = "Розгорнути відповіді";  
-"Auto Unfold Comment Texts" = "Розгорнути текст";  
-"Multi Emoji Comment Bar" = "Розширити панель з емодзі";  
-"Hide Emoji-Bar" = "Сховати панель з емодзі";  
-"Comment Cell Redesign" = "Редизайн осередків для коментарів"; 
+// MARK: - Error Messages
+"Could Not Copy Music" = "Не вдалося скопіювати музику";
+"the video doesn't have music to download" = "У цього відео немає музики для завантаження";
 
-// Feature Descriptions  
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Вимикає підказку емодзі при утриманні кнопки коментаря";  
-"FEATURE_ADD_COMMENT_POST" = "Додає можливість відправляти коментар у вигляді посту";  
-"FEATURE_ADD_COMMENT_STORY" = "Додає можливість відправляти коментар у вигляді історії";  
-"FEATURE_MASS_UNFOLD" = "Розгортає всі відповіді на коментарі одразу";  
-"FEATURE_AUTO_UNFOLD" = "Розгортає текст у довгих коментарях";  
-"FEATURE_MULTI_EMOJI" = "Активує розширену панель з емодзі у коментарях";  
-"FEATURE_HIDE_EMOJI" = "Приховує панель емодзі у коментарях";  
-"FEATURE_COMMENT_REDESIGN" = "Дозволяє обрати дизайн осередків для коментарів";  
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Вимикає підказку емодзі при утриманні кнопки коментаря";  
-"FEATURE_ADD_COMMENT_POST" = "Додає можливість відправляти коментар у вигляді посту";  
-"FEATURE_ADD_COMMENT_STORY" = "Додає можливість відправляти коментар у вигляді історії";  
-"FEATURE_MASS_UNFOLD" = "Розгортає всі відповіді на коментарі одразу";  
-"FEATURE_AUTO_UNFOLD" = "Розгортає текст у довгих коментарях";  
-"FEATURE_MULTI_EMOJI" = "Активує розширену панель з емодзі у коментарях";  
-"FEATURE_HIDE_EMOJI" = "Приховує панель емодзі у коментарях";  
-"FEATURE_COMMENT_REDESIGN" = "Дозволяє обрати дизайн осередків для коментарів";
+// MARK: - Developer
+"DEVELOPER_TELEGRAM" = "Приєднуйтесь до нашого Telegram-каналу для останніх оновлень";
+"DEVELOPER_SUPPORT" = "Підтримайте RXTikTok та отримайте доступ до нашої групи бета-тестування";
 
-// Comment and Design Settings  
-"Comment Settings" = "Налаштування коментарів";  
-"Design Options" = "Налаштування стилю";  
-"Comment Features" = "Функції коментарів";  
-"Comment Design" = "Дизайн коментарів";  
-"Select Design" = "Обрати стиль";  
-"Comment Settings" = "Налаштування коментарів";  
-"Design Options" = "Налаштування стилю";  
-"Comment Features" = "Функції коментарів";  
-"Comment Design" = "Дизайн коментарів";  
-"Select Design" = "Обрати стиль";  
+// MARK: - Missing Strings
+"Features list" = "Список функцій";
+"Not Selected" = "Не вибрано";
+"OK" = "Гаразд";
+"Disable Left & Right Swipe" = "Вимкнути гортання ліворуч і праворуч";
+"Pull To Camera" = "Потягнути до камери";
+"Regions" = "Регіони";
+"Full Region Mode" = "Повний режим регіону";
+"Add Folders To Inbox" = "Додати папки до 'Вхідних'";
 
-// Design Options  
-"Default" = "Звичайний";  
-"Modern" = "Сучасний";  
-"Compact" = "Компактний";  
-"Default" = "Звичайний";  
-"Modern" = "Сучасний";  
-"Compact" = "Компактний";  
+// Additional missing strings
+"Settings" = "Налаштування";
+"Save" = "Зберегти";
+"Delete" = "Видалити";
+"Edit" = "Редагувати";
+"Close" = "Закрити";
+"Back" = "Назад";
+"Next" = "Далі";
+"Done" = "Готово";
+"Error" = "Помилка";
+"Success" = "Успіх";
+"Warning" = "Попередження";
+"Loading" = "Завантаження";
+"Search" = "Пошук";
+"Apply" = "Застосувати";
+"Reset" = "Скинути";
+"Saved!" = "Збережено!";
+"Video saved successfully" = "Відео успішно збережено";
+"Photo saved successfully" = "Фото успішно збережено";
+"Failed to save media" = "Не вдалося зберегти медіа";
+"No internet connection" = "Немає підключення до Інтернету";
+"Select All" = "Вибрати все";
+"Deselect All" = "Зняти всі вибір";
+"More Options" = "Більше опцій";
+"Share" = "Поділитися";
+"Copy Link" = "Копіювати посилання";
+"Report" = "Поскаржитися";
+"Block" = "Заблокувати";
+"Unfollow" = "Відписатися";
+"Hide" = "Приховати";
+"Show" = "Показати";
+"Enable" = "Увімкнути";
+"Disable" = "Вимкнути";
 
-// Action Options  
-"Cancel" = "Скасувати";  
-"Regions" = "Регіон";  
-"Live Button Actions" = "Дії для кнопки LIVE";  
-"Actions" = "Дії";  
-"Live Actions" = "Дії для кнопки LIVE";  
-"Cancel" = "Скасувати";  
-"Regions" = "Регіон";  
-"Live Button Actions" = "Дії для кнопки LIVE";  
-"Actions" = "Дії";  
-"Live Actions" = "Дії для кнопки LIVE";  
+// MARK: - Missing Feature Descriptions
+"FEATURE_DISABLE_SWIPE" = "Вимикає гортання ліворуч і праворуч у стрічці";
+"FEATURE_PULL_TO_CAMERA" = "Увімкнути функцію 'Потягнути до камери'";
+"FEATURE_ADD_FOLDERS" = "Додає організацію папок до повідомлень у 'Вхідних'";
+"FEATURE_FULL_REGION_MODE" = "УВІМКНІТЬ ТІЛЬКИ, ЯКЩО ПЕРШИЙ ВАРІАНТ НЕ ПРАЦЮЄ!";
 
-// Playback Settings 
-"RXTikTok Settings" = "Налаштування  RXTikTok";  
-"Playback Speed" = "Швидкість відтворення";  
-"Select Speed" = "Обрати швидкість";
+// Additional feature descriptions
+"FEATURE_ANONYMOUS_SEEN_DESC" = "Переглядайте чати, не надсилаючи сповіщень про прочитання отримувачу";
+"FEATURE_SHOW_ALL_TABS_DESC" = "Показати всі приховані вкладки налаштувань, включаючи експериментальні функції";
+"FEATURE_PROFILE_SAVE_DESC" = "Зберігайте інформацію профілю в буфер обміну одним дотиком";
+"FEATURE_PROFILE_COPY_DESC" = "Копіюйте деталі профілю, включаючи ім'я користувача, біо та іншу загальнодоступну інформацію";
+"FEATURE_APP_LOCK_DESC" = "Захистіть додаток TikTok паролем або біометрією";
+"FEATURE_REGIONS_DESC" = "Отримуйте доступ до контенту для конкретного регіону, підміняючи своє віртуальне місцезнаходження";
+"FEATURE_ADD_FOLDERS_DESC" = "Організуйте повідомлення у 'Вхідних' за допомогою спеціальних папок для кращого керування";
 
-// Region Section  
-"Enable Region Changing Functionality" = "Увімкнення зміни регіону";  
+// MARK: - Credits View
+"Credits" = "Автори";
+"Special Thanks to" = "Особлива подяка";
+"Community" = "Спільнота";
+"Main Developer, Owner" = "Головний розробник, Власник";
+"Co-Owner" = "Співвласник";
+"DRM Developer" = "Розробник DRM";
+"Contributor" = "Учасник";
+"UI Designer" = "UI-дизайнер";
+"Telegram Channel" = "Telegram-канал";
+"Telegram Discussion Group" = "Дискусійна група в Telegram";
+"Get the latest updates and news" = "Отримуйте останні оновлення та новини";
+"Join the community discussion" = "Приєднуйтесь до обговорення в спільноті";
+"Buy Me a Coffee" = "Пригостити кавою";
+"Support the development" = "Підтримати розробку";
+"X" = "X";
+"Support" = "Підтримка";
 
-// Live Button Function Section  
-"Change Action of Live Button" = "Змінює дію кнопки LIVE";  
+// MARK: - Configuration
+"About" = "Про додаток";
+"Configuration" = "Конфігурація";
+"Import Configuration" = "Імпортувати конфігурацію";
+"Export Configuration" = "Експортувати конфігурацію";
+"Reset All Settings" = "Скинути всі налаштування";
+"Import settings from a file" = "Імпортувати налаштування з файлу";
+"Export settings to a file" = "Експортувати налаштування у файл";
+"Reset all settings to default values" = "Скинути всі налаштування до значень за замовчуванням";
+"All settings have been reset to default values." = "Усі налаштування скинуто до значень за замовчуванням.";
+"Configuration imported successfully." = "Конфігурацію успішно імпортовано.";
+"File selection was cancelled." = "Вибір файлу було скасовано.";
+"Cancelled" = "Скасовано";
 
-// Playback Speed Section  
-"Enable Persistent Playback Speed." = "Змінює швидкість відтворення на постійну";  
+"Select App Language" = "Виберіть мову додатку";
 
-// Comment Settings Section  
-"Configure Advanced Comment Settings" = "Налаштовує розділ коментарів";  
 
-// Language Section  
-"Select App Language" = "Выберите язык";
+// 1.3
+"Erase All TikTok Data" = "Стерти всі дані TikTok";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Стирає всі дані TikTok з додатку [ОБЕРЕЖНО!!!]";
+"Clear Keychain" = "Очистити зв'язку ключів (Keychain)";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Ви впевнені, що хочете очистити всі дані? Це призведе до видалення:\n1- каталогу даних TikTok\n2- всього вмісту зв'язки ключів (keychain)\n3- очищення всіх NSUserDefaults\n\nЗАУВАЖТЕ!\n ВИ ВТРАТИТЕ СВОЇ ЧЕРНЕТКИ ТА ВСЕ, ЩО ЗБЕРІГАЄТЬСЯ ЛОКАЛЬНО.";
+"Clear" = "Очистити";
+"Really Clear All Data?" = "Справді очистити всі дані?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Це ваше останнє попередження. Ця дія незворотна і видалить всі локальні дані TikTok, включаючи чернетки та налаштування. Ви абсолютно впевнені?";
+"Confirm Clear" = "Підтвердити очищення";
+"Data Cleared" = "Дані очищено";
+"All TikTok data has been cleared." = "Усі дані TikTok очищено.";
 
-"Enable Region Changing" = "Увімкнути зміну регіону";  
-"Live Button Action" = "Дія кнопки LIVE";
+"Streak Info" = "Інформація про стрік";
+"FEATURE_STREAK_INFO" = "Показує інформацію про ваш поточний стрік при натисканні на вогник стріку";
 
-"Language 🌎" = "Мова 🌎";
-"Speeds" = "Швидкість";
+"Hide Tab Bar Labels" = "Приховати підписи на панелі вкладок";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Приховує підписи на панелі вкладок";
+
+"Adjust offline download limit" = "Налаштувати ліміт завантажень офлайн";
+"Adjust value between 50 and 2000" = "Встановіть значення від 50 до 2000";
+
+"Start TikTok in Following" = "Запускати TikTok у стрічці 'Підписки'";
+"FEATURE_START_FYP_IN_FOLLOWING" = "Запускає TikTok у стрічці 'Підписки' замість стрічки 'Для вас'";
+
+"Waiting for TikTok…" = "Очікування TikTok…";
+"Extracting Media URL…" = "Витяг URL медіа…";
+"Invalid download URL received." = "Отримано недійсну URL-адресу для завантаження.";
+"Failed to fetch HD video URL. Please try again." = "Не вдалося отримати URL для HD-відео. Будь ласка, спробуйте ще раз.";
+
+"Enable Egypt Stickers" = "Увімкнути єгипетські стікери";
+
+
+// 1.4
+"LOOP_STORY_VIDEOS" = "Зациклити відео в історіях";
+"STOP_STORY_PHOTO_ADVANCE" = "Зупинити автоперегортання фото в історіях";
+"FEATURE_LOOP_STORY_VIDEOS" = "Зациклює відео в історіях";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Зупиняє автоматичне перегортання фотографій в історіях";
+"BACKGROUND_PLAY" = "Увімкнути фонове відтворення";
+"FEATURE_BACKGROUND_PLAY" = "Увімкнути фонове відтворення аудіо";
+
+// MARK: - New Section Headers (Added from Settings reorganization)
+"Content & Display" = "Контент та відображення";
+"Playback Controls" = "Елементи керування відтворенням";
+"Content Filtering" = "Фільтрація контенту";
+"Navigation & Interaction" = "Навігація та взаємодія";
+"Downloads & Sharing" = "Завантаження та поширення";
+"Profile Actions" = "Дії з профілем";
+"Video Information" = "Інформація про відео";
+"Profile Customization" = "Налаштування профілю";
+"Profile Enhancement" = "Покращення профілю";
+"Enhanced Comments Features" = "Розширені функції коментарів";
+"Text & Display Options" = "Параметри тексту та відображення";
+"Emoji & Interface" = "Емодзі та інтерфейс";
+"Content Interactions" = "Взаємодія з контентом";
+"Social Actions" = "Соціальні дії";
+"Tab Bar Elements" = "Елементи панелі вкладок";
+"Notification Badges" = "Значки сповіщень";
+"App Configuration" = "Конфігурація додатку";
+"Content Enhancement" = "Покращення контенту";
+"System Features" = "Системні функції";
+"Configuration Management" = "Керування конфігурацією";
+"Chat Features" = "Функції чату";
+"Organization & Management" = "Організація та керування";
+"Privacy & Security" = "Приватність та безпека";
+
+// MARK: - Missing Chat Settings Strings
+"DISABLE_SCREENSHOT_DETECTION" = "Вимкнути виявлення скріншотів";
+"DISABLE_SCREENRECORDING_DETECTION" = "Вимкнути виявлення запису екрану";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "Вимикає виявлення скріншотів у чатах";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "Вимикає виявлення запису екрану в чатах";
+
+// MARK: - Missing Alert and UI Strings
+"Reset Settings" = "Скинути налаштування";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Ви впевнені, що хочете скинути всі налаштування до значень за замовчуванням? Цю дію не можна скасувати.";
+"Erase All Data" = "Стерти всі дані";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Ви впевнені, що хочете стерти всі дані TikTok? Це очистить всі дані додатку і не підлягає скасуванню.";
+"Erase" = "Стерти";
+"All TikTok data has been erased." = "Усі дані TikTok стерто.";
+"Settings Reset" = "Налаштування скинуто";
+"Language Changed" = "Мову змінено";
+"Please restart the app to apply changes, May require two app restarts!" = "Будь ласка, перезапустіть додаток, щоб застосувати зміни. Може знадобитися два перезапуски!";
+
+// MARK: - Missing Navigation and Menu Strings
+"Speeds" = "Швидкості";
+
+"BETA!" = "БЕТА!";
+
+// MARK: - Menu Manager Strings
+"Language" = "Мова";
+
+"MARK_SEEN_ON_REPLY" = "Позначати як прочитане при відповіді";
+"FEATURE_MARK_SEEN_ON_REPLY" = "Позначає повідомлення як прочитані після відповіді на них";
+
+"VIEW_PROFILES_ANONYMOUS" = "Переглядати профілі анонімно";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "Вимикає відстеження переглядів профілю";
+
+// MARK: - Import/Export Configuration Strings
+"Choose import source:" = "Виберіть джерело імпорту:";
+"Import from Keychain" = "Імпортувати зі зв'язки ключів (Keychain)";
+"Import from File" = "Імпортувати з файлу";
+"No backup found" = "Резервну копію не знайдено";
+"No Backup" = "Немає резервної копії";
+"No settings backup found in keychain." = "Резервну копію налаштувань у зв'язці ключів не знайдено.";
+"Choose export destination:" = "Виберіть місце експорту:";
+"Save to Keychain" = "Зберегти у зв'язку ключів (Keychain)";
+"Export to File" = "Експортувати у файл";
+"Configuration imported from keychain successfully." = "Конфігурацію успішно імпортовано зі зв'язки ключів.";
+"Configuration saved to keychain successfully." = "Конфігурацію успішно збережено у зв'язці ключів.";
+
+// MARK: - Rewards Ads Feature
+"Disable TikTok Rewards ADs" = "Вимкнути рекламу з винагородами TikTok";
+"FEATURE_DISABLE_REWARDS_ADS" = "Приховує рекламу з винагородами TikTok зі стрічки";
+
+// 1.5
+"OTHER_OPTIONS" = "Інші опції";
+"Processing..." = "Обробка...";
+"FEATURE_HIDE_ACTIVITY_STATUS" = "Приховує ваш статус 'Останній раз' та 'В мережі' у чатах";
+"HIDE_ACTIVITY_STATUS" = "Приховати статус активності";
+"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "Вимикає кнопку 'Візуальний пошук' у стрічці при паузі відео";
+"DISABLE_VISUAL_SEARCH_TAG" = "Вимкнути тег візуального пошуку";
+"FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "Увімкнути пошук у списку підписників, навіть якщо у користувача більше 5000 підписників";
+"BYPASS_FOLLOW_LIST_SEARCH" = "Обійти ліміт пошуку в списку підписників";
+"FEATURE_STORY_LIKE_CONFIRMATION" = "Запитувати підтвердження перед вподобанням історії";
+"STORY_LIKE_CONFIRMATION" = "Підтвердження вподобання історій";
+"FEATURE_ALWAYS_OPEN_SAFARI" = "Завжди відкривати посилання в Safari замість вбудованого браузера";
+"ALWAYS_OPEN_SAFARI" = "Завжди відкривати в Safari";
+"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "Прибирає кнопку TikTok AI (tako) зі стрічки 'Для вас'";
+"REMOVE_TIKTOK_AI_BUTTON" = "Прибрати кнопку TikTok AI";
+"WARNING" = "ПОПЕРЕДЖЕННЯ";
+"DISABLE_ACTIVITY_STATUS_WARNING" = "Вимкнення або ввімкнення анонімного статусу активності потребує часу, щоб відобразитися на серверах TikTok. Ви все ще можете деякий час з'являтися в мережі після ввімкнення цієї функції.";
+"PAD_AUTO_SCROLL" = "Стандартне автогортання";
+"FEATURE_PAD_AUTO_SCROLL" = "Увімкнути нативне автогортання постів TikTok для непідтримуваних регіонів";
+"SAVE_DM_MEDIA" = "Зберігати медіа з особистих повідомлень";
+"FEATURE_SAVE_DM_MEDIA" = "Додає кнопку завантаження до медіа, надісланих в особистих повідомленнях";
+"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "Вимикає подвійний дотик для вподобання в стрічці";
+"DISABLE_FEED_DOUBLE_TAP" = "Вимкнути подвійний дотик у стрічці";
+"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Вимикає подвійний дотик для вподобання в історіях";
+"DISABLE_STORY_DOUBLE_TAP" = "Вимкнути подвійний дотик в історіях";
+
+// 1.6
+
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Увімкнути завантаження стікерів у коментарях";
+"ENABLE_STICKER_DOWNLOAD" = "Подвійний дотик для завантаження стікера";
+"STICKER_SAVED" = "Стікер збережено в галерею!";
+"STICKER_SAVE_FAILED" = "Не вдалося зберегти стікер";
+"DOWNLOAD_FAILED" = "Завантаження не вдалося";
+"DOWNLOADING_STICKER" = "Завантаження стікера...";
+
+"FILTERING_OPTIONS" = "Параметри фільтрації";
+"BLOCK_MOVIE_TOK" = "Блокувати рекламу фільмів";
+"FEATURE_BLOCK_MOVIE_TOK" = "Блокує відео з рекламою фільмів";
+
+"BLOCK_AI_GENERATED" = "Блокувати пости, створені ШІ";
+"FEATURE_BLOCK_AI_GENERATED" = "Блокує пости з позначкою 'Містить медіа, згенероване ШІ'";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Запитувати підтвердження перед використанням швидкого поширення";
+"FEATURE_CONFIRM_REPOST" = "Запитувати підтвердження перед репостом відео";
+"CONFIRM_QUICK_SHARE" = "Підтвердження швидкого поширення";
+"CONFIRM_REPOST" = "Підтвердження репосту";
+
+"BLOCK_SHOP_VIDEOS" = "Блокувати пости магазину";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "Видаляє пости магазину зі стрічки.";
+"BLOCK_TCM" = "Блокувати рекламу додатків";
+"BLOCK_POI" = "Блокувати рекламу місць";
+"FEATURE_BLOCK_SHOP_ADS" = "Блокувати відео з рекламою магазину";
+"FEATURE_BLOCK_TCM" = "Блокувати відео з рекламою додатків";
+"FEATURE_BLOCK_POI" = "Блокувати відео з рекламою місць";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "Видаляє водяний знак при збереженні постів або чернеток";
+"REMOVE_DRAFT_WATERMARK" = "Видалити водяний знак із фото";
+"FEATURE_HIDE_REPORT_BUTTON" = "Приховати кнопку скарги в панелі навігації особистих повідомлень.";
+"HIDE_REPORT_BUTTON" = "Приховати кнопку скарги";
+"FEATURE_DISABLE_TYPING_STICKER" = "Вимкнути автоматичні рекомендації GIF під час набору тексту";
+"DISABLE_TYPING_STICKER" = "Вимкнути стікери під час набору";
+"RUSSIAN_FIX" = "Обхід блокування в Росії";
+"FEATURE_RUSSIAN_FIX" = "Увімкніть це, щоб знову запрацювала російська стрічка [НОВИНКА!]";

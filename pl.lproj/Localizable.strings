@@ -1,4 +1,4 @@
-/* Localizable.strings */
+/* Localizable.strings (Polish) */
 
 // MARK: - Core UI Elements
 "RXTikTok, Hi" = "RXTikTok, cześć";
@@ -100,8 +100,7 @@
 "Following" = "Obserwowani";
 "Fake Verified" = "Fałszywa weryfikacja";
 "Enable Fake Changes" = "Włącz fałszywe zmiany";
-"Extended Bio" = "Rozszerzone bio";
-"Extended Comments" = "Rozszerzone komentarze";
+"Extended Comments" = "Rozszerzone komentarze"; // Ujednolicone, usunięto duplikat "Extended Bio"
 "Upload HD" = "Przesyłaj w HD";
 "App Lock" = "Blokada aplikacji";
 "Enable Flex" = "Włącz Flex";
@@ -183,8 +182,6 @@
 "Please enable region changing first" = "Najpierw włącz zmianę regionu";
 
 // MARK: - Feature Descriptions
-"FEATURE_ENABLE_COMMENT_FLAGS" = "Pokaż flagę regionu komentującego";
-"FEATURE_COPY_WITHOUT_USERNAME" = "Kopiuj komentarze bez 'Nazwa użytkownika: '";
 "FEATURE_HIDE_ADS" = "Ukrywa reklamy w kanale";
 "FEATURE_DOWNLOAD_BUTTON" = "Włącza przycisk pobierania dla postów i relacji";
 "FEATURE_SHARE_SHEET" = "Otwiera menu udostępniania po pobraniu mediów";
@@ -227,7 +224,6 @@
 "FEATURE_HIDE_PLUS_BTN" = "Ukryj przycisk kamery (plus po środku ekranu na dole) ";
 "FEATURE_HIDE_FRIENDS_BADGE" = "Ukryj odznakę powiadomień znajomych";
 "FEATURE_HIDE_INBOX_BADGE" = "Ukryj odznakę powiadomień skrzynki (Przychodzące)";
-"FEATURE_EXTENDED_BIO" = "Zwiększa limit znaków w bio";
 "FEATURE_EXTENDED_COMMENTS" = "Zwiększa limit znaków w komentarzach";
 "FEATURE_UPLOAD_HD" = "Włącza przesyłanie w HD";
 "FEATURE_APP_LOCK" = "Dodaje możliwość blokowania TikToka hasłem";
@@ -243,16 +239,12 @@
 "FEATURE_BYPASS_MEDIA_LIMIT" = "Obchodzi limit mediów w czacie (Domyślnie: 9 zdjęć, 1 min filmu)";
 "FEATURE_DISABLE_AI_REPLIES" = "Wyłącz odpowiedzi generowane przez AI na wysłane posty";
 "FEATURE_SMALL_EMOJI" = "Włącz wysyłanie małych emoji";
-"FEATURE_REMOVE_PENDANT" = "Usuń irytujący widok reklamy w lewym górnym rogu ekranu (tylko w niektórych regionach)";
-"FEATURE_HIDE_DANGEROUS_ACTION" = "Ukryj irytujące ostrzeżenia pod filmami sportowymi";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Pokaż czas przesłania obok nazwy użytkownika w Dla Ciebie";
 "FEATURE_HIDE_COMMISSION_POSTS" = "Ukryj sponsorowane filmy z prowizją";
 
 // Comment Settings Descriptions
 "ENABLE_COMMENT_PHOTO" = "Zezwól na dodawanie zdjęć do komentarzy";
 "ENABLE_COMMENT_STICKERS" = "Zezwól na dodawanie naklejek do komentarzy";
 "FEATURE_DISABLE_COMMENT_TOOLTIP" = "Wyłącz podpowiedzi w komentarzach";
-"FEATURE_ADD_TRANSLATION" = "Dodaj przycisk tłumaczenia do komentarzy";
 "FEATURE_ADD_COMMENT_POST" = "Włącz publikowanie komentarzy jako postów";
 "FEATURE_ADD_COMMENT_STORY" = "Włącz publikowanie komentarzy jako relacji";
 "FEATURE_MASS_UNFOLD" = "Masowo rozwiń wszystkie odpowiedzi na komentarze";
@@ -265,7 +257,7 @@
 
 // MARK: - Error Messages
 "Could Not Copy Music" = "Nie można skopiować muzyki";
-"The video doesn't have music to download" = "Ten film nie zawiera muzyki do pobrania";
+"the video doesn't have music to download" = "Ten film nie zawiera muzyki do pobrania";
 
 // MARK: - Developer
 "DEVELOPER_TELEGRAM" = "Dołącz do kanału Telegram, aby otrzymywać najnowsze aktualizacje";
@@ -274,10 +266,9 @@
 // MARK: - Missing Strings
 "Features list" = "Lista funkcji";
 "Not Selected" = "Nie wybrano";
-"Creator Profile Pull" = "Podgląd profilu twórcy";
 "OK" = "OK";
 "Disable Left & Right Swipe" = "Wyłącz przesuwanie w lewo i prawo";
-"Pull To Camera" = "otwórz kamerę przeciągnieciem";
+"Pull To Camera" = "Otwórz kamerę przeciągnięciem";
 "Regions" = "Regiony";
 "Full Region Mode" = "Tryb pełnego regionu";
 "Add Folders To Inbox" = "Dodaj foldery do skrzynki";
@@ -317,7 +308,6 @@
 "Disable" = "Wyłącz";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_CREATOR_PROFILE_PULL" = "Podglądaj profile twórców podczas przeciągania w dół";
 "FEATURE_DISABLE_SWIPE" = "Wyłącz przesuwanie w lewo i prawo w kanale";
 "FEATURE_PULL_TO_CAMERA" = "Włącz przeciąganie, aby otworzyć kamerę";
 "FEATURE_ADD_FOLDERS" = "Dodaj organizację wiadomości w skrzynce do folderów";
@@ -348,19 +338,20 @@
 "Buy Me a Coffee" = "Postaw mi kawę";
 "Support the development" = "Wesprzyj rozwój";
 "X" = "X";
-"Support" = "Wspracie";
+"Support" = "Wsparcie";
+
 // MARK: - Configuration
 "About" = "O aplikacji";
 "Configuration" = "Konfiguracja";
-"Import Configuration" = "Importuj Konfigurację";
-"Export Configuration" = "Eksportuj Konfigurację";
+"Import Configuration" = "Importuj konfigurację";
+"Export Configuration" = "Eksportuj konfigurację";
 "Reset All Settings" = "Resetuj wszystkie ustawienia";
 "Import settings from a file" = "Importuj ustawienia z pliku";
-"Export settings to a file" = "Eksportuj ustawienia z pliku";
+"Export settings to a file" = "Eksportuj ustawienia do pliku";
 "Reset all settings to default values" = "Przywróć ustawienia domyślne";
 "All settings have been reset to default values." = "Wszystkie ustawienia zostały przywrócone do ustawień domyślnych.";
-"Configuration imported successfully." = "Konfiguracja zimportowana pomyślnie.";
-"File selection was cancelled." = "Anulowano wybieranie pliku";
+"Configuration imported successfully." = "Konfiguracja zaimportowana pomyślnie.";
+"File selection was cancelled." = "Wybór pliku został anulowany.";
 "Cancelled" = "Anulowano";
 
 "Select App Language" = "Wybierz język aplikacji";
@@ -368,31 +359,174 @@
 
 // 1.3
 "Erase All TikTok Data" = "Wyczyść wszystkie dane TikToka";
-"Erase all TikTok data from the app  [Becareful!!!]" = "Wyczyść wszystkie dane aplikacji (Ostrożnie!!!)";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Wyczyść wszystkie dane aplikacji [OSTROŻNIE!!!]";
 "Clear Keychain" = "Wyczyść dane logowania (keychain)";
-"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Czy na pewno chcesz wyczyścić wszystkie dane? Spowoduje to usunięcie:\n1- danych aplikacji TikTok\n2- Wszystkich danych logowania\n3- Wyczyszczenie wszystkich NSUserDefaults\n\nUWAGA!\nUTRACISZ WSZYSTKIE SZKICE I DANE ZAPISANE LOKALNIE.";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Czy na pewno chcesz wyczyścić wszystkie dane? Spowoduje to usunięcie:\n1- katalogu danych TikTok\n2- wszystkich danych logowania (keychain)\n3- wyczyszczenie wszystkich NSUserDefaults\n\nUWAGA!\nSTRACISZ WSZYSTKIE SZKICE I WSZYSTKIE DANE ZAPISANE LOKALNIE.";
 "Clear" = "Wyczyść";
-"Really Clear All Data?" = "Czy napewno chcesz wyczyścić wszystkie dane?";
+"Really Clear All Data?" = "Czy na pewno chcesz wyczyścić wszystkie dane?";
 "This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "To ostatnie ostrzeżenie. Ta operacja jest nieodwracalna i usunie wszystkie lokalne dane TikTok, w tym szkice i ustawienia. Czy jesteś absolutnie pewien?";
 "Confirm Clear" = "Potwierdź wyczyszczenie";
 "Data Cleared" = "Dane wyczyszczone";
 "All TikTok data has been cleared." = "Wszystkie dane TikTok zostały wyczyszczone.";
 
 "Streak Info" = "Informacje o serii";
-"FEATURE_STREAK_INFO" = "Pokazuje informacje o serii po dotknięciu ikony płomienia";
+"FEATURE_STREAK_INFO" = "Pokazuje informacje o bieżącej serii po dotknięciu ikony płomienia";
 
 "Hide Tab Bar Labels" = "Ukryj etykiety paska zakładek";
-"FEATURE_HIDE_TAB_BAR_LABELS" = "Ukrywa etykiety w pasku zakładek dla bardziej minimalistycznego wyglądu";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Ukrywa etykiety na pasku zakładek";
 
 "Adjust offline download limit" = "Dostosuj limit pobierania offline";
-"Adjust value between 50 and 2000" = "Ustaw wartość pomiędzy 50 a 2000";
+"Adjust value between 50 and 2000" = "Ustaw wartość między 50 a 2000";
 
-"Start TikTok in Following" = "Uruchom TikTok w zakładce Obserwowani";
-"FEATURE_START_FYP_IN_FOLLOWING" = "Uruchamia TikTok w zakładce Obserwowani zamiast w Dla Ciebie";
+"Start TikTok in Following" = "Uruchom TikTok w zakładce 'Obserwowani'";
+"FEATURE_START_FYP_IN_FOLLOWING" = "Uruchamia TikTok w zakładce 'Obserwowani' zamiast 'Dla Ciebie'";
 
 "Waiting for TikTok…" = "Oczekiwanie na TikTok…";
-"Extracting Media URL…" = "Pobieranie adresu URL…";
-"Invalid download URL received." = "Otrzymano nieprawidłowy adres URL.";
+"Extracting Media URL…" = "Wyodrębnianie adresu URL multimediów…";
+"Invalid download URL received." = "Otrzymano nieprawidłowy adres URL do pobrania.";
 "Failed to fetch HD video URL. Please try again." = "Nie udało się pobrać adresu URL wideo HD. Spróbuj ponownie.";
 
-"Enable Egypt Stickers" = "Włącz naklejki Egipt";
+"Enable Egypt Stickers" = "Włącz egipskie naklejki";
+
+
+// 1.4
+"LOOP_STORY_VIDEOS" = "Zapętlaj filmy w relacjach";
+"STOP_STORY_PHOTO_ADVANCE" = "Zatrzymaj automatyczne przewijanie zdjęć w relacjach";
+"FEATURE_LOOP_STORY_VIDEOS" = "Zapętla filmy w relacjach";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Zatrzymuje automatyczne przechodzenie do następnego zdjęcia w relacjach";
+"BACKGROUND_PLAY" = "Włącz odtwarzanie w tle";
+"FEATURE_BACKGROUND_PLAY" = "Włącza odtwarzanie dźwięku w tle";
+
+// MARK: - New Section Headers
+"Content & Display" = "Treść i wyświetlanie";
+"Playback Controls" = "Kontrolki odtwarzania";
+"Content Filtering" = "Filtrowanie treści";
+"Navigation & Interaction" = "Nawigacja i interakcja";
+"Downloads & Sharing" = "Pobieranie i udostępnianie";
+"Profile Actions" = "Akcje profilu";
+"Video Information" = "Informacje o filmie";
+"Profile Customization" = "Personalizacja profilu";
+"Profile Enhancement" = "Ulepszenia profilu";
+"Enhanced Comments Features" = "Rozszerzone funkcje komentarzy";
+"Text & Display Options" = "Opcje tekstu i wyświetlania";
+"Emoji & Interface" = "Emoji i interfejs";
+"Content Interactions" = "Interakcje z treścią";
+"Social Actions" = "Akcje społecznościowe";
+"Tab Bar Elements" = "Elementy paska kart";
+"Notification Badges" = "Plakietki powiadomień";
+"App Configuration" = "Konfiguracja aplikacji";
+"Content Enhancement" = "Ulepszanie treści";
+"System Features" = "Funkcje systemowe";
+"Configuration Management" = "Zarządzanie konfiguracją";
+"Chat Features" = "Funkcje czatu";
+"Organization & Management" = "Organizacja i zarządzanie";
+"Privacy & Security" = "Prywatność i bezpieczeństwo";
+
+// MARK: - Missing Chat Settings Strings
+"DISABLE_SCREENSHOT_DETECTION" = "Wyłącz wykrywanie zrzutów ekranu";
+"DISABLE_SCREENRECORDING_DETECTION" = "Wyłącz wykrywanie nagrywania ekranu";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "Wyłącza wykrywanie zrzutów ekranu w czatach";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "Wyłącza wykrywanie nagrywania ekranu w czatach";
+
+// MARK: - Missing Alert and UI Strings
+"Reset Settings" = "Resetuj ustawienia";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Czy na pewno chcesz zresetować wszystkie ustawienia do wartości domyślnych? Tej czynności nie można cofnąć.";
+"Erase All Data" = "Usuń wszystkie dane";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Czy na pewno chcesz usunąć wszystkie dane TikTok? Spowoduje to wyczyszczenie wszystkich danych aplikacji i jest nieodwracalne.";
+"Erase" = "Usuń";
+"All TikTok data has been erased." = "Wszystkie dane TikTok zostały usunięte.";
+"Settings Reset" = "Ustawienia zresetowane";
+"Language Changed" = "Język zmieniony";
+"Please restart the app to apply changes, May require two app restarts!" = "Uruchom ponownie aplikację, aby zastosować zmiany. Może być wymagane dwukrotne uruchomienie!";
+
+// MARK: - Missing Navigation and Menu Strings
+"Speeds" = "Prędkości";
+
+"BETA!" = "BETA!";
+
+// MARK: - Menu Manager Strings
+"Language" = "Język";
+
+"MARK_SEEN_ON_REPLY" = "Oznacz jako wyświetlone po odpowiedzi";
+"FEATURE_MARK_SEEN_ON_REPLY" = "Oznacza wiadomości jako wyświetlone po udzieleniu na nie odpowiedzi";
+
+"VIEW_PROFILES_ANONYMOUS" = "Wyświetlaj profile anonimowo";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "Wyłącza śledzenie wyświetleń profilu";
+
+// MARK: - Import/Export Configuration Strings
+"Choose import source:" = "Wybierz źródło importu:";
+"Import from Keychain" = "Importuj z pęku kluczy (Keychain)";
+"Import from File" = "Importuj z pliku";
+"No backup found" = "Nie znaleziono kopii zapasowej";
+"No Backup" = "Brak kopii zapasowej";
+"No settings backup found in keychain." = "Nie znaleziono kopii zapasowej ustawień w pęku kluczy.";
+"Choose export destination:" = "Wybierz miejsce eksportu:";
+"Save to Keychain" = "Zapisz w pęku kluczy (Keychain)";
+"Export to File" = "Eksportuj do pliku";
+"Configuration imported from keychain successfully." = "Konfiguracja została pomyślnie zaimportowana z pęku kluczy.";
+"Configuration saved to keychain successfully." = "Konfiguracja została pomyślnie zapisana w pęku kluczy.";
+
+// MARK: - Rewards Ads Feature
+"Disable TikTok Rewards ADs" = "Wyłącz reklamy z nagrodami TikTok";
+"FEATURE_DISABLE_REWARDS_ADS" = "Ukrywa reklamy z nagrodami TikTok w kanale";
+
+// 1.5
+"OTHER_OPTIONS" = "Inne opcje";
+"Processing..." = "Przetwarzanie...";
+"FEATURE_HIDE_ACTIVITY_STATUS" = "Ukrywa Twój status 'Ostatnio aktywny' i 'Online' na czatach";
+"HIDE_ACTIVITY_STATUS" = "Ukryj status aktywności";
+"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "Wyłącza przycisk 'Wyszukiwanie wizualne' w kanale podczas zatrzymywania wideo";
+"DISABLE_VISUAL_SEARCH_TAG" = "Wyłącz przycisk wyszukiwania wizualnego";
+"FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "Umożliwia wyszukiwanie na liście obserwujących, nawet jeśli użytkownik ma ponad 5000 obserwujących";
+"BYPASS_FOLLOW_LIST_SEARCH" = "Pomiń limit wyszukiwania na liście obserwujących";
+"FEATURE_STORY_LIKE_CONFIRMATION" = "Prosi o potwierdzenie przed polubieniem relacji";
+"STORY_LIKE_CONFIRMATION" = "Potwierdzenie polubienia relacji";
+"FEATURE_ALWAYS_OPEN_SAFARI" = "Zawsze otwiera linki w Safari zamiast w przeglądarce wbudowanej w aplikację";
+"ALWAYS_OPEN_SAFARI" = "Zawsze otwieraj w Safari";
+"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "Usuwa przycisk TikTok AI (tako) ze strony 'Dla Ciebie'";
+"REMOVE_TIKTOK_AI_BUTTON" = "Usuń przycisk TikTok AI";
+"WARNING" = "OSTRZEŻENIE";
+"DISABLE_ACTIVITY_STATUS_WARNING" = "Wyłączenie lub włączenie anonimowego statusu aktywności wymaga czasu, aby odzwierciedlić to na serwerach TikTok. Po włączeniu tej funkcji przez jakiś czas możesz nadal być widoczny jako online.";
+"PAD_AUTO_SCROLL" = "Domyślne automatyczne przewijanie";
+"FEATURE_PAD_AUTO_SCROLL" = "Włącza natywne automatyczne przewijanie postów TikTok dla nieobsługiwanych regionów";
+"SAVE_DM_MEDIA" = "Zapisuj multimedia z wiadomości prywatnych";
+"FEATURE_SAVE_DM_MEDIA" = "Dodaje przycisk pobierania do multimediów wysyłanych w wiadomościach prywatnych";
+"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "Wyłącza podwójne dotknięcie, aby polubić w kanale";
+"DISABLE_FEED_DOUBLE_TAP" = "Wyłącz podwójne dotknięcie w kanale";
+"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Wyłącza podwójne dotknięcie, aby polubić w relacjach";
+"DISABLE_STORY_DOUBLE_TAP" = "Wyłącz podwójne dotknięcie w relacjach";
+
+// 1.6
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Umożliwia pobieranie naklejek w komentarzach";
+"ENABLE_STICKER_DOWNLOAD" = "Dotknij dwukrotnie, aby pobrać naklejkę";
+"STICKER_SAVED" = "Naklejka zapisana w galerii!";
+"STICKER_SAVE_FAILED" = "Nie udało się zapisać naklejki";
+"DOWNLOAD_FAILED" = "Pobieranie nie powiodło się";
+"DOWNLOADING_STICKER" = "Pobieranie naklejki...";
+
+"FILTERING_OPTIONS" = "Opcje filtrowania";
+"BLOCK_MOVIE_TOK" = "Blokuj reklamy filmów";
+"FEATURE_BLOCK_MOVIE_TOK" = "Blokuje filmy z reklamami filmów";
+
+"BLOCK_AI_GENERATED" = "Blokuj posty wygenerowane przez AI";
+"FEATURE_BLOCK_AI_GENERATED" = "Blokuje posty z oznaczeniem 'Zawiera treści generowane przez AI'";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Prosi o potwierdzenie przed użyciem szybkiego udostępniania";
+"FEATURE_CONFIRM_REPOST" = "Prosi o potwierdzenie przed ponownym opublikowaniem filmu";
+"CONFIRM_QUICK_SHARE" = "Potwierdzenie szybkiego udostępnienia";
+"CONFIRM_REPOST" = "Potwierdzenie reposta";
+
+"BLOCK_SHOP_VIDEOS" = "Blokuj posty ze sklepu";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "Usuwa posty ze sklepu z kanału.";
+"BLOCK_TCM" = "Blokuj reklamy aplikacji";
+"BLOCK_POI" = "Blokuj reklamy lokalizacji";
+"FEATURE_BLOCK_SHOP_ADS" = "Blokuj filmy z reklamami sklepu";
+"FEATURE_BLOCK_TCM" = "Blokuj filmy z reklamami aplikacji";
+"FEATURE_BLOCK_POI" = "Blokuj filmy z reklamami lokalizacji";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "Usuwa znak wodny podczas zapisywania postów lub szkiców";
+"REMOVE_DRAFT_WATERMARK" = "Usuń znak wodny ze zdjęć";
+"FEATURE_HIDE_REPORT_BUTTON" = "Ukryj przycisk zgłaszania na pasku nawigacyjnym w wiadomościach bezpośrednich.";
+"HIDE_REPORT_BUTTON" = "Ukryj przycisk zgłaszania";
+"FEATURE_DISABLE_TYPING_STICKER" = "Wyłącz automatyczne rekomendacje GIF-ów podczas pisania";
+"DISABLE_TYPING_STICKER" = "Wyłącz naklejkę podczas pisania";
+"RUSSIAN_FIX" = "Obejście blokady w Rosji";
+"FEATURE_RUSSIAN_FIX" = "Włącz to, aby ponownie uruchomić rosyjski kanał [NOWOŚĆ!]";

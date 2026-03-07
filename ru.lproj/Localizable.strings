@@ -397,6 +397,7 @@
 "FEATURE_BACKGROUND_PLAY" = "Включить просмотр в фоновом режиме";
 
 // MARK: - New Section Headers (Added from Settings reorganization)
+"PLAY_IN_NATIVE_PLAYER" = "Воспроизведение в нативном плеере";
 "Content & Display" = "Контент & Отображение";
 "Playback Controls" = "Управление Проигрыванием";
 "Content Filtering" = "Фильтрация Контента";
@@ -530,3 +531,5 @@
 "DISABLE_TYPING_STICKER" = "Отключить рекомендации GIF";
 "RUSSIAN_FIX" = "Обход для России 🇷🇺";
 "FEATURE_RUSSIAN_FIX" = "Обходит блокировку России со стороны TikTok";
+"HIDE_RX_UI" = "Скрыть RX UI";
+"FEATURE_HIDE_RX_UI" = "Скрыть RX UI на снимках экрана";
