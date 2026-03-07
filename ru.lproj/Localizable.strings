@@ -86,7 +86,6 @@
 "Skip Recommendations" = "Пропускать рекомендации";
 "Upload Region" = "Показать регион выгрузки";
 "Hide Top Feed items" = "Скрыть верхние элементы ленты";
-"Anonymous Seen" = "Анонимный просмотр";
 "Hide Play/Pause Button" = "Скрыть кнопку воспроизведения/паузы";
 
 // MARK: - Profile Settings
@@ -100,7 +99,6 @@
 "Following" = "Подписки";
 "Fake Verified" = "Включить фейковую галочку";
 "Enable Fake Changes" = "Включить фейковые изменения";
-"Extended Bio" = "Расширить количество символов в описании профиля";
 "Extended Comments" = "Расширить количество символов в комментариях";
 "Upload HD" = "Включить кнопку выгрузки в HD";
 "App Lock" = "Включить блокировку приложения";
@@ -161,7 +159,7 @@
 "Bypass Media Limit" = "Обойти лимит медиа";
 "Disable AI-Generated Replies" = "Отключить ответы, сгенерированные ИИ";
 "Enable Small Emoji" = "Включить маленькие эмодзи";
-"Anonymous Seen" = "Анонимное прочтение";
+"Anonymous Seen" = "Анонимный просмотр";
 
 // MARK: - Playback Speed
 "Enable Playback Speed" = "Изменить скорость видео";
@@ -183,8 +181,6 @@
 "Please enable region changing first" = "Сначала включите смену региона";
 
 // MARK: - Feature Descriptions
-"FEATURE_ENABLE_COMMENT_FLAGS" = "Показывает флаги регионов рядом с именами комментаторов";
-"FEATURE_COPY_WITHOUT_USERNAME" = "Копирует комментарии без имени пользователя";
 "FEATURE_HIDE_ADS" = "Скрывает рекламу из ленты";
 "FEATURE_DOWNLOAD_BUTTON" = "Добавляет кнопку загрузки для постов и историй";
 "FEATURE_SHARE_SHEET" = "Открывает меню поделиться после загрузки медиа";
@@ -227,7 +223,6 @@
 "FEATURE_HIDE_PLUS_BTN" = "Скрывает кнопку +";
 "FEATURE_HIDE_FRIENDS_BADGE" = "Скрывает значок уведомлений (Друзья)";
 "FEATURE_HIDE_INBOX_BADGE" = "Скрывает значок уведомлений (Входящие)";
-"FEATURE_EXTENDED_BIO" = "Увеличивает лимит символов в биографии";
 "FEATURE_EXTENDED_COMMENTS" = "Увеличивает лимит символов в комментариях";
 "FEATURE_UPLOAD_HD" = "Включает кнопку выгрузки видео в HD";
 "FEATURE_APP_LOCK" = "Добавляет возможность блокировать TikTok паролем";
@@ -243,16 +238,12 @@
 "FEATURE_BYPASS_MEDIA_LIMIT" = "Обходит лимит медиа в чате (по умолчанию: 9 фото, 1 мин. видео)";
 "FEATURE_DISABLE_AI_REPLIES" = "Отключает ответы ИИ на отправленные посты";
 "FEATURE_SMALL_EMOJI" = "Включает отправку маленьких эмодзи";
-"FEATURE_REMOVE_PENDANT" = "Удаляет рекламный баннер в верхнем левом углу экрана (только в некоторых регионах)";
-"FEATURE_HIDE_DANGEROUS_ACTION" = "Скрывает предупреждения под спортивными видео";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Показывает время выгрузки поста рядом с именем пользователя в ленте";
 "FEATURE_HIDE_COMMISSION_POSTS" = "Удаляет посты с пометкой 'Автор получает комиссию'";
 
 // Comment Settings Descriptions
 "ENABLE_COMMENT_PHOTO" = "Включает кнопку отправки фото в комментарии";
 "ENABLE_COMMENT_STICKERS" = "Включает кнопку отправки стикеров в комментарии";
 "FEATURE_DISABLE_COMMENT_TOOLTIP" = "Отключает всплывающие подсказки в комментариях";
-"FEATURE_ADD_TRANSLATION" = "Добавляет кнопку перевода в комментарии";
 "FEATURE_ADD_COMMENT_POST" = "Разрешает публикацию комментариев как постов";
 "FEATURE_ADD_COMMENT_STORY" = "Разрешает публикацию комментариев как историй";
 "FEATURE_MASS_UNFOLD" = "Раскрывает все ответы на комментарии";
@@ -260,14 +251,12 @@
 "FEATURE_MULTI_EMOJI" = "Включает панель для нескольких эмодзи в комментариях";
 "FEATURE_HIDE_EMOJI" = "Скрывает панель эмодзи в комментариях";
 "FEATURE_COMMENT_REDESIGN" = "Включить обновленный дизайн комментариев";
-"FEATURE_COPY_WITHOUT_USERNAME" = "Копирует комментарии без 'Имя пользователя: '";
-"FEATURE_ENABLE_COMMENT_FLAGS" = "Показывает флаг региона комментатора";
-
-// v1.1
+"FEATURE_COPY_WITHOUT_USERNAME" = "Копирует комментарии без имени пользователя";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Показывает флаги регионов рядом с именами комментаторов";
 
 // MARK: - Error Messages
 "Could Not Copy Music" = "Не удалось скопировать музыку";
-"The video doesn't have music to download" = "В этом видео нет музыки для загрузки";
+"the video doesn't have music to download" = "В этом видео нет музыки для скачивания";
 
 // MARK: - Developer
 "DEVELOPER_TELEGRAM" = "Подключитесь к Telegram-каналу для последних обновлений";
@@ -276,7 +265,6 @@
 // MARK: - Missing Strings
 "Features list" = "Список функций";
 "Not Selected" = "Не выбрано";
-"Creator Profile Pull" = "Включить свайп для быстрого доступа";
 "OK" = "OK";
 "Disable Left & Right Swipe" = "Отключить свайп влево/вправо в ленте";
 "Pull To Camera" = "Включить свайп для открытия камеры";
@@ -299,8 +287,8 @@
 "Loading" = "Загрузка";
 "Search" = "Поиск";
 "Apply" = "Применить";
-"Saved!" = "Сохранено";
 "Reset" = "Сбросить";
+"Saved!" = "Сохранено";
 "Video saved successfully" = "Видео успешно сохранено";
 "Photo saved successfully" = "Фотография успешно сохранена";
 "Failed to save media" = "Не удалось сохранить медиафайл";
@@ -319,7 +307,6 @@
 "Disable" = "Отключить";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_CREATOR_PROFILE_PULL" = "Включает свайп для доступа к быстрым настройках";
 "FEATURE_DISABLE_SWIPE" = "Отключает влево/вправо между вкладками";
 "FEATURE_PULL_TO_CAMERA" = "Включает свайп для доступа к камере";
 "FEATURE_ADD_FOLDERS" = "Добавляет папки для личных сообщений";
@@ -350,8 +337,9 @@
 "Buy Me a Coffee" = "Угостите меня кофе";
 "Support the development" = "Поддержать разработку";
 "X" = "X";
+"Support" = "Донат";
 
-// MARK: - Configuration Management
+// MARK: - Configuration
 "About" = "Поддержка и справка";
 "Configuration" = "Настройки";
 "Import Configuration" = "Восстановление настроек";
@@ -360,44 +348,41 @@
 "Import settings from a file" = "Восстанавливает настройки из файла";
 "Export settings to a file" = "Создает файл настроек";
 "Reset all settings to default values" = "Сбрасывает все настройки";
-"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Вы уверены, что хотите сбросить все настройки до значений по умолчанию? Пути назад не будет";
 "All settings have been reset to default values." = "Все настройки были сброшены до значений по умолчанию";
 "Configuration imported successfully." = "Настройки успешно импортированы";
 "File selection was cancelled." = "Выбор файла был отменен";
 "Cancelled" = "Отмена";
 
-// MARK: - Features View
-"Support"="Донат";
-
 "Select App Language" = "Выберите язык";
 
-// 1.3  
-"Erase All TikTok Data" = "Стереть все данные TikTok"; 
-"Erase all TikTok data from the app  [Becareful!!!]" = "Стереть все данные TikTok [Внимание!!!]"; 
-"Clear Keychain" = "Очистить данные Keychain"; 
-"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Вы уверены что хотите очистить все данные? Это удалит:\n1- Директорию data TikTok'а\n2- Данные Keychain\n3- Очистка NSUserDefaults\n\nВНИМАНИЕ!\nВЫ ПОТЕРЯЕТЕ ВСЕ ЧЕРНОВИКИ И ВСЕ ЧТО СОХРАНЕНО ЛОКАЛЬНО."; 
-"Clear" = "Очистить"; 
-"Really Clear All Data?" = "Реально очистить все данные?"; 
-"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Это последние предупреждение. Это действие не обратимо и очистит локальные данные TikTok, включая черновики и настройки. Вы точно уверены?"; 
-"Confirm Clear" = "Подтвердить очистку"; 
-"Data Cleared" = "Данные очищены"; 
-"All TikTok data has been cleared." = "Все данные TikTok были очищены."; 
- 
-"Streak Info" = "Информация о серии"; 
-"FEATURE_STREAK_INFO" = "Показать информацию о серии, при касание на огонек серии"; 
- 
-"Hide Tab Bar Labels" = "Спрятать название вкладок"; 
-"FEATURE_HIDE_TAB_BAR_LABELS" = "Спрятать название вкладок для чистого вида"; 
- 
-"Adjust offline download limit" = "Изменить лимит загрузки видео оффлайн"; 
-"Adjust value between 50 and 2000" = "Выберите число от 50 до 2000"; 
- 
-"Start TikTok in Following" = "Запускать TikTok на ленте Подписки"; 
-"FEATURE_START_FYP_IN_FOLLOWING" = "Запускать TikTok на ленте Подписки вместо ленты Рекомендации"; 
- 
-"Waiting for TikTok…" = "Ожидание TikTok…"; 
-"Extracting Media URL…" = "Вытаскивание URL Медиа…"; 
-"Invalid download URL received." = "Получен неверный URL загрузки."; 
+
+// 1.3 
+"Erase All TikTok Data" = "Стереть все данные TikTok";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Стереть все данные TikTok [Внимание!!!]";
+"Clear Keychain" = "Очистить данные Keychain";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Вы уверены что хотите очистить все данные? Это удалит:\n1- Директорию data TikTok'а\n2- Данные Keychain\n3- Очистка NSUserDefaults\n\nВНИМАНИЕ!\nВЫ ПОТЕРЯЕТЕ ВСЕ ЧЕРНОВИКИ И ВСЕ ЧТО СОХРАНЕНО ЛОКАЛЬНО.";
+"Clear" = "Очистить";
+"Really Clear All Data?" = "Реально очистить все данные?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Это последние предупреждение. Это действие не обратимо и очистит локальные данные TikTok, включая черновики и настройки. Вы точно уверены?";
+"Confirm Clear" = "Подтвердить очистку";
+"Data Cleared" = "Данные очищены";
+"All TikTok data has been cleared." = "Все данные TikTok были очищены.";
+
+"Streak Info" = "Информация о серии";
+"FEATURE_STREAK_INFO" = "Показать информацию о серии, при касание на огонек серии";
+
+"Hide Tab Bar Labels" = "Спрятать название вкладок";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Спрятать название вкладок для чистого вида";
+
+"Adjust offline download limit" = "Изменить лимит загрузки видео оффлайн";
+"Adjust value between 50 and 2000" = "Выберите число от 50 до 2000";
+
+"Start TikTok in Following" = "Запускать TikTok на ленте Подписки";
+"FEATURE_START_FYP_IN_FOLLOWING" = "Запускать TikTok на ленте Подписки вместо ленты Рекомендации";
+
+"Waiting for TikTok…" = "Ожидание TikTok…";
+"Extracting Media URL…" = "Вытаскивание URL Медиа…";
+"Invalid download URL received." = "Получен неверный URL загрузки.";
 "Failed to fetch HD video URL. Please try again." = "Не удалось получить URL этого HD видео. Повторите попытку позже.";
 
 "Enable Egypt Stickers" = "Включить стикеры Египта";
@@ -444,7 +429,7 @@
 
 // MARK: - Missing Alert and UI Strings
 "Reset Settings" = "Сброс Настроек";
-"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Вы уверены, что Вы хотите сбросить все настройки до стандартных значений? Это действие не может быть отменено.";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Вы уверены, что хотите сбросить все настройки до значений по умолчанию? Пути назад не будет";
 "Erase All Data" = "Стереть Все Данные";
 "Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Вы уверены, что Вы хотите стереть все данные TikTok? Это действие очистит все данные приложения, оно не может быть отменено.";
 "Erase" = "Стереть";
@@ -455,8 +440,6 @@
 
 // MARK: - Missing Navigation and Menu Strings
 "Speeds" = "Скорости";
-"Live Actions" = "Действия с Live";
-"RXTikTok Settings" = "Настройки RXTikTok";
 
 "BETA!" = "БЕТА!";
 
@@ -503,8 +486,6 @@
 "REMOVE_TIKTOK_AI_BUTTON" = "Удалить кнопку TikTok AI";
 "WARNING" = "ПРЕДУПРЕЖДЕНИЕ";
 "DISABLE_ACTIVITY_STATUS_WARNING" = "Отключение или включение анонимного статуса активности занимает время для отражения на серверах TikTok. Вы можете оставаться в сети какое-то время после включения этой функции.";
-"BLOCK_SHOP_VIDOES" = "Блокировать магазинные видео";
-"BLOCK_SHOP_VIDOES_FEATURE" = "Удаляет магазинные видео из ленты.";
 "PAD_AUTO_SCROLL" = "Автопрокрутка по умолчанию";
 "FEATURE_PAD_AUTO_SCROLL" = "Включает нативную автопрокрутку постов TikTok для неподдерживаемых регионов";
 "SAVE_DM_MEDIA" = "Сохранять медиа из личных сообщений";
@@ -516,22 +497,22 @@
 
 // 1.6
 
-"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Включает скачивание стикеров в комментариях"; 
-"ENABLE_STICKER_DOWNLOAD" = "Двойное нажатие для скачивания стикера"; 
-"STICKER_SAVED" = "Стикер сохранён в галерею!"; 
-"STICKER_SAVE_FAILED" = "Не удалось сохранить стикер"; 
-"DOWNLOAD_FAILED" = "Ошибка загрузки"; 
-"DOWNLOADING_STICKER" = "Загрузка стикера..."; 
- 
-"FILTERING_OPTIONS" = "Параметры фильтрации"; 
-"BLOCK_MOVIE_TOK" = "Блокировать рекламу фильмов"; 
-"FEATURE_BLOCK_MOVIE_TOK" = "Блокирует видео с рекламой фильмов"; 
- 
-"BLOCK_AI_GENERATED" = "Блокировать публикации с ИИ"; 
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Включает скачивание стикеров в комментариях";
+"ENABLE_STICKER_DOWNLOAD" = "Двойное нажатие для скачивания стикера";
+"STICKER_SAVED" = "Стикер сохранён в галерею!";
+"STICKER_SAVE_FAILED" = "Не удалось сохранить стикер";
+"DOWNLOAD_FAILED" = "Ошибка загрузки";
+"DOWNLOADING_STICKER" = "Загрузка стикера...";
+
+"FILTERING_OPTIONS" = "Параметры фильтрации";
+"BLOCK_MOVIE_TOK" = "Блокировать рекламу фильмов";
+"FEATURE_BLOCK_MOVIE_TOK" = "Блокирует видео с рекламой фильмов";
+
+"BLOCK_AI_GENERATED" = "Блокировать публикации с ИИ";
 "FEATURE_BLOCK_AI_GENERATED" = "Блокирует публикации с пометкой «Содержит медиа, созданное ИИ»";
-"FEATURE_CONFIRM_QUICK_SHARE" = "Запрашивать подтверждение перед быстрой публикацией"; 
+"FEATURE_CONFIRM_QUICK_SHARE" = "Запрашивать подтверждение перед быстрой публикацией";
 "FEATURE_CONFIRM_REPOST" = "Запрашивать подтверждение перед репостом видео";
-"CONFIRM_QUICK_SHARE" = "Подтверждение быстрой публикации"; 
+"CONFIRM_QUICK_SHARE" = "Подтверждение быстрой публикации";
 "CONFIRM_REPOST" = "Подтверждение быстрого репоста";
 
 "BLOCK_SHOP_VIDEOS" = "Блокировать публикации магазинов";
@@ -548,4 +529,4 @@
 "FEATURE_DISABLE_TYPING_STICKER" = "Отключает автоматические рекомендации GIF при наборе текста";
 "DISABLE_TYPING_STICKER" = "Отключить стикер набора";
 "RUSSIAN_FIX" = "Обойти блокировку в России";
-"FEATURE_RUSSIAN_FIX" = "Включите, чтобы снова получить доступ к российским рекомедациям [НОВОЕ!]";
+"FEATURE_RUSSIAN_FIX" = "Включите, чтобы снова получить доступ к рекомендациям из России[НОВОЕ!]";
