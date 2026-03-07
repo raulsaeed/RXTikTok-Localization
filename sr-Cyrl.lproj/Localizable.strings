@@ -9,8 +9,8 @@
 // MARK: - Global Actions
 "Yes" = "Да";
 "No" = "Не";
-"ON" = "На";
-"OFF" = "ИСКЉУЧЕНО";
+"ON" = "Укључено";
+"OFF" = "Искључено";
 "Cancel" = "Откажи";
 "Confirm" = "Потврди";
 "Actions" = "Акције";
@@ -25,48 +25,48 @@
 "Profile" = "Профил";
 "Other" = "Остало";
 "Region" = "Регион";
-"Developer" = "Развијач";
+"Developer" = "Програмер";
 "Design Options" = "Опције дизајна";
 "Other Settings" = "Остала подешавања";
 "Auto Clear History" = "Аутоматско брисање историје";
 "Enable Embeded Links" = "Омогући уграђене линкове";
 "Language 🌎" = "Језик 🌎";
 "Show All Settings Tabs" = "Прикажи све картице подешавања";
-"Show Video Upload Timestamp" = "Прикажи временску ознаку за отпремање видеа";
-"Remove Pendant View" = "Уклони приказ у висини";
-"Hide Commission Posts" = "Сакриј постове на комаду";
-"Hide dangerous-action Warning" = "Сакриј упозорење о опасним акцијама";
+"Show Video Upload Timestamp" = "Прикажи време отпремања видеа";
+"Remove Pendant View" = "Уклони привезак приказ";
+"Hide Commission Posts" = "Сакриј објаве са провизијом";
+"Hide dangerous-action Warning" = "Сакриј упозорење о опасним радњама";
 
 // MARK: - Download Features
 "Downloads Menu" = "Мени за преузимање";
 "Download Video" = "Преузми видео";
-"Download HD Video" = "Преузми HD видео";
+"Download HD Video" = "Преузми ХД видео";
 "Download Music" = "Преузми музику";
 "Download Photo" = "Преузми фотографију";
 "Download All Photos" = "Преузми све фотографије";
 "Download Photos Menu" = "Мени за преузимање фотографија";
-"Downloading" = "Превучење";
+"Downloading" = "Преузимање";
 "Download Button" = "Дугме за преузимање";
 
 // MARK: - Copy Features
 "Copy Menu" = "Мени за копирање";
 "Copy Music Link" = "Копирај линк за музику";
 "Copy Description" = "Копирај опис";
-"Post Info" = "Инфо о посту";
+"Post Info" = "Информације о објави";
 "Copy Video link" = "Копирај линк видеа";
 "Copy bio" = "Копирај биографију";
 "Music Link Copied" = "Линк за музику копиран";
 "Video Link Copied" = "Линк за видео копиран";
 "Description Link Copied" = "Линк за опис копиран";
-"Stats Menu" = "Мени са статистиком";
-"Video Info" = "Инфо о видеу";
+"Stats Menu" = "Мени статистике";
+"Video Info" = "Информације о видеу";
 
 // MARK: - Confirm Settings
 "Confirm Settings" = "Потврди подешавања";
 "Confirmation Settings" = "Подешавања потврде";
-"Like Confirmation" = "Потврда лајкова";
-"Like Comment Confirmation" = "Потврда лајкова на коментар";
-"Dislike Comment Confirmation" = "Потврда дизлајкова на коментар";
+"Like Confirmation" = "Потврда лајка";
+"Like Comment Confirmation" = "Потврда лајка на коментар";
+"Dislike Comment Confirmation" = "Потврда дислајка на коментар";
 "Follow Confirmation" = "Потврда праћења";
 
 // MARK: - Feed Settings
@@ -74,92 +74,90 @@
 "Hide Ads" = "Сакриј рекламе";
 "Share Sheet" = "Лист за дељење";
 "Remove Watermark" = "Уклони водени жиг";
-"Show/Hide UI Button" = "Прикажи/Сакриј дугме UI";
+"Show/Hide UI Button" = "Прикажи/Сакриј дугме интерфејса";
 "Stop Playback" = "Заустави репродукцију";
-"Auto Play Next Video" = "Аутоматски репродукуј следећи видео";
-"Show Progress Bar" = "Прикажи траку напредовања";
+"Auto Play Next Video" = "Аутоматски пусти следећи видео";
+"Show Progress Bar" = "Прикажи траку напретка";
 "Transparent Comments" = "Транспарентни коментари";
 "Show Usernames" = "Прикажи корисничка имена";
-"Disable Sensitive Content" = "Онемогући осетљиви садржај";
+"Disable Sensitive Content" = "Онемогући осетљив садржај";
 "Disable Warnings" = "Онемогући упозорења";
 "Disable Live Streaming" = "Онемогући пренос уживо";
 "Skip Recommendations" = "Прескочи препоруке";
 "Upload Region" = "Регион отпремања";
-"Hide Top Feed items" = "Сакриј врх фида";
-"Anonymous Seen" = "Анонимно виђено";
+"Hide Top Feed items" = "Сакриј горње ставке фида";
 "Hide Play/Pause Button" = "Сакриј дугме за репродукцију/паузу";
 
 // MARK: - Profile Settings
 "Profile Settings" = "Подешавања профила";
 "Profile Save" = "Сачувај профил";
 "Profile Copy" = "Копирај профил";
-"Video Like Count" = "Број лајкова на видео";
+"Video Like Count" = "Број лајкова на видеу";
 "Video Upload Date" = "Датум отпремања видеа";
-"User Post Count" = "Број постова корисника";
-"Follower" = "Пратилац";
-"Following" = "Праћење";
+"User Post Count" = "Број објава корисника";
+"Follower" = "Пратиоци";
+"Following" = "Праћења";
 "Fake Verified" = "Лажно верификован";
 "Enable Fake Changes" = "Омогући лажне промене";
-"Extended Bio" = "Проширена биографија";
 "Extended Comments" = "Проширени коментари";
-"Upload HD" = "Отпреми HD";
+"Upload HD" = "Отпреми у ХД";
 "App Lock" = "Закључавање апликације";
-"Enable Flex" = "Омогући Flex";
-"Enable Oled Keyboard" = "Омогући OLED тастатуру";
-"Post Stats" = "Статистике поста";
-"Enable Text To Reposts" = "Омогући текст за поновно објављивање";
-"Disable Survey Popups" = "Онемогући поп-уп анкете";
+"Enable Flex" = "Омогући ФЛЕХ";
+"Enable Oled Keyboard" = "Омогући ОЛЕД тастатуру";
+"Post Stats" = "Статистика објаве";
+"Enable Text To Reposts" = "Омогући текст за поновне објаве";
+"Disable Survey Popups" = "Онемогући искачуће анкете";
 
 // MARK: - Comment Settings
 "Comment Settings" = "Подешавања коментара";
 "Comment Design" = "Дизајн коментара";
 "Select Design" = "Изабери дизајн";
-"Disable Comment Tooltip" = "Онемогући коментарски tooltip";
-"Add Comment as Post" = "Додај коментар као пост";
+"Disable Comment Tooltip" = "Онемогући објашњење за коментаре";
+"Add Comment as Post" = "Додај коментар као објаву";
 "Add Comment as Story" = "Додај коментар као причу";
-"Mass Unfold Comment Replies" = "Масовно откривање одговора на коментаре";
-"Auto Unfold Comment Texts" = "Аутоматско откривање текстова коментара";
-"Multi Emoji Comment Bar" = "Бар за више емотикона у коментарима";
-"Hide Emoji-Bar" = "Сакриј бар са емотиконима";
+"Mass Unfold Comment Replies" = "Масовно отвори одговоре на коментаре";
+"Auto Unfold Comment Texts" = "Аутоматски отвори текстове коментара";
+"Multi Emoji Comment Bar" = "Вишеструка емоји трака за коментаре";
+"Hide Emoji-Bar" = "Сакриј емоји траку";
 "Add Translation Button" = "Додај дугме за превод";
 "Comment Cell Redesign" = "Редизајн ћелије коментара";
 "Enable Comment Photos" = "Омогући фотографије у коментарима";
-"Enable Comment Stickers" = "Омогући стикере у коментарима";
+"Enable Comment Stickers" = "Омогући налепнице у коментарима";
 "Enable Comment Flags" = "Омогући заставице у коментарима";
 "Enable Copy Without Username" = "Омогући копирање без корисничког имена";
-"Configure Advanced Comment Settings" = "Конфигуриши напредна подешавања коментара";
+"Configure Advanced Comment Settings" = "Подеси напредна подешавања коментара";
 
 // MARK: - Tab Bar Settings
 "Tab Bar Settings" = "Подешавања траке картица";
 "Tab Bar Configurations" = "Конфигурације траке картица";
-"Hide Plus Button" = "Сакриј дугме Плус";
+"Hide Plus Button" = "Сакриј дугме плус";
 "Hide Friends Badge" = "Сакриј значку пријатеља";
 "Hide Inbox Badge" = "Сакриј значку пријемног сандучета";
-"Changes will take effect after restarting the app" = "Промене ће бити примењене након поновног покретања апликације";
+"Changes will take effect after restarting the app" = "Промене ће ступити на снагу након поновног покретања апликације";
 
 // MARK: - Live Button Settings
-"Live Button Settings" = "Подешавања дугмета за пренос уживо";
-"Live Button Function" = "Функција дугмета за пренос уживо";
-"Live Button Actions" = "Акције дугмета за пренос уживо";
+"Live Button Settings" = "Подешавања дугмета за уживо";
+"Live Button Function" = "Функција дугмета за уживо";
+"Live Button Actions" = "Акције дугмета за уживо";
 "Live Actions" = "Акције уживо";
 "Playback Speed" = "Брзина репродукције";
 "Select Action" = "Изабери акцију";
-"Change the behavior of the Live button" = "Промени понашање дугмета за пренос уживо";
+"Change the behavior of the Live button" = "Промени понашање дугмета за уживо";
 "Selected Action" = "Изабрана акција";
-"Live Button Function Disabled" = "Функција дугмета за пренос уживо онемогућена";
-"Please enable Live Button Function first" = "Молимо омогућите функцију дугмета за пренос уживо";
-"Change Action of Live Button" = "Промени акцију дугмета за пренос уживо";
-"Enable Live Button Function" = "Омогући функцију дугмета за пренос уживо";
+"Live Button Function Disabled" = "Функција дугмета за уживо је онемогућена";
+"Please enable Live Button Function first" = "Прво омогућите функцију дугмета за уживо";
+"Change Action of Live Button" = "Промени акцију дугмета за уживо";
+"Enable Live Button Function" = "Омогући функцију дугмета за уживо";
 
 // MARK: - Chat Settings
-"Chat Settings" = "Подешавања чата";
+"Chat Settings" = "Подешавања ћаскања";
 "Enable Voice Messages" = "Омогући гласовне поруке";
-"Enable Streaks" = "Омогући серије";
-"Hide Streak Pet" = "Сакриј љубимца серије";
+"Enable Streaks" = "Омогући низове";
+"Hide Streak Pet" = "Сакриј љубимца низа";
 "Disable Typing Indicator" = "Онемогући индикатор куцања";
-"Enable Pin Chat" = "Омогући пиновње чата";
-"Bypass Media Limit" = "Заобиђи лимит медија";
-"Disable AI-Generated Replies" = "Онемогући одговоре генерисане од стране АИ";
+"Enable Pin Chat" = "Омогући закачивање ћаскања";
+"Bypass Media Limit" = "Заобиђи ограничење медија";
+"Disable AI-Generated Replies" = "Онемогући одговоре генерисане вештачком интелигенцијом";
 "Enable Small Emoji" = "Омогући мале емотиконе";
 "Anonymous Seen" = "Анонимно виђено";
 
@@ -167,143 +165,136 @@
 "Enable Playback Speed" = "Омогући брзину репродукције";
 "Selected Speed" = "Изабрана брзина";
 "Playback Speed Settings" = "Подешавања брзине репродукције";
-"Enable Persistent Playback Speed." = "Омогући трајну брзину репродукције.";
+"Enable Persistent Playback Speed." = "Омогући трајну брзину репродукције на објавама";
 "Select Speed" = "Изабери брзину";
 "Control video playback speed" = "Контролиши брзину репродукције видеа";
-"Playback Speed Disabled" = "Брзина репродукције онемогућена";
-"Please enable Playback Speed first" = "Молимо омогућите брзину репродукције";
+"Playback Speed Disabled" = "Брзина репродукције је онемогућена";
+"Please enable Playback Speed first" = "Прво омогућите брзину репродукције";
 
 // MARK: - Region Settings
 "Region Settings" = "Подешавања региона";
-"Enable region changing to access content from different regions" = "Омогућите промену региона да бисте приступили садржају из различитих региона";
+"Enable region changing to access content from different regions" = "Омогући промену региона за приступ садржају из различитих региона";
 "Enable Region Changing" = "Омогући промену региона";
 "Enable Region Changing Functionality" = "Омогући функционалност промене региона";
 "Selected Region" = "Изабрани регион";
 "Region Changing Disabled" = "Промена региона је онемогућена";
-"Please enable region changing first" = "Молимо омогућите промену региона пре";
+"Please enable region changing first" = "Прво омогућите промену региона";
 
 // MARK: - Feature Descriptions
-"FEATURE_ENABLE_COMMENT_FLAGS" = "ФЕАТУРЕ_ЕНАБЛЕ_ЦОММЕНТ_ФЛАГС";
-"FEATURE_COPY_WITHOUT_USERNAME" = "ФЕАТУРЕ_ЦОПY_WИТХОУТ_УСЕРНАМЕ";
-"FEATURE_HIDE_ADS" = "Skriva oglase iz feed-a";
-"FEATURE_DOWNLOAD_BUTTON" = "Omogućava dugme za preuzimanje za poruke i priče";
-"FEATURE_SHARE_SHEET" = "Otvara deljenje list nakon preuzimanja medija";
-"FEATURE_REMOVE_WATERMARK" = "Uklanja vodeni žig (animirani TikTok logo i korisničko ime) sa preuzetih medija";
-"FEATURE_UI_BUTTON" = "Prikazuje ili skriva dugme korisničkog interfejsa";
-"FEATURE_STOP_PLAYBACK" = "Zaustavlja reprodukciju video zapisa kada se završi";
-"FEATURE_AUTO_PLAY" = "Omogućava automatsko pomeranje video zapisa";
-"FEATURE_PROGRESS_BAR" = "Prikazuje traku trajanja ispod svakog video zapisa";
-"FEATURE_TRANSPARENT_COMMENTS" = "Čini odeljak komentara transparentnim";
-"FEATURE_DISABLE_SURVEY" = "Onemogućite dosadna anketna pitanja u feedu";
-"FEATURE_HIDE_PLAY_PAUSE" = "Sakrij prikaz reprodukcije / pauze u feedu";
-"FEATURE_SHOW_USERNAMES" = "Zamenjuje nadimke sa oznakama";
-"FEATURE_DISABLE_SENSITIVE" = "Skriva upozorenje o neprikladnom sadržaju";
-"FEATURE_ADD_TRANSLATION" = "Dodajte dugme za prevođenje u svakom komentaru";
-"FEATURE_DISABLE_WARNINGS" = "Skriva TikTok upozorenja";
-"FEATURE_DISABLE_LIVE" = "Skriva prenose uživo u feedu";
-"FEATURE_SKIP_RECOMMENDED" = "Uklanja preporuke prijatelja itd";
-"FEATURE_UPLOAD_REGION" = "Prikazuje zastavu regiona za otpremanje pored korisničkog imena";
-"FEATURE_HIDE_TOP_ITEMS" = "Skriva dugme za pretragu, LIVE i druge (Za vas, Sledeće, Prodavnica itd...)";
-"FEATURE_ANONYMOUS_SEEN" = "Pogledajte ćaskanja bez znanja druge osobe";
-"FEATURE_SHOW_ALL_TABS" = "Pokaži sve skrivene kartice podešavanja [Beta!]";
-"FEATURE_PROFILE_SAVE" = "Čuva informacije o profilu u ostavu";
-"FEATURE_EMBED_LINKS" = "Omogućite ugrađene veze prilikom kopiranja veze";
-"FEATURE_PROFILE_COPY" = "Kopira informacije o profilu";
-"FEATURE_USER_POST_COUNT" = "Prikazuje broj postavljenih video zapisa";
-"FEATURE_LIKE_COUNT" = "Pokazuje kao računati na poruke";
-"FEATURE_UPLOAD_DATE" = "Prikazuje datum otpremanja";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Prikaži vreme otpremanja video zapisa u FIP-u";
-"FEATURE_HIDE_DANGEROUS_ACTION" = "Sakrij upozorenja pod Sport Video (UFC, boks, itd...)";
-"FEATURE_REMOVE_PENDANT" = "Uklonite gornji levi oglas u fip-u";
-"FEATURE_CONFIRM_LIKE" = "Pokazuje potvrdu da se sviđa video";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "Pokazuje potvrdu da vole komentar";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Pokazuje potvrdu da ne volim komentar";
-"FEATURE_CONFIRM_FOLLOW" = "Prikazuje potvrdu da prati korisnika";
-"FEATURE_AUTO_CLEAR" = "Automatski briše istoriju pretrage svakih 60 sekundi";
-"FEATURE_FAKE_CHANGES" = "Omogućava prevaru podataka profila";
-"FEATURE_FOLLOWER_COUNT" = "Unesite broj lažnih sledbenika";
-"FEATURE_FOLLOWING_COUNT" = "Unesite lažni broj sledećih";
-"FEATURE_FAKE_VERIFIED" = "Pokazuje lažnu verifikacionu značku";
-"FEATURE_HIDE_PLUS_BTN" = "Sakrij dugme kamere";
-"FEATURE_HIDE_FRIENDS_BADGE" = "Sakrij značku obaveštenja o prijatelju";
-"FEATURE_HIDE_INBOX_BADGE" = "Sakrij značku obaveštenja o prijemnom sandučetu";
-"FEATURE_EXTENDED_BIO" = "Proširuje ograničenje bio karaktera";
-"FEATURE_EXTENDED_COMMENTS" = "Proširuje ograničenje znakova komentara";
-"FEATURE_UPLOAD_HD" = "Omogućava HD otpremanje";
-"FEATURE_APP_LOCK" = "Dodaje mogućnost zaključavanja TikTok-a lozinkom";
-"FEATURE_ENABLE_FLEX" = "Samo za programere, NE DIRAJTE ako ne znate šta radi";
-"FEATURE_OLED_KEYBOARD" = "Radi samo sa tamnom temom";
-"FEATURE_POST_STATS" = "Prikaži dugme menija u odeljku za preuzimanje za statistiku posta";
-"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Omogućite dodavanje tekstova u svoj Repost";
-"FEATURE_VOICE_MESSAGES" = "Omogućite slanje glasovnih poruka u ćaskanju";
-"FEATURE_ENABLE_STREAKS" = "Omogućite pruge sa prijateljima";
-"FEATURE_HIDE_STREAK_PET" = "Sakrij Streak Pet";
-"FEATURE_DISABLE_TYPING" = "Ne šaljite kucanje indikator će ćaskanje";
-"FEATURE_PIN_CHATS" = "Pin omiljene ćaskanja na vrh";
-"FEATURE_BYPASS_MEDIA_LIMIT" = "Zaobiđite ograničenja medija u ćaskanju (podrazumevano: 9 fotografija, 1 min video)";
-"FEATURE_DISABLE_AI_REPLIES" = "Onemogućavanje AI-generisanih odgovora na poslate poruke";
-"FEATURE_SMALL_EMOJI" = "Omogućite slanje malih emojija";
-"FEATURE_REMOVE_PENDANT" = "Uklonite dosadne oglase u gornjem levom uglu ekrana (samo u nekim regionima)";
-"FEATURE_HIDE_DANGEROUS_ACTION" = "Sakrij Anniing upozorenja pod Sports Video";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Pokaži vreme otpremanja pored korisničkog imena u Fyp";
-"FEATURE_HIDE_COMMISSION_POSTS" = "Uklonite post koji kaže 'Kreator zarađuje proviziju'";
+"FEATURE_HIDE_ADS" = "Сакрива рекламе из фида";
+"FEATURE_DOWNLOAD_BUTTON" = "Додаје дугме за преузимање на објаве и приче";
+"FEATURE_SHARE_SHEET" = "Отвара лист за дељење након завршетка преузимања медија";
+"FEATURE_REMOVE_WATERMARK" = "Уклања водени жиг са преузетих медија";
+"FEATURE_UI_BUTTON" = "Приказује дугме 'Сакриј интерфејс'";
+"FEATURE_STOP_PLAYBACK" = "Зауставља репродукцију објаве након завршетка";
+"FEATURE_AUTO_PLAY" = "Омогућава аутоматско померање видеа";
+"FEATURE_PROGRESS_BAR" = "Приказује трајање медија испод сваке објаве";
+"FEATURE_TRANSPARENT_COMMENTS" = "Чини позадину одељка коментара провидном";
+"FEATURE_DISABLE_SURVEY" = "Онемогућава анкетна питања у фиду";
+"FEATURE_HIDE_PLAY_PAUSE" = "Сакрива приказ репродукција/пауза у фиду";
+"FEATURE_SHOW_USERNAMES" = "Замењује надимке корисника њиховим корисничким именима у фиду";
+"FEATURE_DISABLE_SENSITIVE" = "Сакрива упозорења о 'Неприкладном садржају'";
+"FEATURE_ADD_TRANSLATION" = "Додаје дугме за превод сваком коментару";
+"FEATURE_DISABLE_WARNINGS" = "Сакрива ТикТок упозорења";
+"FEATURE_DISABLE_LIVE" = "Сакрива преносе уживо из фида";
+"FEATURE_SKIP_RECOMMENDED" = "Уклања препоруке садржаја (препоруке пријатеља, итд.)";
+"FEATURE_UPLOAD_REGION" = "Приказује заставу региона отпремања поред корисничког имена";
+"FEATURE_HIDE_TOP_ITEMS" = "Сакрива горњу траку (За тебе, Праћења, Продавница, итд.)";
+"FEATURE_ANONYMOUS_SEEN" = "Читајте ћаскања без обавештавања особе";
+"FEATURE_SHOW_ALL_TABS" = "Приказује све скривене картице подешавања [БЕТА]";
+"FEATURE_PROFILE_SAVE" = "Чува профилну слику корисника дугим притиском";
+"FEATURE_EMBED_LINKS" = "Копирани линкови ће уградити медије тамо где су послати";
+"FEATURE_PROFILE_COPY" = "Копира биографију корисника дугим притиском";
+"FEATURE_USER_POST_COUNT" = "Приказује укупан број објава корисника";
+"FEATURE_LIKE_COUNT" = "Приказује број лајкова на објавама";
+"FEATURE_UPLOAD_DATE" = "Приказује датум отпремања на објавама";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Приказује време отпремања објаве у фиду 'За тебе'";
+"FEATURE_HIDE_DANGEROUS_ACTION" = "Сакрива упозорења испод спортских видеа (УФЦ, бокс, итд.)";
+"FEATURE_REMOVE_PENDANT" = "Уклања приказ рекламе у горњем левом углу у фиду";
+"FEATURE_CONFIRM_LIKE" = "Тражи потврду пре лајковања објаве";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "Тражи потврду пре лајковања коментара";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "Тражи потврду пре дислајковања коментара";
+"FEATURE_CONFIRM_FOLLOW" = "Тражи потврду пре праћења корисника";
+"FEATURE_AUTO_CLEAR" = "Брише вашу историју претраге сваких 60 секунди";
+"FEATURE_FAKE_CHANGES" = "Омогућава лажне измене података профила";
+"FEATURE_FOLLOWER_COUNT" = "Унесите лажни број пратилаца";
+"FEATURE_FOLLOWING_COUNT" = "Унесите лажни број праћења";
+"FEATURE_FAKE_VERIFIED" = "Приказује лажну значку верификације";
+"FEATURE_HIDE_PLUS_BTN" = "Сакрива дугме камере";
+"FEATURE_HIDE_FRIENDS_BADGE" = "Сакрива значку обавештења пријатеља";
+"FEATURE_HIDE_INBOX_BADGE" = "Сакрива значку обавештења пријемног сандучета";
+"FEATURE_EXTENDED_COMMENTS" = "Повећава ограничење броја знакова у коментарима";
+"FEATURE_UPLOAD_HD" = "Омогућава отпремање у ХД квалитету";
+"FEATURE_APP_LOCK" = "Додаје закључавање апликације када се ТикТок покрене";
+"FEATURE_ENABLE_FLEX" = "САМО ЗА ПРОГРАМЕРЕ, НЕ ДИРАЈТЕ АКО НЕ ЗНАТЕ ШТА ЈЕ ФЛЕХ!";
+"FEATURE_OLED_KEYBOARD" = "Ради само са тамном темом";
+"FEATURE_POST_STATS" = "Приказује подмени у одељку за преузимање са информацијама о објави";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "Омогућава додавање натписа на поновне објаве за регионе који нису подржани";
+"FEATURE_VOICE_MESSAGES" = "Омогућава слање гласовних порука у ћаскању (само у неким регионима)";
+"FEATURE_ENABLE_STREAKS" = "Омогућава низове са пријатељима";
+"FEATURE_HIDE_STREAK_PET" = "Сакрива љубимца низа";
+"FEATURE_DISABLE_TYPING" = "Онемогућава индикатор куцања";
+"FEATURE_PIN_CHATS" = "Омогућава закачивање омиљених ћаскања на врх";
+"FEATURE_BYPASS_MEDIA_LIMIT" = "Заобилази ограничења слања медија у ћаскању (подразумевано: 9 фотографија, 1 минут видеа)";
+"FEATURE_DISABLE_AI_REPLIES" = "Онемогућава одговоре генерисане вештачком интелигенцијом на објавама";
+"FEATURE_SMALL_EMOJI" = "Омогућава слање малих емотикона";
+"FEATURE_HIDE_COMMISSION_POSTS" = "Сакрива објаве 'Креатор зарађује провизију'";
 
 // Comment Settings Descriptions
-"ENABLE_COMMENT_PHOTO" = "Dozvolite dodavanje fotografija u komentare";
-"ENABLE_COMMENT_STICKERS" = "Dozvolite dodavanje nalepnica na komentare";
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Onemogućavanje opisa alata u komentarima";
-"FEATURE_ADD_TRANSLATION" = "Dodaj dugme za prevođenje u komentare";
-"FEATURE_ADD_COMMENT_POST" = "Omogućite objavljivanje komentara kao postova";
-"FEATURE_ADD_COMMENT_STORY" = "Omogućite objavljivanje komentara kao priče";
-"FEATURE_MASS_UNFOLD" = "Masa odvija sve komentare odgovore";
-"FEATURE_AUTO_UNFOLD" = "Automatski razvijajte tekstove komentara";
-"FEATURE_MULTI_EMOJI" = "Omogućite traku za komentare sa više emoji";
-"FEATURE_HIDE_EMOJI" = "Sakrij emoji bar u komentarima";
-"FEATURE_COMMENT_REDESIGN" = "Omogućite redizajnirane ćelije komentara";
-"FEATURE_COPY_WITHOUT_USERNAME" = "Kopiraj komentare bez 'korisničko ime: '";
-"FEATURE_ENABLE_COMMENT_FLAGS" = "Pokaži zastavu regije komentatora";
+"ENABLE_COMMENT_PHOTO" = "Омогућава одговоре са фотографијама у коментарима";
+"ENABLE_COMMENT_STICKERS" = "Омогућава одговоре са налепницама у коментарима";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "Онемогућава објашњења у одељку коментара";
+"FEATURE_ADD_COMMENT_POST" = "Омогућава објављивање одговора на коментаре као објаву";
+"FEATURE_ADD_COMMENT_STORY" = "Омогућава објављивање одговора на коментаре као причу";
+"FEATURE_MASS_UNFOLD" = "Масовно отвара све одговоре на коментаре";
+"FEATURE_AUTO_UNFOLD" = "Аутоматски отвара све дугачке коментаре";
+"FEATURE_MULTI_EMOJI" = "Омогућава траку за коментаре са више емотикона";
+"FEATURE_HIDE_EMOJI" = "Сакрива траку за коментаре са више емотикона";
+"FEATURE_COMMENT_REDESIGN" = "Омогућава редизајниране ћелије коментара";
+"FEATURE_COPY_WITHOUT_USERNAME" = "Копира коментаре без имена коментатора";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "Приказује заставице региона поред имена коментатора";
 
 // MARK: - Error Messages
-"Could Not Copy Music" = "Није било могуће копирати музику";
-"The video doesn't have music to download" = "Видео не садржи музику за преузимање";
+"Could Not Copy Music" = "Није могуће копирати музику";
+"the video doesn't have music to download" = "Овај видео нема музику за преузимање";
 
 // MARK: - Developer
-"DEVELOPER_TELEGRAM" = "Pridružite se Telegram kanal za najnovije ispravke";
-"DEVELOPER_SUPPORT" = "Podržite RKSTikTok i dobijte pristup beta testnoj grupi";
+"DEVELOPER_TELEGRAM" = "Придружите се нашем Телеграм каналу за најновија ажурирања";
+"DEVELOPER_SUPPORT" = "Подржите РКСТикТок и добијте приступ нашој групи за бета тестирање";
 
 // MARK: - Missing Strings
-"Features list" = "Списак функција";
+"Features list" = "Листа функција";
 "Not Selected" = "Није изабрано";
-"Creator Profile Pull" = "Профил креатора";
-"OK" = "OK";
-"Disable Left & Right Swipe" = "Онемогући лево и десно клизање";
-"Pull To Camera" = "Привуци до камере";
+"OK" = "У реду";
+"Disable Left & Right Swipe" = "Онемогући превлачење лево и десно";
+"Pull To Camera" = "Повуци до камере";
 "Regions" = "Региони";
 "Full Region Mode" = "Режим пуног региона";
-"Add Folders To Inbox" = "Додајте фолдера у инбокс";
+"Add Folders To Inbox" = "Додај фасцикле у пријемно сандуче";
 
 // Additional missing strings
 "Settings" = "Подешавања";
 "Save" = "Сачувај";
-"Delete" = "Обриши";
+"Delete" = "Избриши";
 "Edit" = "Уреди";
 "Close" = "Затвори";
 "Back" = "Назад";
 "Next" = "Следеће";
-"Done" = "Завршено";
+"Done" = "Готово";
 "Error" = "Грешка";
 "Success" = "Успех";
 "Warning" = "Упозорење";
 "Loading" = "Учитавање";
 "Search" = "Претрага";
-"Apply" = "Примените";
+"Apply" = "Примени";
 "Reset" = "Ресетуј";
+"Saved!" = "Сачувано!";
 "Video saved successfully" = "Видео је успешно сачуван";
 "Photo saved successfully" = "Фотографија је успешно сачувана";
 "Failed to save media" = "Није успело чување медија";
 "No internet connection" = "Нема интернет везе";
 "Select All" = "Изабери све";
-"Deselect All" = "Одузми све";
+"Deselect All" = "Поништи избор свега";
 "More Options" = "Више опција";
 "Share" = "Подели";
 "Copy Link" = "Копирај линк";
@@ -316,35 +307,226 @@
 "Disable" = "Онемогући";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_CREATOR_PROFILE_PULL" = "Pogledaj profile kreatora prilikom povlačenja";
-"FEATURE_DISABLE_SWIPE" = "Onemogućite prevlačenje levo i desno u feedu";
-"FEATURE_PULL_TO_CAMERA" = "Omogućite funkciju povlačenja u kameru";
-"FEATURE_ADD_FOLDERS" = "Dodajte organizaciju fascikle u poruke prijemnog sandučeta";
-"FEATURE_FULL_REGION_MODE" = "Omogućite samo ako prva opcija ne radi !!";
+"FEATURE_DISABLE_SWIPE" = "Онемогућава превлачење лево и десно у фиду";
+"FEATURE_PULL_TO_CAMERA" = "Омогућава функцију 'Повуци до камере'";
+"FEATURE_ADD_FOLDERS" = "Додаје организацију фасцикли за поруке у пријемном сандучету";
+"FEATURE_FULL_REGION_MODE" = "ОМОГУЋИТЕ САМО АКО ПРВА ОПЦИЈА НЕ РАДИ!";
 
 // Additional feature descriptions
-"FEATURE_ANONYMOUS_SEEN_DESC" = "Pogledaj ćaskanja bez slanja potvrda o čitanju pošiljaocu";
-"FEATURE_SHOW_ALL_TABS_DESC" = "Pokaži sve skrivene kartice podešavanja, uključujući i eksperimentalne funkcije";
-"FEATURE_PROFILE_SAVE_DESC" = "Sačuvajte informacije o profilu u ostavu jednim dodirom";
-"FEATURE_PROFILE_COPY_DESC" = "Kopirajte detalje profila, uključujući korisničko ime, biografiju i druge javne informacije";
-"FEATURE_APP_LOCK_DESC" = "Osigurajte svoju aplikaciju TikTok lozinkom ili biometrijskom autentifikacijom";
-"FEATURE_REGIONS_DESC" = "Pristupite sadržaju specifičnom za region promenom virtuelne lokacije";
-"FEATURE_ADD_FOLDERS_DESC" = "Organizujte svoje poruke u prijemnom sandučetu u prilagođene fascikle za bolje upravljanje";
+"FEATURE_ANONYMOUS_SEEN_DESC" = "Прегледајте ћаскања без слања потврда о читању примаоцу";
+"FEATURE_SHOW_ALL_TABS_DESC" = "Прикажи све скривене картице подешавања, укључујући експерименталне функције";
+"FEATURE_PROFILE_SAVE_DESC" = "Сачувајте информације о профилу у оставу једним додиром";
+"FEATURE_PROFILE_COPY_DESC" = "Копирајте детаље профила укључујући корисничко име, биографију и друге јавне информације";
+"FEATURE_APP_LOCK_DESC" = "Заштитите ТикТок апликацију лозинком или биометријском аутентификацијом";
+"FEATURE_REGIONS_DESC" = "Приступите садржају специфичном за регион лажирањем своје виртуелне локације";
+"FEATURE_ADD_FOLDERS_DESC" = "Организујте своје поруке у пријемном сандучету у прилагођене фасцикле за боље управљање";
 
 // MARK: - Credits View
-"Credits" = "Кредити";
-"Special Thanks to" = "Специјална захвалност";
+"Credits" = "Заслуге";
+"Special Thanks to" = "Посебна захвалност";
 "Community" = "Заједница";
 "Main Developer, Owner" = "Главни програмер, власник";
-"Co-Owner" = "Ко-власник";
-"DRM Developer" = "DRM програмер";
+"Co-Owner" = "Сувласник";
+"DRM Developer" = "ДРМ програмер";
 "Contributor" = "Сарадник";
-"UI Designer" = "Дизајнер интерфејса";
+"UI Designer" = "УИ дизајнер";
 "Telegram Channel" = "Телеграм канал";
-"Telegram Discussion Group" = "Телеграм дискусиона група";
+"Telegram Discussion Group" = "Телеграм група за дискусију";
 "Get the latest updates and news" = "Добијте најновија ажурирања и вести";
 "Join the community discussion" = "Придружите се дискусији у заједници";
-"Buy Me a Coffee" = "Придружите се дискусији у заједници";
+"Buy Me a Coffee" = "Части ме кафом";
 "Support the development" = "Подржите развој";
-"X" = "X";
+"X" = "Икс";
 "Support" = "Подршка";
+
+// MARK: - Configuration
+"About" = "О апликацији";
+"Configuration" = "Конфигурација";
+"Import Configuration" = "Увези конфигурацију";
+"Export Configuration" = "Извези конфигурацију";
+"Reset All Settings" = "Ресетуј сва подешавања";
+"Import settings from a file" = "Увези подешавања из датотеке";
+"Export settings to a file" = "Извези подешавања у датотеку";
+"Reset all settings to default values" = "Ресетуј сва подешавања на подразумеване вредности";
+"All settings have been reset to default values." = "Сва подешавања су ресетована на подразумеване вредности.";
+"Configuration imported successfully." = "Конфигурација је успешно увезена.";
+"File selection was cancelled." = "Избор датотеке је отказан.";
+"Cancelled" = "Отказано";
+
+"Select App Language" = "Изаберите језик апликације";
+
+
+// 1.3
+"Erase All TikTok Data" = "Обриши све ТикТок податке";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Брише све ТикТок податке из апликације [ПАЖЉИВО!!!]";
+"Clear Keychain" = "Обриши привез кључева";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Да ли сте сигурни да желите да обришете све податке? Ово ће уклонити:\n1- директоријум података ТикТок-а\n2- све привезе кључева\n3- брише све НСУсерДефаултс\n\nОБАВЕШТЕЊЕ!\n ИЗГУБИЋЕТЕ СВОЈЕ НЕДОВРШЕНЕ ОБЈАВЕ И СВЕ ЛОКАЛНО САЧУВАНО.";
+"Clear" = "Обриши";
+"Really Clear All Data?" = "Стварно обрисати све податке?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Ово је ваше последње упозорење. Ова радња је неповратна и избрисаће све локалне ТикТок податке, укључујући недовршене објаве и подешавања. Јесте ли апсолутно сигурни?";
+"Confirm Clear" = "Потврди брисање";
+"Data Cleared" = "Подаци обрисани";
+"All TikTok data has been cleared." = "Сви ТикТок подаци су обрисани.";
+
+"Streak Info" = "Информације о низу";
+"FEATURE_STREAK_INFO" = "Приказује информације о вашем тренутном низу када додирнете ватру низа";
+
+"Hide Tab Bar Labels" = "Сакриј натписе на траци картица";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Сакрива натписе на траци картица";
+
+"Adjust offline download limit" = "Подесите ограничење за преузимање ван мреже";
+"Adjust value between 50 and 2000" = "Подесите вредност између 50 и 2000";
+
+"Start TikTok in Following" = "Покрени ТикТок у 'Праћења'";
+"FEATURE_START_FYP_IN_FOLLOWING" = "Покреће ТикТок у фиду 'Праћења', уместо у фиду 'За тебе'";
+
+"Waiting for TikTok…" = "Чекање на ТикТок…";
+"Extracting Media URL…" = "Издвајање УРЛ адресе медија…";
+"Invalid download URL received." = "Примљена је неважећа УРЛ адреса за преузимање.";
+"Failed to fetch HD video URL. Please try again." = "Није успело добављање УРЛ адресе за ХД видео. Покушајте поново.";
+
+"Enable Egypt Stickers" = "Омогући египатске налепнице";
+
+
+// 1.4
+"LOOP_STORY_VIDEOS" = "Понављај видео записе у причама";
+"STOP_STORY_PHOTO_ADVANCE" = "Заустави аутоматско напредовање фотографија у причама";
+"FEATURE_LOOP_STORY_VIDEOS" = "Понавља видео записе у причама";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Зауставља аутоматско напредовање фотографија у причама";
+"BACKGROUND_PLAY" = "Омогући репродукцију у позадини";
+"FEATURE_BACKGROUND_PLAY" = "Омогућава репродукцију звука у позадини";
+
+// MARK: - New Section Headers
+"Content & Display" = "Садржај и приказ";
+"Playback Controls" = "Контроле репродукције";
+"Content Filtering" = "Филтрирање садржаја";
+"Navigation & Interaction" = "Навигација и интеракција";
+"Downloads & Sharing" = "Преузимања и дељење";
+"Profile Actions" = "Акције профила";
+"Video Information" = "Информације о видеу";
+"Profile Customization" = "Прилагођавање профила";
+"Profile Enhancement" = "Побољшање профила";
+"Enhanced Comments Features" = "Напредне функције коментара";
+"Text & Display Options" = "Опције текста и приказа";
+"Emoji & Interface" = "Емотикони и интерфејс";
+"Content Interactions" = "Интеракције са садржајем";
+"Social Actions" = "Друштвене акције";
+"Tab Bar Elements" = "Елементи траке картица";
+"Notification Badges" = "Значке обавештења";
+"App Configuration" = "Конфигурација апликације";
+"Content Enhancement" = "Побољшање садржаја";
+"System Features" = "Системске функције";
+"Configuration Management" = "Управљање конфигурацијом";
+"Chat Features" = "Функције ћаскања";
+"Organization & Management" = "Организација и управљање";
+"Privacy & Security" = "Приватност и безбедност";
+
+// MARK: - Missing Chat Settings Strings
+"DISABLE_SCREENSHOT_DETECTION" = "Онемогући откривање снимања екрана";
+"DISABLE_SCREENRECORDING_DETECTION" = "Онемогући откривање снимања екрана";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "Онемогућава откривање снимања екрана у ћаскањима";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "Онемогућава откривање снимања екрана у ћаскањима";
+
+// MARK: - Missing Alert and UI Strings
+"Reset Settings" = "Ресетуј подешавања";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Да ли сте сигурни да желите да ресетујете сва подешавања на подразумеване вредности? Ова радња се не може поништити.";
+"Erase All Data" = "Обриши све податке";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Да ли сте сигурни да желите да обришете све ТикТок податке? Ово ће обрисати све податке апликације и не може се поништити.";
+"Erase" = "Обриши";
+"All TikTok data has been erased." = "Сви ТикТок подаци су обрисани.";
+"Settings Reset" = "Подешавања ресетована";
+"Language Changed" = "Језик промењен";
+"Please restart the app to apply changes, May require two app restarts!" = "Молимо поново покрените апликацију да бисте применили промене, можда ће бити потребна два поновна покретања!";
+
+// MARK: - Missing Navigation and Menu Strings
+"Speeds" = "Брзине";
+
+"BETA!" = "БЕТА!";
+
+// MARK: - Menu Manager Strings
+"Language" = "Језик";
+
+"MARK_SEEN_ON_REPLY" = "Означи као виђено при одговору";
+"FEATURE_MARK_SEEN_ON_REPLY" = "Означава поруке као виђене приликом одговарања";
+
+"VIEW_PROFILES_ANONYMOUS" = "Прегледај профиле анонимно";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "Онемогућава праћење прегледа профила";
+
+// MARK: - Import/Export Configuration Strings
+"Choose import source:" = "Изаберите извор за увоз:";
+"Import from Keychain" = "Увези из привеза кључева";
+"Import from File" = "Увези из датотеке";
+"No backup found" = "Није пронађена резервна копија";
+"No Backup" = "Нема резервне копије";
+"No settings backup found in keychain." = "Није пронађена резервна копија подешавања у привезу кључева.";
+"Choose export destination:" = "Изаберите одредиште за извоз:";
+"Save to Keychain" = "Сачувај у привез кључева";
+"Export to File" = "Извези у датотеку";
+"Configuration imported from keychain successfully." = "Конфигурација је успешно увезена из привеза кључева.";
+"Configuration saved to keychain successfully." = "Конфигурација је успешно сачувана у привезу кључева.";
+
+// MARK: - Rewards Ads Feature
+"Disable TikTok Rewards ADs" = "Онемогући ТикТок рекламе са наградама";
+"FEATURE_DISABLE_REWARDS_ADS" = "Сакрива ТикТок-ове рекламе са наградама из фида";
+
+// 1.5
+"OTHER_OPTIONS" = "Остале опције";
+"Processing..." = "Обрада...";
+"FEATURE_HIDE_ACTIVITY_STATUS" = "Сакрива ваше статусе 'Последњи пут активан' и 'На мрежи' у ћаскањима";
+"HIDE_ACTIVITY_STATUS" = "Сакриј статус активности";
+"FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "Онемогућава дугме 'Визуелна претрага' у фиду када се паузира видео";
+"DISABLE_VISUAL_SEARCH_TAG" = "Онемогући ознаку визуелне претраге";
+"FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "Омогућава претрагу листе пратилаца чак и ако корисник има преко 5.000 пратилаца";
+"BYPASS_FOLLOW_LIST_SEARCH" = "Заобиђи ограничење претраге листе пратилаца";
+"FEATURE_STORY_LIKE_CONFIRMATION" = "Тражи потврду пре лајковања приче";
+"STORY_LIKE_CONFIRMATION" = "Потврда лајка за причу";
+"FEATURE_ALWAYS_OPEN_SAFARI" = "Увек отвара линкове у Сафарију уместо у уграђеном прегледачу";
+"ALWAYS_OPEN_SAFARI" = "Увек отвори у Сафарију";
+"FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "Уклања дугме ТикТок вештачке интелигенције (тако) из фида 'За тебе'";
+"REMOVE_TIKTOK_AI_BUTTON" = "Уклони ТикТок вештачке интелигенције дугме";
+"WARNING" = "УПОЗОРЕЊЕ";
+"DISABLE_ACTIVITY_STATUS_WARNING" = "Онемогућавање или омогућавање анонимног статуса активности захтева време да се одрази на ТикТок серверима. Можда ћете и даље бити видљиви на мрежи неко време након омогућавања ове функције.";
+"PAD_AUTO_SCROLL" = "Подразумевано аутоматско померање";
+"FEATURE_PAD_AUTO_SCROLL" = "Омогућава изворно аутоматско померање објава на ТикТок-у за регионе који нису подржани";
+"SAVE_DM_MEDIA" = "Сачувај медије из директних порука";
+"FEATURE_SAVE_DM_MEDIA" = "Додаје дугме за преузимање на медије послате у директним порукама";
+"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "Онемогућава двоструки додир за лајковање у фиду";
+"DISABLE_FEED_DOUBLE_TAP" = "Онемогући двоструки додир у фиду";
+"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Онемогућава двоструки додир за лајковање у причама";
+"DISABLE_STORY_DOUBLE_TAP" = "Онемогући двоструки додир у причама";
+
+// 1.6
+
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Омогућава преузимање налепница у коментарима";
+"ENABLE_STICKER_DOWNLOAD" = "Двапут додирните за преузимање налепнице";
+"STICKER_SAVED" = "Налепница сачувана у галерији!";
+"STICKER_SAVE_FAILED" = "Није успело чување налепнице";
+"DOWNLOAD_FAILED" = "Преузимање није успело";
+"DOWNLOADING_STICKER" = "Преузимање налепнице...";
+
+"FILTERING_OPTIONS" = "Опције филтрирања";
+"BLOCK_MOVIE_TOK" = "Блокирај рекламе за филмове";
+"FEATURE_BLOCK_MOVIE_TOK" = "Блокира видео записе са рекламама за филмове";
+
+"BLOCK_AI_GENERATED" = "Блокирај објаве генерисане вештачком интелигенцијом";
+"FEATURE_BLOCK_AI_GENERATED" = "Блокира објаве са ознаком 'Садржи медије генерисане вештачком интелигенцијом'";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Тражи потврду пре коришћења брзог дељења";
+"FEATURE_CONFIRM_REPOST" = "Тражи потврду пре поновног објављивања видеа";
+"CONFIRM_QUICK_SHARE" = "Потврда брзог дељења";
+"CONFIRM_REPOST" = "Потврда поновне објаве";
+
+"BLOCK_SHOP_VIDEOS" = "Блокирај објаве из продавнице";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "Уклања објаве из продавнице из фида.";
+"BLOCK_TCM" = "Блокирај рекламе за апликације";
+"BLOCK_POI" = "Блокирај рекламе за локације";
+"FEATURE_BLOCK_SHOP_ADS" = "Блокирај видео записе са рекламама за продавницу";
+"FEATURE_BLOCK_TCM" = "Блокирај видео записе са рекламама за апликације";
+"FEATURE_BLOCK_POI" = "Блокирај видео записе са рекламама за локације";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "Уклања водени жиг приликом чувања објава или недовршених објава";
+"REMOVE_DRAFT_WATERMARK" = "Уклони водени жиг са фотографија";
+"FEATURE_HIDE_REPORT_BUTTON" = "Сакрива дугме за пријављивање у траци за навигацију директних порука.";
+"HIDE_REPORT_BUTTON" = "Сакриј дугме за пријаву";
+"FEATURE_DISABLE_TYPING_STICKER" = "Онемогућава аутоматске препоруке ГИФ-ова током куцања";
+"DISABLE_TYPING_STICKER" = "Онемогући налепницу за куцање";
+"RUSSIAN_FIX" = "Заобиђи забрану у Русији";
+"FEATURE_RUSSIAN_FIX" = "Омогућите ово да би руски фид поново радио [НОВО!]";
