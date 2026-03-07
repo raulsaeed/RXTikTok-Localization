@@ -528,5 +528,7 @@
 "HIDE_REPORT_BUTTON" = "Hide report button";
 "FEATURE_DISABLE_TYPING_STICKER" = "disable automatic gif recommendations while typing";
 "DISABLE_TYPING_STICKER" = "Disable Typing Sticker";
-"RUSSIAN_FIX" = "Bypass Russia Ban";
+"RUSSIAN_FIX" = "Bypass Russia Ban 🇷🇺";
 "FEATURE_RUSSIAN_FIX" = "Enable this to get russian feed working again [NEW!]";
+"HIDE_RX_UI" = "Hide RX UI";
+"FEATURE_HIDE_RX_UI" = "Hide RX UI From screen shots";
