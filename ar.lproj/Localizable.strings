@@ -1,10 +1,10 @@
-/* Localizable.strings */
+/* Localizable.strings - Arabic Clear Edition */
 
 // MARK: - Core UI Elements
-"RXTikTok, Hi" = "مرحبًا بك في RXTikTok";
+"RXTikTok, Hi" = "أهلاً بك في RXTikTok";
 "RXTikTok Settings" = "إعدادات RXTikTok";
-"Welcome" = "مرحبًا";
-"Tap to Join the Telegram" = "اضغط للانضمام إلى Telegram";
+"Welcome" = "مرحباً";
+"Tap to Join the Telegram" = "اضغط للانضمام لقناة التيليجرام";
 
 // MARK: - Global Actions
 "Yes" = "نعم";
@@ -32,15 +32,15 @@
 "Enable Embeded Links" = "تمكين الروابط المدمجة";
 "Language 🌎" = "اللغة 🌎";
 "Show All Settings Tabs" = "عرض كل تبويبات الإعدادات";
-"Show Video Upload Timestamp" = "عرض توقيت رفع الفيديو";
-"Remove Pendant View" = "إزالة العرض المعلق";
-"Hide Commission Posts" = "إخفاء المنشورات ذات العمولة";
-"Hide dangerous-action Warning" = "إخفاء تحذير الإجراءات الخطيرة";
+"Show Video Upload Timestamp" = "إظهار وقت رفع الفيديو";
+"Remove Pendant View" = "إخفاء أيقونات العروض الجانبية (Pendant)";
+"Hide Commission Posts" = "إخفاء المنشورات الممولة والترويجية";
+"Hide dangerous-action Warning" = "إخفاء تحذير 'الأفعال الخطيرة'";
 
 // MARK: - Download Features
 "Downloads Menu" = "قائمة التنزيلات";
 "Download Video" = "تنزيل الفيديو";
-"Download HD Video" = "تنزيل الفيديو بجودة عالية";
+"Download HD Video" = "تنزيل الفيديو بدقة عالية";
 "Download Music" = "تنزيل الموسيقى";
 "Download Photo" = "تنزيل الصورة";
 "Download All Photos" = "تنزيل كل الصور";
@@ -72,13 +72,13 @@
 // MARK: - Feed Settings
 "Feed Settings" = "إعدادات الشاشة الرئيسية";
 "Hide Ads" = "إخفاء الإعلانات";
-"Share Sheet" = "ورقة المشاركة";
+"Share Sheet" = "قائمة المشاركة";
 "Remove Watermark" = "إزالة العلامة المائية";
 "Show/Hide UI Button" = "إظهار/إخفاء زر الواجهة";
 "Stop Playback" = "إيقاف التشغيل";
-"Auto Play Next Video" = "تشغيل الفيديو التالي تلقائيًا";
+"Auto Play Next Video" = "تشغيل الفيديو التالي تلقائياً";
 "Show Progress Bar" = "عرض شريط التقدم";
-"Transparent Comments" = "تعليقات شفافة";
+"Transparent Comments" = "تعليقات بخلفية شفافة";
 "Show Usernames" = "إظهار أسماء المستخدمين";
 "Disable Sensitive Content" = "تعطيل المحتوى الحساس";
 "Disable Warnings" = "تعطيل التحذيرات";
@@ -91,7 +91,7 @@
 // MARK: - Profile Settings
 "Profile Settings" = "إعدادات الملف الشخصي";
 "Profile Save" = "حفظ الملف الشخصي";
-"Profile Copy" = "نسخ الملف الشخصي";
+"Profile Copy" = "نسخ السيرة الذاتية";
 "Video Like Count" = "عدد الإعجابات على الفيديو";
 "Video Upload Date" = "تاريخ رفع الفيديو";
 "User Post Count" = "عدد منشورات المستخدم";
@@ -123,7 +123,7 @@
 "Comment Cell Redesign" = "إعادة تصميم خلية التعليق";
 "Enable Comment Photos" = "تمكين الصور في التعليقات";
 "Enable Comment Stickers" = "تمكين الملصقات في التعليقات";
-"Enable Comment Flags" = "تمكين الأعلام في التعليقات";
+"Enable Comment Flags" = "تمكين أعلام الدول في التعليقات";
 "Enable Copy Without Username" = "تمكين النسخ بدون اسم المستخدم";
 "Configure Advanced Comment Settings" = "تكوين إعدادات التعليقات المتقدمة";
 
@@ -187,7 +187,7 @@
 "FEATURE_REMOVE_WATERMARK" = "يزيل العلامة المائية من الوسائط التي تم تنزيلها";
 "FEATURE_UI_BUTTON" = "يعرض زر 'إخفاء الواجهة'";
 "FEATURE_STOP_PLAYBACK" = "يوقف تشغيل المنشور عند الانتهاء";
-"FEATURE_AUTO_PLAY" = "يمكن التمرير التلقائي للفيديو";
+"FEATURE_AUTO_PLAY" = "تمكين التمرير التلقائي للفيديو";
 "FEATURE_PROGRESS_BAR" = "يعرض مدة الوسائط أسفل كل منشور";
 "FEATURE_TRANSPARENT_COMMENTS" = "يجعل خلفية قسم التعليقات شفافة";
 "FEATURE_DISABLE_SURVEY" = "يعطل أسئلة الاستبيان في الشاشة الرئيسية";
@@ -208,69 +208,69 @@
 "FEATURE_USER_POST_COUNT" = "يعرض إجمالي عدد منشورات المستخدم";
 "FEATURE_LIKE_COUNT" = "يعرض عدد الإعجابات على المنشورات";
 "FEATURE_UPLOAD_DATE" = "يعرض تاريخ الرفع على المنشورات";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "يعرض وقت رفع المنشور في صفحة \"لك\"";
+"FEATURE_SHOW_VIDEO_TIMESTAMP" = "يعرض وقت رفع المنشور في صفحة 'لك'";
 "FEATURE_HIDE_DANGEROUS_ACTION" = "يخفي التحذيرات تحت فيديوهات الرياضة (UFC، ملاكمة، إلخ)";
-"FEATURE_REMOVE_PENDANT" = "يزيل عرض الإعلان في أعلى اليسار في الشاشة الرئيسية";
-"FEATURE_CONFIRM_LIKE" = "يطلب تأكيدًا قبل الإعجاب بمنشور";
-"FEATURE_CONFIRM_COMMENT_LIKE" = "يطلب تأكيدًا قبل الإعجاب بتعليق";
-"FEATURE_CONFIRM_COMMENT_DISLIKE" = "يطلب تأكيدًا قبل عدم الإعجاب بتعليق";
-"FEATURE_CONFIRM_FOLLOW" = "يطلب تأكيدًا قبل متابعة مستخدم";
-"FEATURE_AUTO_CLEAR" = "يمسح سجل البحث الخاص بك كل 60 ثانية";
-"FEATURE_FAKE_CHANGES" = "يمكن التغييرات المزيفة لبيانات الملف الشخصي";
-"FEATURE_FOLLOWER_COUNT" = "أدخل عدد متابعين وهمي";
-"FEATURE_FOLLOWING_COUNT" = "أدخل عدد متابعين وهمي (يتابع)";
-"FEATURE_FAKE_VERIFIED" = "يعرض شارة توثيق مزيفة";
-"FEATURE_HIDE_PLUS_BTN" = "يخفي زر الكاميرا";
-"FEATURE_HIDE_FRIENDS_BADGE" = "يخفي شارة إشعارات الأصدقاء";
-"FEATURE_HIDE_INBOX_BADGE" = "يخفي شارة إشعارات صندوق الوارد";
-"FEATURE_EXTENDED_COMMENTS" = "يزيد حد أحرف التعليقات";
-"FEATURE_UPLOAD_HD" = "يمكن الرفع بجودة عالية";
-"FEATURE_APP_LOCK" = "يضيف قفل تطبيق عند تشغيل TikTok";
+"FEATURE_REMOVE_PENDANT" = "إخفاء أيقونات العروض الجانبية (Pendant)";
+"FEATURE_CONFIRM_LIKE" = "يطلب تأكيداً قبل الإعجاب بالمنشور";
+"FEATURE_CONFIRM_COMMENT_LIKE" = "يطلب تأكيداً قبل الإعجاب بالتعليق";
+"FEATURE_CONFIRM_COMMENT_DISLIKE" = "يطلب تأكيداً قبل عدم الإعجاب بالتعليق";
+"FEATURE_CONFIRM_FOLLOW" = "يطلب تأكيداً قبل متابعة مستخدم";
+"FEATURE_AUTO_CLEAR" = "يمسح سجل البحث تلقائياً كل 60 ثانية";
+"FEATURE_FAKE_CHANGES" = "تمكين التغييرات المزيفة لبيانات الملف الشخصي";
+"FEATURE_FOLLOWER_COUNT" = "أدخل عدد المتابعين الوهمي";
+"FEATURE_FOLLOWING_COUNT" = "أدخل عدد المتابَعين الوهمي";
+"FEATURE_FAKE_VERIFIED" = "يظهر شارة توثيق مزيفة";
+"FEATURE_HIDE_PLUS_BTN" = "إخفاء زر الكاميرا (+)";
+"FEATURE_HIDE_FRIENDS_BADGE" = "إخفاء شارة إشعارات الأصدقاء";
+"FEATURE_HIDE_INBOX_BADGE" = "إخفاء شارة إشعارات صندوق الوارد";
+"FEATURE_EXTENDED_COMMENTS" = "زيادة حد أحرف التعليقات";
+"FEATURE_UPLOAD_HD" = "تمكين الرفع بجودة عالية";
+"FEATURE_APP_LOCK" = "يضيف قفلاً للتطبيق عند تشغيل TikTok";
 "FEATURE_ENABLE_FLEX" = "للمطورين فقط، لا تلمسه إذا كنت لا تعرف ما هو FLEX!";
-"FEATURE_OLED_KEYBOARD" = "يعمل فقط مع السمة الداكنة";
-"FEATURE_POST_STATS" = "يعرض قائمة فرعية في قسم التنزيل تحتوي على معلومات المنشور";
-"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "يمكن إضافة تسميات توضيحية إلى إعادة النشر للمناطق غير المدعومة";
-"FEATURE_VOICE_MESSAGES" = "يمكن إرسال الرسائل الصوتية في الدردشة (فقط في بعض المناطق)";
-"FEATURE_ENABLE_STREAKS" = "يمكن الخطوط المتتالية مع الأصدقاء";
-"FEATURE_HIDE_STREAK_PET" = "يخفي حيوان الخط المتتالي";
-"FEATURE_DISABLE_TYPING" = "يعطل مؤشر الكتابة";
-"FEATURE_PIN_CHATS" = "يمكن تثبيت الدردشات المفضلة في الأعلى";
+"FEATURE_OLED_KEYBOARD" = "يعمل فقط مع النمط الداكن";
+"FEATURE_POST_STATS" = "يظهر قائمة فرعية في قسم التنزيل تحتوي على معلومات المنشور";
+"FEATURE_ENABLE_TEXT_TO_REPOSTS" = "تمكين إضافة وصف عند إعادة النشر للمناطق غير المدعومة";
+"FEATURE_VOICE_MESSAGES" = "تمكين إرسال الرسائل الصوتية في الدردشة (في بعض المناطق فقط)";
+"FEATURE_ENABLE_STREAKS" = "تمكين ميزة الستريك (Streaks) مع الأصدقاء";
+"FEATURE_HIDE_STREAK_PET" = "إخفاء حيوان الستريك الصغير";
+"FEATURE_DISABLE_TYPING" = "تعطيل مؤشر الكتابة (جارٍ الكتابة...)";
+"FEATURE_PIN_CHATS" = "تمكين تثبيت الدردشات المفضلة في الأعلى";
 "FEATURE_BYPASS_MEDIA_LIMIT" = "يتجاوز حدود إرسال الوسائط في الدردشة (الافتراضي: 9 صور، فيديو دقيقة واحدة)";
-"FEATURE_DISABLE_AI_REPLIES" = "يعطل الردود المُنشأة بالذكاء الاصطناعي على المنشورات";
-"FEATURE_SMALL_EMOJI" = "يمكن إرسال رموز تعبيرية صغيرة";
-"FEATURE_HIDE_COMMISSION_POSTS" = "يخفي منشورات 'المنشئ يكسب عمولة'";
+"FEATURE_DISABLE_AI_REPLIES" = "تعطيل الردود المُنشأة بالذكاء الاصطناعي على المنشورات";
+"FEATURE_SMALL_EMOJI" = "تمكين إرسال رموز تعبيرية صغيرة";
+"FEATURE_HIDE_COMMISSION_POSTS" = "إخفاء المنشورات التي تحمل عبارة "يحصل المبدع على عمولة";
 
 // Comment Settings Descriptions
-"ENABLE_COMMENT_PHOTO" = "يمكن الردود بالصور في التعليقات";
-"ENABLE_COMMENT_STICKERS" = "يمكن الردود بالملصقات في التعليقات";
-"FEATURE_DISABLE_COMMENT_TOOLTIP" = "يعطل تلميحات الأدوات في قسم التعليقات";
-"FEATURE_ADD_COMMENT_POST" = "يمكن نشر ردود التعليقات كمنشور";
-"FEATURE_ADD_COMMENT_STORY" = "يمكن نشر ردود التعليقات كقصة";
-"FEATURE_MASS_UNFOLD" = "يفتح جماعيًا جميع ردود التعليقات";
-"FEATURE_AUTO_UNFOLD" = "يفتح تلقائيًا جميع التعليقات الطويلة";
-"FEATURE_MULTI_EMOJI" = "يمكن شريط التعليقات متعدد الإيموجي";
-"FEATURE_HIDE_EMOJI" = "يخفي شريط التعليقات متعدد الإيموجي";
-"FEATURE_COMMENT_REDESIGN" = "يمكن خلايا التعليقات المعاد تصميمها";
-"FEATURE_COPY_WITHOUT_USERNAME" = "ينسخ التعليقات بدون اسم المعلق";
-"FEATURE_ENABLE_COMMENT_FLAGS" = "يعرض أعلام المنطقة بجانب اسم المعلق";
+"ENABLE_COMMENT_PHOTO" = "تمكين الرد بالصور في التعليقات";
+"ENABLE_COMMENT_STICKERS" = "تمكين الرد بالملصقات في التعليقات";
+"FEATURE_DISABLE_COMMENT_TOOLTIP" = "تعطيل تلميحات التعليق";
+"FEATURE_ADD_COMMENT_POST" = "تمكين نشر الردود كمنشور فيديو";
+"FEATURE_ADD_COMMENT_STORY" = "تمكين نشر الردود كقصة";
+"FEATURE_MASS_UNFOLD" = "توسيع كافة ردود التعليقات بضغطة واحدة";
+"FEATURE_AUTO_UNFOLD" = "توسيع التعليقات الطويلة تلقائياً";
+"FEATURE_MULTI_EMOJI" = "تمكين شريط الإيموجي المتعدد";
+"FEATURE_HIDE_EMOJI" = "إخفاء شريط الإيموجي المتعدد";
+"FEATURE_COMMENT_REDESIGN" = "تمكين خلايا التعليقات المعاد تصميمها";
+"FEATURE_COPY_WITHOUT_USERNAME" = "تمكين النسخ بدون اسم المستخدم";
+"FEATURE_ENABLE_COMMENT_FLAGS" = "إظهار أعلام الدول بجانب اسم المعلق";
 
 // MARK: - Error Messages
 "Could Not Copy Music" = "تعذر نسخ الموسيقى";
 "the video doesn't have music to download" = "هذا الفيديو لا يحتوي على موسيقى لتنزيلها";
 
 // MARK: - Developer
-"DEVELOPER_TELEGRAM" = "انضم إلى قناة Telegram الخاصة بنا للحصول على آخر التحديثات";
+"DEVELOPER_TELEGRAM" = "انضم لقناتنا على Telegram للحصول على آخر التحديثات";
 "DEVELOPER_SUPPORT" = "ادعم RXTikTok واحصل على حق الوصول إلى مجموعة الاختبار التجريبي الخاصة بنا";
 
 // MARK: - Missing Strings
-"Features list" = "قائمة الميزات";
+"Features list" = "قائمة المميزات";
 "Not Selected" = "غير محدد";
 "OK" = "حسنًا";
-"Disable Left & Right Swipe" = "تعطيل السحب لليسار واليمين";
-"Pull To Camera" = "اسحب للكاميرا";
+"Disable Left & Right Swipe" = "تعطيل السحب يميناً ويساراً";
+"Pull To Camera" = "اسحب لفتح الكاميرا";
 "Regions" = "المناطق";
 "Full Region Mode" = "وضع المنطقة الكامل";
-"Add Folders To Inbox" = "إضافة مجلدات إلى صندوق الوارد";
+"Add Folders To Inbox" = "إضافة مجلدات لصندوق الوارد";
 
 // Additional missing strings
 "Settings" = "الإعدادات";
@@ -284,71 +284,71 @@
 "Error" = "خطأ";
 "Success" = "نجاح";
 "Warning" = "تحذير";
-"Loading" = "جارٍ التحميل";
+"Loading" = "جارٍ التحميل...";
 "Search" = "بحث";
 "Apply" = "تطبيق";
 "Reset" = "إعادة تعيين";
 "Saved!" = "تم الحفظ!";
 "Video saved successfully" = "تم حفظ الفيديو بنجاح";
 "Photo saved successfully" = "تم حفظ الصورة بنجاح";
-"Failed to save media" = "فشل حفظ الوسائط";
+"Failed to save media" = "فشل في حفظ الوسائط";
 "No internet connection" = "لا يوجد اتصال بالإنترنت";
 "Select All" = "تحديد الكل";
 "Deselect All" = "إلغاء تحديد الكل";
-"More Options" = "المزيد من الخيارات";
+"More Options" = "خيارات إضافية";
 "Share" = "مشاركة";
 "Copy Link" = "نسخ الرابط";
 "Report" = "إبلاغ";
 "Block" = "حظر";
-"Unfollow" = "إلغاء متابعة";
+"Unfollow" = "إلغاء المتابعة";
 "Hide" = "إخفاء";
 "Show" = "إظهار";
 "Enable" = "تمكين";
 "Disable" = "تعطيل";
 
 // MARK: - Missing Feature Descriptions
-"FEATURE_DISABLE_SWIPE" = "يعطل السحب لليسار واليمين في الشاشة الرئيسية";
-"FEATURE_PULL_TO_CAMERA" = "يمكن ميزة السحب إلى الكاميرا";
-"FEATURE_ADD_FOLDERS" = "يضيف تنظيم المجلدات إلى رسائل صندوق الوارد";
-"FEATURE_FULL_REGION_MODE" = "قم بالتمكين فقط إذا كان الخيار الأول لا يعمل!";
+"FEATURE_DISABLE_SWIPE" = "تعطيل السحب يميناً ويساراً في الشاشة الرئيسية";
+"FEATURE_PULL_TO_CAMERA" = "تمكين ميزة السحب لفتح الكاميرا";
+"FEATURE_ADD_FOLDERS" = "إضافة تنظيم المجلدات لرسائل صندوق الوارد";
+"FEATURE_FULL_REGION_MODE" = "قم بالتمكين فقط إذا لم يعمل الخيار الأول!";
 
 // Additional feature descriptions
 "FEATURE_ANONYMOUS_SEEN_DESC" = "شاهد الدردشات دون إرسال إيصالات القراءة إلى المستلم";
-"FEATURE_SHOW_ALL_TABS_DESC" = "إظهار جميع علامات تبويب الإعدادات المخفية، بما في ذلك الميزات التجريبية";
-"FEATURE_PROFILE_SAVE_DESC" = "احفظ معلومات الملف الشخصي في حافظتك بنقرة واحدة";
-"FEATURE_PROFILE_COPY_DESC" = "انسخ تفاصيل الملف الشخصي بما في ذلك اسم المستخدم والسيرة الذاتية والمعلومات العامة الأخرى";
-"FEATURE_APP_LOCK_DESC" = "قم بتأمين تطبيق TikTok بكلمة مرور أو مصادقة بيومترية";
-"FEATURE_REGIONS_DESC" = "الوصول إلى محتوى خاص بالمنطقة عن طريق تزييف موقعك الافتراضي";
-"FEATURE_ADD_FOLDERS_DESC" = "نظم رسائل صندوق الوارد الخاصة بك في مجلدات مخصصة لإدارة أفضل";
+"FEATURE_SHOW_ALL_TABS_DESC" = "إظهار كافة الإعدادات المخفية والميزات التجريبية";
+"FEATURE_PROFILE_SAVE_DESC" = "احفظ معلومات الملف الشخصي في الحافظة بنقرة واحدة";
+"FEATURE_PROFILE_COPY_DESC" = "نسخ بيانات الحساب (الاسم، السيرة الذاتية، إلخ)";
+"FEATURE_APP_LOCK_DESC" = "تأمين تطبيق TikTok بكلمة مرور أو بصمة الوجه";
+"FEATURE_REGIONS_DESC" = "تغيير موقعك الافتراضي لمشاهدة محتوى دول أخرى";
+"FEATURE_ADD_FOLDERS_DESC" = "تنظيم محادثات صندوق الوارد في مجلدات مخصصة";
 
 // MARK: - Credits View
-"Credits" = "الاعتمادات";
+"Credits" = "الحقوق والاعتمادات";
 "Special Thanks to" = "شكر خاص لـ";
 "Community" = "المجتمع";
-"Main Developer, Owner" = "المطور الرئيسي، المالك";
+"Main Developer, Owner" = "المطور الرئيسي والمالك";
 "Co-Owner" = "المالك المشارك";
 "DRM Developer" = "مطور DRM";
 "Contributor" = "مساهم";
-"UI Designer" = "مصمم واجهة المستخدم";
+"UI Designer" = "مصمم الواجهة";
 "Telegram Channel" = "قناة Telegram";
-"Telegram Discussion Group" = "مجموعة نقاش Telegram";
-"Get the latest updates and news" = "احصل على آخر التحديثات والأخبار";
-"Join the community discussion" = "انضم إلى مناقشة المجتمع";
-"Buy Me a Coffee" = "اشتر لي قهوة";
-"Support the development" = "ادعم التطوير";
-"X" = "إكس";
-"Support" = "دعم";
+"Telegram Discussion Group" = "مجموعة مناقشة Telegram";
+"Get the latest updates and news" = "احصل على آخر الأخبار والتحديثات";
+"Join the community discussion" = "شارك في نقاشات المجتمع";
+"Buy Me a Coffee" = "ادعم المشروع (Buy Me a Coffee)";
+"Support the development" = "ادعم استمرار التطوير";
+"X" = "X (تويتر سابقاً)";
+"Support" = "الدعم";
 
 // MARK: - Configuration
 "About" = "حول";
 "Configuration" = "الإعدادات";
 "Import Configuration" = "استيراد الإعدادات";
 "Export Configuration" = "تصدير الإعدادات";
-"Reset All Settings" = "إعادة تعيين جميع الإعدادات";
+"Reset All Settings" = "إعادة تعيين كافة الإعدادات";
 "Import settings from a file" = "استيراد الإعدادات من ملف";
-"Export settings to a file" = "تصدير الإعدادات إلى ملف";
+"Export settings to a file" = "تصدير الإعدادات الحالية لملف";
 "Reset all settings to default values" = "إعادة تعيين جميع الإعدادات إلى القيم الافتراضية";
-"All settings have been reset to default values." = "تمت إعادة تعيين جميع الإعدادات إلى القيم الافتراضية.";
+"All settings have been reset to default values." = "تمت إعادة ضبط جميع الإعدادات";
 "Configuration imported successfully." = "تم استيراد الإعدادات بنجاح.";
 "File selection was cancelled." = "تم إلغاء اختيار الملف.";
 "Cancelled" = "ملغي";
@@ -356,45 +356,45 @@
 "Select App Language" = "اختر لغة التطبيق";
 
 
-// 1.3
-"Erase All TikTok Data" = "مسح جميع بيانات TikTok";
-"Erase all TikTok data from the app  [Becareful!!!]" = "يمسح جميع بيانات TikTok من التطبيق [كن حذراً!!!]";
-"Clear Keychain" = "مسح سلسلة المفاتيح";
+// 1.3 
+"Erase All TikTok Data" = "مسح كافة بيانات TikTok";
+"Erase all TikTok data from the app  [Becareful!!!]" = "مسح شامل لبيانات التطبيق [كن حذراً!!!]";
+"Clear Keychain" = "مسح سجل Keychain";
 "Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "هل أنت متأكد أنك تريد مسح جميع البيانات؟ سيؤدي هذا إلى إزالة:\n1- دليل بيانات TikTok\n2- جميع سلاسل المفاتيح\n3- مسح جميع NSUserDefaults\n\nتنبيه!\nستفقد مسوداتك وأي شيء محفوظ محليًا.";
 "Clear" = "مسح";
-"Really Clear All Data?" = "هل تريد حقًا مسح جميع البيانات؟";
-"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "هذا هو تحذيرك النهائي. هذا الإجراء لا رجعة فيه وسيحذف جميع بيانات TikTok المحلية، بما في ذلك المسودات والإعدادات. هل أنت متأكد تمامًا؟";
+"Really Clear All Data?" = "هل تريد حقاً مسح كافة البيانات؟";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "هذا هو التحذير الأخير! الإجراء لا يمكن التراجع عنه وسيتم حذف كل شيء بما في ذلك المسودات. هل أنت متأكد تماماً؟";
 "Confirm Clear" = "تأكيد المسح";
 "Data Cleared" = "تم مسح البيانات";
-"All TikTok data has been cleared." = "تم مسح جميع بيانات TikTok.";
+"All TikTok data has been cleared." = "تم مسح كافة بيانات TikTok.";
 
-"Streak Info" = "معلومات الخط المتتالي";
-"FEATURE_STREAK_INFO" = "يعرض معلومات خطك المتتالي الحالي عند النقر على نار الخط";
+"Streak Info" = "معلومات الستريك";
+"FEATURE_STREAK_INFO" = "إظهار تفاصيل الستريك عند الضغط على أيقونة النار";
 
-"Hide Tab Bar Labels" = "إخفاء تسميات شريط التبويب";
-"FEATURE_HIDE_TAB_BAR_LABELS" = "يخفي التسميات في شريط التبويب";
+"Hide Tab Bar Labels" = "إخفاء أسماء الشريط السفلي";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "إخفاء النصوص تحت أيقونات شريط التبويب";
 
 "Adjust offline download limit" = "ضبط حد التنزيل دون اتصال";
-"Adjust value between 50 and 2000" = "اضبط القيمة بين 50 و 2000";
+"Adjust value between 50 and 2000" = "اختر قيمة بين 50 و 2000";
 
-"Start TikTok in Following" = "بدء TikTok في 'أتابعه'";
-"FEATURE_START_FYP_IN_FOLLOWING" = "يبدأ TikTok في شاشة 'أتابعه'، بدلاً من شاشة 'لك'";
+"Start TikTok in Following" = "بدء التطبيق على 'أتابعه'";
+"FEATURE_START_FYP_IN_FOLLOWING" = "فتح TikTok مباشرة على قسم 'أتابعه' بدلاً من 'لك'";
 
 "Waiting for TikTok…" = "في انتظار TikTok…";
 "Extracting Media URL…" = "جارٍ استخراج عنوان URL للوسائط…";
 "Invalid download URL received." = "تم استلام عنوان URL غير صالح للتنزيل.";
-"Failed to fetch HD video URL. Please try again." = "فشل جلب عنوان URL للفيديو عالي الجودة. يرجى المحاولة مرة أخرى.";
+"Failed to fetch HD video URL. Please try again." = "فشل جلب رابط الفيديو عالي الدقة، حاول ثانية.";
 
 "Enable Egypt Stickers" = "تمكين ملصقات مصر";
 
 
 // 1.4
 "LOOP_STORY_VIDEOS" = "تكرار فيديوهات القصص";
-"STOP_STORY_PHOTO_ADVANCE" = "إيقاف تقدم صور القصص تلقائيًا";
-"FEATURE_LOOP_STORY_VIDEOS" = "يكرر الفيديوهات في القصص";
-"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "يمنع صور القصص من التقدم تلقائيًا";
+"STOP_STORY_PHOTO_ADVANCE" = "إيقاف التقدم التلقائي لصور القصة";
+"FEATURE_LOOP_STORY_VIDEOS" = "تكرار تشغيل الفيديو في القصص تلقائياً";
+"FEATURE_STOP_STORY_PHOTO_ADVANCE" = "منع صور القصص من الانتقال تلقائياً";
 "BACKGROUND_PLAY" = "تمكين التشغيل في الخلفية";
-"FEATURE_BACKGROUND_PLAY" = "يمكن التشغيل الخلفي للصوت";
+"FEATURE_BACKGROUND_PLAY" = "تمكين تشغيل الصوت في الخلفية";
 
 // MARK: - New Section Headers
 "Content & Display" = "المحتوى والعرض";
@@ -406,73 +406,73 @@
 "Video Information" = "معلومات الفيديو";
 "Profile Customization" = "تخصيص الملف الشخصي";
 "Profile Enhancement" = "تحسين الملف الشخصي";
-"Enhanced Comments Features" = "ميزات التعليقات المحسّنة";
+"Enhanced Comments Features" = "ميزات التعليقات المتقدمة";
 "Text & Display Options" = "خيارات النص والعرض";
 "Emoji & Interface" = "الإيموجي والواجهة";
 "Content Interactions" = "تفاعلات المحتوى";
-"Social Actions" = "الإجراءات الاجتماعية";
+"Social Actions" = "إجراءات اجتماعية";
 "Tab Bar Elements" = "عناصر شريط التبويب";
 "Notification Badges" = "شارات الإشعارات";
 "App Configuration" = "تكوين التطبيق";
 "Content Enhancement" = "تحسين المحتوى";
 "System Features" = "ميزات النظام";
-"Configuration Management" = "إدارة التكوين";
+"Configuration Management" = "إدارة الإعدادات";
 "Chat Features" = "ميزات الدردشة";
 "Organization & Management" = "التنظيم والإدارة";
 "Privacy & Security" = "الخصوصية والأمان";
 
 // MARK: - Missing Chat Settings Strings
-"DISABLE_SCREENSHOT_DETECTION" = "تعطيل كشف لقطات الشاشة";
+"DISABLE_SCREENSHOT_DETECTION" = "تعطيل كشف لقطة الشاشة";
 "DISABLE_SCREENRECORDING_DETECTION" = "تعطيل كشف تسجيل الشاشة";
-"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "يعطل كشف لقطات الشاشة في الدردشات";
-"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "يعطل كشف تسجيل الشاشة في الدردشات";
+"FEATURE_DISABLE_SCREENSHOT_DETECTION" = "منع الآخرين من معرفة أنك صورت المحادثة";
+"FEATURE_DISABLE_SCREENRECORDING_DETECTION" = "منع الآخرين من معرفة أنك سجلت الشاشة";
 
 // MARK: - Missing Alert and UI Strings
 "Reset Settings" = "إعادة تعيين الإعدادات";
-"Are you sure you want to reset all settings to default values? This action cannot be undone." = "هل أنت متأكد أنك تريد إعادة تعيين جميع الإعدادات إلى القيم الافتراضية؟ لا يمكن التراجع عن هذا الإجراء.";
-"Erase All Data" = "مسح جميع البيانات";
-"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "هل أنت متأكد أنك تريد مسح جميع بيانات TikTok؟ سيؤدي هذا إلى مسح جميع بيانات التطبيق ولا يمكن التراجع عنه.";
+"Are you sure you want to reset all settings to default values? This action cannot be undone." = "هل أنت متأكد من إعادة كافة الإعدادات؟ لا يمكن التراجع عن هذا الإجراء.";
+"Erase All Data" = "مسح كافة البيانات";
+"Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "هل أنت متأكد من مسح كافة بيانات تيك توك؟ سيؤدي ذلك لمسح كافة بيانات التطبيق.";
 "Erase" = "مسح";
-"All TikTok data has been erased." = "تم مسح جميع بيانات TikTok.";
-"Settings Reset" = "تم إعادة تعيين الإعدادات";
-"Language Changed" = "تم تغيير اللغة";
-"Please restart the app to apply changes, May require two app restarts!" = "يرجى إعادة تشغيل التطبيق لتطبيق التغييرات، قد يتطلب إعادة تشغيل مرتين!";
+"All TikTok data has been erased." = "تم مسح كافة البيانات بنجاح.";
+"Settings Reset" = "تم إعادة التعيين";
+"Language Changed" = "تغيرت اللغة";
+"Please restart the app to apply changes, May require two app restarts!" = "يرجى إغلاق التطبيق وفتحه لتطبيق التغييرات؛ قد يتطلب الأمر مرتين!";
 
 // MARK: - Missing Navigation and Menu Strings
 "Speeds" = "السرعات";
 
-"BETA!" = "نسخة تجريبية!";
+"BETA!" = "تجريبي!";
 
 // MARK: - Menu Manager Strings
 "Language" = "اللغة";
 
-"MARK_SEEN_ON_REPLY" = "وضع علامة كمقروء عند الرد";
-"FEATURE_MARK_SEEN_ON_REPLY" = "يضع علامة على الرسائل كمقروءة عند الرد عليها";
+"MARK_SEEN_ON_REPLY" = "تحديد كمقروء عند الرد";
+"FEATURE_MARK_SEEN_ON_REPLY" = "تحديد الرسائل كمقروءة تلقائياً عند الرد عليها";
 
 "VIEW_PROFILES_ANONYMOUS" = "عرض الملفات الشخصية بشكل مجهول";
-"FEATURE_VIEW_PROFILES_ANONYMOUS" = "يعطل تتبع عرض الملف الشخصي";
+"FEATURE_VIEW_PROFILES_ANONYMOUS" = "تعطيل سجل زيارة الملفات الشخصية للآخرين";
 
 // MARK: - Import/Export Configuration Strings
 "Choose import source:" = "اختر مصدر الاستيراد:";
-"Import from Keychain" = "استيراد من سلسلة المفاتيح";
+"Import from Keychain" = "استيراد من Keychain";
 "Import from File" = "استيراد من ملف";
 "No backup found" = "لم يتم العثور على نسخة احتياطية";
-"No Backup" = "لا يوجد نسخة احتياطية";
-"No settings backup found in keychain." = "لم يتم العثور على نسخة احتياطية للإعدادات في سلسلة المفاتيح.";
+"No Backup" = "لا توجد نسخة احتياطية";
+"No settings backup found in keychain." = "لم يتم العثور على نسخة احتياطية في Keychain.";
 "Choose export destination:" = "اختر وجهة التصدير:";
-"Save to Keychain" = "حفظ في سلسلة المفاتيح";
+"Save to Keychain" = "حفظ في Keychain";
 "Export to File" = "تصدير إلى ملف";
-"Configuration imported from keychain successfully." = "تم استيراد الإعدادات من سلسلة المفاتيح بنجاح.";
-"Configuration saved to keychain successfully." = "تم حفظ الإعدادات في سلسلة المفاتيح بنجاح.";
+"Configuration imported from keychain successfully." = "تم الاستيراد من Keychain بنجاح.";
+"Configuration saved to keychain successfully." = "تم الحفظ في Keychain بنجاح.";
 
 // MARK: - Rewards Ads Feature
-"Disable TikTok Rewards ADs" = "تعطيل إعلانات مكافآت TikTok";
-"FEATURE_DISABLE_REWARDS_ADS" = "يخفي إعلانات مكافآت TikTok من الشاشة الرئيسية";
+"Disable TikTok Rewards ADs" = "تعطيل إعلانات مكافآت تيك توك";
+"FEATURE_DISABLE_REWARDS_ADS" = "إخفاء إعلانات المكافآت من الصفحة الرئيسية";
 
 // 1.5
 "OTHER_OPTIONS" = "خيارات أخرى";
 "Processing..." = "جارٍ المعالجة...";
-"FEATURE_HIDE_ACTIVITY_STATUS" = "يخفي حالات 'آخر نشاط' و'متصل' الخاصة بك في الدردشات";
+"FEATURE_HIDE_ACTIVITY_STATUS" = "إخفاء حالة النشاط (متصل الآن / آخر ظهور) في الخاص";
 "HIDE_ACTIVITY_STATUS" = "إخفاء حالة النشاط";
 "FEATURE_DISABLE_VISUAL_SEARCH_TAG" = "يعطل زر 'البحث المرئي' في الشاشة الرئيسية عند إيقاف الفيديو مؤقتًا";
 "DISABLE_VISUAL_SEARCH_TAG" = "تعطيل علامة البحث المرئي";
@@ -480,33 +480,33 @@
 "BYPASS_FOLLOW_LIST_SEARCH" = "تجاوز حد البحث في قائمة المتابعين";
 "FEATURE_STORY_LIKE_CONFIRMATION" = "يطلب تأكيدًا قبل الإعجاب بقصة";
 "STORY_LIKE_CONFIRMATION" = "تأكيد إعجاب القصة";
-"FEATURE_ALWAYS_OPEN_SAFARI" = "يفتح الروابط دائمًا في Safari بدلاً من المتصفح المدمج";
-"ALWAYS_OPEN_SAFARI" = "افتح دائمًا في Safari";
+"FEATURE_ALWAYS_OPEN_SAFARI" = "فتح الروابط دائماً في متصفح Safari الخارجي";
+"ALWAYS_OPEN_SAFARI" = "الفتح في Safari دائماً";
 "FEATURE_REMOVE_TIKTOK_AI_BUTTON" = "يزيل زر TikTok AI (tako) من صفحة 'لك'";
 "REMOVE_TIKTOK_AI_BUTTON" = "إزالة زر TikTok AI";
 "WARNING" = "تحذير";
 "DISABLE_ACTIVITY_STATUS_WARNING" = "يستغرق تعطيل أو تمكين حالة النشاط المجهول وقتًا لينعكس على خوادم TikTok. قد لا تزال تظهر متصلاً لبعض الوقت بعد تمكين هذه الميزة.";
 "PAD_AUTO_SCROLL" = "التمرير التلقائي الافتراضي";
-"FEATURE_PAD_AUTO_SCROLL" = "يمكن التمرير التلقائي الأصلي لمنشورات TikTok للمناطق غير المدعومة";
-"SAVE_DM_MEDIA" = "حفظ وسائط الرسائل المباشرة";
-"FEATURE_SAVE_DM_MEDIA" = "يضيف زر تنزيل إلى الوسائط المرسلة في الرسائل المباشرة";
-"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "يعطل النقر المزدوج للإعجاب في الشاشة الرئيسية";
-"DISABLE_FEED_DOUBLE_TAP" = "تعطيل النقر المزدوج في الشاشة الرئيسية";
-"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "يعطل النقر المزدوج للإعجاب في القصص";
+"FEATURE_PAD_AUTO_SCROLL" = "تفعيل ميزة التمرير التلقائي الأصلية في المناطق غير المدعومة";
+"SAVE_DM_MEDIA" = "حفظ وسائط الخاص";
+"FEATURE_SAVE_DM_MEDIA" = "إضافة زر تنزيل للصور والفيديوهات في الرسائل الخاصة";
+"FEATURE_DISABLE_FEED_DOUBLE_TAP" = "تعطيل الإعجاب بالنقر المزدوج في الرئيسية";
+"DISABLE_FEED_DOUBLE_TAP" = "تعطيل النقر المزدوج (إعجاب)";
+"FEATURE_DISABLE_STORY_DOUBLE_TAP" = "تعطيل الإعجاب بالنقر المزدوج في القصص";
 "DISABLE_STORY_DOUBLE_TAP" = "تعطيل النقر المزدوج في القصص";
 
 // 1.6
 
-"FEATURE_ENABLE_STICKER_DOWNLOAD" = "يمكن تنزيل الملصقات في التعليقات";
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "تمكين تنزيل الملصقات في التعليقات";
 "ENABLE_STICKER_DOWNLOAD" = "انقر مرتين لتنزيل الملصق";
-"STICKER_SAVED" = "تم حفظ الملصق في المعرض!";
-"STICKER_SAVE_FAILED" = "فشل حفظ الملصق";
+"STICKER_SAVED" = "تم حفظ الملصق في الاستوديو!";
+"STICKER_SAVE_FAILED" = "فشل في حفظ الملصق";
 "DOWNLOAD_FAILED" = "فشل التنزيل";
 "DOWNLOADING_STICKER" = "جارٍ تنزيل الملصق...";
 
 "FILTERING_OPTIONS" = "خيارات التصفية";
 "BLOCK_MOVIE_TOK" = "حظر إعلانات الأفلام";
-"FEATURE_BLOCK_MOVIE_TOK" = "يحظر الفيديوهات التي تحتوي على إعلانات أفلام";
+"FEATURE_BLOCK_MOVIE_TOK" = "حظر الفيديوهات التي تروج للأفلام";
 
 "BLOCK_AI_GENERATED" = "حظر المنشورات المُنشأة بالذكاء الاصطناعي";
 "FEATURE_BLOCK_AI_GENERATED" = "يحظر المنشورات التي تحتوي على 'يحتوي على وسائط مُنشأة بالذكاء الاصطناعي'";
@@ -518,15 +518,15 @@
 "BLOCK_SHOP_VIDEOS" = "حظر منشورات المتجر";
 "FEATURE_BLOCK_SHOP_VIDEOS" = "يزيل منشورات المتجر من الشاشة الرئيسية.";
 "BLOCK_TCM" = "حظر إعلانات التطبيقات";
-"BLOCK_POI" = "حظر إعلانات المواقع";
-"FEATURE_BLOCK_SHOP_ADS" = "حظر الفيديوهات التي تحتوي على إعلانات متجر";
-"FEATURE_BLOCK_TCM" = "حظر الفيديوهات التي تحتوي على إعلانات تطبيقات";
-"FEATURE_BLOCK_POI" = "حظر الفيديوهات التي تحتوي على إعلانات مواقع";
+"BLOCK_POI" = "حظر إعلانات المواقع الجغرافية";
+"FEATURE_BLOCK_SHOP_ADS" = "حظر إعلانات المتجر";
+"FEATURE_BLOCK_TCM" = "حظر إعلانات التطبيقات";
+"FEATURE_BLOCK_POI" = "حظر إعلانات المواقع الجغرافية";
 "FEATURE_REMOVE_DRAFT_WATERMARK" = "يزيل العلامة المائية عند حفظ المنشورات أو المسودات";
 "REMOVE_DRAFT_WATERMARK" = "إزالة العلامة المائية للصور";
-"FEATURE_HIDE_REPORT_BUTTON" = "يخفي زر الإبلاغ في شريط التنقل للرسائل المباشرة.";
+"FEATURE_HIDE_REPORT_BUTTON" = "إخفاء زر الإبلاغ في شريط الرسائل الخاصة";
 "HIDE_REPORT_BUTTON" = "إخفاء زر الإبلاغ";
 "FEATURE_DISABLE_TYPING_STICKER" = "يعطل التوصيات التلقائية للصور المتحركة أثناء الكتابة";
 "DISABLE_TYPING_STICKER" = "تعطيل ملصق الكتابة";
-"RUSSIAN_FIX" = "تجاوز الحظر الروسي";
+"RUSSIAN_FIX" = "تخطي الحظر الروسي";
 "FEATURE_RUSSIAN_FIX" = "قم بتمكين هذا لجعل الشاشة الرئيسية الروسية تعمل مرة أخرى [جديد!]";
