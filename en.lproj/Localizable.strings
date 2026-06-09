@@ -47,6 +47,10 @@
 "Download Photos Menu" = "Download Photos Menu";
 "Downloading" = "Downloading";
 "Download Button" = "Download Button";
+"Download Format" = "Download Format";
+"This album contains Live Photos. How would you like to download them?" = "This Album Contains Live Photos. How Would You Like to Download Them?";
+"Live Photo" = "Live Photo";
+"MP4" = "MP4";
 "PLAY_IN_NATIVE_PLAYER" = "Play in Native Player";
 
 // MARK: - Copy Features
@@ -186,6 +190,24 @@
 "FEATURE_DOWNLOAD_BUTTON" = "Adds a Download Button to Posts and Stories";
 "FEATURE_SHARE_SHEET" = "Opens the Share Sheet After Media Finishes Downloading";
 "FEATURE_REMOVE_WATERMARK" = "Removes the Watermark from Downloaded Media";
+"Share Panel Options" = "Share Panel Options";
+"Share Panel Items" = "Share Panel Items";
+"FEATURE_SHARE_PANEL_ITEMS" = "Show RX Download Options in Share Panel";
+"FEATURE_SHOW_DL_VIDEO" = "Show Download Video Option";
+"FEATURE_SHOW_DL_HD_VIDEO" = "Show Download HD Video Option";
+"FEATURE_SHOW_DL_MUSIC" = "Show Download Music Option";
+"FEATURE_SHOW_DL_PHOTOS" = "Show Download Photos Option";
+"FEATURE_SHOW_COPY_MUSIC" = "Show Copy Music Link Option";
+"FEATURE_SHOW_COPY_VIDEO" = "Show Copy Video Link Option";
+"FEATURE_SHOW_COPY_DESC" = "Show Copy Description Option";
+"Post Information" = "Post Information";
+"FEATURE_SHOW_POST_INFO" = "Show Post Info Option";
+"FEATURE_SHOW_NATIVE_PLAYER" = "Show Play in Native Player Option";
+"Hide Elements" = "Hide Elements";
+"Show Elements" = "Show Elements";
+"FEATURE_SHOW_HIDE_ELEMENTS" = "Show Hide/Show Elements Toggle";
+"Active Items" = "Active Items";
+"Available Items" = "Available Items";
 "FEATURE_UI_BUTTON" = "Displays the 'Hide UI' Button";
 "FEATURE_STOP_PLAYBACK" = "Stops the Post's Playback Upon Ending";
 "FEATURE_AUTO_PLAY" = "Enables Automatic Video Scrolling";
@@ -396,6 +418,8 @@
 "FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Stops Story Photos from Advancing";
 "BACKGROUND_PLAY" = "Enable Background Play";
 "FEATURE_BACKGROUND_PLAY" = "Enables the Background Play of Audio";
+"AUTO_PIP" = "Auto Picture-in-Picture";
+"FEATURE_AUTO_PIP" = "Automatically enters PiP when leaving the app";
 
 // MARK: - New Section Headers (Added from Settings reorganization)
 "Content & Display" = "Content & Display";
@@ -519,10 +543,8 @@
 "BLOCK_SHOP_VIDEOS" = "Block Shop Posts";
 "FEATURE_BLOCK_SHOP_VIDEOS" = "Removes Shop Posts from Feed.";
 "BLOCK_TCM" = "Block App Ads";
-"BLOCK_POI" = "Block Location Ads";
 "FEATURE_BLOCK_SHOP_ADS" = "Block Videos with Shop Ads";
 "FEATURE_BLOCK_TCM" = "Block Videos with App Ads";
-"FEATURE_BLOCK_POI" = "Block Videos with Location Ads";
 "FEATURE_REMOVE_DRAFT_WATERMARK" = "Removes Watermark When Saving Posts or Drafts";
 "REMOVE_DRAFT_WATERMARK" = "Remove Photo Watermark";
 "FEATURE_HIDE_REPORT_BUTTON" = "Hide flag button in direct messages navigation bar.";
@@ -533,3 +555,15 @@
 "FEATURE_RUSSIAN_FIX" = "Enable this to get russian feed working again [NEW!]";
 "HIDE_RX_UI" = "Hide RX UI";
 "FEATURE_HIDE_RX_UI" = "Hide RX UI From screen shots";
+
+
+"ANON_STORY_DOWNLOAD" = "Download Stories Anonymously";
+"FEATURE_ANON_STORY_DOWNLOAD" = "Download or View Stories Anonymously. by using the new download button on users profile.";
+"ENABLE_VOICE_SWAP" = "Custom Voice Message Upload";
+"FEATURE_ENABLE_VOICE_SWAP" = "Enables a button in chat to upload videos as voice notes";
+"ENABLE_SOUND_BLOCKING" = "Block Sounds";
+"FEATURE_ENABLE_SOUND_BLOCKING" = "Blocks sounds using a button in the sound section of TikTok. Note: this makes posts with the sound unavailable. Blocked sounds can also be removed below.";
+"DISABLE_FILTERING_FRIEND_POSTS" = "Disable Filtering In DM";
+"FEATURE_DISABLE_FILTERING_FRIEND_POSTS" = "Disables filtering for posts shared in Direct Messages. Note: Disabling this option makes videos sent to you show 'Post unavailable'.";
+"KEEP_DELETED_MESSAGES" = "Keep Deleted Messages";
+"FEATURE_KEEP_DELETED_MESSAGES" = "Stop the app from removing deleted messages from chats. Careful this feature only works when the app is foreground. also restarting or refreshing the app will sometimes removes media-files (mp3, etc...) from the apps data directory and this renders some types of media as unavailable or unplayable.";

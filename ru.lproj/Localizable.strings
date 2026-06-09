@@ -479,7 +479,7 @@
 "DISABLE_VISUAL_SEARCH_TAG" = "Отключить визуальный поиск";
 "FEATURE_BYPASS_FOLLOW_LIST_SEARCH" = "Включает поиск в списке подписчиков даже если у пользователя больше 5K подписчиков";
 "BYPASS_FOLLOW_LIST_SEARCH" = "Обойти лимит поиска в подписчиках";
-"FEATURE_STORY_LIKE_CONFIRMATION" = "Просит подтверждение перед лайком истории";
+"FEATURE_STORY_LIKE_CONFIRMATION" = "Включает подтверждение перед лайком истории";
 "STORY_LIKE_CONFIRMATION" = "Подтверждение лайка истории";
 "FEATURE_ALWAYS_OPEN_SAFARI" = "Всегда открывает ссылки в Safari вместо встроенного браузера";
 "ALWAYS_OPEN_SAFARI" = "Всегда открывать в Safari";
@@ -511,8 +511,8 @@
  
 "BLOCK_AI_GENERATED" = "Скрыть видео созданные ИИ"; 
 "FEATURE_BLOCK_AI_GENERATED" = "Скрывает видео созданные ИИ из ленты";
-"FEATURE_CONFIRM_QUICK_SHARE" = "Просит подтверждение перед использованием Quick Share"; 
-"FEATURE_CONFIRM_REPOST" = "Просит подтверждение перед репостом";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Включает подтверждение перед использованием Quick Share"; 
+"FEATURE_CONFIRM_REPOST" = "Включает подтверждение перед репостом";
 "CONFIRM_QUICK_SHARE" = "Быстрое подтверждение Quick Share"; 
 "CONFIRM_REPOST" = "Быстрое подтверждение репоста";
 
