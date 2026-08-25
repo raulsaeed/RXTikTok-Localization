@@ -549,6 +549,8 @@
 "REMOVE_DRAFT_WATERMARK" = "Remove Photo Watermark";
 "FEATURE_HIDE_REPORT_BUTTON" = "Hide flag button in direct messages navigation bar.";
 "HIDE_REPORT_BUTTON" = "Hide report button";
+"FEATURE_HIDE_CALL_BUTTON" = "Hides the call button in direct messages navigation bar.";
+"HIDE_CALL_BUTTON" = "Hide Call Button";
 "FEATURE_DISABLE_TYPING_STICKER" = "disable automatic gif recommendations while typing";
 "DISABLE_TYPING_STICKER" = "Disable Typing Sticker";
 "RUSSIAN_FIX" = "Bypass Russia Ban 🇷🇺";
@@ -567,3 +569,12 @@
 "FEATURE_DISABLE_FILTERING_FRIEND_POSTS" = "Disables filtering for posts shared in Direct Messages. Note: Disabling this option makes videos sent to you show 'Post unavailable'.";
 "KEEP_DELETED_MESSAGES" = "Keep Deleted Messages";
 "FEATURE_KEEP_DELETED_MESSAGES" = "Stop the app from removing deleted messages from chats. Careful this feature only works when the app is foreground. also restarting or refreshing the app will sometimes removes media-files (mp3, etc...) from the apps data directory and this renders some types of media as unavailable or unplayable.";
+"SHOW_DELETED_BADGE" = "Show Deleted Indicator";
+"FEATURE_SHOW_DELETED_BADGE" = "Displays a trash icon indicator next to recalled messages and media.";
+"FULL_LAST_SEEN" = "Full Last Seen Time";
+"FEATURE_FULL_LAST_SEEN" = "Shows Exact Date and Time for Last Active Status";
+"Yesterday" = "Yesterday";
+"%ld days ago" = "%ld days ago";
+"Deleted message" = "Deleted message";
+"%@ deleted a message" = "%@ deleted a message";
+"You" = "You";
