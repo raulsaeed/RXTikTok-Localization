@@ -720,3 +720,101 @@
 "Telegram" = "Telegram";
 "Twitter" = "Twitter";
 "Website" = "Website";
+
+// MARK: - Missing keys used in code
+"SAVE_TO_PHOTOS" = "Save to Photos";
+"SERVER_CONNECTION_REQUIRED" = "Server Connection Required";
+"REGION_SERVER_REQUIRED_BODY" = "Region spoofing requires an active connection to the helper server.";
+"ACTIVATING_REGION" = "Activating %@...";
+"REGION_UNAVAILABLE" = "Region Unavailable";
+"REGION_PROFILE_FETCH_FAILED" = "Failed to retrieve authorized profile for %@ (%@) from server. Selection was not applied.";
+"VIDEO_INFO_UNAVAILABLE" = "Video info is currently unavailable (server required).";
+"APP_NAME" = "RXTikTok";
+"DOWNLOAD_PHOTOS" = "Download Photos";
+
+// MARK: - Story
+"PROFILE_INFO" = "Profile Info";
+"PROFILE_INFO_UNAVAILABLE" = "Profile info is currently unavailable (server required).";
+"DOWNLOAD_STORY" = "Download Story";
+"MARK_SEEN_SERVER_REQUIRED" = "Mark as seen requires the server";
+"MARK_SEEN_FAILED" = "Mark as seen failed";
+"MARKED_AS_SEEN" = "Marked as seen";
+
+// MARK: - Chat - voice swap
+"FILES" = "Files";
+"VIDEOS" = "Videos";
+"SEND_VOICE_MESSAGE" = "Send Voice Message";
+"SELECT_VOICE_SOURCE" = "Select audio or video source";
+"CHOOSE_FROM_FILES" = "Choose from Files";
+"CHOOSE_FROM_VIDEOS" = "Choose from Videos";
+"VOICE_AUDIO_READY" = "Audio Ready - Sending natively...";
+"VOICE_CONVERSATION_NOT_FOUND" = "Error: Conversation object not found";
+"VOICE_SENT" = "Voice Message Sent!";
+"VOICE_SEND_FAILED" = "Failed to send natively";
+"VOICE_EXTRACTION_FAILED" = "Audio Extraction Failed";
+"VOICE_PROCESSING" = "Processing Audio...";
+"NO_FILE_SELECTED" = "No file selected";
+
+// MARK: - Chat - DM media save
+"DM_DOWNLOADING_PERCENT" = "Downloading %.0f%%";
+"DM_SAVE_FAILED_COPY" = "Save Failed (copy error)";
+"SAVING_TO_PHOTOS" = "Saving to Photos...";
+"SAVED_TO_PHOTOS" = "Saved to Photos!";
+"DM_SAVE_FAILED_PHOTOS" = "Save Failed (Photos Error)";
+"SAVE_FAILED_PHOTO_ACCESS_DENIED" = "Save Failed: Photo Access Denied";
+"DM_DOWNLOAD_FAILED_NO_TOKEN" = "Download Failed: No URL/Token";
+"STARTING_DOWNLOAD" = "Starting Download...";
+"DM_SAVE_FAILED_MOVE" = "Save Failed (Move Error)";
+"DM_SAVING" = "Saving...";
+"DM_SAVE_FAILED_NO_IMAGE" = "Save Failed: No Image";
+"SAVE_FAILED" = "Save Failed.";
+
+// MARK: - Chat - streaks
+"STREAK_DURATION_FORMAT" = "%ldd %ldh %ldm %lds";
+"STREAK_TIME_REMAINING_BODY" = "Time Remaining:\n\nExpires in:  %@\nRestorable Before:%@";
+
+// MARK: - Profile
+"BLOCKED_PROFILE_VIEW_REPORT" = "Blocked Profile View Report";
+"ACCOUNT_REGION" = "Account region";
+"PROFILE_PICTURE" = "Profile picture";
+"RESOLVING_PROFILE_PICTURE" = "Resolving profile picture…";
+"PROFILE_NO_USERNAME" = "This profile has no username to look up.";
+"PROFILE_PICTURE_SERVER_REQUIRED" = "Could not load this profile picture. The lookup requires the RXTikTok server.";
+"PROFILE_COPY_BIO_PROMPT" = "Do you want to copy this text to clipboard";
+
+// MARK: - Utilities - security, viewers, story downloader
+"SAVE_IMAGE_FAILED" = "Failed to save image";
+"AUTH_REQUIRED" = "Authentication Required";
+"UNLOCK_USING_FORMAT" = "Unlock using %@";
+"AUTHENTICATE" = "Authenticate";
+"PASSCODE" = "Passcode";
+"AUTHENTICATE_WITH_FORMAT" = "Authenticate with %@";
+"USE_PASSCODE" = "Use Passcode";
+"ENTER_PASSCODE" = "Enter your passcode";
+"PASSCODE_AUTH_FAILED" = "Passcode authentication failed";
+"AUTHENTICATION" = "Authentication";
+"DOWNLOADING_ITEM" = "Downloading Item...";
+"INVALID_VIDEO_URL" = "Invalid video URL received.";
+"UNKNOWN" = "Unknown";
+"STORY_USER_INFO_SERVER_REQUIRED" = "User info requires an active server connection";
+"STORY_DOWNLOAD_SERVER_REQUIRED" = "Story download requires an active server connection";
+"STORY_NO_USERNAME" = "Error: No username provided.";
+"STORY_FETCHING_FORMAT" = "Fetching stories for %@...";
+"ERROR_FORMAT" = "Error: %@";
+"STORY_NONE_FOUND" = "No stories found.";
+"STORY_FOUND_FORMAT" = "Found %lu stories for %@.";
+"VIEW_STORIES" = "View Stories";
+"DOWNLOAD_ALL" = "Download All";
+"STORY_DOWNLOADING_PROGRESS_FORMAT" = "Downloading %lu of %lu...";
+"STORY_FINISHED_FORMAT" = "Finished! Saved %lu stories.";
+
+// MARK: - Download
+"SAVE_NO_WATERMARK_LABEL" = "Save posts with no watermark (RX)";
+
+// MARK: - Settings
+"BACKUP_INFO_FORMAT" = "Version: %@\nSaved: %@";
+"KEYCHAIN_BACKUP_INFO_FORMAT" = "%@\n\nKeychain backup info:\n%@";
+"VERSION_LABEL_FORMAT" = "%@  RX: v%@ \n Device: %@ iOS: %@\n Bundle: %@";
+"FILTER_LOC_FYP" = "FYP";
+"FILTER_LOC_PROFILES" = "Profiles";
+"FILTER_LOC_CHAT" = "Chat";
