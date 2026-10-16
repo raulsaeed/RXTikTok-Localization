@@ -721,6 +721,39 @@
 "Twitter" = "Twitter";
 "Website" = "Website";
 
+"Save stories" = "Save stories";
+"Kept as you see them, so they stay even after they expire or are deleted." = "Kept as you see them, so they stay even after they expire or are deleted.";
+"Saved Stories" = "Saved Stories";
+"View, export and delete stories kept on this device." = "View, export and delete stories kept on this device.";
+"Stories" = "Stories";
+"Select" = "Select";
+"Search accounts" = "Search accounts";
+"No stories yet.\nOpen a story and it will appear here." = "No stories yet.\nOpen a story and it will appear here.";
+"Nothing matches this filter." = "Nothing matches this filter.";
+"Group by account" = "Group by account";
+"All kinds" = "All kinds";
+"Videos only" = "Videos only";
+"Photos only" = "Photos only";
+"Show" = "Show";
+"Storage" = "Storage";
+"Delete all" = "Delete all";
+"Delete all stories" = "Delete all stories";
+"Delete every story?" = "Delete every story?";
+"Delete these stories?" = "Delete these stories?";
+"Save to album" = "Save to album";
+"Delete" = "Delete";
+"Save" = "Save";
+"Select all" = "Select all";
+"Keep stories forever" = "Keep stories forever";
+"Keep stories for" = "Keep stories for";
+"This clip has not finished downloading yet." = "This clip has not finished downloading yet.";
+"Deleted" = "Deleted";
+"Saving" = "Saving";
+"Saved" = "Saved";
+"Couldn't save" = "Couldn't save";
+"Photo library access denied" = "Photo library access denied";
+"OK" = "OK";
+
 // MARK: - Missing keys used in code
 "SAVE_TO_PHOTOS" = "Save to Photos";
 "SERVER_CONNECTION_REQUIRED" = "Server Connection Required";
@@ -818,3 +851,5 @@
 "FILTER_LOC_FYP" = "FYP";
 "FILTER_LOC_PROFILES" = "Profiles";
 "FILTER_LOC_CHAT" = "Chat";
+"ENABLE_PROFILE_BACKGROUND" = "Enable Profile Background";
+"FEATURE_ENABLE_PROFILE_BACKGROUND" = "Force enables the profile background feature";
