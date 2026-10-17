@@ -530,3 +530,7 @@
 "DISABLE_TYPING_STICKER" = "禁用打字贴纸";
 "RUSSIAN_FIX" = "绕过俄罗斯禁令";
 "FEATURE_RUSSIAN_FIX" = "启用此选项以使俄罗斯信息流再次工作[新！]";
+
+// MARK: - Chat - streaks
+"STREAK_DURATION_FORMAT" = "%ld天 %ld小时 %ld分 %ld秒";
+"STREAK_TIME_REMAINING_BODY" = "剩余时间：\n\n距离到期：%@\n剩余可恢复时间：%@";

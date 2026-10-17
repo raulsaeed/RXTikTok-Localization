@@ -536,3 +536,7 @@
 "RUSSIAN_FIX" = "Contornar bloqueio da Rússia";
 
 "FEATURE_RUSSIAN_FIX" = "Ative isso para fazer o feed russo funcionar novamente [NOVO!]";
+
+// MARK: - Chat - streaks
+"STREAK_DURATION_FORMAT" = "%ld d %ld h %ld min %ld s";
+"STREAK_TIME_REMAINING_BODY" = "Tempo restante:\n\nExpira em: %@\nRestaurável em até: %@";

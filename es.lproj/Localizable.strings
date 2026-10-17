@@ -249,3 +249,9 @@
 // MARK: - Developer
 "DEVELOPER_TELEGRAM" = "Unete Al Canal De Telegram Para Las Ultimas Actualizaciones";
 "DEVELOPER_SUPPORT" = "Apoya A RXTikTok Y Obten Acceso Al Grupo De Pruebas Beta";
+
+// MARK: - Chat - streaks
+"Streak Info" = "Información de Racha";
+"FEATURE_STREAK_INFO" = "Muestra la información de tu Racha actual al tocar el fuego de la Racha";
+"STREAK_DURATION_FORMAT" = "%ld d %ld h %ld min %ld s";
+"STREAK_TIME_REMAINING_BODY" = "Tiempo restante:\n\nExpira en: %@\nPlazo para restaurar: %@";

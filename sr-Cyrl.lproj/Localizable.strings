@@ -530,3 +530,7 @@
 "DISABLE_TYPING_STICKER" = "Онемогући налепницу за куцање";
 "RUSSIAN_FIX" = "Заобиђи забрану у Русији";
 "FEATURE_RUSSIAN_FIX" = "Омогућите ово да би руски фид поново радио [НОВО!]";
+
+// MARK: - Chat - streaks
+"STREAK_DURATION_FORMAT" = "%ld д %ld ч %ld мин %ld с";
+"STREAK_TIME_REMAINING_BODY" = "Преостало време:\n\nИстиче за: %@\nМоже се обновити у року од: %@";

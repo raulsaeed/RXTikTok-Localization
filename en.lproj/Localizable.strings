@@ -545,6 +545,8 @@
 "BLOCK_TCM" = "Block App Ads";
 "FEATURE_BLOCK_SHOP_ADS" = "Block Videos with Shop Ads";
 "FEATURE_BLOCK_TCM" = "Block Videos with App Ads";
+"BLOCK_POI" = "Block Location Ads";
+"FEATURE_BLOCK_POI" = "Block Videos with Location Ads";
 "FEATURE_REMOVE_DRAFT_WATERMARK" = "Removes Watermark When Saving Posts or Drafts";
 "REMOVE_DRAFT_WATERMARK" = "Remove Photo Watermark";
 "FEATURE_HIDE_REPORT_BUTTON" = "Hide flag button in direct messages navigation bar.";

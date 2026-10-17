@@ -530,3 +530,7 @@
 "DISABLE_TYPING_STICKER" = "Вимкнути стікери під час набору";
 "RUSSIAN_FIX" = "Обхід блокування в Росії";
 "FEATURE_RUSSIAN_FIX" = "Увімкніть це, щоб знову запрацювала російська стрічка [НОВИНКА!]";
+
+// MARK: - Chat - streaks
+"STREAK_DURATION_FORMAT" = "%ld д %ld год %ld хв %ld с";
+"STREAK_TIME_REMAINING_BODY" = "Залишилось часу:\n\nСпливає через: %@\nМожна відновити протягом: %@";

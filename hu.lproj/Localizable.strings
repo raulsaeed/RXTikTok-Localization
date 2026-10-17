@@ -530,3 +530,7 @@
 "DISABLE_TYPING_STICKER" = "Gépelési matrica letiltása";
 "RUSSIAN_FIX" = "Orosz tiltás megkerülése";
 "FEATURE_RUSSIAN_FIX" = "Engedélyezze ezt, hogy az orosz hírfolyam újra működjön [ÚJ!]";
+
+// MARK: - Chat - streaks
+"STREAK_DURATION_FORMAT" = "%ld n %ld ó %ld p %ld mp";
+"STREAK_TIME_REMAINING_BODY" = "Hátralévő idő:\n\nLejár: %@ múlva\nVisszaállítható: %@ belül";
