@@ -1,5 +1,14 @@
 /* Localizable.strings */
 
+// MARK: - Translation Updates
+"Update Translations" = "Vertalingen bijwerken";
+"Updating Translations" = "Vertalingen worden bijgewerkt";
+"Downloading the latest translations from GitHub..." = "De nieuwste vertalingen worden van GitHub gedownload...";
+"Translations Updated" = "Vertalingen bijgewerkt";
+"Translation Update Failed" = "Bijwerken van vertalingen mislukt";
+"The latest translations have been applied. Reopen other settings screens to refresh them." = "De nieuwste vertalingen zijn toegepast. Open andere instellingenschermen opnieuw om ze te vernieuwen.";
+"Could not update translations. Your current translations have not changed. Please try again later." = "De vertalingen konden niet worden bijgewerkt. Je huidige vertalingen zijn niet gewijzigd. Probeer het later opnieuw.";
+
 // MARK: - Core UI Elements
 "RXTikTok, Hi" = "RXTikTok, Hoi";
 "RXTikTok Settings" = "RXTikTok Instellingen";

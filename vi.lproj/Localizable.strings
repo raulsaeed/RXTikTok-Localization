@@ -1,5 +1,14 @@
 /* Localizable.strings - Vietnamese Translation */
 
+// MARK: - Translation Updates
+"Update Translations" = "Cập nhật bản dịch";
+"Updating Translations" = "Đang cập nhật bản dịch";
+"Downloading the latest translations from GitHub..." = "Đang tải các bản dịch mới nhất từ GitHub...";
+"Translations Updated" = "Đã cập nhật bản dịch";
+"Translation Update Failed" = "Cập nhật bản dịch thất bại";
+"The latest translations have been applied. Reopen other settings screens to refresh them." = "Đã áp dụng các bản dịch mới nhất. Mở lại các màn hình cài đặt khác để làm mới chúng.";
+"Could not update translations. Your current translations have not changed. Please try again later." = "Không thể cập nhật bản dịch. Các bản dịch hiện tại của bạn không thay đổi. Vui lòng thử lại sau.";
+
 // MARK: - Core UI Elements
 "RXTikTok, Hi" = "RXTikTok, Xin chào";
 "RXTikTok Settings" = "Cài đặt RXTikTok";

@@ -1,5 +1,14 @@
 /* Localizable.strings */
 
+// MARK: - Translation Updates
+"Update Translations" = "Update Translations";
+"Updating Translations" = "Updating Translations";
+"Downloading the latest translations from GitHub..." = "Downloading the latest translations from GitHub...";
+"Translations Updated" = "Translations Updated";
+"Translation Update Failed" = "Translation Update Failed";
+"The latest translations have been applied. Reopen other settings screens to refresh them." = "The latest translations have been applied. Reopen other settings screens to refresh them.";
+"Could not update translations. Your current translations have not changed. Please try again later." = "Could not update translations. Your current translations have not changed. Please try again later.";
+
 // MARK: - Core UI Elements
 "RXTikTok, Hi" = "RXTikTok, Hi";
 "RXTikTok Settings" = "RXTikTok Settings";
@@ -687,8 +696,8 @@
 "FEATURE_BLOCK_STORY_VIEW_REPORT" = "Prevents Story Views from Being Reported to the Uploader";
 "LOCAL_STORY_SEEN" = "Mark Story Seen Locally";
 "FEATURE_LOCAL_STORY_SEEN" = "Marks Stories as Seen on Your Device Only";
-"PROFILE_INFO_BUTTON" = "Story Download Button";
-"FEATURE_PROFILE_INFO_BUTTON" = "Adds a Download Button to User Profiles to Save Stories";
+"PROFILE_INFO_BUTTON" = "Profile Info Button";
+"FEATURE_PROFILE_INFO_BUTTON" = "Adds an Info Button to User Profiles to Check Profile Info And Save Stories ";
 "REMOVE_STAR_BUTTON" = "Remove Star Button";
 "FEATURE_REMOVE_STAR_BUTTON" = "Removes the 'Add to Favorites' Star Button in Chats";
 "Call Confirmation" = "Call Confirmation";

@@ -1,5 +1,14 @@
 /* Localizable.strings */
 
+// MARK: - Translation Updates
+"Update Translations" = "更新翻译";
+"Updating Translations" = "正在更新翻译";
+"Downloading the latest translations from GitHub..." = "正在从 GitHub 下载最新翻译...";
+"Translations Updated" = "翻译已更新";
+"Translation Update Failed" = "翻译更新失败";
+"The latest translations have been applied. Reopen other settings screens to refresh them." = "已应用最新翻译。请重新打开其他设置页面以刷新内容。";
+"Could not update translations. Your current translations have not changed. Please try again later." = "无法更新翻译。当前翻译未发生更改，请稍后重试。";
+
 // MARK: - Core UI Elements
 "RXTikTok, Hi" = "RXTikTok，你好";
 "RXTikTok Settings" = "RXTikTok 设置";

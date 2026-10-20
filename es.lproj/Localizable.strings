@@ -1,5 +1,14 @@
 // /* Localizable.strings */
 
+// MARK: - Translation Updates
+"Update Translations" = "Actualizar traducciones";
+"Updating Translations" = "Actualizando traducciones";
+"Downloading the latest translations from GitHub..." = "Descargando las últimas traducciones de GitHub...";
+"Translations Updated" = "Traducciones actualizadas";
+"Translation Update Failed" = "Error al actualizar las traducciones";
+"The latest translations have been applied. Reopen other settings screens to refresh them." = "Se han aplicado las últimas traducciones. Vuelve a abrir las demás pantallas de ajustes para actualizarlas.";
+"Could not update translations. Your current translations have not changed. Please try again later." = "No se pudieron actualizar las traducciones. Tus traducciones actuales no han cambiado. Inténtalo de nuevo más tarde.";
+
 // MARK: - Core UI Elements
 "RXTikTok, Hi" = "RXTikTok, Hola";
 "RXTikTok Settings" = "RXTikTok Configuracion";

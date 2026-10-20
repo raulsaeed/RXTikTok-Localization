@@ -1,5 +1,14 @@
 /* Localizable.strings (Ukrainian) */
 
+// MARK: - Translation Updates
+"Update Translations" = "Оновити переклади";
+"Updating Translations" = "Оновлення перекладів";
+"Downloading the latest translations from GitHub..." = "Завантаження найновіших перекладів із GitHub...";
+"Translations Updated" = "Переклади оновлено";
+"Translation Update Failed" = "Не вдалося оновити переклади";
+"The latest translations have been applied. Reopen other settings screens to refresh them." = "Найновіші переклади застосовано. Відкрийте інші екрани налаштувань знову, щоб оновити їх.";
+"Could not update translations. Your current translations have not changed. Please try again later." = "Не вдалося оновити переклади. Поточні переклади не змінилися. Спробуйте пізніше.";
+
 // MARK: - Core UI Elements
 "RXTikTok, Hi" = "RXTikTok, Привіт";
 "RXTikTok Settings" = "Налаштування RXTikTok";

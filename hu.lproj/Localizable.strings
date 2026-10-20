@@ -1,5 +1,14 @@
 /* Localizable.strings */
 
+// MARK: - Translation Updates
+"Update Translations" = "Fordítások frissítése";
+"Updating Translations" = "Fordítások frissítése folyamatban";
+"Downloading the latest translations from GitHub..." = "A legújabb fordítások letöltése a GitHubról...";
+"Translations Updated" = "Fordítások frissítve";
+"Translation Update Failed" = "A fordítások frissítése sikertelen";
+"The latest translations have been applied. Reopen other settings screens to refresh them." = "A legújabb fordítások alkalmazva. A többi beállítási képernyő frissítéséhez nyisd meg őket újra.";
+"Could not update translations. Your current translations have not changed. Please try again later." = "Nem sikerült frissíteni a fordításokat. A jelenlegi fordításaid nem változtak. Próbáld újra később.";
+
 // MARK: - Core UI Elements
 "RXTikTok, Hi" = "RXTikTok, Szia";
 "RXTikTok Settings" = "RXTikTok beállítások";
