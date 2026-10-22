@@ -56,6 +56,11 @@
 "Download Photos Menu" = "Меню загрузки фото";
 "Downloading" = "Загрузка";
 "Download Button" = "Кнопка загрузки";
+"Download Format" = "Формат загрузки";
+"This album contains Live Photos. How would you like to download them?" = "В этом альбоме есть Live Photos. Как вы хотите их скачать?";
+"Live Photo" = "Live Photo";
+"MP4" = "MP4";
+"PLAY_IN_NATIVE_PLAYER" = "Воспроизведение в нативном плеере";
 
 // MARK: - Copy Features
 "Copy Menu" = "Меню копирования";
@@ -194,6 +199,24 @@
 "FEATURE_DOWNLOAD_BUTTON" = "Добавляет кнопку загрузки для постов и историй";
 "FEATURE_SHARE_SHEET" = "Открывает окно общего доступа после загрузки медиа";
 "FEATURE_REMOVE_WATERMARK" = "Удаляет водяной знак с загруженных медиа";
+"Share Panel Options" = "Настройки панели «Поделиться»";
+"Share Panel Items" = "Элементы панели «Поделиться»";
+"FEATURE_SHARE_PANEL_ITEMS" = "Показывать опции загрузки RX в панели «Поделиться»";
+"FEATURE_SHOW_DL_VIDEO" = "Показать опцию «Скачать видео»";
+"FEATURE_SHOW_DL_HD_VIDEO" = "Показать опцию «Скачать видео (HD)»";
+"FEATURE_SHOW_DL_MUSIC" = "Показать опцию «Скачать музыку»";
+"FEATURE_SHOW_DL_PHOTOS" = "Показать опцию «Скачать фото»";
+"FEATURE_SHOW_COPY_MUSIC" = "Показать опцию «Копировать ссылку на музыку»";
+"FEATURE_SHOW_COPY_VIDEO" = "Показать опцию «Копировать ссылку на видео»";
+"FEATURE_SHOW_COPY_DESC" = "Показать опцию «Копировать описание»";
+"Post Information" = "Информация о посте";
+"FEATURE_SHOW_POST_INFO" = "Показать опцию «Информация о посте»";
+"FEATURE_SHOW_NATIVE_PLAYER" = "Показать опцию «Воспроизведение в нативном плеере»";
+"Hide Elements" = "Скрыть элементы";
+"Show Elements" = "Показать элементы";
+"FEATURE_SHOW_HIDE_ELEMENTS" = "Показать переключатель «Скрыть/Показать элементы»";
+"Active Items" = "Активные элементы";
+"Available Items" = "Доступные элементы";
 "FEATURE_UI_BUTTON" = "Показывает кнопку «Скрыть интерфейс»";
 "FEATURE_STOP_PLAYBACK" = "Останавливает воспроизведение поста по окончании";
 "FEATURE_AUTO_PLAY" = "Включает автоматическую прокрутку видео";
@@ -322,11 +345,11 @@
 "FEATURE_FULL_REGION_MODE" = "ВКЛЮЧАЙТЕ ТОЛЬКО ЕСЛИ ПЕРВЫЙ ВАРИАНТ НЕ РАБОТАЕТ!";
 
 // Additional feature descriptions
-"FEATURE_ANONYMOUS_SEEN_DESC" = "Читайте чаты без уведомления собеседника";
+"FEATURE_ANONYMOUS_SEEN_DESC" = "Просмотр чатов без отправки уведомлений о прочтении получателю";
 "FEATURE_SHOW_ALL_TABS_DESC" = "Показывает все скрытые вкладки настроек, включая экспериментальные функции";
-"FEATURE_PROFILE_SAVE_DESC" = "Сохранить информацию о профиле в буфер обмена";
-"FEATURE_PROFILE_COPY_DESC" = "Копирует информацию о профиле";
-"FEATURE_APP_LOCK_DESC" = "Добавляет возможность блокировать TikTok паролем";
+"FEATURE_PROFILE_SAVE_DESC" = "Сохраняет информацию о профиле в буфер обмена одним нажатием";
+"FEATURE_PROFILE_COPY_DESC" = "Копирует данные профиля, включая имя пользователя, описание и другую публичную информацию";
+"FEATURE_APP_LOCK_DESC" = "Защищает приложение TikTok паролем или биометрической аутентификацией";
 "FEATURE_REGIONS_DESC" = "Получите доступ к контенту для конкретного региона, изменив свое виртуальное местоположение";
 "FEATURE_ADD_FOLDERS_DESC" = "Организуйте сообщения в папке «Входящие» в пользовательские папки для более удобного управления";
 
@@ -346,9 +369,9 @@
 "Buy Me a Coffee" = "Угостите меня кофе";
 "Support the development" = "Поддержать разработку";
 "X" = "X";
-"Support"="Донат";
+"Support" = "Донат";
 
-// MARK: - Configuration Management
+// MARK: - Configuration
 "About" = "О модификации";
 "Configuration" = "Конфигурация";
 "Import Configuration" = "Импорт настроек";
@@ -366,32 +389,32 @@
 
 
 // 1.3 
-"Erase All TikTok Data" = "Стереть все данные TikTok"; 
+"Erase All TikTok Data" = "Стереть все данные TikTok";
 "Erase all TikTok data from the app  [Becareful!!!]" = "Стереть все данные TikTok из приложения [Внимание!!!]";
 "Clear Keychain" = "Очистить связку ключей";
-"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Вы уверены что хотите очистить все данные? Это удалит:\n1- Директорию data TikTok'а\n2- Данные Keychain\n3- Очистка NSUserDefaults\n\nВНИМАНИЕ!\nВЫ ПОТЕРЯЕТЕ ВСЕ ЧЕРНОВИКИ И ВСЕ ЧТО СОХРАНЕНО ЛОКАЛЬНО"; 
-"Clear" = "Очистить"; 
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Вы уверены что хотите очистить все данные? Это удалит:\n1- Директорию data TikTok'а\n2- Данные Keychain\n3- Очистка NSUserDefaults\n\nВНИМАНИЕ!\nВЫ ПОТЕРЯЕТЕ ВСЕ ЧЕРНОВИКИ И ВСЕ ЧТО СОХРАНЕНО ЛОКАЛЬНО";
+"Clear" = "Очистить";
 "Really Clear All Data?" = "Действительно очистить все данные?";
-"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Это последнее предупреждение. Это действие необратимо и очистит локальные данные TikTok, включая черновики и настройки. Вы точно уверены?"; 
-"Confirm Clear" = "Подтвердить очистку"; 
-"Data Cleared" = "Данные очищены"; 
-"All TikTok data has been cleared." = "Все данные TikTok были очищены"; 
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Это последнее предупреждение. Это действие необратимо и очистит локальные данные TikTok, включая черновики и настройки. Вы точно уверены?";
+"Confirm Clear" = "Подтвердить очистку";
+"Data Cleared" = "Данные очищены";
+"All TikTok data has been cleared." = "Все данные TikTok были очищены";
 
-"Streak Info" = "Информация о серии"; 
-"FEATURE_STREAK_INFO" = "Показать информацию о серии, при нажатии на огонёк"; 
+"Streak Info" = "Информация о серии";
+"FEATURE_STREAK_INFO" = "Показать информацию о серии, при нажатии на огонёк";
 
 "Hide Tab Bar Labels" = "Скрыть названия вкладок";
 "FEATURE_HIDE_TAB_BAR_LABELS" = "Скрывает названия вкладок на панели вкладок";
 
 "Adjust offline download limit" = "Изменить лимит загрузки офлайн";
-"Adjust value between 50 and 2000" = "Выберите число от 50 до 2000"; 
+"Adjust value between 50 and 2000" = "Выберите число от 50 до 2000";
 
 "Start TikTok in Following" = "Запускать TikTok в ленте «Подписки»";
 "FEATURE_START_FYP_IN_FOLLOWING" = "Запускает TikTok в ленте «Подписки» вместо ленты «Для вас»";
 
-"Waiting for TikTok…" = "Ожидание TikTok…"; 
+"Waiting for TikTok…" = "Ожидание TikTok…";
 "Extracting Media URL…" = "Извлечение URL медиа…";
-"Invalid download URL received." = "Получен неверный URL загрузки"; 
+"Invalid download URL received." = "Получен неверный URL загрузки";
 "Failed to fetch HD video URL. Please try again." = "Не удалось получить URL этого HD видео. Повторите попытку позже";
 
 "Enable Egypt Stickers" = "Включить стикеры Египта";
@@ -404,9 +427,10 @@
 "FEATURE_STOP_STORY_PHOTO_ADVANCE" = "Останавливает автоматическое переключение фото в историях";
 "BACKGROUND_PLAY" = "Включить фоновый режим";
 "FEATURE_BACKGROUND_PLAY" = "Включает фоновое воспроизведение аудио";
+"AUTO_PIP" = "Автоматический Picture-in-Picture";
+"FEATURE_AUTO_PIP" = "Автоматически включает PiP при выходе из приложения";
 
 // MARK: - New Section Headers (Added from Settings reorganization)
-"PLAY_IN_NATIVE_PLAYER" = "Воспроизведение в нативном плеере";
 "Content & Display" = "Контент и отображение";
 "Playback Controls" = "Управление воспроизведением";
 "Content Filtering" = "Фильтрация контента";
@@ -507,42 +531,336 @@
 
 // 1.6
 
-"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Позволяет скачивать стикеры в комментариях"; 
-"ENABLE_STICKER_DOWNLOAD" = "Включить скачивание стикеров"; 
-"STICKER_SAVED" = "Стикер сохранен в галерею!"; 
-"STICKER_SAVE_FAILED" = "Не удалось сохранить стикер"; 
-"DOWNLOAD_FAILED" = "Ошибка загрузки"; 
-"DOWNLOADING_STICKER" = "Скачиваем стикер..."; 
- 
-"FILTERING_OPTIONS" = "Настройки фильтрации"; 
-"BLOCK_MOVIE_TOK" = "Скрыть рекламу фильмов"; 
-"FEATURE_BLOCK_MOVIE_TOK" = "Блокирует видео с рекламой фильмов"; 
- 
-"BLOCK_AI_GENERATED" = "Скрыть видео созданные ИИ"; 
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Позволяет скачивать стикеры в комментариях";
+"ENABLE_STICKER_DOWNLOAD" = "Двойное нажатие для скачивания стикера";
+"STICKER_SAVED" = "Стикер сохранен в галерею!";
+"STICKER_SAVE_FAILED" = "Не удалось сохранить стикер";
+"DOWNLOAD_FAILED" = "Ошибка загрузки";
+"DOWNLOADING_STICKER" = "Скачиваем стикер...";
+
+"FILTERING_OPTIONS" = "Настройки фильтрации";
+"BLOCK_MOVIE_TOK" = "Скрыть рекламу фильмов";
+"FEATURE_BLOCK_MOVIE_TOK" = "Блокирует видео с рекламой фильмов";
+
+"BLOCK_AI_GENERATED" = "Скрыть видео созданные ИИ";
 "FEATURE_BLOCK_AI_GENERATED" = "Скрывает видео созданные ИИ из ленты";
-"FEATURE_CONFIRM_QUICK_SHARE" = "Включает подтверждение перед использованием Quick Share"; 
+"FEATURE_CONFIRM_QUICK_SHARE" = "Включает подтверждение перед использованием Quick Share";
 "FEATURE_CONFIRM_REPOST" = "Включает подтверждение перед репостом";
-"CONFIRM_QUICK_SHARE" = "Быстрое подтверждение Quick Share"; 
+"CONFIRM_QUICK_SHARE" = "Быстрое подтверждение Quick Share";
 "CONFIRM_REPOST" = "Быстрое подтверждение репоста";
 
 "BLOCK_SHOP_VIDEOS" = "Скрыть видео TikTok Shop";
 "FEATURE_BLOCK_SHOP_VIDEOS" = "Скрывает видео TikTok Shop из ленты";
 "BLOCK_TCM" = "Скрыть рекламу приложений";
-"BLOCK_POI" = "Скрыть рекламу местоположений";
 "FEATURE_BLOCK_SHOP_ADS" = "Скрывает видео с рекламой TikTok Shop";
 "FEATURE_BLOCK_TCM" = "Скрывает видео с рекламой приложений";
+"BLOCK_POI" = "Скрыть рекламу местоположений";
 "FEATURE_BLOCK_POI" = "Скрывает видео с рекламой местоположения";
 "FEATURE_REMOVE_DRAFT_WATERMARK" = "Удаляет водяной знак при скачивании черновиков";
-"REMOVE_DRAFT_WATERMARK" = "Удалить водяной знак на черновиках";
+"REMOVE_DRAFT_WATERMARK" = "Удалить водяной знак на фото";
 "FEATURE_HIDE_REPORT_BUTTON" = "Скрывает кнопку с флажком на панели навигации в личке";
 "HIDE_REPORT_BUTTON" = "Скрыть кнопку репорта";
+"FEATURE_HIDE_CALL_BUTTON" = "Скрывает кнопку звонка на панели навигации в личке";
+"HIDE_CALL_BUTTON" = "Скрыть кнопку звонка";
 "FEATURE_DISABLE_TYPING_STICKER" = "Отключает рекомендации GIF при вводе текста";
 "DISABLE_TYPING_STICKER" = "Отключить рекомендации GIF";
 "RUSSIAN_FIX" = "Обход для России 🇷🇺";
-"FEATURE_RUSSIAN_FIX" = "Обходит блокировку России со стороны TikTok";
+"FEATURE_RUSSIAN_FIX" = "Включите это, чтобы российская лента снова заработала [НОВОЕ!]";
 "HIDE_RX_UI" = "Скрыть RX UI";
 "FEATURE_HIDE_RX_UI" = "Скрыть RX UI на снимках экрана";
+
+
+"ANON_STORY_DOWNLOAD" = "Анонимная загрузка историй";
+"FEATURE_ANON_STORY_DOWNLOAD" = "Скачивайте или просматривайте истории анонимно, используя новую кнопку загрузки в профиле пользователя";
+"ENABLE_VOICE_SWAP" = "Своя голосовая заметка";
+"FEATURE_ENABLE_VOICE_SWAP" = "Добавляет в чат кнопку для отправки видео как голосовых сообщений";
+"ENABLE_SOUND_BLOCKING" = "Блокировать звуки";
+"FEATURE_ENABLE_SOUND_BLOCKING" = "Блокирует звуки кнопкой в разделе звука TikTok. Примечание: посты с этим звуком станут недоступны. Заблокированные звуки можно удалить ниже.";
+"DISABLE_FILTERING_FRIEND_POSTS" = "Отключить фильтрацию в ЛС";
+"FEATURE_DISABLE_FILTERING_FRIEND_POSTS" = "Отключает фильтрацию для постов, отправленных в личные сообщения. Примечание: отключение этой опции приведёт к показу «Пост недоступен» для отправленных вам видео.";
+"KEEP_DELETED_MESSAGES" = "Сохранять удалённые сообщения";
+"FEATURE_KEEP_DELETED_MESSAGES" = "Не позволяет приложению удалять удалённые сообщения из чатов. Осторожно: функция работает только когда приложение активно. Также перезапуск или обновление приложения иногда удаляет медиафайлы (mp3 и т.д.) из директории данных, из-за чего некоторые медиа становятся недоступны или не воспроизводятся.";
+"SHOW_DELETED_BADGE" = "Показывать индикатор удалённых";
+"FEATURE_SHOW_DELETED_BADGE" = "Отображает значок корзины рядом с отозванными сообщениями и медиа.";
+"FULL_LAST_SEEN" = "Полное время последней активности";
+"FEATURE_FULL_LAST_SEEN" = "Показывает точную дату и время статуса последней активности";
+"Yesterday" = "Вчера";
+"%ld days ago" = "%ld дн. назад";
+"Deleted message" = "Удалённое сообщение";
+"%@ deleted a message" = "%@ удалил(а) сообщение";
+"You" = "Вы";
+
+// 1.7
+
+"A/B Overrides" = "Переопределения A/B";
+"A/B Overrides Options" = "Опции переопределений A/B";
+"Add" = "Добавить";
+"Add Custom Override" = "Добавить пользовательское переопределение";
+"Add Force Override" = "Добавить принудительное переопределение";
+"Add Item to Array" = "Добавить элемент в массив";
+"Add Number Item" = "Добавить числовой элемент";
+"Add String Item" = "Добавить строковый элемент";
+"All Configs" = "Все конфиги";
+"Array Override" = "Переопределение массива";
+"Arrays" = "Массивы";
+"Boolean (false)" = "Логическое (false)";
+"Boolean (true)" = "Логическое (true)";
+"Booleans (true/false)" = "Логические (true/false)";
+"Choose override mode:" = "Выберите режим переопределения:";
+"Clear All" = "Очистить всё";
+"Clear All Forced Overrides" = "Очистить все принудительные переопределения";
+"Clear All Overrides?" = "Очистить все переопределения?";
+"Connecting to TikTok AB Runtime..." = "Подключение к TikTok AB Runtime...";
+"Copy Key" = "Копировать ключ";
+"Copy Key Name" = "Копировать имя ключа";
+"Copy Value" = "Копировать значение";
+"Could not format because the text is not valid JSON." = "Не удалось отформатировать: текст не является допустимым JSON.";
+"Delete Item" = "Удалить элемент";
+"Dictionaries" = "Словари";
+"Edit as JSON" = "Редактировать как JSON";
+"Edit Forced Value" = "Редактировать принудительное значение";
+"Edit Text" = "Редактировать текст";
+"Enter an A/B key and value.\n(true/false -> bool, numbers -> int/double, otherwise string)" = "Введите A/B ключ и значение.\n(true/false -> bool, числа -> int/double, иначе строка)";
+"Enter the key name to create an Array override for:" = "Введите имя ключа для создания переопределения массива:";
+"Enter the key name to create with the Text Editor:" = "Введите имя ключа для создания через текстовый редактор:";
+"Extracting live configurations..." = "Извлечение живых конфигураций...";
+"Filter" = "Фильтр";
+"Filter (ON)" = "Фильтр (ВКЛ)";
+"Filter Configurations" = "Фильтрация конфигураций";
+"Force Set" = "Принудительно установить";
+"Force Set Value" = "Принудительно установить значение";
+"Forced Overrides Only" = "Только принудительные переопределения";
+"Format JSON" = "Форматировать JSON";
+"Indexing configuration keys..." = "Индексация ключей конфигурации...";
+"Invalid JSON" = "Недопустимый JSON";
+"JSON" = "JSON";
+"JSON Object / Sub-Array" = "JSON объект / подмассив";
+"Live Refresh from Runtime" = "Живое обновление из Runtime";
+"Loading A/B Configurations" = "Загрузка A/B конфигураций";
+"Master Switch: Turn OFF" = "Главный переключатель: ВЫКЛ";
+"Master Switch: Turn ON" = "Главный переключатель: ВКЛ";
+"New A/B Override Key" = "Новый ключ переопределения A/B";
+"New Array Override Key" = "Новый ключ переопределения массива";
+"No entries dumped for getAllConfig.\nRun TikTok to allow dump passes." = "Нет записей для getAllConfig.\nЗапустите TikTok, чтобы разрешить проходы дампа.";
+"No matching A/B keys found." = "Подходящие A/B ключи не найдены.";
+"Not an Array" = "Не массив";
+"Number" = "Число";
+"Numbers (int/double)" = "Числа (int/double)";
+"Open Array Editor" = "Открыть редактор массива";
+"Open Text Editor" = "Открыть текстовый редактор";
+"Paste" = "Вставить";
+"Quick Key-Value Input" = "Быстрый ввод ключ-значение";
+"Reset to Default" = "Сбросить до значения по умолчанию";
+"Search (e.g. profile*ui)..." = "Поиск (например, profile*ui)...";
+"Select item type:" = "Выберите тип элемента:";
+"String" = "Строка";
+"Strings" = "Строки";
+"Text / JSON Editor" = "Текстовый / JSON редактор";
+"The JSON must be a top-level array '[ ... ]'." = "JSON должен быть массивом верхнего уровня '[ ... ]'.";
+"This will remove all forced A/B entries and revert to TikTok defaults." = "Это удалит все принудительные A/B записи и вернёт значения TikTok по умолчанию.";
+"All Photos" = "Все фото";
+"BULK DOWNLOAD" = "Массовая загрузка";
+"Collapse this section's actions behind a single entry" = "Свернуть действия этого раздела в одну запись";
+"Configure Download Menu" = "Настроить меню загрузки";
+"Configure Share Panel" = "Настроить панель «Поделиться»";
+"Configure: Download Menu" = "Настроить: меню загрузки";
+"Configure: Share Panel" = "Настроить: панель «Поделиться»";
+"COPY" = "Копировать";
+"Current Photo" = "Текущее фото";
+"Default Tap Action" = "Действие по нажатию по умолчанию";
+"DOWNLOAD" = "Скачать";
+"Download" = "Скачать";
+"Download Current Photo" = "Скачать текущее фото";
+"Download Live Photo" = "Скачать Live Photo";
+"Download Options" = "Опции загрузки";
+"Download Sticker" = "Скачать стикер";
+"Downloading..." = "Загрузка...";
+"GENERAL DOWNLOAD" = "Общая загрузка";
+"General Download" = "Общая загрузка";
+"Open Menu (Default)" = "Открыть меню (по умолчанию)";
+"OTHER OPTIONS" = "Другие опции";
+"Photo" = "Фото";
+"Show as submenu" = "Показывать как подменю";
+"Video" = "Видео";
+"For Photos" = "Для фото";
+"For Videos" = "Для видео";
+"Select an action to auto-run on tap. When Download is selected, customize specific automated actions for video and photo posts. Holding the button will always open the full menu." = "Выберите действие для автозапуска по нажатию. Если выбрано «Скачать», настройте конкретные автоматические действия для видео и фото постов. Удержание кнопки всегда открывает полное меню.";
+"Copied" = "Скопировано";
+"Could Not Copy Music." = "Не удалось скопировать музыку.";
+"Download Failed" = "Не удалось скачать";
+"The video doesn't have music to download" = "В этом видео нет музыки для загрузки";
+"Photo library access denied" = "Доступ к медиатеке запрещён";
+"Photo library access denied. Enable Photos access in Settings to save downloads." = "Доступ к медиатеке запрещён. Включите доступ к Фото в Настройках, чтобы сохранять загрузки.";
+"Save failed (io error)." = "Ошибка сохранения (I/O).";
+"BLOCK_STORY_VIEW_REPORT" = "Блокировать отчёт о просмотре истории";
+"FEATURE_BLOCK_STORY_VIEW_REPORT" = "Предотвращает отправку отчётов о просмотре историй загрузившему";
+"LOCAL_STORY_SEEN" = "Локальная отметка просмотра истории";
+"FEATURE_LOCAL_STORY_SEEN" = "Отмечает истории как просмотренные только на вашем устройстве";
+"PROFILE_INFO_BUTTON" = "Кнопка информации о профиле";
+"FEATURE_PROFILE_INFO_BUTTON" = "Добавляет кнопку информации в профили пользователей для просмотра информации о профиле и сохранения историй";
+"REMOVE_STAR_BUTTON" = "Удалить кнопку звезды";
+"FEATURE_REMOVE_STAR_BUTTON" = "Удаляет кнопку «Добавить в избранное» в чатах";
+"Call Confirmation" = "Подтверждение звонка";
+"FEATURE_CONFIRM_CALL" = "Запрашивает подтверждение перед звонком в чатах";
+"FEATURE_CONFIGURE_DOWNLOAD_MENU" = "Настраивает опции, отображаемые в меню загрузки";
+"FEATURE_CONFIGURE_SHARE_PANEL" = "Настраивает опции, отображаемые в панели «Поделиться»";
+"Download Comment Photo" = "Скачать фото из комментария";
+"Download Comment Sticker" = "Скачать стикер из комментария";
+"DOWNLOAD_COMMENT_PHOTO" = "Добавляет кнопку загрузки к фото в комментариях";
+"DOWNLOAD_COMMENT_STICKER" = "Добавляет кнопку загрузки к стикерам в комментариях";
+"Blocked Sounds" = "Заблокированные звуки";
+"Direct Messages / Chat" = "Личные сообщения / Чат";
+"FEATURE_FILTER_LOCATIONS" = "Применяет фильтрацию контента к дополнительным разделам приложения";
+"Filter Locations" = "Места фильтрации";
+"Following Tab" = "Вкладка «Подписки»";
+"For You Page (FYP)" = "Лента «Для вас» (FYP)";
+"FYP filtering is mandatory and always active. Additional locations can be enabled below." = "Фильтрация FYP обязательна и всегда активна. Дополнительные места можно включить ниже.";
+"Select Feeds to Filter" = "Выберите ленты для фильтрации";
+"User Profiles" = "Профили пользователей";
+"Be careful!" = "Будьте осторожны!";
+"Data Size" = "Размер данных";
+"Feature Settings" = "Настройки функций";
+"Inspect & force set A/B experiment flags" = "Просмотр и принудительная установка A/B флагов экспериментов";
+"Music Blocked" = "Музыка заблокирована";
+"Music Unblocked" = "Музыка разблокирована";
+"Downloading Photo..." = "Загрузка фото...";
+"Language has been applied immediately!\n Please restart the app for changes to fully take effect." = "Язык применён немедленно!\n Перезапустите приложение, чтобы изменения вступили в силу полностью.";
+"Discord" = "Discord";
+"GitHub" = "GitHub";
+"Reddit" = "Reddit";
+"Telegram" = "Telegram";
+"Twitter" = "Twitter";
+"Website" = "Веб-сайт";
+
+"Save stories" = "Сохранять истории";
+"Kept as you see them, so they stay even after they expire or are deleted." = "Сохраняются в том виде, в котором вы их увидели, поэтому остаются даже после истечения срока или удаления.";
+"Saved Stories" = "Сохранённые истории";
+"View, export and delete stories kept on this device." = "Просматривайте, экспортируйте и удаляйте истории, сохранённые на этом устройстве.";
+"Stories" = "Истории";
+"Select" = "Выбрать";
+"Search accounts" = "Поиск аккаунтов";
+"No stories yet.\nOpen a story and it will appear here." = "Историй пока нет.\nОткройте историю, и она появится здесь.";
+"Nothing matches this filter." = "Ничего не соответствует этому фильтру.";
+"Group by account" = "Группировать по аккаунту";
+"All kinds" = "Все виды";
+"Videos only" = "Только видео";
+"Photos only" = "Только фото";
+"Show" = "Показать";
+"Storage" = "Хранилище";
+"Delete all" = "Удалить всё";
+"Delete all stories" = "Удалить все истории";
+"Delete every story?" = "Удалить все истории?";
+"Delete these stories?" = "Удалить эти истории?";
+"Save to album" = "Сохранить в альбом";
+"Delete" = "Удалить";
+"Save" = "Сохранить";
+"Select all" = "Выбрать все";
+"Keep stories forever" = "Хранить истории вечно";
+"Keep stories for" = "Хранить истории";
+"This clip has not finished downloading yet." = "Этот клип ещё не докачался.";
+"Deleted" = "Удалено";
+"Saving" = "Сохранение";
+"Saved" = "Сохранено";
+"Couldn't save" = "Не удалось сохранить";
+"Photo library access denied" = "Доступ к медиатеке запрещён";
+"OK" = "OK";
+
+// MARK: - Missing keys used in code
+"SAVE_TO_PHOTOS" = "Сохранить в Фото";
+"SERVER_CONNECTION_REQUIRED" = "Требуется подключение к серверу";
+"REGION_SERVER_REQUIRED_BODY" = "Подмена региона требует активного подключения к вспомогательному серверу.";
+"ACTIVATING_REGION" = "Активация %@...";
+"REGION_UNAVAILABLE" = "Регион недоступен";
+"REGION_PROFILE_FETCH_FAILED" = "Не удалось получить авторизованный профиль для %@ (%@) с сервера. Выбор не был применён.";
+"VIDEO_INFO_UNAVAILABLE" = "Информация о видео сейчас недоступна (требуется сервер).";
+"APP_NAME" = "RXTikTok";
+"DOWNLOAD_PHOTOS" = "Скачать фото";
+
+// MARK: - Story
+"PROFILE_INFO" = "Информация о профиле";
+"PROFILE_INFO_UNAVAILABLE" = "Информация о профиле сейчас недоступна (требуется сервер).";
+"DOWNLOAD_STORY" = "Скачать историю";
+"MARK_SEEN_SERVER_REQUIRED" = "Отметка просмотра требует сервера";
+"MARK_SEEN_FAILED" = "Не удалось отметить просмотр";
+"MARKED_AS_SEEN" = "Отмечено как просмотренное";
+
+// MARK: - Chat - voice swap
+"FILES" = "Файлы";
+"VIDEOS" = "Видео";
+"SEND_VOICE_MESSAGE" = "Отправить голосовое сообщение";
+"SELECT_VOICE_SOURCE" = "Выберите аудио- или видеоисточник";
+"CHOOSE_FROM_FILES" = "Выбрать из файлов";
+"CHOOSE_FROM_VIDEOS" = "Выбрать из видео";
+"VOICE_AUDIO_READY" = "Аудио готово — отправка нативно...";
+"VOICE_CONVERSATION_NOT_FOUND" = "Ошибка: объект беседы не найден";
+"VOICE_SENT" = "Голосовое сообщение отправлено!";
+"VOICE_SEND_FAILED" = "Не удалось отправить нативно";
+"VOICE_EXTRACTION_FAILED" = "Не удалось извлечь аудио";
+"VOICE_PROCESSING" = "Обработка аудио...";
+"NO_FILE_SELECTED" = "Файл не выбран";
+
+// MARK: - Chat - DM media save
+"DM_DOWNLOADING_PERCENT" = "Загрузка %.0f%%";
+"DM_SAVE_FAILED_COPY" = "Ошибка сохранения (ошибка копирования)";
+"SAVING_TO_PHOTOS" = "Сохранение в Фото...";
+"SAVED_TO_PHOTOS" = "Сохранено в Фото!";
+"DM_SAVE_FAILED_PHOTOS" = "Ошибка сохранения (ошибка Фото)";
+"SAVE_FAILED_PHOTO_ACCESS_DENIED" = "Ошибка сохранения: доступ к Фото запрещён";
+"DM_DOWNLOAD_FAILED_NO_TOKEN" = "Ошибка загрузки: нет URL/токена";
+"STARTING_DOWNLOAD" = "Начало загрузки...";
+"DM_SAVE_FAILED_MOVE" = "Ошибка сохранения (ошибка перемещения)";
+"DM_SAVING" = "Сохранение...";
+"DM_SAVE_FAILED_NO_IMAGE" = "Ошибка сохранения: нет изображения";
+"SAVE_FAILED" = "Ошибка сохранения.";
 
 // MARK: - Chat - streaks
 "STREAK_DURATION_FORMAT" = "%ld д %ld ч %ld мин %ld с";
 "STREAK_TIME_REMAINING_BODY" = "Оставшееся время:\n\nИстекает через: %@\nМожно восстановить в течение: %@";
+
+// MARK: - Profile
+"BLOCKED_PROFILE_VIEW_REPORT" = "Отчёт о просмотре профиля заблокирован";
+"ACCOUNT_REGION" = "Регион аккаунта";
+"PROFILE_PICTURE" = "Фото профиля";
+"RESOLVING_PROFILE_PICTURE" = "Определение фото профиля…";
+"PROFILE_NO_USERNAME" = "У этого профиля нет имени пользователя для поиска.";
+"PROFILE_PICTURE_SERVER_REQUIRED" = "Не удалось загрузить фото профиля. Для поиска требуется сервер RXTikTok.";
+"PROFILE_COPY_BIO_PROMPT" = "Скопировать этот текст в буфер обмена?";
+
+// MARK: - Utilities - security, viewers, story downloader
+"SAVE_IMAGE_FAILED" = "Не удалось сохранить изображение";
+"AUTH_REQUIRED" = "Требуется аутентификация";
+"UNLOCK_USING_FORMAT" = "Разблокировать с помощью %@";
+"AUTHENTICATE" = "Аутентифицироваться";
+"PASSCODE" = "Код-пароль";
+"AUTHENTICATE_WITH_FORMAT" = "Аутентификация с помощью %@";
+"USE_PASSCODE" = "Использовать код-пароль";
+"ENTER_PASSCODE" = "Введите код-пароль";
+"PASSCODE_AUTH_FAILED" = "Ошибка аутентификации по коду-паролю";
+"AUTHENTICATION" = "Аутентификация";
+"DOWNLOADING_ITEM" = "Загрузка элемента...";
+"INVALID_VIDEO_URL" = "Получен неверный URL видео.";
+"UNKNOWN" = "Неизвестно";
+"STORY_USER_INFO_SERVER_REQUIRED" = "Информация о пользователе требует активного подключения к серверу";
+"STORY_DOWNLOAD_SERVER_REQUIRED" = "Загрузка истории требует активного подключения к серверу";
+"STORY_NO_USERNAME" = "Ошибка: имя пользователя не указано.";
+"STORY_FETCHING_FORMAT" = "Получение историй для %@...";
+"ERROR_FORMAT" = "Ошибка: %@";
+"STORY_NONE_FOUND" = "Истории не найдены.";
+"STORY_FOUND_FORMAT" = "Найдено %lu историй для %@.";
+"VIEW_STORIES" = "Просмотреть истории";
+"DOWNLOAD_ALL" = "Скачать все";
+"STORY_DOWNLOADING_PROGRESS_FORMAT" = "Загрузка %lu из %lu...";
+"STORY_FINISHED_FORMAT" = "Готово! Сохранено %lu историй.";
+
+// MARK: - Download
+"SAVE_NO_WATERMARK_LABEL" = "Сохранять посты без водяного знака (RX)";
+
+// MARK: - Settings
+"BACKUP_INFO_FORMAT" = "Версия: %@\nСохранено: %@";
+"KEYCHAIN_BACKUP_INFO_FORMAT" = "%@\n\nИнформация о резервной копии в keychain:\n%@";
+"VERSION_LABEL_FORMAT" = "%@  RX: v%@ \n Устройство: %@ iOS: %@\n Bundle: %@";
+"FILTER_LOC_FYP" = "FYP";
+"FILTER_LOC_PROFILES" = "Профили";
+"FILTER_LOC_CHAT" = "Чат";
+"ENABLE_PROFILE_BACKGROUND" = "Включить фон профиля";
+"FEATURE_ENABLE_PROFILE_BACKGROUND" = "Принудительно включает функцию фона профиля";
