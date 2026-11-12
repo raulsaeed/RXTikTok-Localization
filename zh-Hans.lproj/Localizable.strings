@@ -56,6 +56,11 @@
 "Download Photos Menu" = "图片下载菜单";
 "Downloading" = "正在下载";
 "Download Button" = "下载按钮";
+"Download Format" = "下载格式";
+"This album contains Live Photos. How would you like to download them?" = "此相册包含实况照片。你想如何下载？";
+"Live Photo" = "实况照片";
+"MP4" = "MP4";
+"PLAY_IN_NATIVE_PLAYER" = "用系统播放器播放";
 
 // MARK: - Copy Features
 "Copy Menu" = "复制菜单";
@@ -194,6 +199,24 @@
 "FEATURE_DOWNLOAD_BUTTON" = "为帖子和快拍添加下载按钮";
 "FEATURE_SHARE_SHEET" = "媒体下载完成后打开分享菜单";
 "FEATURE_REMOVE_WATERMARK" = "从下载的媒体中移除水印（动画TikTok标志和用户名）";
+"Share Panel Options" = "分享面板选项";
+"Share Panel Items" = "分享面板项目";
+"FEATURE_SHARE_PANEL_ITEMS" = "在分享面板中显示 RX 下载选项";
+"FEATURE_SHOW_DL_VIDEO" = "显示下载视频选项";
+"FEATURE_SHOW_DL_HD_VIDEO" = "显示下载高清视频选项";
+"FEATURE_SHOW_DL_MUSIC" = "显示下载音乐选项";
+"FEATURE_SHOW_DL_PHOTOS" = "显示下载图片选项";
+"FEATURE_SHOW_COPY_MUSIC" = "显示复制音乐链接选项";
+"FEATURE_SHOW_COPY_VIDEO" = "显示复制视频链接选项";
+"FEATURE_SHOW_COPY_DESC" = "显示复制描述选项";
+"Post Information" = "帖子信息";
+"FEATURE_SHOW_POST_INFO" = "显示帖子信息选项";
+"FEATURE_SHOW_NATIVE_PLAYER" = "显示用系统播放器播放选项";
+"Hide Elements" = "隐藏元素";
+"Show Elements" = "显示元素";
+"FEATURE_SHOW_HIDE_ELEMENTS" = "显示隐藏/显示元素开关";
+"Active Items" = "已启用项目";
+"Available Items" = "可用项目";
 "FEATURE_UI_BUTTON" = "显示“隐藏界面”按钮";
 "FEATURE_STOP_PLAYBACK" = "在帖子结束时停止播放";
 "FEATURE_AUTO_PLAY" = "启用自动视频滚动";
@@ -365,7 +388,7 @@
 "Select App Language" = "选择应用语言";
 
 
-// 1.3
+// 1.3 
 "Erase All TikTok Data" = "清除所有TikTok数据";
 "Erase all TikTok data from the app  [Becareful!!!]" = "从应用中清除所有TikTok数据[请小心！！！]";
 "Clear Keychain" = "清除钥匙串";
@@ -404,8 +427,10 @@
 "FEATURE_STOP_STORY_PHOTO_ADVANCE" = "阻止快拍照片自动前进";
 "BACKGROUND_PLAY" = "启用后台播放";
 "FEATURE_BACKGROUND_PLAY" = "启用音频后台播放";
+"AUTO_PIP" = "自动画中画";
+"FEATURE_AUTO_PIP" = "离开应用时自动进入画中画";
 
-// MARK: - New Section Headers
+// MARK: - New Section Headers (Added from Settings reorganization)
 "Content & Display" = "内容与显示";
 "Playback Controls" = "播放控制";
 "Content Filtering" = "内容过滤";
@@ -512,11 +537,11 @@
 "STICKER_SAVE_FAILED" = "贴纸保存失败";
 "DOWNLOAD_FAILED" = "下载失败";
 "DOWNLOADING_STICKER" = "正在下载贴纸...";
-
+ 
 "FILTERING_OPTIONS" = "过滤选项";
 "BLOCK_MOVIE_TOK" = "屏蔽电影广告";
 "FEATURE_BLOCK_MOVIE_TOK" = "屏蔽带有电影广告的视频";
-
+ 
 "BLOCK_AI_GENERATED" = "屏蔽AI生成的帖子";
 "FEATURE_BLOCK_AI_GENERATED" = "屏蔽带有“包含AI生成媒体”的帖子";
 "FEATURE_CONFIRM_QUICK_SHARE" = "在使用快速分享前请求确认";
@@ -527,19 +552,315 @@
 "BLOCK_SHOP_VIDEOS" = "屏蔽商店帖子";
 "FEATURE_BLOCK_SHOP_VIDEOS" = "从信息流中移除商店帖子。";
 "BLOCK_TCM" = "屏蔽应用广告";
-"BLOCK_POI" = "屏蔽位置广告";
 "FEATURE_BLOCK_SHOP_ADS" = "屏蔽带有商店广告的视频";
 "FEATURE_BLOCK_TCM" = "屏蔽带有应用广告的视频";
+"BLOCK_POI" = "屏蔽位置广告";
 "FEATURE_BLOCK_POI" = "屏蔽带有位置广告的视频";
 "FEATURE_REMOVE_DRAFT_WATERMARK" = "保存帖子或草稿时移除水印";
 "REMOVE_DRAFT_WATERMARK" = "移除照片水印";
 "FEATURE_HIDE_REPORT_BUTTON" = "在私信导航栏中隐藏举报按钮。";
 "HIDE_REPORT_BUTTON" = "隐藏举报按钮";
+"FEATURE_HIDE_CALL_BUTTON" = "隐藏私信导航栏中的通话按钮。";
+"HIDE_CALL_BUTTON" = "隐藏通话按钮";
 "FEATURE_DISABLE_TYPING_STICKER" = "禁用打字时的自动GIF推荐";
 "DISABLE_TYPING_STICKER" = "禁用打字贴纸";
 "RUSSIAN_FIX" = "绕过俄罗斯禁令";
 "FEATURE_RUSSIAN_FIX" = "启用此选项以使俄罗斯信息流再次工作[新！]";
+"HIDE_RX_UI" = "隐藏 RX 界面";
+"FEATURE_HIDE_RX_UI" = "在截图中隐藏 RX 界面";
+
+
+"ANON_STORY_DOWNLOAD" = "匿名下载快拍";
+"FEATURE_ANON_STORY_DOWNLOAD" = "通过用户主页上的新下载按钮匿名下载或查看快拍。";
+"ENABLE_VOICE_SWAP" = "自定义语音消息上传";
+"FEATURE_ENABLE_VOICE_SWAP" = "在聊天中启用将视频上传为语音消息的按钮";
+"ENABLE_SOUND_BLOCKING" = "屏蔽声音";
+"FEATURE_ENABLE_SOUND_BLOCKING" = "在 TikTok 声音区域使用按钮屏蔽声音。注意：这会使带有该声音的帖子不可用。也可在下方移除已屏蔽的声音。";
+"DISABLE_FILTERING_FRIEND_POSTS" = "禁用私信过滤";
+"FEATURE_DISABLE_FILTERING_FRIEND_POSTS" = "禁用私信中分享帖子的过滤。注意：禁用后，发给你的视频可能显示“帖子不可用”。";
+"KEEP_DELETED_MESSAGES" = "保留已删除消息";
+"FEATURE_KEEP_DELETED_MESSAGES" = "阻止应用从聊天中移除已删除消息。注意：此功能仅在应用前台时有效；重启或刷新应用有时会从应用数据目录移除媒体文件（mp3 等），导致部分媒体不可用或无法播放。";
+"SHOW_DELETED_BADGE" = "显示已删除标记";
+"FEATURE_SHOW_DELETED_BADGE" = "在已撤回消息和媒体旁显示垃圾桶图标。";
+"FULL_LAST_SEEN" = "完整上次在线时间";
+"FEATURE_FULL_LAST_SEEN" = "显示上次活跃状态的精确日期和时间";
+"Yesterday" = "昨天";
+"%ld days ago" = "%ld 天前";
+"Deleted message" = "已删除的消息";
+"%@ deleted a message" = "%@ 删除了一条消息";
+"You" = "你";
+
+// 1.7
+
+"A/B Overrides" = "A/B 覆盖";
+"A/B Overrides Options" = "A/B 覆盖选项";
+"Add" = "添加";
+"Add Custom Override" = "添加自定义覆盖";
+"Add Force Override" = "添加强制覆盖";
+"Add Item to Array" = "向数组添加项目";
+"Add Number Item" = "添加数字项目";
+"Add String Item" = "添加字符串项目";
+"All Configs" = "全部配置";
+"Array Override" = "数组覆盖";
+"Arrays" = "数组";
+"Boolean (false)" = "布尔值（false）";
+"Boolean (true)" = "布尔值（true）";
+"Booleans (true/false)" = "布尔值（true/false）";
+"Choose override mode:" = "选择覆盖模式：";
+"Clear All" = "全部清除";
+"Clear All Forced Overrides" = "清除全部强制覆盖";
+"Clear All Overrides?" = "清除全部覆盖？";
+"Connecting to TikTok AB Runtime..." = "正在连接 TikTok AB 运行时...";
+"Copy Key" = "复制键";
+"Copy Key Name" = "复制键名";
+"Copy Value" = "复制值";
+"Could not format because the text is not valid JSON." = "无法格式化，因为文本不是有效的 JSON。";
+"Delete Item" = "删除项目";
+"Dictionaries" = "字典";
+"Edit as JSON" = "以 JSON 编辑";
+"Edit Forced Value" = "编辑强制值";
+"Edit Text" = "编辑文本";
+"Enter an A/B key and value.\n(true/false -> bool, numbers -> int/double, otherwise string)" = "输入 A/B 键和值。\n（true/false -> 布尔值，数字 -> int/double，否则为字符串）";
+"Enter the key name to create an Array override for:" = "输入要创建数组覆盖的键名：";
+"Enter the key name to create with the Text Editor:" = "输入要用文本编辑器创建的键名：";
+"Extracting live configurations..." = "正在提取实时配置...";
+"Filter" = "筛选";
+"Filter (ON)" = "筛选（开）";
+"Filter Configurations" = "筛选配置";
+"Force Set" = "强制设置";
+"Force Set Value" = "强制设置值";
+"Forced Overrides Only" = "仅强制覆盖";
+"Format JSON" = "格式化 JSON";
+"Indexing configuration keys..." = "正在索引配置键...";
+"Invalid JSON" = "无效 JSON";
+"JSON" = "JSON";
+"JSON Object / Sub-Array" = "JSON 对象 / 子数组";
+"Live Refresh from Runtime" = "从运行时实时刷新";
+"Loading A/B Configurations" = "正在加载 A/B 配置";
+"Master Switch: Turn OFF" = "总开关：关闭";
+"Master Switch: Turn ON" = "总开关：开启";
+"New A/B Override Key" = "新建 A/B 覆盖键";
+"New Array Override Key" = "新建数组覆盖键";
+"No entries dumped for getAllConfig.\nRun TikTok to allow dump passes." = "尚未转储 getAllConfig 条目。\n请运行 TikTok 以允许转储。";
+"No matching A/B keys found." = "未找到匹配的 A/B 键。";
+"Not an Array" = "不是数组";
+"Number" = "数字";
+"Numbers (int/double)" = "数字（int/double）";
+"Open Array Editor" = "打开数组编辑器";
+"Open Text Editor" = "打开文本编辑器";
+"Paste" = "粘贴";
+"Quick Key-Value Input" = "快捷键值输入";
+"Reset to Default" = "重置为默认";
+"Search (e.g. profile*ui)..." = "搜索（例如 profile*ui）...";
+"Select item type:" = "选择项目类型：";
+"String" = "字符串";
+"Strings" = "字符串";
+"Text / JSON Editor" = "文本 / JSON 编辑器";
+"The JSON must be a top-level array '[ ... ]'." = "JSON 必须是顶层数组 '[ ... ]'。";
+"This will remove all forced A/B entries and revert to TikTok defaults." = "这将移除所有强制 A/B 条目并恢复为 TikTok 默认值。";
+"All Photos" = "全部图片";
+"BULK DOWNLOAD" = "批量下载";
+"Collapse this section's actions behind a single entry" = "将此部分的操作折叠为单个入口";
+"Configure Download Menu" = "配置下载菜单";
+"Configure Share Panel" = "配置分享面板";
+"Configure: Download Menu" = "配置：下载菜单";
+"Configure: Share Panel" = "配置：分享面板";
+"COPY" = "复制";
+"Current Photo" = "当前图片";
+"Default Tap Action" = "默认点击操作";
+"DOWNLOAD" = "下载";
+"Download" = "下载";
+"Download Current Photo" = "下载当前图片";
+"Download Live Photo" = "下载实况照片";
+"Download Options" = "下载选项";
+"Download Sticker" = "下载贴纸";
+"Downloading..." = "正在下载...";
+"GENERAL DOWNLOAD" = "常规下载";
+"General Download" = "常规下载";
+"Open Menu (Default)" = "打开菜单（默认）";
+"OTHER OPTIONS" = "其他选项";
+"Photo" = "图片";
+"Show as submenu" = "显示为子菜单";
+"Video" = "视频";
+"For Photos" = "用于图片";
+"For Videos" = "用于视频";
+"Select an action to auto-run on tap. When Download is selected, customize specific automated actions for video and photo posts. Holding the button will always open the full menu." = "选择点击时自动执行的操作。选择“下载”时，可为视频和图片帖子自定义具体自动操作。长按按钮始终会打开完整菜单。";
+"Copied" = "已复制";
+"Could Not Copy Music." = "无法复制音乐。";
+"Download Failed" = "下载失败";
+"The video doesn't have music to download" = "此视频没有可下载的音乐";
+"Photo library access denied" = "相册访问被拒绝";
+"Photo library access denied. Enable Photos access in Settings to save downloads." = "相册访问被拒绝。请在设置中启用照片访问权限以保存下载内容。";
+"Save failed (io error)." = "保存失败（I/O 错误）。";
+"BLOCK_STORY_VIEW_REPORT" = "阻止快拍浏览上报";
+"FEATURE_BLOCK_STORY_VIEW_REPORT" = "阻止将快拍浏览记录上报给上传者";
+"LOCAL_STORY_SEEN" = "仅本地标记快拍已看";
+"FEATURE_LOCAL_STORY_SEEN" = "仅在本设备上将快拍标记为已看";
+"PROFILE_INFO_BUTTON" = "个人资料信息按钮";
+"FEATURE_PROFILE_INFO_BUTTON" = "在用户主页添加信息按钮，用于查看资料信息并保存快拍";
+"REMOVE_STAR_BUTTON" = "移除星标按钮";
+"FEATURE_REMOVE_STAR_BUTTON" = "移除聊天中的“添加到收藏”星标按钮";
+"Call Confirmation" = "通话确认";
+"FEATURE_CONFIRM_CALL" = "在聊天中发起通话前请求确认";
+"FEATURE_CONFIGURE_DOWNLOAD_MENU" = "自定义下载菜单中显示的选项";
+"FEATURE_CONFIGURE_SHARE_PANEL" = "自定义分享面板中显示的选项";
+"Download Comment Photo" = "下载评论图片";
+"Download Comment Sticker" = "下载评论贴纸";
+"DOWNLOAD_COMMENT_PHOTO" = "为评论中的图片添加下载按钮";
+"DOWNLOAD_COMMENT_STICKER" = "为评论中的贴纸添加下载按钮";
+"Blocked Sounds" = "已屏蔽的声音";
+"Direct Messages / Chat" = "私信 / 聊天";
+"FEATURE_FILTER_LOCATIONS" = "将内容过滤应用到应用的其他部分";
+"Filter Locations" = "过滤位置";
+"Following Tab" = "关注标签";
+"For You Page (FYP)" = "为你推荐页（FYP）";
+"FYP filtering is mandatory and always active. Additional locations can be enabled below." = "FYP 过滤是强制且始终开启的。可在下方启用其他位置。";
+"Select Feeds to Filter" = "选择要过滤的信息流";
+"User Profiles" = "用户主页";
+"Be careful!" = "请小心！";
+"Data Size" = "数据大小";
+"Feature Settings" = "功能设置";
+"Inspect & force set A/B experiment flags" = "检查并强制设置 A/B 实验标志";
+"Music Blocked" = "音乐已屏蔽";
+"Music Unblocked" = "音乐已取消屏蔽";
+"Downloading Photo..." = "正在下载图片...";
+"Language has been applied immediately!\n Please restart the app for changes to fully take effect." = "语言已立即应用！\n请重启应用以使更改完全生效。";
+"Discord" = "Discord";
+"GitHub" = "GitHub";
+"Reddit" = "Reddit";
+"Telegram" = "Telegram";
+"Twitter" = "Twitter";
+"Website" = "网站";
+
+"Save stories" = "保存快拍";
+"Kept as you see them, so they stay even after they expire or are deleted." = "按你看到的样子保留，即使过期或被删除也会留存。";
+"Saved Stories" = "已保存的快拍";
+"View, export and delete stories kept on this device." = "查看、导出和删除保存在本设备上的快拍。";
+"Stories" = "快拍";
+"Select" = "选择";
+"Search accounts" = "搜索账号";
+"No stories yet.\nOpen a story and it will appear here." = "暂无快拍。\n打开一个快拍后会显示在这里。";
+"Nothing matches this filter." = "没有匹配此筛选条件的内容。";
+"Group by account" = "按账号分组";
+"All kinds" = "全部类型";
+"Videos only" = "仅视频";
+"Photos only" = "仅图片";
+"Show" = "显示";
+"Storage" = "存储";
+"Delete all" = "全部删除";
+"Delete all stories" = "删除全部快拍";
+"Delete every story?" = "删除所有快拍？";
+"Delete these stories?" = "删除这些快拍？";
+"Save to album" = "保存到相册";
+"Delete" = "删除";
+"Save" = "保存";
+"Select all" = "全选";
+"Keep stories forever" = "永久保留快拍";
+"Keep stories for" = "保留快拍时长";
+"This clip has not finished downloading yet." = "此片段尚未下载完成。";
+"Deleted" = "已删除";
+"Saving" = "正在保存";
+"Saved" = "已保存";
+"Couldn't save" = "无法保存";
+"Photo library access denied" = "相册访问被拒绝";
+"OK" = "确定";
+
+// MARK: - Missing keys used in code
+"SAVE_TO_PHOTOS" = "保存到照片";
+"SERVER_CONNECTION_REQUIRED" = "需要服务器连接";
+"REGION_SERVER_REQUIRED_BODY" = "地区伪装需要与辅助服务器保持连接。";
+"ACTIVATING_REGION" = "正在激活 %@...";
+"REGION_UNAVAILABLE" = "地区不可用";
+"REGION_PROFILE_FETCH_FAILED" = "无法从服务器获取 %@（%@）的授权资料，未应用选择。";
+"VIDEO_INFO_UNAVAILABLE" = "视频信息当前不可用（需要服务器）。";
+"APP_NAME" = "RXTikTok";
+"DOWNLOAD_PHOTOS" = "下载图片";
+
+// MARK: - Story
+"PROFILE_INFO" = "个人资料信息";
+"PROFILE_INFO_UNAVAILABLE" = "个人资料信息当前不可用（需要服务器）。";
+"DOWNLOAD_STORY" = "下载快拍";
+"MARK_SEEN_SERVER_REQUIRED" = "标记已看需要服务器";
+"MARK_SEEN_FAILED" = "标记已看失败";
+"MARKED_AS_SEEN" = "已标记为已看";
+
+// MARK: - Chat - voice swap
+"FILES" = "文件";
+"VIDEOS" = "视频";
+"SEND_VOICE_MESSAGE" = "发送语音消息";
+"SELECT_VOICE_SOURCE" = "选择音频或视频来源";
+"CHOOSE_FROM_FILES" = "从文件选择";
+"CHOOSE_FROM_VIDEOS" = "从视频选择";
+"VOICE_AUDIO_READY" = "音频已就绪 - 正在原生发送...";
+"VOICE_CONVERSATION_NOT_FOUND" = "错误：未找到会话对象";
+"VOICE_SENT" = "语音消息已发送！";
+"VOICE_SEND_FAILED" = "原生发送失败";
+"VOICE_EXTRACTION_FAILED" = "音频提取失败";
+"VOICE_PROCESSING" = "正在处理音频...";
+"NO_FILE_SELECTED" = "未选择文件";
+
+// MARK: - Chat - DM media save
+"DM_DOWNLOADING_PERCENT" = "正在下载 %.0f%%";
+"DM_SAVE_FAILED_COPY" = "保存失败（复制错误）";
+"SAVING_TO_PHOTOS" = "正在保存到照片...";
+"SAVED_TO_PHOTOS" = "已保存到照片！";
+"DM_SAVE_FAILED_PHOTOS" = "保存失败（照片错误）";
+"SAVE_FAILED_PHOTO_ACCESS_DENIED" = "保存失败：照片访问被拒绝";
+"DM_DOWNLOAD_FAILED_NO_TOKEN" = "下载失败：无 URL/令牌";
+"STARTING_DOWNLOAD" = "开始下载...";
+"DM_SAVE_FAILED_MOVE" = "保存失败（移动错误）";
+"DM_SAVING" = "正在保存...";
+"DM_SAVE_FAILED_NO_IMAGE" = "保存失败：无图片";
+"SAVE_FAILED" = "保存失败。";
 
 // MARK: - Chat - streaks
 "STREAK_DURATION_FORMAT" = "%ld天 %ld小时 %ld分 %ld秒";
 "STREAK_TIME_REMAINING_BODY" = "剩余时间：\n\n距离到期：%@\n剩余可恢复时间：%@";
+
+// MARK: - Profile
+"BLOCKED_PROFILE_VIEW_REPORT" = "已阻止个人资料浏览上报";
+"ACCOUNT_REGION" = "账号地区";
+"PROFILE_PICTURE" = "头像";
+"RESOLVING_PROFILE_PICTURE" = "正在解析头像…";
+"PROFILE_NO_USERNAME" = "此资料没有可用于查询的用户名。";
+"PROFILE_PICTURE_SERVER_REQUIRED" = "无法加载此头像。查询需要 RXTikTok 服务器。";
+"PROFILE_COPY_BIO_PROMPT" = "是否将此文本复制到剪贴板";
+
+// MARK: - Utilities - security, viewers, story downloader
+"SAVE_IMAGE_FAILED" = "保存图片失败";
+"AUTH_REQUIRED" = "需要身份验证";
+"UNLOCK_USING_FORMAT" = "使用 %@ 解锁";
+"AUTHENTICATE" = "验证";
+"PASSCODE" = "密码";
+"AUTHENTICATE_WITH_FORMAT" = "使用 %@ 验证";
+"USE_PASSCODE" = "使用密码";
+"ENTER_PASSCODE" = "输入你的密码";
+"PASSCODE_AUTH_FAILED" = "密码验证失败";
+"AUTHENTICATION" = "身份验证";
+"DOWNLOADING_ITEM" = "正在下载项目...";
+"INVALID_VIDEO_URL" = "收到无效的视频 URL。";
+"UNKNOWN" = "未知";
+"STORY_USER_INFO_SERVER_REQUIRED" = "用户信息需要有效的服务器连接";
+"STORY_DOWNLOAD_SERVER_REQUIRED" = "快拍下载需要有效的服务器连接";
+"STORY_NO_USERNAME" = "错误：未提供用户名。";
+"STORY_FETCHING_FORMAT" = "正在获取 %@ 的快拍...";
+"ERROR_FORMAT" = "错误：%@";
+"STORY_NONE_FOUND" = "未找到快拍。";
+"STORY_FOUND_FORMAT" = "找到 %lu 个关于 %@ 的快拍。";
+"VIEW_STORIES" = "查看快拍";
+"DOWNLOAD_ALL" = "全部下载";
+"STORY_DOWNLOADING_PROGRESS_FORMAT" = "正在下载第 %lu / %lu 个...";
+"STORY_FINISHED_FORMAT" = "完成！已保存 %lu 个快拍。";
+
+// MARK: - Download
+"SAVE_NO_WATERMARK_LABEL" = "无水印保存帖子（RX）";
+
+// MARK: - Settings
+"BACKUP_INFO_FORMAT" = "版本：%@\n保存时间：%@";
+"KEYCHAIN_BACKUP_INFO_FORMAT" = "%@\n\n钥匙串备份信息：\n%@";
+"VERSION_LABEL_FORMAT" = "%@  RX: v%@ \n 设备：%@ iOS：%@\n Bundle：%@";
+"FILTER_LOC_FYP" = "FYP";
+"FILTER_LOC_PROFILES" = "主页";
+"FILTER_LOC_CHAT" = "聊天";
+"ENABLE_PROFILE_BACKGROUND" = "启用个人资料背景";
+"FEATURE_ENABLE_PROFILE_BACKGROUND" = "强制启用个人资料背景功能";
